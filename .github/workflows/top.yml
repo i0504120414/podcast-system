@@ -1,18 +1,19 @@
 name: Update Top Podcasts
 
 on:
+  # Run automatically every day at 6 AM UTC
   schedule:
-    - cron: '0 6 * * *'  # Every day at 6 AM UTC
+    - cron: '0 6 * * *'
   
+  # Also run on every push to main (first time setup)
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/**'
+      - '.github/workflows/top.yml'
+  
+  # Manual trigger (optional)
   workflow_dispatch:
-    inputs:
-      country:
-        description: 'Country code'
-        required: false
-        default: 'IL'
-  
-  repository_dispatch:
-    types: [update-top]
 
 permissions:
   contents: write
@@ -33,17 +34,20 @@ jobs:
           node-version: '20'
       
       - name: Create directories
-        run: mkdir -p data/lookups data/feeds
+        run: mkdir -p data/lookups data/feeds data/search
       
-      - name: Fetch top podcasts and lookups
-        run: node scripts/fetch-top.js
-        env:
-          COUNTRY: ${{ github.event.inputs.country || github.event.client_payload.country || 'IL' }}
+      - name: Fetch top podcasts for all countries
+        run: |
+          for country in IL US GB; do
+            echo "=== Fetching $country ==="
+            COUNTRY=$country node scripts/fetch-top.js || true
+            sleep 2
+          done
       
       - name: Commit and push
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add data/
-          git diff --staged --quiet || git commit -m "Update top podcasts - $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
+          git diff --staged --quiet || git commit -m "Auto-update: $(date -u +'%Y-%m-%d %H:%M')"
           git push
