@@ -1,0 +1,49 @@
+name: Update Top Podcasts
+
+on:
+  schedule:
+    - cron: '0 6 * * *'  # Every day at 6 AM UTC
+  
+  workflow_dispatch:
+    inputs:
+      country:
+        description: 'Country code'
+        required: false
+        default: 'IL'
+  
+  repository_dispatch:
+    types: [update-top]
+
+permissions:
+  contents: write
+
+jobs:
+  update-top:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      
+      - name: Create directories
+        run: mkdir -p data/lookups data/feeds
+      
+      - name: Fetch top podcasts and lookups
+        run: node scripts/fetch-top.js
+        env:
+          COUNTRY: ${{ github.event.inputs.country || github.event.client_payload.country || 'IL' }}
+      
+      - name: Commit and push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add data/
+          git diff --staged --quiet || git commit -m "Update top podcasts - $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
+          git push

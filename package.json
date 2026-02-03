@@ -1,0 +1,13 @@
+{
+  "name": "podcast-system",
+  "version": "1.0.0",
+  "description": "Podcast proxy system using GitHub Actions + Pages",
+  "private": true,
+  "scripts": {
+    "fetch-top": "node scripts/fetch-top.js",
+    "search": "node scripts/search.js",
+    "download": "node scripts/download.js",
+    "subscribe": "node scripts/subscribe.js",
+    "update-feeds": "node scripts/update-feeds.js"
+  }
+}

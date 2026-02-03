@@ -1,0 +1,48 @@
+name: Subscribe to Podcast
+
+on:
+  repository_dispatch:
+    types: [subscribe, unsubscribe]
+
+permissions:
+  contents: write
+
+jobs:
+  subscribe:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      
+      - name: Install dependencies
+        run: npm install node-fetch@2 xml2js
+      
+      - name: Create directories
+        run: mkdir -p data/subscriptions data/feeds data/episodes
+      
+      - name: Process subscription
+        run: node scripts/subscribe.js
+        env:
+          ACTION: ${{ github.event.action }}
+          FEED_URL: ${{ github.event.client_payload.feed_url }}
+          PODCAST_ID: ${{ github.event.client_payload.podcast_id }}
+          PODCAST_TITLE: ${{ github.event.client_payload.podcast_title }}
+          REQUEST_ID: ${{ github.event.client_payload.request_id }}
+          IA_ACCESS_KEY: ${{ secrets.IA_ACCESS_KEY }}
+          IA_SECRET_KEY: ${{ secrets.IA_SECRET_KEY }}
+      
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add data/
+          git diff --staged --quiet || git commit -m "${{ github.event.action }}: ${{ github.event.client_payload.podcast_title }}"
+          git push

@@ -1,0 +1,41 @@
+name: Search Podcasts
+
+on:
+  repository_dispatch:
+    types: [search]
+
+permissions:
+  contents: write
+
+jobs:
+  search:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      
+      - name: Create directories
+        run: mkdir -p data/search
+      
+      - name: Search podcasts
+        run: node scripts/search.js
+        env:
+          QUERY: ${{ github.event.client_payload.query }}
+          REQUEST_ID: ${{ github.event.client_payload.request_id }}
+          LIMIT: ${{ github.event.client_payload.limit || '25' }}
+      
+      - name: Commit and push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add data/
+          git diff --staged --quiet || git commit -m "Search: ${{ github.event.client_payload.query }}"
+          git push

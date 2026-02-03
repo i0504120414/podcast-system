@@ -1,0 +1,24 @@
+{
+  "status": "ready",
+  "version": "1.0.0",
+  "updated": "2026-02-03T00:00:00Z",
+  "endpoints": {
+    "top": "/data/top_{country}.json",
+    "lookups": "/data/lookups_{country}.json",
+    "lookup": "/data/lookups/{itunesId}.json",
+    "allLookups": "/data/all_lookups.json",
+    "subscriptions": "/data/subscriptions.json",
+    "feeds": "/data/feeds/{podcastId}.json",
+    "episodes": "/data/episodes/{podcastId}/list.json",
+    "search": "/data/search/{queryHash}.json",
+    "request": "/data/requests/{requestId}.json",
+    "downloads": "/data/downloads/{episodeId}.json"
+  },
+  "actions": {
+    "updateTop": "repository_dispatch: update-top",
+    "search": "repository_dispatch: search",
+    "subscribe": "repository_dispatch: subscribe",
+    "unsubscribe": "repository_dispatch: unsubscribe",
+    "download": "repository_dispatch: download"
+  }
+}

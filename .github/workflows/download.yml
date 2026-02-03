@@ -1,0 +1,48 @@
+name: Download Episode
+
+on:
+  repository_dispatch:
+    types: [download]
+
+permissions:
+  contents: write
+
+jobs:
+  download:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      
+      - name: Install dependencies
+        run: npm install node-fetch@2
+      
+      - name: Create directories
+        run: mkdir -p data/downloads temp
+      
+      - name: Download and upload episode
+        run: node scripts/download.js
+        env:
+          EPISODE_URL: ${{ github.event.client_payload.episode_url }}
+          EPISODE_ID: ${{ github.event.client_payload.episode_id }}
+          PODCAST_ID: ${{ github.event.client_payload.podcast_id }}
+          REQUEST_ID: ${{ github.event.client_payload.request_id }}
+          # Internet Archive credentials (set in repository secrets)
+          IA_ACCESS_KEY: ${{ secrets.IA_ACCESS_KEY }}
+          IA_SECRET_KEY: ${{ secrets.IA_SECRET_KEY }}
+      
+      - name: Commit download record
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add data/
+          git diff --staged --quiet || git commit -m "Downloaded: ${{ github.event.client_payload.episode_id }}"
+          git push
