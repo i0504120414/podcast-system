@@ -3,20 +3,12 @@
   "country": "US",
   "count": 25,
   "lookups": {
-    "121493804": {
-      "itunesId": "121493804",
-      "title": "Wait Wait... Don't Tell Me!",
-      "author": "NPR",
-      "feedUrl": "https://feeds.npr.org/344098539/podcast.xml",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e9/94/fe/e994fed6-50a1-6519-9b84-b0beaa205242/mza_2290751556169099993.jpg/600x600bb.jpg",
-      "genre": "Comedy"
-    },
-    "278981407": {
-      "itunesId": "278981407",
-      "title": "Stuff You Should Know",
-      "author": "iHeartPodcasts",
-      "feedUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/44710ecc-10bb-48d1-93c7-ae270180c33e/podcast.rss",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/aa/82/91/aa82912f-23ee-6f6a-583c-a4e993164d0e/mza_12111158076643383507.jpg/600x600bb.jpg",
+    "201671138": {
+      "itunesId": "201671138",
+      "title": "This American Life",
+      "author": "This American Life",
+      "feedUrl": "https://www.thisamericanlife.org/podcast/rss.xml",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/64/aa/3a/64aa3a66-a08a-947c-cf21-a5722a1b77ae/mza_11390421932467026234.png/600x600bb.jpg",
       "genre": "Society & Culture"
     },
     "360084272": {
@@ -35,14 +27,6 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c8/4f/8f/c84f8fa2-074d-6023-7f31-9c781b80dedc/mza_7616553513239265555.jpeg/600x600bb.jpg",
       "genre": "True Crime"
     },
-    "985396258": {
-      "itunesId": "985396258",
-      "title": "The Learning Leader Show With Ryan Hawk",
-      "author": "Ryan Hawk",
-      "feedUrl": "https://rss.libsyn.com/shows/65162/destinations/259291.xml",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fb/3c/0e/fb3c0e91-f0a8-44ef-403f-1ec20bece9e0/mza_454404552678702443.png/600x600bb.jpg",
-      "genre": "Management"
-    },
     "987967575": {
       "itunesId": "987967575",
       "title": "20/20",
@@ -58,6 +42,22 @@
       "feedUrl": "https://rss.libsyn.com/shows/67940/destinations/278377.xml",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/55/21/67/55216775-731a-1a0b-6c2a-81923902f058/mza_11706571282358600140.jpeg/600x600bb.jpg",
       "genre": "Entrepreneurship"
+    },
+    "1043699613": {
+      "itunesId": "1043699613",
+      "title": "The Bill Simmons Podcast",
+      "author": "The Ringer",
+      "feedUrl": "https://feeds.megaphone.fm/the-bill-simmons-podcast",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/9e/ff/879eff7b-0288-72c5-cc34-cd3de152ab9a/mza_5784691504127037609.jpg/600x600bb.jpg",
+      "genre": "Sports"
+    },
+    "1089022756": {
+      "itunesId": "1089022756",
+      "title": "Pardon My Take",
+      "author": "Barstool Sports",
+      "feedUrl": "https://mcsorleys.barstoolsports.com/feed/pardon-my-take",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/35/74/6a/35746a0c-7687-7dde-ff04-338d93e78303/mza_10377078556009223546.jpg/600x600bb.jpg",
+      "genre": "Football"
     },
     "1192761536": {
       "itunesId": "1192761536",
@@ -131,6 +131,14 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b1/93/5f/b1935f9f-35be-9144-e813-626bd8dabfb4/mza_4132654708551836825.jpg/600x600bb.jpg",
       "genre": "Comedy"
     },
+    "1532976305": {
+      "itunesId": "1532976305",
+      "title": "The Megyn Kelly Show",
+      "author": "SiriusXM",
+      "feedUrl": "https://feeds.simplecast.com/RV1USAfC",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3e/9f/c1/3e9fc13c-8030-b57e-f29e-0f14dc8db10d/mza_602213930944272333.jpg/600x600bb.jpg",
+      "genre": "News Commentary"
+    },
     "1537788786": {
       "itunesId": "1537788786",
       "title": "The Rest Is History",
@@ -160,16 +168,8 @@
       "title": "The Determined Society with Shawn French",
       "author": "Shawn French",
       "feedUrl": "https://feeds.simplecast.com/0usR2qmx",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/f6/87/5df6871e-d9da-6388-270b-ace506a6e97f/mza_2974293523268548672.jpg/600x600bb.jpg",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/be/dc/69/bedc6946-5cd6-2637-724a-912da9dafafb/mza_15530052631320977267.jpg/600x600bb.jpg",
       "genre": "Personal Journals"
-    },
-    "1615637724": {
-      "itunesId": "1615637724",
-      "title": "Betrayal Season 5",
-      "author": "iHeartPodcasts and Glass Podcasts",
-      "feedUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/7b1f0895-f595-4c38-afb6-ae6001531610/f1aae979-82f6-402c-8906-ae6001537b33/podcast.rss",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/94/dc/0d/94dc0d19-8c3a-c911-de21-f0d0a10b99a5/mza_340627736040498967.jpg/600x600bb.jpg",
-      "genre": "True Crime"
     },
     "1646101002": {
       "itunesId": "1646101002",
