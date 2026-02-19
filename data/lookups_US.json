@@ -3,14 +3,6 @@
   "country": "US",
   "count": 25,
   "lookups": {
-    "201671138": {
-      "itunesId": "201671138",
-      "title": "This American Life",
-      "author": "This American Life",
-      "feedUrl": "https://www.thisamericanlife.org/podcast/rss.xml",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/64/aa/3a/64aa3a66-a08a-947c-cf21-a5722a1b77ae/mza_11390421932467026234.png/600x600bb.jpg",
-      "genre": "Society & Culture"
-    },
     "360084272": {
       "itunesId": "360084272",
       "title": "The Joe Rogan Experience",
@@ -91,6 +83,14 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/8c/35/04/8c350430-2fbf-98d0-0a25-00b76550ffeb/mza_13445204151221888086.jpg/600x600bb.jpg",
       "genre": "True Crime"
     },
+    "1368888880": {
+      "itunesId": "1368888880",
+      "title": "Young and Profiting with Hala Taha (Entrepreneurship, Sales, Marketing)",
+      "author": "Hala Taha | Entrepreneurship, Sales, Marketing | YAP Media Network",
+      "feedUrl": "https://rss.introcast.io/1368888880/feeds.megaphone.fm/yap",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/80/c1/bd/80c1bd2c-eac4-bdb6-f8cb-ac980b4ad473/mza_16051863235006465622.jpeg/600x600bb.jpg",
+      "genre": "Entrepreneurship"
+    },
     "1379959217": {
       "itunesId": "1379959217",
       "title": "Morbid",
@@ -98,6 +98,14 @@
       "feedUrl": "https://feeds.simplecast.com/ohmVlJZQ",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a4/69/a6/a469a64c-580d-938a-53f1-893d968e1332/mza_11675757052043432554.jpg/600x600bb.jpg",
       "genre": "True Crime"
+    },
+    "1447684472": {
+      "itunesId": "1447684472",
+      "title": "The Bulwark Podcast",
+      "author": "The Bulwark",
+      "feedUrl": "https://audioboom.com/channels/5114286.rss",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/e3/07/89/e30789af-e7d0-bb29-8cf8-ae3b9cfe4316/mza_2484307396739987098.jpg/600x600bb.jpg",
+      "genre": "Politics"
     },
     "1464919521": {
       "itunesId": "1464919521",
@@ -114,14 +122,6 @@
       "feedUrl": "https://rss.pdrl.fm/ac69ac/feeds.megaphone.fm/WWO7410387571",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/d0/b3/2d/d0b32d7f-ab2d-5791-83b0-854f698a9184/mza_13561258173056659752.jpg/600x600bb.jpg",
       "genre": "Philosophy"
-    },
-    "1510240831": {
-      "itunesId": "1510240831",
-      "title": "The MeidasTouch Podcast",
-      "author": "MeidasTouch Network",
-      "feedUrl": "https://feeds.megaphone.fm/PDR2572281095",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/73/32/80/733280d2-330a-2f24-c600-bc1088f9f899/mza_17833502176263457882.jpeg/600x600bb.jpg",
-      "genre": "Politics"
     },
     "1521578868": {
       "itunesId": "1521578868",
@@ -155,13 +155,13 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
       "genre": "Christianity"
     },
-    "1548604447": {
-      "itunesId": "1548604447",
-      "title": "The Ezra Klein Show",
-      "author": "New York Times Opinion",
-      "feedUrl": "https://feeds.simplecast.com/kEKXbjuJ",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9d/ca/35/9dca35d8-e7d2-7e4f-63b5-c2ff4973a3f5/mza_16891544429738729361.jpg/600x600bb.jpg",
-      "genre": "Society & Culture"
+    "1559564016": {
+      "itunesId": "1559564016",
+      "title": "Money Rehab with Nicole Lapin",
+      "author": "Money News Network",
+      "feedUrl": "https://feeds.megaphone.fm/TPG1669083856",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/b9/b8/5d/b9b85d8a-0af5-e1fe-b64d-aee26b5fe40e/mza_9602913072814988515.jpg/600x600bb.jpg",
+      "genre": "Business"
     },
     "1646101002": {
       "itunesId": "1646101002",
@@ -179,13 +179,13 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ac/bd/24/acbd249e-6bf1-11f8-ff8f-81c1af35881b/mza_9582791319705163309.jpeg/600x600bb.jpg",
       "genre": "Self-Improvement"
     },
-    "1780873400": {
-      "itunesId": "1780873400",
-      "title": "The Dylan Gemelli Podcast",
-      "author": "Dylan Gemelli",
-      "feedUrl": "https://feed.podbean.com/dylangemelli/feed.xml",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/33/38/21/33382188-423e-fae8-f4e2-b4492bab303d/mza_9062535544980821714.png/600x600bb.jpg",
-      "genre": "Alternative Health"
+    "1744386875": {
+      "itunesId": "1744386875",
+      "title": "Proven Podcast",
+      "author": "Charles Schwartz",
+      "feedUrl": "https://rss.libsyn.com/shows/526583/destinations/4528548.xml",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/79/33/d2/7933d22b-9392-7d2c-714f-9a4c624003e5/mza_1012289391812617337.png/600x600bb.jpg",
+      "genre": "Entrepreneurship"
     },
     "1795483480": {
       "itunesId": "1795483480",
