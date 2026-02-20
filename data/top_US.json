@@ -83,9 +83,9 @@
           }
         },
         "im:releaseDate": {
-          "label": "2026-02-18T02:45:00-07:00",
+          "label": "2026-02-19T02:48:00-07:00",
           "attributes": {
-            "label": "February 18, 2026"
+            "label": "February 19, 2026"
           }
         }
       },
@@ -163,9 +163,89 @@
           }
         },
         "im:releaseDate": {
-          "label": "2026-02-17T10:00:00-07:00",
+          "label": "2026-02-18T10:00:00-07:00",
           "attributes": {
-            "label": "February 17, 2026"
+            "label": "February 18, 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "Dateline NBC"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/8c/00/7a/8c007a42-e550-0214-d4cb-b59cd7edf194/mza_5305664083935674472.jpeg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/8c/00/7a/8c007a42-e550-0214-d4cb-b59cd7edf194/mza_5305664083935674472.jpeg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/8c/00/7a/8c007a42-e550-0214-d4cb-b59cd7edf194/mza_5305664083935674472.jpeg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "Current and classic episodes, featuring compelling true-crime mysteries, powerful documentaries and in-depth investigations. \n  \nFollow now to get the latest episodes of Dateline NBC completely free, or subscribe to Dateline Premium for ad-free listening and exclusive bonus content: DatelinePremium.com"
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© 2019 NBC News"
+        },
+        "title": {
+          "label": "Dateline NBC - NBC News"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/us/podcast/dateline-nbc/id1464919521?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/us/podcast/dateline-nbc/id1464919521?uo=2",
+          "attributes": {
+            "im:id": "1464919521"
+          }
+        },
+        "im:artist": {
+          "label": "NBC News",
+          "attributes": {
+            "href": "https://podcasts.apple.com/us/artist/nbc-news/119945391?uo=2"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1488",
+            "term": "True Crime",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-true-crime/id1488?uo=2",
+            "label": "True Crime"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-02-22T21:00:00-07:00",
+          "attributes": {
+            "label": "February 22, 2026"
           }
         }
       },
@@ -251,86 +331,6 @@
       },
       {
         "im:name": {
-          "label": "Dateline NBC"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/8c/00/7a/8c007a42-e550-0214-d4cb-b59cd7edf194/mza_5305664083935674472.jpeg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/8c/00/7a/8c007a42-e550-0214-d4cb-b59cd7edf194/mza_5305664083935674472.jpeg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/8c/00/7a/8c007a42-e550-0214-d4cb-b59cd7edf194/mza_5305664083935674472.jpeg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "Current and classic episodes, featuring compelling true-crime mysteries, powerful documentaries and in-depth investigations. \n  \nFollow now to get the latest episodes of Dateline NBC completely free, or subscribe to Dateline Premium for ad-free listening and exclusive bonus content: DatelinePremium.com"
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "USD"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© 2019 NBC News"
-        },
-        "title": {
-          "label": "Dateline NBC - NBC News"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/us/podcast/dateline-nbc/id1464919521?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/us/podcast/dateline-nbc/id1464919521?uo=2",
-          "attributes": {
-            "im:id": "1464919521"
-          }
-        },
-        "im:artist": {
-          "label": "NBC News",
-          "attributes": {
-            "href": "https://podcasts.apple.com/us/artist/nbc-news/119945391?uo=2"
-          }
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1488",
-            "term": "True Crime",
-            "scheme": "https://podcasts.apple.com/us/genre/podcasts-true-crime/id1488?uo=2",
-            "label": "True Crime"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-02-18T03:00:00-07:00",
-          "attributes": {
-            "label": "February 18, 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
           "label": "Good Hang with Amy Poehler"
         },
         "im:image": [
@@ -403,6 +403,83 @@
           "label": "2026-02-10T03:00:00-07:00",
           "attributes": {
             "label": "February 10, 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "The Megyn Kelly Show"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3e/9f/c1/3e9fc13c-8030-b57e-f29e-0f14dc8db10d/mza_602213930944272333.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3e/9f/c1/3e9fc13c-8030-b57e-f29e-0f14dc8db10d/mza_602213930944272333.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3e/9f/c1/3e9fc13c-8030-b57e-f29e-0f14dc8db10d/mza_602213930944272333.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "The Megyn Kelly Show is your home for open, honest and provocative conversations with the most interesting and important political, legal and cultural figures today. No BS. No agenda. And no fear."
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© Copyright 2021 SiriusXM"
+        },
+        "title": {
+          "label": "The Megyn Kelly Show - SiriusXM"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/us/podcast/the-megyn-kelly-show/id1532976305?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/us/podcast/the-megyn-kelly-show/id1532976305?uo=2",
+          "attributes": {
+            "im:id": "1532976305"
+          }
+        },
+        "im:artist": {
+          "label": "SiriusXM"
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1530",
+            "term": "News Commentary",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-news-news-commentary/id1530?uo=2",
+            "label": "News Commentary"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-02-19T12:37:00-07:00",
+          "attributes": {
+            "label": "February 19, 2026"
           }
         }
       },
@@ -485,86 +562,6 @@
       },
       {
         "im:name": {
-          "label": "Pardon My Take"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/35/74/6a/35746a0c-7687-7dde-ff04-338d93e78303/mza_10377078556009223546.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/35/74/6a/35746a0c-7687-7dde-ff04-338d93e78303/mza_10377078556009223546.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/35/74/6a/35746a0c-7687-7dde-ff04-338d93e78303/mza_10377078556009223546.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "On \"Pardon My Take,\" Big Cat & PFT Commenter deliver the loudest and most correct sports takes in the history of the spoken word. Daily topics, guests, and an inability to tell what the hosts might be doing will make this your new favorite sports talk show. This is a podcast that will without a doubt change your life for the better- guaranteed, or your money back. *Pretend a reggaeton air horn is going off right now* PMT.\n\n\nYou can find every episode of this show on Apple Podcasts, Spotify or Netflix. Prime Members can listen ad-free on Amazon Music. For more, visit barstool.link/pardon-my-take"
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "USD"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© 2026 Barstool Sports, Inc."
-        },
-        "title": {
-          "label": "Pardon My Take - Barstool Sports"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/us/podcast/pardon-my-take/id1089022756?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/us/podcast/pardon-my-take/id1089022756?uo=2",
-          "attributes": {
-            "im:id": "1089022756"
-          }
-        },
-        "im:artist": {
-          "label": "Barstool Sports",
-          "attributes": {
-            "href": "https://podcasts.apple.com/us/artist/barstool-sports/1524874689?uo=2"
-          }
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1547",
-            "term": "Football",
-            "scheme": "https://podcasts.apple.com/us/genre/podcasts-sports-football/id1547?uo=2",
-            "label": "Football"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-02-17T21:00:00-07:00",
-          "attributes": {
-            "label": "February 17, 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
           "label": "The Shawn Ryan Show"
         },
         "im:image": [
@@ -634,9 +631,9 @@
           }
         },
         "im:releaseDate": {
-          "label": "2026-02-16T03:00:00-07:00",
+          "label": "2026-02-19T03:00:00-07:00",
           "attributes": {
-            "label": "February 16, 2026"
+            "label": "February 19, 2026"
           }
         }
       },
@@ -714,9 +711,86 @@
           }
         },
         "im:releaseDate": {
-          "label": "2026-02-17T03:07:00-07:00",
+          "label": "2026-02-19T02:48:00-07:00",
           "attributes": {
-            "label": "February 17, 2026"
+            "label": "February 19, 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "Morbid"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a4/69/a6/a469a64c-580d-938a-53f1-893d968e1332/mza_11675757052043432554.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a4/69/a6/a469a64c-580d-938a-53f1-893d968e1332/mza_11675757052043432554.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a4/69/a6/a469a64c-580d-938a-53f1-893d968e1332/mza_11675757052043432554.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "It’s a lighthearted nightmare in here, weirdos! Morbid is a true crime, creepy history and all things spooky podcast hosted by an autopsy technician and a hairstylist. Join us for a heavy dose of research with a dash of comedy thrown in for flavor.\n\nSubscribe to SiriusXM Podcasts+ to listen to new episodes of Morbid ad-free.\n\nStart a free trial now on Apple Podcasts or by visiting siriusxm.com/podcastsplus."
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© Morbid: A True Crime Podcast"
+        },
+        "title": {
+          "label": "Morbid - Ash Kelley & Alaina Urquhart"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/us/podcast/morbid/id1379959217?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/us/podcast/morbid/id1379959217?uo=2",
+          "attributes": {
+            "im:id": "1379959217"
+          }
+        },
+        "im:artist": {
+          "label": "Ash Kelley & Alaina Urquhart"
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1488",
+            "term": "True Crime",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-true-crime/id1488?uo=2",
+            "label": "True Crime"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-02-19T00:00:00-07:00",
+          "attributes": {
+            "label": "February 19, 2026"
           }
         }
       },
@@ -794,86 +868,9 @@
           }
         },
         "im:releaseDate": {
-          "label": "2026-02-17T00:15:00-07:00",
+          "label": "2026-02-19T00:15:00-07:00",
           "attributes": {
-            "label": "February 17, 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "The Megyn Kelly Show"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3e/9f/c1/3e9fc13c-8030-b57e-f29e-0f14dc8db10d/mza_602213930944272333.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3e/9f/c1/3e9fc13c-8030-b57e-f29e-0f14dc8db10d/mza_602213930944272333.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3e/9f/c1/3e9fc13c-8030-b57e-f29e-0f14dc8db10d/mza_602213930944272333.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "The Megyn Kelly Show is your home for open, honest and provocative conversations with the most interesting and important political, legal and cultural figures today. No BS. No agenda. And no fear."
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "USD"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© Copyright 2021 SiriusXM"
-        },
-        "title": {
-          "label": "The Megyn Kelly Show - SiriusXM"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/us/podcast/the-megyn-kelly-show/id1532976305?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/us/podcast/the-megyn-kelly-show/id1532976305?uo=2",
-          "attributes": {
-            "im:id": "1532976305"
-          }
-        },
-        "im:artist": {
-          "label": "SiriusXM"
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1530",
-            "term": "News Commentary",
-            "scheme": "https://podcasts.apple.com/us/genre/podcasts-news-news-commentary/id1530?uo=2",
-            "label": "News Commentary"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-02-18T13:45:00-07:00",
-          "attributes": {
-            "label": "February 18, 2026"
+            "label": "February 19, 2026"
           }
         }
       },
@@ -1033,30 +1030,30 @@
       },
       {
         "im:name": {
-          "label": "The Bill Simmons Podcast"
+          "label": "Betrayal Season 5"
         },
         "im:image": [
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/9e/ff/879eff7b-0288-72c5-cc34-cd3de152ab9a/mza_5784691504127037609.jpg/55x55bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/94/dc/0d/94dc0d19-8c3a-c911-de21-f0d0a10b99a5/mza_340627736040498967.jpg/55x55bb.png",
             "attributes": {
               "height": "55"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/9e/ff/879eff7b-0288-72c5-cc34-cd3de152ab9a/mza_5784691504127037609.jpg/60x60bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/94/dc/0d/94dc0d19-8c3a-c911-de21-f0d0a10b99a5/mza_340627736040498967.jpg/60x60bb.png",
             "attributes": {
               "height": "60"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/9e/ff/879eff7b-0288-72c5-cc34-cd3de152ab9a/mza_5784691504127037609.jpg/170x170bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/94/dc/0d/94dc0d19-8c3a-c911-de21-f0d0a10b99a5/mza_340627736040498967.jpg/170x170bb.png",
             "attributes": {
               "height": "170"
             }
           }
         ],
         "summary": {
-          "label": "HBO and The Ringer's Bill Simmons hosts the most downloaded sports podcast of all time, with a rotating crew of celebrities, athletes, and media staples, as well as mainstays like Cousin Sal, Joe House, and a slew of other friends and family members who always happen to be suspiciously available."
+          "label": "Saskia Inwood woke up one morning, knowing her life would never be the same. The night before, she learned the unimaginable – that the husband she knew in the light of day was a different person after dark. This season unpacks Saskia’s discovery of her husband’s secret life and her fight to bring him to justice. Along the way, we expose a crime that is just coming to light. This is also a story about the myth of the “perfect victim:” who gets believed, who gets doubted, and why. We follow Saskia as she works to reclaim her body, her voice, and her life. \n\nIf you would like to reach out to the Betrayal Team, email us at betrayalpod@gmail.com. Follow us on Instagram @betrayalpod and @glasspodcasts.\n\nPlease join our Substack for additional exclusive content, curated book recommendations, and community discussions. Sign up FREE by clicking this link Beyond Betrayal Substack. Join our community dedicated to truth, resilience, and healing. Your voice matters! Be a part of our Betrayal journey on Substack."
         },
         "im:price": {
           "label": "Get",
@@ -1072,353 +1069,39 @@
           }
         },
         "rights": {
-          "label": "© All rights reserved."
+          "label": "2026 iHeartMedia, Inc. © Any use of this intellectual property for text and data mining or computational analysis including as training material for artificial intelligence systems is strictly prohibited without express written consent from iHeartMedia"
         },
         "title": {
-          "label": "The Bill Simmons Podcast - The Ringer"
+          "label": "Betrayal Season 5 - iHeartPodcasts and Glass Podcasts"
         },
         "link": {
           "attributes": {
             "rel": "alternate",
             "type": "text/html",
-            "href": "https://podcasts.apple.com/us/podcast/the-bill-simmons-podcast/id1043699613?uo=2"
+            "href": "https://podcasts.apple.com/us/podcast/betrayal-season-5/id1615637724?uo=2"
           }
         },
         "id": {
-          "label": "https://podcasts.apple.com/us/podcast/the-bill-simmons-podcast/id1043699613?uo=2",
+          "label": "https://podcasts.apple.com/us/podcast/betrayal-season-5/id1615637724?uo=2",
           "attributes": {
-            "im:id": "1043699613"
+            "im:id": "1615637724"
           }
         },
         "im:artist": {
-          "label": "The Ringer",
-          "attributes": {
-            "href": "https://podcasts.apple.com/us/artist/the-ringer/1043703531?uo=2"
-          }
+          "label": "iHeartPodcasts and Glass Podcasts"
         },
         "category": {
           "attributes": {
-            "im:id": "1545",
-            "term": "Sports",
-            "scheme": "https://podcasts.apple.com/us/genre/podcasts-sports/id1545?uo=2",
-            "label": "Sports"
+            "im:id": "1488",
+            "term": "True Crime",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-true-crime/id1488?uo=2",
+            "label": "True Crime"
           }
         },
         "im:releaseDate": {
-          "label": "2026-02-15T21:26:00-07:00",
-          "attributes": {
-            "label": "February 15, 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "Digital Social Hour"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ac/bd/24/acbd249e-6bf1-11f8-ff8f-81c1af35881b/mza_9582791319705163309.jpeg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ac/bd/24/acbd249e-6bf1-11f8-ff8f-81c1af35881b/mza_9582791319705163309.jpeg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ac/bd/24/acbd249e-6bf1-11f8-ff8f-81c1af35881b/mza_9582791319705163309.jpeg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "Step into the world of unfiltered conversations with Digital Social Hour, the podcast where host Sean Kelly dives deep with some of the world's most controversial and thought-provoking figures. From trailblazing entrepreneurs to polarizing cultural icons, no topic is off-limits as Sean explores the stories, challenges, and triumphs that define their lives.\n\nGet ready for bold questions, unexpected insights, and raw, authentic dialogue that challenges conventional thinking. Whether you’re seeking inspiration or just want to hear what others are too afraid to say, Digital Social Hour delivers the conversations that others won’t."
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "USD"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© Sean Kelly"
-        },
-        "title": {
-          "label": "Digital Social Hour - Sean Kelly"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/us/podcast/digital-social-hour/id1676846015?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/us/podcast/digital-social-hour/id1676846015?uo=2",
-          "attributes": {
-            "im:id": "1676846015"
-          }
-        },
-        "im:artist": {
-          "label": "Sean Kelly"
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1500",
-            "term": "Self-Improvement",
-            "scheme": "https://podcasts.apple.com/us/genre/podcasts-education-self-improvement/id1500?uo=2",
-            "label": "Self-Improvement"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-02-18T15:00:00-07:00",
+          "label": "2026-02-18T21:00:00-07:00",
           "attributes": {
             "label": "February 18, 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "SmartLess"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b1/93/5f/b1935f9f-35be-9144-e813-626bd8dabfb4/mza_4132654708551836825.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b1/93/5f/b1935f9f-35be-9144-e813-626bd8dabfb4/mza_4132654708551836825.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b1/93/5f/b1935f9f-35be-9144-e813-626bd8dabfb4/mza_4132654708551836825.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "\"SmartLess\" with Jason Bateman, Sean Hayes, & Will Arnett is a podcast that connects and unites people from all walks of life to learn about shared experiences through thoughtful dialogue and organic hilarity. A nice surprise: in each episode of SmartLess, one of the hosts reveals his mystery guest to the other two. What ensues is a genuinely improvised and authentic conversation filled with laughter and newfound knowledge to feed the SmartLess mind.\n\nSubscribe to SiriusXM Podcasts+ to listen to new episodes of SmartLess ad-free and a whole week early. \nStart a free trial now on Apple Podcasts or by visiting siriusxm.com/podcastsplus."
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "USD"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© 2024 SmartLess LLC"
-        },
-        "title": {
-          "label": "SmartLess - Jason Bateman, Sean Hayes, Will Arnett"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/us/podcast/smartless/id1521578868?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/us/podcast/smartless/id1521578868?uo=2",
-          "attributes": {
-            "im:id": "1521578868"
-          }
-        },
-        "im:artist": {
-          "label": "Jason Bateman, Sean Hayes, Will Arnett"
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1303",
-            "term": "Comedy",
-            "scheme": "https://podcasts.apple.com/us/genre/podcasts-comedy/id1303?uo=2",
-            "label": "Comedy"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-02-23T00:01:00-07:00",
-          "attributes": {
-            "label": "February 23, 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "20/20"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/81/6c/5d/816c5d57-7c3f-3df9-1557-08e17469dfe4/mza_1433648970787567135.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/81/6c/5d/816c5d57-7c3f-3df9-1557-08e17469dfe4/mza_1433648970787567135.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/81/6c/5d/816c5d57-7c3f-3df9-1557-08e17469dfe4/mza_1433648970787567135.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "Unforgettable true crime mysteries, exclusive newsmaker interviews, hard-hitting investigative reports and in-depth coverage of high profile stories. Now listen throughout the week with the official 20/20 After Show, the True Crime Vault, and our spotlight of true crime originals."
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "USD"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© Copyright 2026, ABC Audio. All rights reserved."
-        },
-        "title": {
-          "label": "20/20 - ABC News"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/us/podcast/20-20/id987967575?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/us/podcast/20-20/id987967575?uo=2",
-          "attributes": {
-            "im:id": "987967575"
-          }
-        },
-        "im:artist": {
-          "label": "ABC News",
-          "attributes": {
-            "href": "https://podcasts.apple.com/us/artist/abc-news/119945519?uo=2"
-          }
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1488",
-            "term": "True Crime",
-            "scheme": "https://podcasts.apple.com/us/genre/podcasts-true-crime/id1488?uo=2",
-            "label": "True Crime"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-02-17T00:00:00-07:00",
-          "attributes": {
-            "label": "February 17, 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "Morbid"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a4/69/a6/a469a64c-580d-938a-53f1-893d968e1332/mza_11675757052043432554.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a4/69/a6/a469a64c-580d-938a-53f1-893d968e1332/mza_11675757052043432554.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a4/69/a6/a469a64c-580d-938a-53f1-893d968e1332/mza_11675757052043432554.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "It’s a lighthearted nightmare in here, weirdos! Morbid is a true crime, creepy history and all things spooky podcast hosted by an autopsy technician and a hairstylist. Join us for a heavy dose of research with a dash of comedy thrown in for flavor.\n\nSubscribe to SiriusXM Podcasts+ to listen to new episodes of Morbid ad-free.\n\nStart a free trial now on Apple Podcasts or by visiting siriusxm.com/podcastsplus."
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "USD"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© Morbid: A True Crime Podcast"
-        },
-        "title": {
-          "label": "Morbid - Ash Kelley & Alaina Urquhart"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/us/podcast/morbid/id1379959217?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/us/podcast/morbid/id1379959217?uo=2",
-          "attributes": {
-            "im:id": "1379959217"
-          }
-        },
-        "im:artist": {
-          "label": "Ash Kelley & Alaina Urquhart"
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1488",
-            "term": "True Crime",
-            "scheme": "https://podcasts.apple.com/us/genre/podcasts-true-crime/id1488?uo=2",
-            "label": "True Crime"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-02-16T00:00:00-07:00",
-          "attributes": {
-            "label": "February 16, 2026"
           }
         }
       },
@@ -1496,38 +1179,115 @@
           }
         },
         "im:releaseDate": {
-          "label": "2026-02-18T21:00:00-07:00",
+          "label": "2026-02-19T00:01:00-07:00",
           "attributes": {
-            "label": "February 18, 2026"
+            "label": "February 19, 2026"
           }
         }
       },
       {
         "im:name": {
-          "label": "Money Rehab with Nicole Lapin"
+          "label": "Wait a Second..."
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "USD"
+          }
         },
         "im:image": [
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/b9/b8/5d/b9b85d8a-0af5-e1fe-b64d-aee26b5fe40e/mza_9602913072814988515.jpg/55x55bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/a1/0f/f3/a10ff372-b3c8-4c2f-5002-b6815eac4cef/mza_15382653773670698652.jpg/55x55bb.png",
             "attributes": {
               "height": "55"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/b9/b8/5d/b9b85d8a-0af5-e1fe-b64d-aee26b5fe40e/mza_9602913072814988515.jpg/60x60bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/a1/0f/f3/a10ff372-b3c8-4c2f-5002-b6815eac4cef/mza_15382653773670698652.jpg/60x60bb.png",
             "attributes": {
               "height": "60"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/b9/b8/5d/b9b85d8a-0af5-e1fe-b64d-aee26b5fe40e/mza_9602913072814988515.jpg/170x170bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/a1/0f/f3/a10ff372-b3c8-4c2f-5002-b6815eac4cef/mza_15382653773670698652.jpg/170x170bb.png",
             "attributes": {
               "height": "170"
             }
           }
         ],
         "summary": {
-          "label": "Ever notice that we will talk about everything before we talk about money? Sex? No problem. Politics? Bring it on. Money? Totally taboo. But not for long! Nicole Lapin— the only financial expert you don’t need a dictionary to understand, New York Times best-selling author, and host of Money Rehab— is here to rehab your wallet, so you can get your financial life together once and for all. Episodes are just ten minutes-ish... no frills, just bite-sized tips and tricks so you don’t waste any time. And Nicole wants to hear from YOU! Email the money questions you want answered to moneyrehab@moneynewsnetwork.com and Nicole will help–and you could even join Nicole on the show for a one-on-one intervention."
+          "label": "Your backchannel for all the weird, WTF, and jaw-dropping news that breaks the group chat, with Jason Concepcion, Tyler Parker, and a rotating cast of people ready to go down the rabbit hole with us."
+        },
+        "im:artist": {
+          "label": "The Ringer",
+          "attributes": {
+            "href": "https://podcasts.apple.com/us/artist/parcast/1311492560?uo=2"
+          }
+        },
+        "title": {
+          "label": "Wait a Second... - The Ringer"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/us/podcast/wait-a-second/id1351389458?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/us/podcast/wait-a-second/id1351389458?uo=2",
+          "attributes": {
+            "im:id": "1351389458"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1324",
+            "term": "Society & Culture",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-society-culture/id1324?uo=2",
+            "label": "Society & Culture"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-02-19T03:00:00-07:00",
+          "attributes": {
+            "label": "February 19, 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "Digital Social Hour"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ac/bd/24/acbd249e-6bf1-11f8-ff8f-81c1af35881b/mza_9582791319705163309.jpeg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ac/bd/24/acbd249e-6bf1-11f8-ff8f-81c1af35881b/mza_9582791319705163309.jpeg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ac/bd/24/acbd249e-6bf1-11f8-ff8f-81c1af35881b/mza_9582791319705163309.jpeg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "Step into the world of unfiltered conversations with Digital Social Hour, the podcast where host Sean Kelly dives deep with some of the world's most controversial and thought-provoking figures. From trailblazing entrepreneurs to polarizing cultural icons, no topic is off-limits as Sean explores the stories, challenges, and triumphs that define their lives.\n\nGet ready for bold questions, unexpected insights, and raw, authentic dialogue that challenges conventional thinking. Whether you’re seeking inspiration or just want to hear what others are too afraid to say, Digital Social Hour delivers the conversations that others won’t."
         },
         "im:price": {
           "label": "Get",
@@ -1543,29 +1303,26 @@
           }
         },
         "rights": {
-          "label": "© 2023 Money News Network"
+          "label": "© Sean Kelly"
         },
         "title": {
-          "label": "Money Rehab with Nicole Lapin - Money News Network"
+          "label": "Digital Social Hour - Sean Kelly"
         },
         "link": {
           "attributes": {
             "rel": "alternate",
             "type": "text/html",
-            "href": "https://podcasts.apple.com/us/podcast/money-rehab-with-nicole-lapin/id1559564016?uo=2"
+            "href": "https://podcasts.apple.com/us/podcast/digital-social-hour/id1676846015?uo=2"
           }
         },
         "id": {
-          "label": "https://podcasts.apple.com/us/podcast/money-rehab-with-nicole-lapin/id1559564016?uo=2",
+          "label": "https://podcasts.apple.com/us/podcast/digital-social-hour/id1676846015?uo=2",
           "attributes": {
-            "im:id": "1559564016"
+            "im:id": "1676846015"
           }
         },
         "im:artist": {
-          "label": "Money News Network",
-          "attributes": {
-            "href": "https://podcasts.apple.com/us/artist/iheartradio/284341002?uo=2"
-          }
+          "label": "Sean Kelly"
         },
         "category": {
           "attributes": {
@@ -1576,9 +1333,86 @@
           }
         },
         "im:releaseDate": {
-          "label": "2026-02-18T00:00:00-07:00",
+          "label": "2026-02-19T15:00:00-07:00",
           "attributes": {
-            "label": "February 18, 2026"
+            "label": "February 19, 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "Mick Unplugged"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0c/3d/e4/0c3de469-4a64-58ca-e2c0-cae85578a949/mza_1497457921640325770.jpeg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0c/3d/e4/0c3de469-4a64-58ca-e2c0-cae85578a949/mza_1497457921640325770.jpeg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0c/3d/e4/0c3de469-4a64-58ca-e2c0-cae85578a949/mza_1497457921640325770.jpeg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "\"Mick Unplugged\" is a transformative podcast that challenges listeners to move beyond the conventional 'Why' and embrace the empowering realm of 'Because.' Hosted by Mick Hunt, the voice of Modern Leadership, this podcast is designed for leaders, doers, and anyone aspiring to create meaningful impact in both their personal and professional lives. Each episode delves into the principles of Modern Leadership, focusing on discovering your 'Because'—your core driving force—and how it can turn dreams into reality and aspirations into actionable steps. With practical advice, real-life stories, and forward-thinking insights, you’ll learn to make your 'Because' a daily focus, fueling your journey toward success and fulfillment. Whether you’re looking to deepen your motivation, set meaningful goals, or apply modern leadership theories to overcome challenges, \"Mick Unplugged\" provides the tools, strategies, and insights to guide your path. Subscribe now and start transforming your life with purpose and modern leadership principles."
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© Copyright © 2025 Mick Hunt. All Rights Reserved."
+        },
+        "title": {
+          "label": "Mick Unplugged - Realm"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/us/podcast/mick-unplugged/id1731755953?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/us/podcast/mick-unplugged/id1731755953?uo=2",
+          "attributes": {
+            "im:id": "1731755953"
+          }
+        },
+        "im:artist": {
+          "label": "Realm"
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1500",
+            "term": "Self-Improvement",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-education-self-improvement/id1500?uo=2",
+            "label": "Self-Improvement"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-02-19T03:00:00-07:00",
+          "attributes": {
+            "label": "February 19, 2026"
           }
         }
       },
@@ -1656,163 +1490,6 @@
           "label": "2026-02-11T03:46:00-07:00",
           "attributes": {
             "label": "February 11, 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "The Bulwark Podcast"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/e3/07/89/e30789af-e7d0-bb29-8cf8-ae3b9cfe4316/mza_2484307396739987098.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/e3/07/89/e30789af-e7d0-bb29-8cf8-ae3b9cfe4316/mza_2484307396739987098.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/e3/07/89/e30789af-e7d0-bb29-8cf8-ae3b9cfe4316/mza_2484307396739987098.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "Tim Miller and guests discuss the latest political news for the flagship podcast of the Never Trump movement and the reality-based community. Every weekday we provide insightful analysis, political hot-takes, an unabashed defense of liberal democracy and long-form interviews that cut through the \"both-sides\" BS. Plus a few laughs to help you wash down the crazy.\n\nBulwark+ members can get a totally ad-free version of the show delivered right to their favorite podcast player."
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "USD"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© Bulwark Media"
-        },
-        "title": {
-          "label": "The Bulwark Podcast - The Bulwark"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/us/podcast/the-bulwark-podcast/id1447684472?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/us/podcast/the-bulwark-podcast/id1447684472?uo=2",
-          "attributes": {
-            "im:id": "1447684472"
-          }
-        },
-        "im:artist": {
-          "label": "The Bulwark",
-          "attributes": {
-            "href": "https://podcasts.apple.com/us/artist/the-bulwark/1538033175?uo=2"
-          }
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1527",
-            "term": "Politics",
-            "scheme": "https://podcasts.apple.com/us/genre/podcasts-news-politics/id1527?uo=2",
-            "label": "Politics"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-02-18T12:30:00-07:00",
-          "attributes": {
-            "label": "February 18, 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "Young and Profiting with Hala Taha (Entrepreneurship, Sales, Marketing)"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/80/c1/bd/80c1bd2c-eac4-bdb6-f8cb-ac980b4ad473/mza_16051863235006465622.jpeg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/80/c1/bd/80c1bd2c-eac4-bdb6-f8cb-ac980b4ad473/mza_16051863235006465622.jpeg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/80/c1/bd/80c1bd2c-eac4-bdb6-f8cb-ac980b4ad473/mza_16051863235006465622.jpeg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "Young and Profiting with Hala Taha is the must-listen podcast for anyone who is hardcore into entrepreneurship. Hosted by Hala Taha, a self-made entrepreneur and marketing expert, this top-ranked show features mini-masterclasses with business icons and entrepreneurs like GaryVee, Alex Hormozi, Mel Robbins, Reid Hoffman, Tom Bilyeu and Codie Sanchez. Listen to YAP to profit in all aspects of life - from boosting sales and beating algorithms, to brain hacks and biohacking. Whether you’re launching a startup, scaling your business or simply wanting to expand your sales and marketing skills, each episode delivers actionable advice that WILL help you profit in life. If you want the motivation to level up your entrepreneurship game and work hard - while still prioritizing your mental and physical health - then Listen, Learn and Profit with Young and Profiting Podcast!\n\n\n\nFor ad inquiries, please reach out to: Network+YAP@yapmedia.com"
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "USD"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© Copyright 2022. All rights reserved."
-        },
-        "title": {
-          "label": "Young and Profiting with Hala Taha (Entrepreneurship, Sales, Marketing) - Hala Taha | Entrepreneurship, Sales, Marketing | YAP Media Network"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/us/podcast/young-and-profiting-with-hala-taha-entrepreneurship/id1368888880?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/us/podcast/young-and-profiting-with-hala-taha-entrepreneurship/id1368888880?uo=2",
-          "attributes": {
-            "im:id": "1368888880"
-          }
-        },
-        "im:artist": {
-          "label": "Hala Taha | Entrepreneurship, Sales, Marketing | YAP Media Network"
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1493",
-            "term": "Entrepreneurship",
-            "scheme": "https://podcasts.apple.com/us/genre/podcasts-business-entrepreneurship/id1493?uo=2",
-            "label": "Entrepreneurship"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-02-13T01:00:00-07:00",
-          "attributes": {
-            "label": "February 13, 2026"
           }
         }
       },
@@ -1898,30 +1575,30 @@
       },
       {
         "im:name": {
-          "label": "Pod Save America"
+          "label": "Money Rehab with Nicole Lapin"
         },
         "im:image": [
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/44/dc/61/44dc6141-25e9-5bb3-e19e-a2337233d19e/mza_5506771870755587769.jpg/55x55bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/b9/b8/5d/b9b85d8a-0af5-e1fe-b64d-aee26b5fe40e/mza_9602913072814988515.jpg/55x55bb.png",
             "attributes": {
               "height": "55"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/44/dc/61/44dc6141-25e9-5bb3-e19e-a2337233d19e/mza_5506771870755587769.jpg/60x60bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/b9/b8/5d/b9b85d8a-0af5-e1fe-b64d-aee26b5fe40e/mza_9602913072814988515.jpg/60x60bb.png",
             "attributes": {
               "height": "60"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/44/dc/61/44dc6141-25e9-5bb3-e19e-a2337233d19e/mza_5506771870755587769.jpg/170x170bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/b9/b8/5d/b9b85d8a-0af5-e1fe-b64d-aee26b5fe40e/mza_9602913072814988515.jpg/170x170bb.png",
             "attributes": {
               "height": "170"
             }
           }
         ],
         "summary": {
-          "label": "Pod Save America is a no-b******t conversation about politics hosted by former Obama aides Jon Favreau, Jon Lovett, Dan Pfeiffer, and Tommy Vietor. It cuts through the noise to break down the week’s news and helps people figure out what matters and how they can help. They’re regularly joined by journalists, activists, politicians, entertainers, and world leaders. You can watch on YouTube or listen to new episodes every Tuesday, Friday and Sunday.\n\n\n\nSubscribe to Friends of the Pod! Your subscription makes Crooked’s work possible and gives you access to ad-free episodes of Pod Save America and Pod Save the World, plus exclusive content and a lively Discord community. Learn more and subscribe at crooked.com/friends or on Apple Podcasts. \n\n\nFor a transcript of an episode of Pod Save America, please email transcripts@crooked.com."
+          "label": "Ever notice that we will talk about everything before we talk about money? Sex? No problem. Politics? Bring it on. Money? Totally taboo. But not for long! Nicole Lapin— the only financial expert you don’t need a dictionary to understand, New York Times best-selling author, and host of Money Rehab— is here to rehab your wallet, so you can get your financial life together once and for all. Episodes are just ten minutes-ish... no frills, just bite-sized tips and tricks so you don’t waste any time. And Nicole wants to hear from YOU! Email the money questions you want answered to moneyrehab@moneynewsnetwork.com and Nicole will help–and you could even join Nicole on the show for a one-on-one intervention."
         },
         "im:price": {
           "label": "Get",
@@ -1937,48 +1614,356 @@
           }
         },
         "rights": {
-          "label": "© Crooked Media. All Rights Reserved."
+          "label": "© 2023 Money News Network"
         },
         "title": {
-          "label": "Pod Save America - Pod Save America"
+          "label": "Money Rehab with Nicole Lapin - Money News Network"
         },
         "link": {
           "attributes": {
             "rel": "alternate",
             "type": "text/html",
-            "href": "https://podcasts.apple.com/us/podcast/pod-save-america/id1192761536?uo=2"
+            "href": "https://podcasts.apple.com/us/podcast/money-rehab-with-nicole-lapin/id1559564016?uo=2"
           }
         },
         "id": {
-          "label": "https://podcasts.apple.com/us/podcast/pod-save-america/id1192761536?uo=2",
+          "label": "https://podcasts.apple.com/us/podcast/money-rehab-with-nicole-lapin/id1559564016?uo=2",
           "attributes": {
-            "im:id": "1192761536"
+            "im:id": "1559564016"
           }
         },
         "im:artist": {
-          "label": "Pod Save America",
+          "label": "Money News Network",
           "attributes": {
-            "href": "https://podcasts.apple.com/us/artist/crooked-media/1200975667?uo=2"
+            "href": "https://podcasts.apple.com/us/artist/iheartradio/284341002?uo=2"
           }
         },
         "category": {
           "attributes": {
-            "im:id": "1527",
-            "term": "Politics",
-            "scheme": "https://podcasts.apple.com/us/genre/podcasts-news-politics/id1527?uo=2",
-            "label": "Politics"
+            "im:id": "1321",
+            "term": "Business",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-business/id1321?uo=2",
+            "label": "Business"
           }
         },
         "im:releaseDate": {
-          "label": "2026-02-16T14:11:00-07:00",
+          "label": "2026-02-18T00:00:00-07:00",
           "attributes": {
-            "label": "February 16, 2026"
+            "label": "February 18, 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "The Dan Bongino Show"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5b/c5/91/5bc59191-e0fe-ea3d-2ea9-e93d764f0996/mza_17020828405094667327.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5b/c5/91/5bc59191-e0fe-ea3d-2ea9-e93d764f0996/mza_17020828405094667327.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5b/c5/91/5bc59191-e0fe-ea3d-2ea9-e93d764f0996/mza_17020828405094667327.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "The Dan Bongino Show delivers no-nonsense analysis of the day’s most important political and cultural stories. Hosted by the former Deputy Director of the FBI, former Secret Service agent, NYPD officer, and bestselling author Dan Bongino, the show cuts through media spin with facts, accountability, and unapologetic conviction.\n\nWhether it’s exposing government overreach, defending constitutional freedoms, or connecting the dots the mainstream media ignores, The Dan Bongino Show provides in-depth analysis of the issues shaping America today. Each episode features sharp commentary, deep dives into breaking news, and behind-the-scenes insight you won’t hear anywhere else. \n\nApple: https://podcasts.apple.com/us/podcast/the-dan-bongino-show/id965293227?mt=2\n\nSpotify: https://open.spotify.com/show/4sftHO603JaFqpuQBEZReL?si=PBlx46DyS5KxCuCXMOrQvw\n\nRumble: https://rumble.com/c/bongino?e9s=src_v1_sa%2Csrc_v4_sa_o"
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© 2026 Silverloch | Cumulus Podcast Network"
+        },
+        "title": {
+          "label": "The Dan Bongino Show - Cumulus Podcast Network | Dan Bongino"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/us/podcast/the-dan-bongino-show/id965293227?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/us/podcast/the-dan-bongino-show/id965293227?uo=2",
+          "attributes": {
+            "im:id": "965293227"
+          }
+        },
+        "im:artist": {
+          "label": "Cumulus Podcast Network | Dan Bongino",
+          "attributes": {
+            "href": "https://podcasts.apple.com/us/artist/westwood-one/1383049848?uo=2"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1530",
+            "term": "News Commentary",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-news-news-commentary/id1530?uo=2",
+            "label": "News Commentary"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-02-18T09:14:00-07:00",
+          "attributes": {
+            "label": "February 18, 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "Habits and Hustle"
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "USD"
+          }
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/97/c3/c5/97c3c5e3-c640-60e7-e32b-a069ce504f1d/mza_14416406630171551590.jpeg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/97/c3/c5/97c3c5e3-c640-60e7-e32b-a069ce504f1d/mza_14416406630171551590.jpeg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/97/c3/c5/97c3c5e3-c640-60e7-e32b-a069ce504f1d/mza_14416406630171551590.jpeg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "Habits and Hustle helps share the stories, habits, and rituals of people's journeys on living fulfilled lives. Host Jennifer Cohen interviews thought leaders, entrepreneurs, and overall extraordinary people who share their insight and open up about the normally hidden aspects that have made a difference in their success."
+        },
+        "im:artist": {
+          "label": "Jen Cohen"
+        },
+        "title": {
+          "label": "Habits and Hustle - Jen Cohen"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/us/podcast/habits-and-hustle/id1451897026?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/us/podcast/habits-and-hustle/id1451897026?uo=2",
+          "attributes": {
+            "im:id": "1451897026"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1493",
+            "term": "Entrepreneurship",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-business-entrepreneurship/id1493?uo=2",
+            "label": "Entrepreneurship"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-02-13T01:00:00-07:00",
+          "attributes": {
+            "label": "February 13, 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "The Vault Unlocked"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/64/3c/a6/643ca635-731d-c549-9dff-394333acb2f6/mza_4438568323903982598.png/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/64/3c/a6/643ca635-731d-c549-9dff-394333acb2f6/mza_4438568323903982598.png/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/64/3c/a6/643ca635-731d-c549-9dff-394333acb2f6/mza_4438568323903982598.png/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "Vault Unlocked is for founders who don't want to learn the hard way.\n\nIf you're building something real and you care about growing revenue faster, cleaner, and with fewer blind spots, this podcast is your unfair advantage.\n\nHosted by Kayvon Kay, Vault Unlocked brings elite founders and operators into conversations they normally keep private. Not the public story. The real one.\n\nThe fumbles that cost them millions.\n\nThe decision they almost didn't make.\n\nThe strategy they only understood after it finally worked.\n\nEvery episode is built around one question founders actually care about:\n\"What do you know now that would have saved you time, money, and pain if you learned it earlier?\"\n\nKayvon goes deep on purpose.\nThe guests don't hide.\nBecause surface-level answers don't grow companies.\n\nThis is where you learn what not to do, what actually moved the needle, and how the best founders think when things are on the line.\n\nNo motivation.\nNo recycled playbooks.\n\nJust inside access to hard-earned lessons that help you grow faster by learning from other people's mistakes, missteps, and breakthroughs.\n\nIf you want to shortcut the learning curve without gambling your own business, Vault Unlocked is for you.\n\nListen like a founder who plans to win."
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© 2025"
+        },
+        "title": {
+          "label": "The Vault Unlocked - Kayvon Kay"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/us/podcast/the-vault-unlocked/id1837193185?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/us/podcast/the-vault-unlocked/id1837193185?uo=2",
+          "attributes": {
+            "im:id": "1837193185"
+          }
+        },
+        "im:artist": {
+          "label": "Kayvon Kay"
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1492",
+            "term": "Marketing",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-business-marketing/id1492?uo=2",
+            "label": "Marketing"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-02-18T07:00:00-07:00",
+          "attributes": {
+            "label": "February 18, 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "Young and Profiting with Hala Taha (Entrepreneurship, Sales, Marketing)"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/80/c1/bd/80c1bd2c-eac4-bdb6-f8cb-ac980b4ad473/mza_16051863235006465622.jpeg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/80/c1/bd/80c1bd2c-eac4-bdb6-f8cb-ac980b4ad473/mza_16051863235006465622.jpeg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/80/c1/bd/80c1bd2c-eac4-bdb6-f8cb-ac980b4ad473/mza_16051863235006465622.jpeg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "Young and Profiting with Hala Taha is the must-listen podcast for anyone who is hardcore into entrepreneurship. Hosted by Hala Taha, a self-made entrepreneur and marketing expert, this top-ranked show features mini-masterclasses with business icons and entrepreneurs like GaryVee, Alex Hormozi, Mel Robbins, Reid Hoffman, Tom Bilyeu and Codie Sanchez. Listen to YAP to profit in all aspects of life - from boosting sales and beating algorithms, to brain hacks and biohacking. Whether you’re launching a startup, scaling your business or simply wanting to expand your sales and marketing skills, each episode delivers actionable advice that WILL help you profit in life. If you want the motivation to level up your entrepreneurship game and work hard - while still prioritizing your mental and physical health - then Listen, Learn and Profit with Young and Profiting Podcast!\n\n\n\nFor ad inquiries, please reach out to: Network+YAP@yapmedia.com"
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© Copyright 2022. All rights reserved."
+        },
+        "title": {
+          "label": "Young and Profiting with Hala Taha (Entrepreneurship, Sales, Marketing) - Hala Taha | Entrepreneurship, Sales, Marketing | YAP Media Network"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/us/podcast/young-and-profiting-with-hala-taha-entrepreneurship/id1368888880?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/us/podcast/young-and-profiting-with-hala-taha-entrepreneurship/id1368888880?uo=2",
+          "attributes": {
+            "im:id": "1368888880"
+          }
+        },
+        "im:artist": {
+          "label": "Hala Taha | Entrepreneurship, Sales, Marketing | YAP Media Network"
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1493",
+            "term": "Entrepreneurship",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-business-entrepreneurship/id1493?uo=2",
+            "label": "Entrepreneurship"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-02-13T01:00:00-07:00",
+          "attributes": {
+            "label": "February 13, 2026"
           }
         }
       }
     ],
     "updated": {
-      "label": "2026-02-18T23:08:03-07:00"
+      "label": "2026-02-19T23:06:16-07:00"
     },
     "rights": {
       "label": "Copyright 2008 Apple Inc."
