@@ -1,16 +1,8 @@
 {
   "success": true,
   "country": "US",
-  "count": 25,
+  "count": 24,
   "lookups": {
-    "201671138": {
-      "itunesId": "201671138",
-      "title": "This American Life",
-      "author": "This American Life",
-      "feedUrl": "https://www.thisamericanlife.org/podcast/rss.xml",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/64/aa/3a/64aa3a66-a08a-947c-cf21-a5722a1b77ae/mza_11390421932467026234.png/600x600bb.jpg",
-      "genre": "Society & Culture"
-    },
     "360084272": {
       "itunesId": "360084272",
       "title": "The Joe Rogan Experience",
@@ -19,12 +11,28 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/20/ca/57/20ca5718-1fa5-43d2-62aa-80a7b5e10a23/mza_5053467016139819545.jpg/600x600bb.jpg",
       "genre": "Comedy"
     },
+    "965293227": {
+      "itunesId": "965293227",
+      "title": "The Dan Bongino Show",
+      "author": "Cumulus Podcast Network | Dan Bongino",
+      "feedUrl": "https://feeds.megaphone.fm/WWO3519750118",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5b/c5/91/5bc59191-e0fe-ea3d-2ea9-e93d764f0996/mza_17020828405094667327.jpg/600x600bb.jpg",
+      "genre": "News Commentary"
+    },
     "965818306": {
       "itunesId": "965818306",
       "title": "48 Hours",
       "author": "CBS News",
       "feedUrl": "https://feeds.megaphone.fm/CBS8186808081",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c8/4f/8f/c84f8fa2-074d-6023-7f31-9c781b80dedc/mza_7616553513239265555.jpeg/600x600bb.jpg",
+      "genre": "True Crime"
+    },
+    "987967575": {
+      "itunesId": "987967575",
+      "title": "20/20",
+      "author": "ABC News",
+      "feedUrl": "https://feeds.megaphone.fm/ESP3456903052",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/81/6c/5d/816c5d57-7c3f-3df9-1557-08e17469dfe4/mza_1433648970787567135.jpg/600x600bb.jpg",
       "genre": "True Crime"
     },
     "1012570406": {
@@ -35,13 +43,13 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/55/21/67/55216775-731a-1a0b-6c2a-81923902f058/mza_11706571282358600140.jpeg/600x600bb.jpg",
       "genre": "Entrepreneurship"
     },
-    "1043699613": {
-      "itunesId": "1043699613",
-      "title": "The Bill Simmons Podcast",
-      "author": "The Ringer",
-      "feedUrl": "https://feeds.megaphone.fm/the-bill-simmons-podcast",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/9e/ff/879eff7b-0288-72c5-cc34-cd3de152ab9a/mza_5784691504127037609.jpg/600x600bb.jpg",
-      "genre": "Sports"
+    "1073226719": {
+      "itunesId": "1073226719",
+      "title": "Pivot",
+      "author": "New York Magazine",
+      "feedUrl": "https://feeds.megaphone.fm/pivot",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/54/3c/8d/543c8dab-2a14-54dc-e899-014727a14ed5/mza_6721855998870076427.jpeg/600x600bb.jpg",
+      "genre": "News Commentary"
     },
     "1089022756": {
       "itunesId": "1089022756",
@@ -107,14 +115,6 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/d0/b3/2d/d0b32d7f-ab2d-5791-83b0-854f698a9184/mza_13561258173056659752.jpg/600x600bb.jpg",
       "genre": "Philosophy"
     },
-    "1510240831": {
-      "itunesId": "1510240831",
-      "title": "The MeidasTouch Podcast",
-      "author": "MeidasTouch Network",
-      "feedUrl": "https://feeds.megaphone.fm/PDR2572281095",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/73/32/80/733280d2-330a-2f24-c600-bc1088f9f899/mza_17833502176263457882.jpeg/600x600bb.jpg",
-      "genre": "Politics"
-    },
     "1521578868": {
       "itunesId": "1521578868",
       "title": "SmartLess",
@@ -147,13 +147,13 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
       "genre": "Christianity"
     },
-    "1559564016": {
-      "itunesId": "1559564016",
-      "title": "Money Rehab with Nicole Lapin",
-      "author": "Money News Network",
-      "feedUrl": "https://feeds.megaphone.fm/TPG1669083856",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/b9/b8/5d/b9b85d8a-0af5-e1fe-b64d-aee26b5fe40e/mza_9602913072814988515.jpg/600x600bb.jpg",
-      "genre": "Business"
+    "1548604447": {
+      "itunesId": "1548604447",
+      "title": "The Ezra Klein Show",
+      "author": "New York Times Opinion",
+      "feedUrl": "https://feeds.simplecast.com/kEKXbjuJ",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9d/ca/35/9dca35d8-e7d2-7e4f-63b5-c2ff4973a3f5/mza_16891544429738729361.jpg/600x600bb.jpg",
+      "genre": "Society & Culture"
     },
     "1646101002": {
       "itunesId": "1646101002",
@@ -170,14 +170,6 @@
       "feedUrl": "https://feeds.simplecast.com/gVWKQwJq",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ac/bd/24/acbd249e-6bf1-11f8-ff8f-81c1af35881b/mza_9582791319705163309.jpeg/600x600bb.jpg",
       "genre": "Self-Improvement"
-    },
-    "1719657632": {
-      "itunesId": "1719657632",
-      "title": "The Tucker Carlson Show",
-      "author": "Tucker Carlson Network",
-      "feedUrl": "https://feeds.megaphone.fm/RSV1597324942",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/4a/a4/ed4aa47c-dbe6-d055-233c-58d8eef48457/mza_16730401749162715650.jpg/600x600bb.jpg",
-      "genre": "News Commentary"
     },
     "1731755953": {
       "itunesId": "1731755953",
