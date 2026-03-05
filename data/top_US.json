@@ -83,7 +83,87 @@
           }
         },
         "im:releaseDate": {
-          "label": "2026-03-03T02:51:00-07:00",
+          "label": "2026-03-04T02:45:00-07:00",
+          "attributes": {
+            "label": "March 4, 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "The Joe Rogan Experience"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/20/ca/57/20ca5718-1fa5-43d2-62aa-80a7b5e10a23/mza_5053467016139819545.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/20/ca/57/20ca5718-1fa5-43d2-62aa-80a7b5e10a23/mza_5053467016139819545.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/20/ca/57/20ca5718-1fa5-43d2-62aa-80a7b5e10a23/mza_5053467016139819545.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "The official podcast of comedian Joe Rogan."
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© All rights reserved"
+        },
+        "title": {
+          "label": "The Joe Rogan Experience - Joe Rogan"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/us/podcast/the-joe-rogan-experience/id360084272?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/us/podcast/the-joe-rogan-experience/id360084272?uo=2",
+          "attributes": {
+            "im:id": "360084272"
+          }
+        },
+        "im:artist": {
+          "label": "Joe Rogan",
+          "attributes": {
+            "href": "https://podcasts.apple.com/us/artist/joe-rogan/974891224?uo=2"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1303",
+            "term": "Comedy",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-comedy/id1303?uo=2",
+            "label": "Comedy"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-03-03T10:00:00-07:00",
           "attributes": {
             "label": "March 3, 2026"
           }
@@ -171,86 +251,6 @@
       },
       {
         "im:name": {
-          "label": "The Joe Rogan Experience"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/20/ca/57/20ca5718-1fa5-43d2-62aa-80a7b5e10a23/mza_5053467016139819545.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/20/ca/57/20ca5718-1fa5-43d2-62aa-80a7b5e10a23/mza_5053467016139819545.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/20/ca/57/20ca5718-1fa5-43d2-62aa-80a7b5e10a23/mza_5053467016139819545.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "The official podcast of comedian Joe Rogan."
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "USD"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© All rights reserved"
-        },
-        "title": {
-          "label": "The Joe Rogan Experience - Joe Rogan"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/us/podcast/the-joe-rogan-experience/id360084272?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/us/podcast/the-joe-rogan-experience/id360084272?uo=2",
-          "attributes": {
-            "im:id": "360084272"
-          }
-        },
-        "im:artist": {
-          "label": "Joe Rogan",
-          "attributes": {
-            "href": "https://podcasts.apple.com/us/artist/joe-rogan/974891224?uo=2"
-          }
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1303",
-            "term": "Comedy",
-            "scheme": "https://podcasts.apple.com/us/genre/podcasts-comedy/id1303?uo=2",
-            "label": "Comedy"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-02-27T10:00:00-07:00",
-          "attributes": {
-            "label": "February 27, 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
           "label": "Dateline NBC"
         },
         "im:image": [
@@ -331,30 +331,7 @@
       },
       {
         "im:name": {
-          "label": "Mick Unplugged"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0c/3d/e4/0c3de469-4a64-58ca-e2c0-cae85578a949/mza_1497457921640325770.jpeg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0c/3d/e4/0c3de469-4a64-58ca-e2c0-cae85578a949/mza_1497457921640325770.jpeg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0c/3d/e4/0c3de469-4a64-58ca-e2c0-cae85578a949/mza_1497457921640325770.jpeg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "\"Mick Unplugged\" is a transformative podcast that challenges listeners to move beyond the conventional 'Why' and embrace the empowering realm of 'Because.' Hosted by Mick Hunt, the voice of Modern Leadership, this podcast is designed for leaders, doers, and anyone aspiring to create meaningful impact in both their personal and professional lives. Each episode delves into the principles of Modern Leadership, focusing on discovering your 'Because'—your core driving force—and how it can turn dreams into reality and aspirations into actionable steps. With practical advice, real-life stories, and forward-thinking insights, you’ll learn to make your 'Because' a daily focus, fueling your journey toward success and fulfillment. Whether you’re looking to deepen your motivation, set meaningful goals, or apply modern leadership theories to overcome challenges, \"Mick Unplugged\" provides the tools, strategies, and insights to guide your path. Subscribe now and start transforming your life with purpose and modern leadership principles."
+          "label": "Call Her Daddy"
         },
         "im:price": {
           "label": "Get",
@@ -363,46 +340,66 @@
             "currency": "USD"
           }
         },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/25/8d/ad/258dad4b-f0d0-fc93-5a52-4622b0815eaf/mza_4112709449130449695.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/25/8d/ad/258dad4b-f0d0-fc93-5a52-4622b0815eaf/mza_4112709449130449695.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/25/8d/ad/258dad4b-f0d0-fc93-5a52-4622b0815eaf/mza_4112709449130449695.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "The most-listened to podcast by women, Alex Cooper’s Call Her Daddy has been creating conversation since 2018. From deep, honest discussions to laugh-out-loud moments, Cooper cuts through the BS with exciting guests and bold topics. New episodes drop every Wednesday, with throwback episodes every Friday. Want more? Join the Daddy Gang @callherdaddy."
+        },
+        "im:artist": {
+          "label": "Alex Cooper"
+        },
+        "title": {
+          "label": "Call Her Daddy - Alex Cooper"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/us/podcast/call-her-daddy/id1418960261?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/us/podcast/call-her-daddy/id1418960261?uo=2",
+          "attributes": {
+            "im:id": "1418960261"
+          }
+        },
         "im:contentType": {
           "attributes": {
             "term": "Podcast",
             "label": "Podcast"
           }
         },
-        "rights": {
-          "label": "© Copyright © 2025 Mick Hunt. All Rights Reserved. 437499"
-        },
-        "title": {
-          "label": "Mick Unplugged - Realm"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/us/podcast/mick-unplugged/id1731755953?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/us/podcast/mick-unplugged/id1731755953?uo=2",
-          "attributes": {
-            "im:id": "1731755953"
-          }
-        },
-        "im:artist": {
-          "label": "Realm"
-        },
         "category": {
           "attributes": {
-            "im:id": "1500",
-            "term": "Self-Improvement",
-            "scheme": "https://podcasts.apple.com/us/genre/podcasts-education-self-improvement/id1500?uo=2",
-            "label": "Self-Improvement"
+            "im:id": "1303",
+            "term": "Comedy",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-comedy/id1303?uo=2",
+            "label": "Comedy"
           }
         },
         "im:releaseDate": {
-          "label": "2026-03-02T03:00:00-07:00",
+          "label": "2026-03-04T19:00:00-07:00",
           "attributes": {
-            "label": "March 2, 2026"
+            "label": "March 4, 2026"
           }
         }
       },
@@ -480,38 +477,38 @@
           }
         },
         "im:releaseDate": {
-          "label": "2026-03-03T02:50:00-07:00",
+          "label": "2026-03-04T03:05:00-07:00",
           "attributes": {
-            "label": "March 3, 2026"
+            "label": "March 4, 2026"
           }
         }
       },
       {
         "im:name": {
-          "label": "REAL AF with Andy Frisella"
+          "label": "The Megyn Kelly Show"
         },
         "im:image": [
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/55/21/67/55216775-731a-1a0b-6c2a-81923902f058/mza_11706571282358600140.jpeg/55x55bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3e/9f/c1/3e9fc13c-8030-b57e-f29e-0f14dc8db10d/mza_602213930944272333.jpg/55x55bb.png",
             "attributes": {
               "height": "55"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/55/21/67/55216775-731a-1a0b-6c2a-81923902f058/mza_11706571282358600140.jpeg/60x60bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3e/9f/c1/3e9fc13c-8030-b57e-f29e-0f14dc8db10d/mza_602213930944272333.jpg/60x60bb.png",
             "attributes": {
               "height": "60"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/55/21/67/55216775-731a-1a0b-6c2a-81923902f058/mza_11706571282358600140.jpeg/170x170bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3e/9f/c1/3e9fc13c-8030-b57e-f29e-0f14dc8db10d/mza_602213930944272333.jpg/170x170bb.png",
             "attributes": {
               "height": "170"
             }
           }
         ],
         "summary": {
-          "label": "Entrepreneur Andy Frisella and his guests discuss, debate, and laugh their way through trending topics and hot-button issues. (This is also the home of Andy's other show, the top-ranked MFCEO Project Podcast)"
+          "label": "The Megyn Kelly Show is your home for open, honest and provocative conversations with the most interesting and important political, legal and cultural figures today. No BS. No agenda. And no fear."
         },
         "im:price": {
           "label": "Get",
@@ -527,68 +524,68 @@
           }
         },
         "rights": {
-          "label": "© Andy Frisella 2020, All Rights Reseved"
+          "label": "© Copyright 2021 SiriusXM"
         },
         "title": {
-          "label": "REAL AF with Andy Frisella - Andy Frisella"
+          "label": "The Megyn Kelly Show - SiriusXM"
         },
         "link": {
           "attributes": {
             "rel": "alternate",
             "type": "text/html",
-            "href": "https://podcasts.apple.com/us/podcast/real-af-with-andy-frisella/id1012570406?uo=2"
+            "href": "https://podcasts.apple.com/us/podcast/the-megyn-kelly-show/id1532976305?uo=2"
           }
         },
         "id": {
-          "label": "https://podcasts.apple.com/us/podcast/real-af-with-andy-frisella/id1012570406?uo=2",
+          "label": "https://podcasts.apple.com/us/podcast/the-megyn-kelly-show/id1532976305?uo=2",
           "attributes": {
-            "im:id": "1012570406"
+            "im:id": "1532976305"
           }
         },
         "im:artist": {
-          "label": "Andy Frisella"
+          "label": "SiriusXM"
         },
         "category": {
           "attributes": {
-            "im:id": "1493",
-            "term": "Entrepreneurship",
-            "scheme": "https://podcasts.apple.com/us/genre/podcasts-business-entrepreneurship/id1493?uo=2",
-            "label": "Entrepreneurship"
+            "im:id": "1530",
+            "term": "News Commentary",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-news-news-commentary/id1530?uo=2",
+            "label": "News Commentary"
           }
         },
         "im:releaseDate": {
-          "label": "2026-03-02T20:27:00-07:00",
+          "label": "2026-03-04T12:25:00-07:00",
           "attributes": {
-            "label": "March 2, 2026"
+            "label": "March 4, 2026"
           }
         }
       },
       {
         "im:name": {
-          "label": "Pod Save America"
+          "label": "Pardon My Take"
         },
         "im:image": [
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/44/dc/61/44dc6141-25e9-5bb3-e19e-a2337233d19e/mza_5506771870755587769.jpg/55x55bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/35/74/6a/35746a0c-7687-7dde-ff04-338d93e78303/mza_10377078556009223546.jpg/55x55bb.png",
             "attributes": {
               "height": "55"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/44/dc/61/44dc6141-25e9-5bb3-e19e-a2337233d19e/mza_5506771870755587769.jpg/60x60bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/35/74/6a/35746a0c-7687-7dde-ff04-338d93e78303/mza_10377078556009223546.jpg/60x60bb.png",
             "attributes": {
               "height": "60"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/44/dc/61/44dc6141-25e9-5bb3-e19e-a2337233d19e/mza_5506771870755587769.jpg/170x170bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/35/74/6a/35746a0c-7687-7dde-ff04-338d93e78303/mza_10377078556009223546.jpg/170x170bb.png",
             "attributes": {
               "height": "170"
             }
           }
         ],
         "summary": {
-          "label": "Pod Save America is a no-b******t conversation about politics hosted by former Obama aides Jon Favreau, Jon Lovett, Dan Pfeiffer, and Tommy Vietor. It cuts through the noise to break down the week’s news and helps people figure out what matters and how they can help. They’re regularly joined by journalists, activists, politicians, entertainers, and world leaders. You can watch on YouTube or listen to new episodes every Tuesday, Friday and Sunday.\n\n\n\nSubscribe to Friends of the Pod! Your subscription makes Crooked’s work possible and gives you access to ad-free episodes of Pod Save America and Pod Save the World, plus exclusive content and a lively Discord community. Learn more and subscribe at crooked.com/friends or on Apple Podcasts. \n\n\nFor a transcript of an episode of Pod Save America, please email transcripts@crooked.com."
+          "label": "On \"Pardon My Take,\" Big Cat & PFT Commenter deliver the loudest and most correct sports takes in the history of the spoken word. Daily topics, guests, and an inability to tell what the hosts might be doing will make this your new favorite sports talk show. This is a podcast that will without a doubt change your life for the better- guaranteed, or your money back. *Pretend a reggaeton air horn is going off right now* PMT.\n\n\nYou can find every episode of this show on Apple Podcasts, Spotify or Netflix. Prime Members can listen ad-free on Amazon Music. For more, visit barstool.link/pardon-my-take"
         },
         "im:price": {
           "label": "Get",
@@ -604,42 +601,42 @@
           }
         },
         "rights": {
-          "label": "© Crooked Media. All Rights Reserved."
+          "label": "© 2026 Barstool Sports, Inc."
         },
         "title": {
-          "label": "Pod Save America - Pod Save America"
+          "label": "Pardon My Take - Barstool Sports"
         },
         "link": {
           "attributes": {
             "rel": "alternate",
             "type": "text/html",
-            "href": "https://podcasts.apple.com/us/podcast/pod-save-america/id1192761536?uo=2"
+            "href": "https://podcasts.apple.com/us/podcast/pardon-my-take/id1089022756?uo=2"
           }
         },
         "id": {
-          "label": "https://podcasts.apple.com/us/podcast/pod-save-america/id1192761536?uo=2",
+          "label": "https://podcasts.apple.com/us/podcast/pardon-my-take/id1089022756?uo=2",
           "attributes": {
-            "im:id": "1192761536"
+            "im:id": "1089022756"
           }
         },
         "im:artist": {
-          "label": "Pod Save America",
+          "label": "Barstool Sports",
           "attributes": {
-            "href": "https://podcasts.apple.com/us/artist/crooked-media/1200975667?uo=2"
+            "href": "https://podcasts.apple.com/us/artist/barstool-sports/1524874689?uo=2"
           }
         },
         "category": {
           "attributes": {
-            "im:id": "1527",
-            "term": "Politics",
-            "scheme": "https://podcasts.apple.com/us/genre/podcasts-news-politics/id1527?uo=2",
-            "label": "Politics"
+            "im:id": "1547",
+            "term": "Football",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-sports-football/id1547?uo=2",
+            "label": "Football"
           }
         },
         "im:releaseDate": {
-          "label": "2026-03-03T00:30:00-07:00",
+          "label": "2026-03-01T22:30:00-07:00",
           "attributes": {
-            "label": "March 3, 2026"
+            "label": "March 1, 2026"
           }
         }
       },
@@ -722,30 +719,30 @@
       },
       {
         "im:name": {
-          "label": "The Dylan Gemelli Podcast"
+          "label": "REAL AF with Andy Frisella"
         },
         "im:image": [
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/33/38/21/33382188-423e-fae8-f4e2-b4492bab303d/mza_9062535544980821714.png/55x55bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/55/21/67/55216775-731a-1a0b-6c2a-81923902f058/mza_11706571282358600140.jpeg/55x55bb.png",
             "attributes": {
               "height": "55"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/33/38/21/33382188-423e-fae8-f4e2-b4492bab303d/mza_9062535544980821714.png/60x60bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/55/21/67/55216775-731a-1a0b-6c2a-81923902f058/mza_11706571282358600140.jpeg/60x60bb.png",
             "attributes": {
               "height": "60"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/33/38/21/33382188-423e-fae8-f4e2-b4492bab303d/mza_9062535544980821714.png/170x170bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/55/21/67/55216775-731a-1a0b-6c2a-81923902f058/mza_11706571282358600140.jpeg/170x170bb.png",
             "attributes": {
               "height": "170"
             }
           }
         ],
         "summary": {
-          "label": "Welcome to The Dylan Gemelli Podcast! This Podcast is the ULTIMATE guide to enhancing your quality of life. Dylan is on a mission to bring the TRUTH to all of his listeners and subscribers on everything health and fitness related.  Sit back, relax and be prepared to get educated on THE FACTS, without bias, on how to consistently fix and improve your quality of life, happiness and well being!!  THE MISSION of this podcast is ensure that all listeners get the TRUTH and GUIDANCE necessary to overcome all adversities and to be inspired to take control of your lives! Dylan Gemelli is a prominent figure in the fitness and biohacking industry. He is known for his expertise in health, fitness, and performance enhancement. Dylan is the creator of the Dylan Gemelli Podcast, which features enlightening discussions with some of the most prominent experts and influencers in the health and wellness space, best selling authors, top cardiologists, neuroscientists and more!! His work focuses on improvi..."
+          "label": "Entrepreneur Andy Frisella and his guests discuss, debate, and laugh their way through trending topics and hot-button issues. (This is also the home of Andy's other show, the top-ranked MFCEO Project Podcast)"
         },
         "im:price": {
           "label": "Get",
@@ -761,68 +758,68 @@
           }
         },
         "rights": {
-          "label": "© Copyright 2025 All rights reserved."
+          "label": "© Andy Frisella 2020, All Rights Reseved"
         },
         "title": {
-          "label": "The Dylan Gemelli Podcast - Dylan Gemelli"
+          "label": "REAL AF with Andy Frisella - Andy Frisella"
         },
         "link": {
           "attributes": {
             "rel": "alternate",
             "type": "text/html",
-            "href": "https://podcasts.apple.com/us/podcast/the-dylan-gemelli-podcast/id1780873400?uo=2"
+            "href": "https://podcasts.apple.com/us/podcast/real-af-with-andy-frisella/id1012570406?uo=2"
           }
         },
         "id": {
-          "label": "https://podcasts.apple.com/us/podcast/the-dylan-gemelli-podcast/id1780873400?uo=2",
+          "label": "https://podcasts.apple.com/us/podcast/real-af-with-andy-frisella/id1012570406?uo=2",
           "attributes": {
-            "im:id": "1780873400"
+            "im:id": "1012570406"
           }
         },
         "im:artist": {
-          "label": "Dylan Gemelli"
+          "label": "Andy Frisella"
         },
         "category": {
           "attributes": {
-            "im:id": "1513",
-            "term": "Alternative Health",
-            "scheme": "https://podcasts.apple.com/us/genre/podcasts-health-fitness-alternative-health/id1513?uo=2",
-            "label": "Alternative Health"
+            "im:id": "1493",
+            "term": "Entrepreneurship",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-business-entrepreneurship/id1493?uo=2",
+            "label": "Entrepreneurship"
           }
         },
         "im:releaseDate": {
-          "label": "2026-02-28T14:24:00-07:00",
+          "label": "2026-03-02T20:27:00-07:00",
           "attributes": {
-            "label": "February 28, 2026"
+            "label": "March 2, 2026"
           }
         }
       },
       {
         "im:name": {
-          "label": "The Megyn Kelly Show"
+          "label": "Mick Unplugged"
         },
         "im:image": [
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3e/9f/c1/3e9fc13c-8030-b57e-f29e-0f14dc8db10d/mza_602213930944272333.jpg/55x55bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0c/3d/e4/0c3de469-4a64-58ca-e2c0-cae85578a949/mza_1497457921640325770.jpeg/55x55bb.png",
             "attributes": {
               "height": "55"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3e/9f/c1/3e9fc13c-8030-b57e-f29e-0f14dc8db10d/mza_602213930944272333.jpg/60x60bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0c/3d/e4/0c3de469-4a64-58ca-e2c0-cae85578a949/mza_1497457921640325770.jpeg/60x60bb.png",
             "attributes": {
               "height": "60"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3e/9f/c1/3e9fc13c-8030-b57e-f29e-0f14dc8db10d/mza_602213930944272333.jpg/170x170bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0c/3d/e4/0c3de469-4a64-58ca-e2c0-cae85578a949/mza_1497457921640325770.jpeg/170x170bb.png",
             "attributes": {
               "height": "170"
             }
           }
         ],
         "summary": {
-          "label": "The Megyn Kelly Show is your home for open, honest and provocative conversations with the most interesting and important political, legal and cultural figures today. No BS. No agenda. And no fear."
+          "label": "\"Mick Unplugged\" is a transformative podcast that challenges listeners to move beyond the conventional 'Why' and embrace the empowering realm of 'Because.' Hosted by Mick Hunt, the voice of Modern Leadership, this podcast is designed for leaders, doers, and anyone aspiring to create meaningful impact in both their personal and professional lives. Each episode delves into the principles of Modern Leadership, focusing on discovering your 'Because'—your core driving force—and how it can turn dreams into reality and aspirations into actionable steps. With practical advice, real-life stories, and forward-thinking insights, you’ll learn to make your 'Because' a daily focus, fueling your journey toward success and fulfillment. Whether you’re looking to deepen your motivation, set meaningful goals, or apply modern leadership theories to overcome challenges, \"Mick Unplugged\" provides the tools, strategies, and insights to guide your path. Subscribe now and start transforming your life with purpose and modern leadership principles."
         },
         "im:price": {
           "label": "Get",
@@ -838,103 +835,26 @@
           }
         },
         "rights": {
-          "label": "© Copyright 2021 SiriusXM"
+          "label": "© Copyright © 2025 Mick Hunt. All Rights Reserved. 437499"
         },
         "title": {
-          "label": "The Megyn Kelly Show - SiriusXM"
+          "label": "Mick Unplugged - Realm"
         },
         "link": {
           "attributes": {
             "rel": "alternate",
             "type": "text/html",
-            "href": "https://podcasts.apple.com/us/podcast/the-megyn-kelly-show/id1532976305?uo=2"
+            "href": "https://podcasts.apple.com/us/podcast/mick-unplugged/id1731755953?uo=2"
           }
         },
         "id": {
-          "label": "https://podcasts.apple.com/us/podcast/the-megyn-kelly-show/id1532976305?uo=2",
+          "label": "https://podcasts.apple.com/us/podcast/mick-unplugged/id1731755953?uo=2",
           "attributes": {
-            "im:id": "1532976305"
+            "im:id": "1731755953"
           }
         },
         "im:artist": {
-          "label": "SiriusXM"
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1530",
-            "term": "News Commentary",
-            "scheme": "https://podcasts.apple.com/us/genre/podcasts-news-news-commentary/id1530?uo=2",
-            "label": "News Commentary"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-03-03T02:30:00-07:00",
-          "attributes": {
-            "label": "March 3, 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "The Mel Robbins Podcast"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2a/9f/c7/2a9fc792-c6a7-e159-0e10-a4442eec27d5/mza_5919882476720095362.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2a/9f/c7/2a9fc792-c6a7-e159-0e10-a4442eec27d5/mza_5919882476720095362.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2a/9f/c7/2a9fc792-c6a7-e159-0e10-a4442eec27d5/mza_5919882476720095362.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "You can change your life and Mel Robbins will show you how. The Mel Robbins Podcast is the #1 podcast on the globe for a reason: Mel’s simple, research-backed advice has changed millions of people’s lives, and in every episode, she’s giving you all her hard-fought secrets, science-backed tools, and deeply personal stories, so you can change yours too. If you’re a new listener, you’re in the right place. Every episode will empower you to create a better life and help you take a step toward the life you want. Want more? Follow along at @melrobbins\n\nSubscribe to SiriusXM Podcasts+ to listen to new episodes of The Mel Robbins Podcast ad-free.\nStart a free trial now on Apple Podcasts or by visiting siriusxm.com/podcastsplus."
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "USD"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© SiriusXM"
-        },
-        "title": {
-          "label": "The Mel Robbins Podcast - Mel Robbins"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/us/podcast/the-mel-robbins-podcast/id1646101002?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/us/podcast/the-mel-robbins-podcast/id1646101002?uo=2",
-          "attributes": {
-            "im:id": "1646101002"
-          }
-        },
-        "im:artist": {
-          "label": "Mel Robbins"
+          "label": "Realm"
         },
         "category": {
           "attributes": {
@@ -945,9 +865,169 @@
           }
         },
         "im:releaseDate": {
-          "label": "2026-03-01T21:05:00-07:00",
+          "label": "2026-03-02T03:00:00-07:00",
           "attributes": {
-            "label": "March 1, 2026"
+            "label": "March 2, 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "Pod Save America"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/44/dc/61/44dc6141-25e9-5bb3-e19e-a2337233d19e/mza_5506771870755587769.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/44/dc/61/44dc6141-25e9-5bb3-e19e-a2337233d19e/mza_5506771870755587769.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/44/dc/61/44dc6141-25e9-5bb3-e19e-a2337233d19e/mza_5506771870755587769.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "Pod Save America is a no-b******t conversation about politics hosted by former Obama aides Jon Favreau, Jon Lovett, Dan Pfeiffer, and Tommy Vietor. It cuts through the noise to break down the week’s news and helps people figure out what matters and how they can help. They’re regularly joined by journalists, activists, politicians, entertainers, and world leaders. You can watch on YouTube or listen to new episodes every Tuesday, Friday and Sunday.\n\n\n\nSubscribe to Friends of the Pod! Your subscription makes Crooked’s work possible and gives you access to ad-free episodes of Pod Save America and Pod Save the World, plus exclusive content and a lively Discord community. Learn more and subscribe at crooked.com/friends or on Apple Podcasts. \n\n\nFor a transcript of an episode of Pod Save America, please email transcripts@crooked.com."
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© Crooked Media. All Rights Reserved."
+        },
+        "title": {
+          "label": "Pod Save America - Pod Save America"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/us/podcast/pod-save-america/id1192761536?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/us/podcast/pod-save-america/id1192761536?uo=2",
+          "attributes": {
+            "im:id": "1192761536"
+          }
+        },
+        "im:artist": {
+          "label": "Pod Save America",
+          "attributes": {
+            "href": "https://podcasts.apple.com/us/artist/crooked-media/1200975667?uo=2"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1527",
+            "term": "Politics",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-news-politics/id1527?uo=2",
+            "label": "Politics"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-03-05T00:00:00-07:00",
+          "attributes": {
+            "label": "March 5, 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "The Bill Simmons Podcast"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e2/4c/3c/e24c3c50-808a-8d64-7394-686de148ae60/mza_15825615018828969330.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e2/4c/3c/e24c3c50-808a-8d64-7394-686de148ae60/mza_15825615018828969330.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e2/4c/3c/e24c3c50-808a-8d64-7394-686de148ae60/mza_15825615018828969330.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "HBO and The Ringer's Bill Simmons hosts the most downloaded sports podcast of all time, with a rotating crew of celebrities, athletes, and media staples, as well as mainstays like Cousin Sal, Joe House, and a slew of other friends and family members who always happen to be suspiciously available."
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© All rights reserved."
+        },
+        "title": {
+          "label": "The Bill Simmons Podcast - The Ringer"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/us/podcast/the-bill-simmons-podcast/id1043699613?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/us/podcast/the-bill-simmons-podcast/id1043699613?uo=2",
+          "attributes": {
+            "im:id": "1043699613"
+          }
+        },
+        "im:artist": {
+          "label": "The Ringer",
+          "attributes": {
+            "href": "https://podcasts.apple.com/us/artist/the-ringer/1043703531?uo=2"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1545",
+            "term": "Sports",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-sports/id1545?uo=2",
+            "label": "Sports"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-03-03T21:12:00-07:00",
+          "attributes": {
+            "label": "March 3, 2026"
           }
         }
       },
@@ -1033,6 +1113,382 @@
       },
       {
         "im:name": {
+          "label": "Candace"
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "USD"
+          }
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/34/f4/70/34f47043-99eb-0d3e-e412-bb02818ff6af/mza_1116597448727858664.jpeg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/34/f4/70/34f47043-99eb-0d3e-e412-bb02818ff6af/mza_1116597448727858664.jpeg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/34/f4/70/34f47043-99eb-0d3e-e412-bb02818ff6af/mza_1116597448727858664.jpeg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "This time it's just Candace. Free and unfiltered."
+        },
+        "im:artist": {
+          "label": "Candace Owens"
+        },
+        "title": {
+          "label": "Candace - Candace Owens"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/us/podcast/candace/id1750591415?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/us/podcast/candace/id1750591415?uo=2",
+          "attributes": {
+            "im:id": "1750591415"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1527",
+            "term": "Politics",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-news-politics/id1527?uo=2",
+            "label": "Politics"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-03-03T16:19:00-07:00",
+          "attributes": {
+            "label": "March 3, 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "The Dylan Gemelli Podcast"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/33/38/21/33382188-423e-fae8-f4e2-b4492bab303d/mza_9062535544980821714.png/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/33/38/21/33382188-423e-fae8-f4e2-b4492bab303d/mza_9062535544980821714.png/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/33/38/21/33382188-423e-fae8-f4e2-b4492bab303d/mza_9062535544980821714.png/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "Welcome to The Dylan Gemelli Podcast! This Podcast is the ULTIMATE guide to enhancing your quality of life. Dylan is on a mission to bring the TRUTH to all of his listeners and subscribers on everything health and fitness related.  Sit back, relax and be prepared to get educated on THE FACTS, without bias, on how to consistently fix and improve your quality of life, happiness and well being!!  THE MISSION of this podcast is ensure that all listeners get the TRUTH and GUIDANCE necessary to overcome all adversities and to be inspired to take control of your lives! Dylan Gemelli is a prominent figure in the fitness and biohacking industry. He is known for his expertise in health, fitness, and performance enhancement. Dylan is the creator of the Dylan Gemelli Podcast, which features enlightening discussions with some of the most prominent experts and influencers in the health and wellness space, best selling authors, top cardiologists, neuroscientists and more!! His work focuses on improvi..."
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© Copyright 2025 All rights reserved."
+        },
+        "title": {
+          "label": "The Dylan Gemelli Podcast - Dylan Gemelli"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/us/podcast/the-dylan-gemelli-podcast/id1780873400?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/us/podcast/the-dylan-gemelli-podcast/id1780873400?uo=2",
+          "attributes": {
+            "im:id": "1780873400"
+          }
+        },
+        "im:artist": {
+          "label": "Dylan Gemelli"
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1513",
+            "term": "Alternative Health",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-health-fitness-alternative-health/id1513?uo=2",
+            "label": "Alternative Health"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-03-02T20:52:00-07:00",
+          "attributes": {
+            "label": "March 2, 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "The Mel Robbins Podcast"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2a/9f/c7/2a9fc792-c6a7-e159-0e10-a4442eec27d5/mza_5919882476720095362.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2a/9f/c7/2a9fc792-c6a7-e159-0e10-a4442eec27d5/mza_5919882476720095362.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2a/9f/c7/2a9fc792-c6a7-e159-0e10-a4442eec27d5/mza_5919882476720095362.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "You can change your life and Mel Robbins will show you how. The Mel Robbins Podcast is the #1 podcast on the globe for a reason: Mel’s simple, research-backed advice has changed millions of people’s lives, and in every episode, she’s giving you all her hard-fought secrets, science-backed tools, and deeply personal stories, so you can change yours too. If you’re a new listener, you’re in the right place. Every episode will empower you to create a better life and help you take a step toward the life you want. Want more? Follow along at @melrobbins\n\nSubscribe to SiriusXM Podcasts+ to listen to new episodes of The Mel Robbins Podcast ad-free.\nStart a free trial now on Apple Podcasts or by visiting siriusxm.com/podcastsplus."
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© SiriusXM"
+        },
+        "title": {
+          "label": "The Mel Robbins Podcast - Mel Robbins"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/us/podcast/the-mel-robbins-podcast/id1646101002?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/us/podcast/the-mel-robbins-podcast/id1646101002?uo=2",
+          "attributes": {
+            "im:id": "1646101002"
+          }
+        },
+        "im:artist": {
+          "label": "Mel Robbins"
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1500",
+            "term": "Self-Improvement",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-education-self-improvement/id1500?uo=2",
+            "label": "Self-Improvement"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-03-04T21:05:00-07:00",
+          "attributes": {
+            "label": "March 4, 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "The Weekly Show with Jon Stewart"
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "USD"
+          }
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4b/c5/1e/4bc51e28-0b31-c778-0bce-f96608b8d192/mza_1727399894138025723.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4b/c5/1e/4bc51e28-0b31-c778-0bce-f96608b8d192/mza_1727399894138025723.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4b/c5/1e/4bc51e28-0b31-c778-0bce-f96608b8d192/mza_1727399894138025723.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "On Mondays, Jon Stewart hosts The Daily Show, but on Thursdays, he's back in your ears with The Weekly Show -- a podcast featuring in-depth conversations with a range of special guests. From experts and advocates, to stakeholders and thought leaders, we discuss the challenges, changes, and ideas that are shaping our world."
+        },
+        "im:artist": {
+          "label": "Comedy Central"
+        },
+        "title": {
+          "label": "The Weekly Show with Jon Stewart - Comedy Central"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/us/podcast/the-weekly-show-with-jon-stewart/id1583132133?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/us/podcast/the-weekly-show-with-jon-stewart/id1583132133?uo=2",
+          "attributes": {
+            "im:id": "1583132133"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1303",
+            "term": "Comedy",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-comedy/id1303?uo=2",
+            "label": "Comedy"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-03-04T00:30:00-07:00",
+          "attributes": {
+            "label": "March 4, 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "Focus: Adults in the Room"
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "USD"
+          }
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ee/de/b7/eedeb7a4-d963-91cf-6343-644018828dcc/mza_4779799693092523500.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ee/de/b7/eedeb7a4-d963-91cf-6343-644018828dcc/mza_4779799693092523500.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ee/de/b7/eedeb7a4-d963-91cf-6343-644018828dcc/mza_4779799693092523500.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "The production team behind the Peabody-nominated \"Lost Patients\" returns with a new investigative series: \"Adults in the Room\" begins on February 24, 2026.' Episodes of \"Adults in the Room\" will come out on Tuesdays at midnight Pacific Time.\n\nSeattle, 1999. At Garfield High School, Mr. Hudson is a legend. With a thundering voice and imposing stature, Mr. Hudson — or “Tom” as select students call him — teaches biology and leads an elite outdoors program. But when teen reporters at the school paper start exploring a rumor that he sexually abused students, all hell breaks loose. Adults close ranks, and schoolmates turn on the young journalists. And then one day, a voice on the school intercom announces that Mr. Hudson is dead. Isolde Raftery is one of the students who first hears about and reports allegations against Mr. Hudson. Three decades later, she is an investigative journalist in Seattle. In \"Adults in the Room,\" Raftery re-reports the story to understand what really happened in 1999. Was a whole school community groomed by a charismatic predator? Or was she part of a whisper campaign that cost the life of a great teacher? \n\n\"Focus\" is KUOW’s home for immersive audio documentaries. Each season zooms in on a single story that challenges commonly held narratives about life in the Pacific Northwest and reveals something bigger about American society. "
+        },
+        "im:artist": {
+          "label": "KUOW News and Information"
+        },
+        "title": {
+          "label": "Focus: Adults in the Room - KUOW News and Information"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/us/podcast/focus-adults-in-the-room/id1733735613?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/us/podcast/focus-adults-in-the-room/id1733735613?uo=2",
+          "attributes": {
+            "im:id": "1733735613"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1543",
+            "term": "Documentary",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-society-culture-documentary/id1543?uo=2",
+            "label": "Documentary"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-03-03T00:05:00-07:00",
+          "attributes": {
+            "label": "March 3, 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
           "label": "Morbid"
         },
         "im:image": [
@@ -1110,30 +1566,30 @@
       },
       {
         "im:name": {
-          "label": "The Ben Shapiro Show"
+          "label": "48 Hours"
         },
         "im:image": [
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b6/2c/2c/b62c2c46-3fd6-5733-2c82-b95b781a4b40/mza_17718419788103424619.jpg/55x55bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c8/4f/8f/c84f8fa2-074d-6023-7f31-9c781b80dedc/mza_7616553513239265555.jpeg/55x55bb.png",
             "attributes": {
               "height": "55"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b6/2c/2c/b62c2c46-3fd6-5733-2c82-b95b781a4b40/mza_17718419788103424619.jpg/60x60bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c8/4f/8f/c84f8fa2-074d-6023-7f31-9c781b80dedc/mza_7616553513239265555.jpeg/60x60bb.png",
             "attributes": {
               "height": "60"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b6/2c/2c/b62c2c46-3fd6-5733-2c82-b95b781a4b40/mza_17718419788103424619.jpg/170x170bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c8/4f/8f/c84f8fa2-074d-6023-7f31-9c781b80dedc/mza_7616553513239265555.jpeg/170x170bb.png",
             "attributes": {
               "height": "170"
             }
           }
         ],
         "summary": {
-          "label": "Tired of the lies? Tired of the spin? Are you ready to hear the hard-hitting truth in comprehensive, conservative, principled fashion? The Ben Shapiro Show brings you all the news you need to know in the most fast moving daily program in America. Ben brutally breaks down the culture and never gives an inch! Monday thru Friday."
+          "label": "“48 Hours” uncovers the narrative behind crime and justice cases that have left a lasting mark on society. Award-winning CBS News correspondents thoughtfully examine the complexities of each crime by transporting you to the heart of the investigation through key evidence and gripping interviews with critical figures from the case. The unmatched reporting has made a tangible difference in countless lives, leading to the exoneration of wrongly convicted individuals and the reopening — and resolution — of previously closed cold cases.\n\nListen to a new “48 Hours” episode every Monday and then go deeper into the case on Tuesdays with the immersive “Post Mortem” series — producers and correspondents join host Anne-Marie Green to discuss key evidence, dead ends, mishaps, and stranger-than-fiction twists they faced in the field. Also available on the 48 Hours YouTube channel. Plus, every Wednesday and Thursday, we’ll revisit a classic “48 Hours” episode. \n\nGet ad-free access to \"48 Hours\" podcasts by subscribing to 48 Hours+ on Apple Podcasts: https://apple.co/4aEgENo."
         },
         "im:price": {
           "label": "Get",
@@ -1149,273 +1605,42 @@
           }
         },
         "rights": {
-          "label": "© All rights reserved"
+          "label": "© 2023 CBS Broadcasting Inc. All Rights Reserved."
         },
         "title": {
-          "label": "The Ben Shapiro Show - The Daily Wire"
+          "label": "48 Hours - CBS News"
         },
         "link": {
           "attributes": {
             "rel": "alternate",
             "type": "text/html",
-            "href": "https://podcasts.apple.com/us/podcast/the-ben-shapiro-show/id1047335260?uo=2"
+            "href": "https://podcasts.apple.com/us/podcast/48-hours/id965818306?uo=2"
           }
         },
         "id": {
-          "label": "https://podcasts.apple.com/us/podcast/the-ben-shapiro-show/id1047335260?uo=2",
+          "label": "https://podcasts.apple.com/us/podcast/48-hours/id965818306?uo=2",
           "attributes": {
-            "im:id": "1047335260"
+            "im:id": "965818306"
           }
         },
         "im:artist": {
-          "label": "The Daily Wire",
+          "label": "CBS News",
           "attributes": {
-            "href": "https://podcasts.apple.com/us/artist/the-daily-wire/1287316832?uo=2"
+            "href": "https://podcasts.apple.com/us/artist/cbs-news/121020699?uo=2"
           }
         },
         "category": {
           "attributes": {
-            "im:id": "1530",
-            "term": "News Commentary",
-            "scheme": "https://podcasts.apple.com/us/genre/podcasts-news-news-commentary/id1530?uo=2",
-            "label": "News Commentary"
+            "im:id": "1488",
+            "term": "True Crime",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-true-crime/id1488?uo=2",
+            "label": "True Crime"
           }
         },
         "im:releaseDate": {
-          "label": "2026-03-03T11:08:00-07:00",
+          "label": "2026-03-04T21:00:00-07:00",
           "attributes": {
-            "label": "March 3, 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "Unblinded with Sean Callagy"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fe/73/39/fe733903-aac9-857a-7e0d-97da75f26739/mza_7400622169884755798.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fe/73/39/fe733903-aac9-857a-7e0d-97da75f26739/mza_7400622169884755798.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fe/73/39/fe733903-aac9-857a-7e0d-97da75f26739/mza_7400622169884755798.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "What if you could see what others don’t—and unlock the hidden patterns that quietly drive every outcome in business, relationships, and life?\n\nHosted by entrepreneur, attorney, philanthropist, and world-class communicator Sean Callagy, Unblinded is where peak performance meets integrity and possibility. Sean—legally blind since childhood—defied the odds to build multiple eight-figure companies, reinvent industries, and train thousands of leaders in the art of influence. His message is clear: influence is not manipulation, it’s mastery—and when harnessed for good, it transforms everything."
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "USD"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© Sean Callagy"
-        },
-        "title": {
-          "label": "Unblinded with Sean Callagy - Sean Callagy"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/us/podcast/unblinded-with-sean-callagy/id1844970260?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/us/podcast/unblinded-with-sean-callagy/id1844970260?uo=2",
-          "attributes": {
-            "im:id": "1844970260"
-          }
-        },
-        "im:artist": {
-          "label": "Sean Callagy"
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1321",
-            "term": "Business",
-            "scheme": "https://podcasts.apple.com/us/genre/podcasts-business/id1321?uo=2",
-            "label": "Business"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-03-03T11:52:00-07:00",
-          "attributes": {
-            "label": "March 3, 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "The Tucker Carlson Show"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/4a/a4/ed4aa47c-dbe6-d055-233c-58d8eef48457/mza_16730401749162715650.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/4a/a4/ed4aa47c-dbe6-d055-233c-58d8eef48457/mza_16730401749162715650.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/4a/a4/ed4aa47c-dbe6-d055-233c-58d8eef48457/mza_16730401749162715650.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "The Tucker Carlson Show is your beacon of free speech and honest reporting in a media landscape dominated by misinformation. The only solution to ending the propaganda spiral is by telling the truth. That's our job. Every day. No matter what."
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "USD"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© Last Country, Inc."
-        },
-        "title": {
-          "label": "The Tucker Carlson Show - Tucker Carlson Network"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/us/podcast/the-tucker-carlson-show/id1719657632?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/us/podcast/the-tucker-carlson-show/id1719657632?uo=2",
-          "attributes": {
-            "im:id": "1719657632"
-          }
-        },
-        "im:artist": {
-          "label": "Tucker Carlson Network"
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1530",
-            "term": "News Commentary",
-            "scheme": "https://podcasts.apple.com/us/genre/podcasts-news-news-commentary/id1530?uo=2",
-            "label": "News Commentary"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-02-27T10:24:00-07:00",
-          "attributes": {
-            "label": "February 27, 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "SmartLess"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b1/93/5f/b1935f9f-35be-9144-e813-626bd8dabfb4/mza_4132654708551836825.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b1/93/5f/b1935f9f-35be-9144-e813-626bd8dabfb4/mza_4132654708551836825.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b1/93/5f/b1935f9f-35be-9144-e813-626bd8dabfb4/mza_4132654708551836825.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "\"SmartLess\" with Jason Bateman, Sean Hayes, & Will Arnett is a podcast that connects and unites people from all walks of life to learn about shared experiences through thoughtful dialogue and organic hilarity. A nice surprise: in each episode of SmartLess, one of the hosts reveals his mystery guest to the other two. What ensues is a genuinely improvised and authentic conversation filled with laughter and newfound knowledge to feed the SmartLess mind.\n\nSubscribe to SiriusXM Podcasts+ to listen to new episodes of SmartLess ad-free and a whole week early. \nStart a free trial now on Apple Podcasts or by visiting siriusxm.com/podcastsplus."
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "USD"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© 2024 SmartLess LLC"
-        },
-        "title": {
-          "label": "SmartLess - Jason Bateman, Sean Hayes, Will Arnett"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/us/podcast/smartless/id1521578868?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/us/podcast/smartless/id1521578868?uo=2",
-          "attributes": {
-            "im:id": "1521578868"
-          }
-        },
-        "im:artist": {
-          "label": "Jason Bateman, Sean Hayes, Will Arnett"
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1303",
-            "term": "Comedy",
-            "scheme": "https://podcasts.apple.com/us/genre/podcasts-comedy/id1303?uo=2",
-            "label": "Comedy"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-03-02T00:01:00-07:00",
-          "attributes": {
-            "label": "March 2, 2026"
+            "label": "March 4, 2026"
           }
         }
       },
@@ -1498,30 +1723,30 @@
       },
       {
         "im:name": {
-          "label": "Trace of Suspicion"
+          "label": "The Bible in a Year (with Fr. Mike Schmitz)"
         },
         "im:image": [
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/89/2f/4d/892f4dec-f450-b166-2c2c-198f03d921b7/mza_15789624275893950972.jpg/55x55bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/55x55bb.png",
             "attributes": {
               "height": "55"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/89/2f/4d/892f4dec-f450-b166-2c2c-198f03d921b7/mza_15789624275893950972.jpg/60x60bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/60x60bb.png",
             "attributes": {
               "height": "60"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/89/2f/4d/892f4dec-f450-b166-2c2c-198f03d921b7/mza_15789624275893950972.jpg/170x170bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/170x170bb.png",
             "attributes": {
               "height": "170"
             }
           }
         ],
         "summary": {
-          "label": "After seemingly healthy 23-year-old Marine Todd Sommer dies unexpectedly, his widow Cindy’s lavish spending, cosmetic surgery, and wild partying raise investigators’ suspicions. They accuse her of poisoning him with arsenic for his life insurance, setting off a criminal case that takes a stunning turn... Josh Mankiewicz sits down with the woman at the center of it all in Dateline’s newest podcast."
+          "label": "In The Bible in a Year podcast, Fr. Mike Schmitz walks you through the entire Bible in 365 episodes, providing commentary, reflection, and prayer along the way.\nUnlike any other Bible podcast, Ascension’s Bible in a Year podcast follows a reading plan inspired by The Great Adventure Bible Timeline, a ground-breaking approach to understanding salvation history developed by renowned Catholic Bible scholar Jeff Cavins. For each period in the timeline, Jeff will join Fr. Mike for a special episode that will help you understand the context of each reading.\nWith this podcast, you won’t just read the Bible in a year … you’ll finally understand how all the pieces of the Bible fit together to tell an amazing story that continues in your life today!\nListen and…\nRead the ENTIRE Bible\nFeel more confident about your understanding of Scripture\nExperience the transformative power of God’s Word in your daily life\nStart seeing the world through the lens of Scripture\nEach 20-25 minute episode includes:\nTwo to three scripture readings\nA reflection from Fr. Mike Schmitz\nA guided prayer to help you hear God’s voice in his Word\nThe Bible contains adult themes that may not be suitable for children - parental discretion is advised."
         },
         "im:price": {
           "label": "Get",
@@ -1537,68 +1762,71 @@
           }
         },
         "rights": {
-          "label": "© 2026 NBCUniversal Media LLC, all rights reserved"
+          "label": "© 2026 Ascension Catholic Faith Formation"
         },
         "title": {
-          "label": "Trace of Suspicion - NBC News"
+          "label": "The Bible in a Year (with Fr. Mike Schmitz) - Ascension"
         },
         "link": {
           "attributes": {
             "rel": "alternate",
             "type": "text/html",
-            "href": "https://podcasts.apple.com/us/podcast/trace-of-suspicion/id1880711858?uo=2"
+            "href": "https://podcasts.apple.com/us/podcast/the-bible-in-a-year-with-fr-mike-schmitz/id1539568321?uo=2"
           }
         },
         "id": {
-          "label": "https://podcasts.apple.com/us/podcast/trace-of-suspicion/id1880711858?uo=2",
+          "label": "https://podcasts.apple.com/us/podcast/the-bible-in-a-year-with-fr-mike-schmitz/id1539568321?uo=2",
           "attributes": {
-            "im:id": "1880711858"
+            "im:id": "1539568321"
           }
         },
         "im:artist": {
-          "label": "NBC News"
+          "label": "Ascension",
+          "attributes": {
+            "href": "https://podcasts.apple.com/us/artist/ascension-the-leader-in-catholic-faith-formation/1468392145?uo=2"
+          }
         },
         "category": {
           "attributes": {
-            "im:id": "1488",
-            "term": "True Crime",
-            "scheme": "https://podcasts.apple.com/us/genre/podcasts-true-crime/id1488?uo=2",
-            "label": "True Crime"
+            "im:id": "1439",
+            "term": "Christianity",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-christianity/id1439?uo=2",
+            "label": "Christianity"
           }
         },
         "im:releaseDate": {
-          "label": "2026-02-27T07:01:00-07:00",
+          "label": "2026-03-04T00:15:00-07:00",
           "attributes": {
-            "label": "February 27, 2026"
+            "label": "March 4, 2026"
           }
         }
       },
       {
         "im:name": {
-          "label": "Digital Social Hour"
+          "label": "The Ben Shapiro Show"
         },
         "im:image": [
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ac/bd/24/acbd249e-6bf1-11f8-ff8f-81c1af35881b/mza_9582791319705163309.jpeg/55x55bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b6/2c/2c/b62c2c46-3fd6-5733-2c82-b95b781a4b40/mza_17718419788103424619.jpg/55x55bb.png",
             "attributes": {
               "height": "55"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ac/bd/24/acbd249e-6bf1-11f8-ff8f-81c1af35881b/mza_9582791319705163309.jpeg/60x60bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b6/2c/2c/b62c2c46-3fd6-5733-2c82-b95b781a4b40/mza_17718419788103424619.jpg/60x60bb.png",
             "attributes": {
               "height": "60"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ac/bd/24/acbd249e-6bf1-11f8-ff8f-81c1af35881b/mza_9582791319705163309.jpeg/170x170bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b6/2c/2c/b62c2c46-3fd6-5733-2c82-b95b781a4b40/mza_17718419788103424619.jpg/170x170bb.png",
             "attributes": {
               "height": "170"
             }
           }
         ],
         "summary": {
-          "label": "Step into the world of unfiltered conversations with Digital Social Hour, the podcast where host Sean Kelly dives deep with some of the world's most controversial and thought-provoking figures. From trailblazing entrepreneurs to polarizing cultural icons, no topic is off-limits as Sean explores the stories, challenges, and triumphs that define their lives.\n\nGet ready for bold questions, unexpected insights, and raw, authentic dialogue that challenges conventional thinking. Whether you’re seeking inspiration or just want to hear what others are too afraid to say, Digital Social Hour delivers the conversations that others won’t."
+          "label": "Tired of the lies? Tired of the spin? Are you ready to hear the hard-hitting truth in comprehensive, conservative, principled fashion? The Ben Shapiro Show brings you all the news you need to know in the most fast moving daily program in America. Ben brutally breaks down the culture and never gives an inch! Monday thru Friday."
         },
         "im:price": {
           "label": "Get",
@@ -1614,45 +1842,71 @@
           }
         },
         "rights": {
-          "label": "© Sean Kelly"
+          "label": "© All rights reserved"
         },
         "title": {
-          "label": "Digital Social Hour - Sean Kelly"
+          "label": "The Ben Shapiro Show - The Daily Wire"
         },
         "link": {
           "attributes": {
             "rel": "alternate",
             "type": "text/html",
-            "href": "https://podcasts.apple.com/us/podcast/digital-social-hour/id1676846015?uo=2"
+            "href": "https://podcasts.apple.com/us/podcast/the-ben-shapiro-show/id1047335260?uo=2"
           }
         },
         "id": {
-          "label": "https://podcasts.apple.com/us/podcast/digital-social-hour/id1676846015?uo=2",
+          "label": "https://podcasts.apple.com/us/podcast/the-ben-shapiro-show/id1047335260?uo=2",
           "attributes": {
-            "im:id": "1676846015"
+            "im:id": "1047335260"
           }
         },
         "im:artist": {
-          "label": "Sean Kelly"
+          "label": "The Daily Wire",
+          "attributes": {
+            "href": "https://podcasts.apple.com/us/artist/the-daily-wire/1287316832?uo=2"
+          }
         },
         "category": {
           "attributes": {
-            "im:id": "1500",
-            "term": "Self-Improvement",
-            "scheme": "https://podcasts.apple.com/us/genre/podcasts-education-self-improvement/id1500?uo=2",
-            "label": "Self-Improvement"
+            "im:id": "1530",
+            "term": "News Commentary",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-news-news-commentary/id1530?uo=2",
+            "label": "News Commentary"
           }
         },
         "im:releaseDate": {
-          "label": "2026-03-03T17:00:00-07:00",
+          "label": "2026-03-04T09:54:00-07:00",
           "attributes": {
-            "label": "March 3, 2026"
+            "label": "March 4, 2026"
           }
         }
       },
       {
         "im:name": {
-          "label": "Call Her Daddy"
+          "label": "SmartLess"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b1/93/5f/b1935f9f-35be-9144-e813-626bd8dabfb4/mza_4132654708551836825.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b1/93/5f/b1935f9f-35be-9144-e813-626bd8dabfb4/mza_4132654708551836825.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b1/93/5f/b1935f9f-35be-9144-e813-626bd8dabfb4/mza_4132654708551836825.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "\"SmartLess\" with Jason Bateman, Sean Hayes, & Will Arnett is a podcast that connects and unites people from all walks of life to learn about shared experiences through thoughtful dialogue and organic hilarity. A nice surprise: in each episode of SmartLess, one of the hosts reveals his mystery guest to the other two. What ensues is a genuinely improvised and authentic conversation filled with laughter and newfound knowledge to feed the SmartLess mind.\n\nSubscribe to SiriusXM Podcasts+ to listen to new episodes of SmartLess ad-free and a whole week early. \nStart a free trial now on Apple Podcasts or by visiting siriusxm.com/podcastsplus."
         },
         "im:price": {
           "label": "Get",
@@ -1661,53 +1915,33 @@
             "currency": "USD"
           }
         },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/25/8d/ad/258dad4b-f0d0-fc93-5a52-4622b0815eaf/mza_4112709449130449695.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/25/8d/ad/258dad4b-f0d0-fc93-5a52-4622b0815eaf/mza_4112709449130449695.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/25/8d/ad/258dad4b-f0d0-fc93-5a52-4622b0815eaf/mza_4112709449130449695.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "The most-listened to podcast by women, Alex Cooper’s Call Her Daddy has been creating conversation since 2018. From deep, honest discussions to laugh-out-loud moments, Cooper cuts through the BS with exciting guests and bold topics. New episodes drop every Wednesday, with throwback episodes every Friday. Want more? Join the Daddy Gang @callherdaddy."
-        },
-        "im:artist": {
-          "label": "Alex Cooper"
-        },
-        "title": {
-          "label": "Call Her Daddy - Alex Cooper"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/us/podcast/call-her-daddy/id1418960261?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/us/podcast/call-her-daddy/id1418960261?uo=2",
-          "attributes": {
-            "im:id": "1418960261"
-          }
-        },
         "im:contentType": {
           "attributes": {
             "term": "Podcast",
             "label": "Podcast"
           }
+        },
+        "rights": {
+          "label": "© 2024 SmartLess LLC"
+        },
+        "title": {
+          "label": "SmartLess - Jason Bateman, Sean Hayes, Will Arnett"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/us/podcast/smartless/id1521578868?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/us/podcast/smartless/id1521578868?uo=2",
+          "attributes": {
+            "im:id": "1521578868"
+          }
+        },
+        "im:artist": {
+          "label": "Jason Bateman, Sean Hayes, Will Arnett"
         },
         "category": {
           "attributes": {
@@ -1718,243 +1952,15 @@
           }
         },
         "im:releaseDate": {
-          "label": "2026-02-27T00:00:00-07:00",
+          "label": "2026-03-02T00:01:00-07:00",
           "attributes": {
-            "label": "February 27, 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "Candace"
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "USD"
-          }
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/34/f4/70/34f47043-99eb-0d3e-e412-bb02818ff6af/mza_1116597448727858664.jpeg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/34/f4/70/34f47043-99eb-0d3e-e412-bb02818ff6af/mza_1116597448727858664.jpeg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/34/f4/70/34f47043-99eb-0d3e-e412-bb02818ff6af/mza_1116597448727858664.jpeg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "This time it's just Candace. Free and unfiltered."
-        },
-        "im:artist": {
-          "label": "Candace Owens"
-        },
-        "title": {
-          "label": "Candace - Candace Owens"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/us/podcast/candace/id1750591415?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/us/podcast/candace/id1750591415?uo=2",
-          "attributes": {
-            "im:id": "1750591415"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1527",
-            "term": "Politics",
-            "scheme": "https://podcasts.apple.com/us/genre/podcasts-news-politics/id1527?uo=2",
-            "label": "Politics"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-03-03T16:19:00-07:00",
-          "attributes": {
-            "label": "March 3, 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "The Learning Leader Show With Ryan Hawk"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fb/3c/0e/fb3c0e91-f0a8-44ef-403f-1ec20bece9e0/mza_454404552678702443.png/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fb/3c/0e/fb3c0e91-f0a8-44ef-403f-1ec20bece9e0/mza_454404552678702443.png/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fb/3c/0e/fb3c0e91-f0a8-44ef-403f-1ec20bece9e0/mza_454404552678702443.png/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "Leaders are learners. The best leaders never stop working to make themselves better. The Learning Leader Show Is series of conversations with the world's most thoughtful leaders.  Entrepreneurs, CEO's, World-Class Athletes, Coaches, Best-Selling Authors, and much more."
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "USD"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© Learning Leader LLC 062554"
-        },
-        "title": {
-          "label": "The Learning Leader Show With Ryan Hawk - Ryan Hawk"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/us/podcast/the-learning-leader-show-with-ryan-hawk/id985396258?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/us/podcast/the-learning-leader-show-with-ryan-hawk/id985396258?uo=2",
-          "attributes": {
-            "im:id": "985396258"
-          }
-        },
-        "im:artist": {
-          "label": "Ryan Hawk"
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1491",
-            "term": "Management",
-            "scheme": "https://podcasts.apple.com/us/genre/podcasts-business-management/id1491?uo=2",
-            "label": "Management"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-02-22T16:00:00-07:00",
-          "attributes": {
-            "label": "February 22, 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "The Determined Society with Shawn French"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/be/dc/69/bedc6946-5cd6-2637-724a-912da9dafafb/mza_15530052631320977267.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/be/dc/69/bedc6946-5cd6-2637-724a-912da9dafafb/mza_15530052631320977267.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/be/dc/69/bedc6946-5cd6-2637-724a-912da9dafafb/mza_15530052631320977267.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "Step into the world of Culture Unscripted, where the bright lights meet thoughtful depth. Every episode takes you behind the headlines as we interview celebrities, renowned authors, and elite athletes—not to talk press lines, but to uncover their core truths and cultural perspectives.\nWe dive into the stories behind the personas: What inspires a bestselling author to tug at society’s threads? How does an athlete navigate identity beyond the game? How do cultural icons harness influence to spark social change? These aren’t surface-level soundbites—they’re raw, revealing conversations that reflect who we are and where we’re headed.\nExpect humor. Expect heart. Expect breakthrough insights.\nWhether we’re unpacking a book that reshapes dialogue, exploring the impact of fame on mental health, or analyzing how sports stars challenge societal norms—Culture Unscripted brings you the human stories behind cultural icons and the societal conversations they spark.\nIf you’re curious, driven, and ready for a show that celebrates the richness of culture through the faces shaping it—Culture Unscripted is where you belong. Tune in, and let’s explore the world through the voices that help define it."
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "USD"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© 657616"
-        },
-        "title": {
-          "label": "The Determined Society with Shawn French - Shawn French"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/us/podcast/the-determined-society-with-shawn-french/id1555922064?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/us/podcast/the-determined-society-with-shawn-french/id1555922064?uo=2",
-          "attributes": {
-            "im:id": "1555922064"
-          }
-        },
-        "im:artist": {
-          "label": "Shawn French"
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1302",
-            "term": "Personal Journals",
-            "scheme": "https://podcasts.apple.com/us/genre/podcasts-society-culture-personal-journals/id1302?uo=2",
-            "label": "Personal Journals"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-02-27T02:00:00-07:00",
-          "attributes": {
-            "label": "February 27, 2026"
+            "label": "March 2, 2026"
           }
         }
       }
     ],
     "updated": {
-      "label": "2026-03-03T22:58:40-07:00"
+      "label": "2026-03-04T23:02:50-07:00"
     },
     "rights": {
       "label": "Copyright 2008 Apple Inc."
