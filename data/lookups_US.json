@@ -3,6 +3,22 @@
   "country": "US",
   "count": 25,
   "lookups": {
+    "121493804": {
+      "itunesId": "121493804",
+      "title": "Wait Wait... Don't Tell Me!",
+      "author": "NPR",
+      "feedUrl": "https://feeds.npr.org/344098539/podcast.xml",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e9/94/fe/e994fed6-50a1-6519-9b84-b0beaa205242/mza_2290751556169099993.jpg/600x600bb.jpg",
+      "genre": "Comedy"
+    },
+    "201671138": {
+      "itunesId": "201671138",
+      "title": "This American Life",
+      "author": "This American Life",
+      "feedUrl": "https://www.thisamericanlife.org/podcast/rss.xml",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/64/aa/3a/64aa3a66-a08a-947c-cf21-a5722a1b77ae/mza_11390421932467026234.png/600x600bb.jpg",
+      "genre": "Society & Culture"
+    },
     "278981407": {
       "itunesId": "278981407",
       "title": "Stuff You Should Know",
@@ -18,22 +34,6 @@
       "feedUrl": "https://feeds.megaphone.fm/GLT1412515089",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d8/67/8f/d8678f67-ec2b-f9a7-b057-5397a2fea77e/mza_11180070932421401344.jpg/600x600bb.jpg",
       "genre": "Comedy"
-    },
-    "965818306": {
-      "itunesId": "965818306",
-      "title": "48 Hours",
-      "author": "CBS News",
-      "feedUrl": "https://feeds.megaphone.fm/CBS8186808081",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c8/4f/8f/c84f8fa2-074d-6023-7f31-9c781b80dedc/mza_7616553513239265555.jpeg/600x600bb.jpg",
-      "genre": "True Crime"
-    },
-    "985396258": {
-      "itunesId": "985396258",
-      "title": "The Learning Leader Show With Ryan Hawk",
-      "author": "Ryan Hawk",
-      "feedUrl": "https://rss.libsyn.com/shows/65162/destinations/259291.xml",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fb/3c/0e/fb3c0e91-f0a8-44ef-403f-1ec20bece9e0/mza_454404552678702443.png/600x600bb.jpg",
-      "genre": "Management"
     },
     "987967575": {
       "itunesId": "987967575",
@@ -58,14 +58,6 @@
       "feedUrl": "https://feeds.megaphone.fm/the-bill-simmons-podcast",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bf/d2/75/bfd27513-9234-3d09-e9b7-ea6ee11cf246/mza_6611577651452230589.jpg/600x600bb.jpg",
       "genre": "Sports"
-    },
-    "1089022756": {
-      "itunesId": "1089022756",
-      "title": "Pardon My Take",
-      "author": "Barstool Sports",
-      "feedUrl": "https://mcsorleys.barstoolsports.com/feed/pardon-my-take",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/35/74/6a/35746a0c-7687-7dde-ff04-338d93e78303/mza_10377078556009223546.jpg/600x600bb.jpg",
-      "genre": "Football"
     },
     "1192761536": {
       "itunesId": "1192761536",
@@ -115,12 +107,20 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/8c/00/7a/8c007a42-e550-0214-d4cb-b59cd7edf194/mza_5305664083935674472.jpeg/600x600bb.jpg",
       "genre": "True Crime"
     },
+    "1510240831": {
+      "itunesId": "1510240831",
+      "title": "The MeidasTouch Podcast",
+      "author": "MeidasTouch Network",
+      "feedUrl": "https://feeds.megaphone.fm/PDR2572281095",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/73/32/80/733280d2-330a-2f24-c600-bc1088f9f899/mza_17833502176263457882.jpeg/600x600bb.jpg",
+      "genre": "Politics"
+    },
     "1537788786": {
       "itunesId": "1537788786",
       "title": "The Rest Is History",
       "author": "Goalhanger",
       "feedUrl": "https://feeds.megaphone.fm/GLT4787413333",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b3/8c/50/b38c507b-d4a2-b552-dd2e-894f48493653/mza_8804981712034613158.jpg/600x600bb.jpg",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/92/ee/42/92ee426f-be82-337a-dde4-c329e4f315c7/mza_582955191594450020.jpg/600x600bb.jpg",
       "genre": "History"
     },
     "1545953110": {
