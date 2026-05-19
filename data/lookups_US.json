@@ -3,28 +3,12 @@
   "country": "US",
   "count": 25,
   "lookups": {
-    "121493804": {
-      "itunesId": "121493804",
-      "title": "Wait Wait... Don't Tell Me!",
-      "author": "NPR",
-      "feedUrl": "https://feeds.npr.org/344098539/podcast.xml",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e9/94/fe/e994fed6-50a1-6519-9b84-b0beaa205242/mza_2290751556169099993.jpg/600x600bb.jpg",
-      "genre": "Comedy"
-    },
     "201671138": {
       "itunesId": "201671138",
       "title": "This American Life",
       "author": "This American Life",
       "feedUrl": "https://www.thisamericanlife.org/podcast/rss.xml",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/64/aa/3a/64aa3a66-a08a-947c-cf21-a5722a1b77ae/mza_11390421932467026234.png/600x600bb.jpg",
-      "genre": "Society & Culture"
-    },
-    "278981407": {
-      "itunesId": "278981407",
-      "title": "Stuff You Should Know",
-      "author": "iHeartPodcasts",
-      "feedUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/44710ecc-10bb-48d1-93c7-ae270180c33e/podcast.rss",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/aa/82/91/aa82912f-23ee-6f6a-583c-a4e993164d0e/mza_12111158076643383507.jpg/600x600bb.jpg",
       "genre": "Society & Culture"
     },
     "360084272": {
@@ -58,6 +42,22 @@
       "feedUrl": "https://rss.libsyn.com/shows/67940/destinations/278377.xml",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/55/21/67/55216775-731a-1a0b-6c2a-81923902f058/mza_11706571282358600140.jpeg/600x600bb.jpg",
       "genre": "Entrepreneurship"
+    },
+    "1043699613": {
+      "itunesId": "1043699613",
+      "title": "The Bill Simmons Podcast",
+      "author": "The Ringer",
+      "feedUrl": "https://feeds.megaphone.fm/the-bill-simmons-podcast",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bf/d2/75/bfd27513-9234-3d09-e9b7-ea6ee11cf246/mza_6611577651452230589.jpg/600x600bb.jpg",
+      "genre": "Sports"
+    },
+    "1089022756": {
+      "itunesId": "1089022756",
+      "title": "Pardon My Take",
+      "author": "Barstool Sports",
+      "feedUrl": "https://mcsorleys.barstoolsports.com/feed/pardon-my-take",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/35/74/6a/35746a0c-7687-7dde-ff04-338d93e78303/mza_10377078556009223546.jpg/600x600bb.jpg",
+      "genre": "Football"
     },
     "1192761536": {
       "itunesId": "1192761536",
@@ -107,13 +107,21 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/8c/00/7a/8c007a42-e550-0214-d4cb-b59cd7edf194/mza_5305664083935674472.jpeg/600x600bb.jpg",
       "genre": "True Crime"
     },
-    "1510240831": {
-      "itunesId": "1510240831",
-      "title": "The MeidasTouch Podcast",
-      "author": "MeidasTouch Network",
-      "feedUrl": "https://feeds.megaphone.fm/PDR2572281095",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/73/32/80/733280d2-330a-2f24-c600-bc1088f9f899/mza_17833502176263457882.jpeg/600x600bb.jpg",
-      "genre": "Politics"
+    "1492492083": {
+      "itunesId": "1492492083",
+      "title": "The Shawn Ryan Show",
+      "author": "Shawn Ryan",
+      "feedUrl": "https://rss.pdrl.fm/ac69ac/feeds.megaphone.fm/WWO7410387571",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/d0/b3/2d/d0b32d7f-ab2d-5791-83b0-854f698a9184/mza_13561258173056659752.jpg/600x600bb.jpg",
+      "genre": "Philosophy"
+    },
+    "1520478402": {
+      "itunesId": "1520478402",
+      "title": "Deep Cover",
+      "author": "Pushkin Industries",
+      "feedUrl": "https://rss.pdrl.fm/daa18e/www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/909992ef-65aa-487b-ab34-ae32006cd6c4/9ba7a5cf-2d80-4ab2-84c4-ae32006cd6e0/podcast.rss",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/90/bc/87/90bc87f2-8ff7-aeaf-178e-fc37b8faa276/mza_17079033785766204443.jpg/600x600bb.jpg",
+      "genre": "True Crime"
     },
     "1521578868": {
       "itunesId": "1521578868",
@@ -193,14 +201,6 @@
       "author": "iHeartPodcasts and Glass Podcasts",
       "feedUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/20968bfe-1a62-450f-a762-b3de0110281c/1c0ae3b2-ec1e-4a0c-a144-b3de01102fb1/podcast.rss",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b5/ad/82/b5ad82a9-b29a-1411-1506-05f9f3ad5d6b/mza_17395607531155205240.jpg/600x600bb.jpg",
-      "genre": "True Crime"
-    },
-    "1893952532": {
-      "itunesId": "1893952532",
-      "title": "Blood and Water",
-      "author": "ABC News",
-      "feedUrl": "https://feeds.megaphone.fm/ESP3700629806",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/40/e2/a8/40e2a8a5-b863-714b-ada0-f6d55563a8bb/mza_11817457951602042890.jpeg/600x600bb.jpg",
       "genre": "True Crime"
     }
   }
