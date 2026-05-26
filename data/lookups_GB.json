@@ -3,6 +3,14 @@
   "country": "GB",
   "count": 25,
   "lookups": {
+    "188674007": {
+      "itunesId": "188674007",
+      "title": "Football Weekly",
+      "author": "The Guardian",
+      "feedUrl": "https://www.theguardian.com/football/series/footballweekly/podcast.xml",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/89/f3/60/89f36056-0352-60b4-edc3-e30730f741d4/mza_15862152944700087168.jpg/600x600bb.jpg",
+      "genre": "Soccer"
+    },
     "840986946": {
       "itunesId": "840986946",
       "title": "No Such Thing As A Fish",
@@ -10,14 +18,6 @@
       "feedUrl": "https://audioboom.com/channels/2399216.rss",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6f/9b/4c/6f9b4c39-3c1a-d7c7-9264-b0ed14579e08/mza_7947053701740283670.png/600x600bb.jpg",
       "genre": "Comedy"
-    },
-    "998568017": {
-      "itunesId": "998568017",
-      "title": "Casefile True Crime",
-      "author": "Casefile Presents",
-      "feedUrl": "https://feeds.acast.com/public/shows/679acff465f74095106abfaa",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/32/81/a3/3281a345-6fa5-1d0d-b0bc-f02b0850a0ae/mza_17562537467118278179.jpeg/600x600bb.jpg",
-      "genre": "True Crime"
     },
     "1234185718": {
       "itunesId": "1234185718",
@@ -43,28 +43,12 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/69/af/0d/69af0ddd-1e0f-7ae3-c84b-88f18e31ad0c/mza_14445920128472365296.png/600x600bb.jpg",
       "genre": "Business"
     },
-    "1442950743": {
-      "itunesId": "1442950743",
-      "title": "Off Menu with Ed Gamble and James Acaster",
-      "author": "Plosive",
-      "feedUrl": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/c4/dc/de/c4dcdec7-fbea-749e-7a03-bbe27db17137/mza_4311127974403693339.jpeg/600x600bb.jpg",
-      "genre": "Comedy Interviews"
-    },
     "1451489585": {
       "itunesId": "1451489585",
       "title": "Sh**ged Married Annoyed",
       "author": "Chris & Rosie Ramsey",
       "feedUrl": "https://feeds.megaphone.fm/sma",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/be/b7/5c/beb75c86-9128-5709-5541-80b6c3cc6ed9/mza_18366239786920109178.jpeg/600x600bb.jpg",
-      "genre": "Comedy"
-    },
-    "1465290044": {
-      "itunesId": "1465290044",
-      "title": "Elis James and John Robins",
-      "author": "Significant Productions",
-      "feedUrl": "https://feeds.acast.com/public/shows/698b89c05e0cb52f15bcde20",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9e/74/87/9e748733-bf14-47ef-9000-aa64fa709a3e/mza_9331812427600364864.jpeg/600x600bb.jpg",
       "genre": "Comedy"
     },
     "1510251497": {
@@ -74,6 +58,14 @@
       "feedUrl": "https://feeds.megaphone.fm/GLT9881106244",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/76/2e/ce/762eced7-5848-9e10-9979-5676aa7605c0/mza_15087623262410267473.jpg/600x600bb.jpg",
       "genre": "Comedy"
+    },
+    "1520478402": {
+      "itunesId": "1520478402",
+      "title": "Deep Cover",
+      "author": "Pushkin Industries",
+      "feedUrl": "https://rss.pdrl.fm/daa18e/www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/909992ef-65aa-487b-ab34-ae32006cd6c4/9ba7a5cf-2d80-4ab2-84c4-ae32006cd6e0/podcast.rss",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/90/bc/87/90bc87f2-8ff7-aeaf-178e-fc37b8faa276/mza_17079033785766204443.jpg/600x600bb.jpg",
+      "genre": "True Crime"
     },
     "1537788786": {
       "itunesId": "1537788786",
@@ -115,6 +107,14 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/40/86/8d/40868d10-4f7c-a931-e314-0e31be83667b/mza_15291423343249011134.jpg/600x600bb.jpg",
       "genre": "Daily News"
     },
+    "1665265193": {
+      "itunesId": "1665265193",
+      "title": "The Rest Is Politics: Leading",
+      "author": "Goalhanger",
+      "feedUrl": "https://feeds.megaphone.fm/GLT9029505120",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/39/fb/9f/39fb9f6d-a443-5667-38f8-9baa8a6bdcd4/mza_13045446392846167658.jpg/600x600bb.jpg",
+      "genre": "Politics"
+    },
     "1692238236": {
       "itunesId": "1692238236",
       "title": "OnlyFantasy",
@@ -146,14 +146,6 @@
       "feedUrl": "https://feeds.megaphone.fm/GLT2052042801",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/18/c1/db/18c1db2f-cd89-58bb-268f-8c54f5d5cae1/mza_3046254900583884034.jpeg/600x600bb.jpg",
       "genre": "TV & Film"
-    },
-    "1743030473": {
-      "itunesId": "1743030473",
-      "title": "The Rest Is Politics: US",
-      "author": "Goalhanger",
-      "feedUrl": "https://feeds.megaphone.fm/GLT5336643697",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5b/c3/e9/5bc3e925-fc43-4bef-563b-b058ffc27662/mza_11625506103590038823.jpg/600x600bb.jpg",
-      "genre": "Politics"
     },
     "1765126946": {
       "itunesId": "1765126946",
@@ -202,6 +194,14 @@
       "feedUrl": "https://feeds.acast.com/public/shows/69f216e6c2d898b28bb23ff3",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/05/1e/b4/051eb4e1-fc47-19fc-e1ff-2fe4a8a0a747/mza_7673203958432051756.jpeg/600x600bb.jpg",
       "genre": "Comedy"
+    },
+    "1896758017": {
+      "itunesId": "1896758017",
+      "title": "Sisters of Defiance",
+      "author": "Anita Rani",
+      "feedUrl": "https://feeds.acast.com/public/shows/6a074ee3a8fad4c1be30740e",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4d/57/0c/4d570ce5-6fe4-10b8-fc74-fec5f32d2fae/mza_15249605283798640250.jpeg/600x600bb.jpg",
+      "genre": "Personal Journals"
     }
   }
 }
