@@ -3,14 +3,6 @@
   "country": "IL",
   "count": 25,
   "lookups": {
-    "1019124387": {
-      "itunesId": "1019124387",
-      "title": "גיקונומי",
-      "author": "ראם שרמן ודורון ניר",
-      "feedUrl": "https://feed.podbean.com/geekonomy/feed.xml",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/20/a5/ba/20a5ba27-76cf-1723-c152-c1bad503295a/mza_8981528332580889852.jpg/600x600bb.jpg",
-      "genre": "Society & Culture"
-    },
     "1076440606": {
       "itunesId": "1076440606",
       "title": "הפודיום",
@@ -18,6 +10,14 @@
       "feedUrl": "https://feeds.megaphone.fm/POLTD9711993371",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/97/87/06/9787068f-1e75-e403-fc95-2491e9924a2a/mza_5205139965271048606.png/600x600bb.jpg",
       "genre": "Soccer"
+    },
+    "1120184157": {
+      "itunesId": "1120184157",
+      "title": "ציון 3",
+      "author": "יונתן נמרודי וראם שרמן",
+      "feedUrl": "http://tziun3.co.il/?feed=podcast",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/eb/16/27/eb1627ba-ae4d-4a9c-5694-681e7fcb1641/mza_850072062510866468.jpg/600x600bb.jpg",
+      "genre": "Sports"
     },
     "1198989209": {
       "itunesId": "1198989209",
@@ -51,6 +51,14 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a4/d8/d9/a4d8d907-2cdd-8598-dc49-3dca5eb42c48/mza_9757300629596409593.jpg/600x600bb.jpg",
       "genre": "News"
     },
+    "1441247448": {
+      "itunesId": "1441247448",
+      "title": "האינטרסנטים",
+      "author": "TheMarker",
+      "feedUrl": "https://www.omnycontent.com/d/playlist/397b9456-4f75-4509-acff-ac0600b4a6a4/161f6359-650a-4e72-9090-ac07017cc8e0/f4c15dc2-8e2b-4391-b534-ac07017cc8f8/podcast.rss",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/07/b7/04/07b70453-7b3b-8541-777e-4a4c57af23c2/mza_4205213924129249441.jpg/600x600bb.jpg",
+      "genre": "Careers"
+    },
     "1441947841": {
       "itunesId": "1441947841",
       "title": "התשובה עם דורון פישלר Hatshuva With Doron Fishler",
@@ -75,14 +83,6 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b4/7e/9e/b47e9e97-c2da-1b76-a1ac-d82d5961fd5f/mza_15481505242036843266.jpg/600x600bb.jpg",
       "genre": "Comedy"
     },
-    "1550747153": {
-      "itunesId": "1550747153",
-      "title": "הכותרת",
-      "author": "שרון כידון | Be.po",
-      "feedUrl": "https://www.omnycontent.com/d/playlist/de0f04c1-f777-4661-b029-af6d01426cad/026b5414-4254-4038-9761-af7a00e8707e/30c4e768-7d14-4c98-bb13-af7a00e87095/podcast.rss",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/31/98/33/31983315-f2c6-7da9-b51f-62c5a3581a7b/mza_2711165237298735449.jpg/600x600bb.jpg",
-      "genre": "Daily News"
-    },
     "1553686409": {
       "itunesId": "1553686409",
       "title": "אחד ביום",
@@ -91,13 +91,13 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts124/v4/40/14/7f/40147f80-8870-68d4-20a0-40b1a57b98ce/mza_1843607712595016551.jpg/600x600bb.jpg",
       "genre": "Daily News"
     },
-    "1553943641": {
-      "itunesId": "1553943641",
-      "title": "המוג׳ו של בן בן ברוך",
-      "author": "בן בן ברוך",
-      "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:351419093/sounds.rss",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/cd/69/72/cd69721e-8131-fdb0-b912-ad979c2c6841/mza_5065462337039586986.jpg/600x600bb.jpg",
-      "genre": "Comedy"
+    "1560225085": {
+      "itunesId": "1560225085",
+      "title": "מפלגת המחשבות",
+      "author": "Beit Avi Chai",
+      "feedUrl": "https://rss.buzzsprout.com/1740993.rss",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a9/b4/54/a9b45486-1aba-8176-77af-ca50d7d8660f/mza_5893513791444786470.jpg/600x600bb.jpg",
+      "genre": "Politics"
     },
     "1595476982": {
       "itunesId": "1595476982",
@@ -147,6 +147,14 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/82/d6/73/82d6730d-8f9f-8ccf-f8d6-f98fe3fa5721/mza_18067098658963105321.jpg/600x600bb.jpg",
       "genre": "Investing"
     },
+    "1739161374": {
+      "itunesId": "1739161374",
+      "title": "TrashTech (טראשטק)",
+      "author": "עמרי ברק ויואב צוקר",
+      "feedUrl": "https://anchor.fm/s/f4876104/podcast/rss",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/a6/9a/00a69aaa-fce3-ffb2-4707-308e47ea7868/mza_9630528147610591028.jpg/600x600bb.jpg",
+      "genre": "Tech News"
+    },
     "1759848794": {
       "itunesId": "1759848794",
       "title": "קיקטוק",
@@ -179,22 +187,6 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/72/e5/8572e5d5-436a-8828-e722-d67db46b8f81/mza_4977448199397169417.jpg/600x600bb.jpg",
       "genre": "Tech News"
     },
-    "1896239265": {
-      "itunesId": "1896239265",
-      "title": "הבעיה של השמאל",
-      "author": "הבעיה של השמאל",
-      "feedUrl": "https://www.omnycontent.com/d/playlist/397b9456-4f75-4509-acff-ac0600b4a6a4/64c53c56-9886-44ab-b19a-b44000a49137/e8ba42da-e207-4e22-b114-b44000a49559/podcast.rss",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/bb/53/66/bb53669a-e5b1-8114-a99e-ddd543104d4b/mza_16413812677134809698.jpg/600x600bb.jpg",
-      "genre": "Government"
-    },
-    "1896620544": {
-      "itunesId": "1896620544",
-      "title": "פינג פונג שואו",
-      "author": "All•in",
-      "feedUrl": "https://anchor.fm/s/1128d6360/podcast/rss",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b6/65/35/b6653548-5e53-e520-b561-9542e48ccd54/mza_6707425613475478757.jpg/600x600bb.jpg",
-      "genre": "Society & Culture"
-    },
     "1896778943": {
       "itunesId": "1896778943",
       "title": "פרובוקצה",
@@ -202,6 +194,14 @@
       "feedUrl": "https://feeds.megaphone.fm/POLTD8375826095",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/28/42/04/2842045c-5760-d235-c040-2ba94d2cdb9c/mza_842962910599278318.jpeg/600x600bb.jpg",
       "genre": "Comedy Interviews"
+    },
+    "1896805220": {
+      "itunesId": "1896805220",
+      "title": "סיפורו של מחדל",
+      "author": "גלצ",
+      "feedUrl": "https://www.omnycontent.com/d/playlist/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/165ea8fb-7c96-4acb-95bb-b4540068c77b/5fd4cd40-2f76-4f50-aeec-b4540068cbfc/podcast.rss",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/49/30/d7/4930d766-95d9-48c6-7d77-0be998082ffd/mza_9341703057906084991.jpg/600x600bb.jpg",
+      "genre": "News"
     }
   }
 }
