@@ -3,6 +3,14 @@
   "country": "US",
   "count": 24,
   "lookups": {
+    "201671138": {
+      "itunesId": "201671138",
+      "title": "This American Life",
+      "author": "This American Life",
+      "feedUrl": "https://www.thisamericanlife.org/podcast/rss.xml",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/64/aa/3a/64aa3a66-a08a-947c-cf21-a5722a1b77ae/mza_11390421932467026234.png/600x600bb.jpg",
+      "genre": "Society & Culture"
+    },
     "278981407": {
       "itunesId": "278981407",
       "title": "Stuff You Should Know",
@@ -19,14 +27,6 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/33/11/6f/33116fdc-3ed2-1ddf-6dd5-e0f34446a7de/mza_7460778646059903122.jpg/600x600bb.jpg",
       "genre": "Comedy"
     },
-    "965818306": {
-      "itunesId": "965818306",
-      "title": "48 Hours",
-      "author": "CBS News",
-      "feedUrl": "https://rss.amperwave.net/v2/feed/audacynetwork/496099a4061493caac75b71a6c26b8fb",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c8/4f/8f/c84f8fa2-074d-6023-7f31-9c781b80dedc/mza_7616553513239265555.jpeg/600x600bb.jpg",
-      "genre": "TV & Film"
-    },
     "987967575": {
       "itunesId": "987967575",
       "title": "20/20",
@@ -42,14 +42,6 @@
       "feedUrl": "https://rss.libsyn.com/shows/67940/destinations/278377.xml",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/55/21/67/55216775-731a-1a0b-6c2a-81923902f058/mza_11706571282358600140.jpeg/600x600bb.jpg",
       "genre": "Entrepreneurship"
-    },
-    "1089022756": {
-      "itunesId": "1089022756",
-      "title": "Pardon My Take",
-      "author": "Barstool Sports",
-      "feedUrl": "https://mcsorleys.barstoolsports.com/feed/pardon-my-take",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/35/74/6a/35746a0c-7687-7dde-ff04-338d93e78303/mza_10377078556009223546.jpg/600x600bb.jpg",
-      "genre": "Football"
     },
     "1192761536": {
       "itunesId": "1192761536",
@@ -107,22 +99,6 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/8c/00/7a/8c007a42-e550-0214-d4cb-b59cd7edf194/mza_5305664083935674472.jpeg/600x600bb.jpg",
       "genre": "True Crime"
     },
-    "1519456164": {
-      "itunesId": "1519456164",
-      "title": "Serialously with Annie Elise",
-      "author": "Annie Elise & Audioboom Studios",
-      "feedUrl": "https://audioboom.com/channels/5100770.rss",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b8/ae/ae/b8aeaee5-e289-54f0-c223-58334b88ddfb/mza_6406683089903069019.jpg/600x600bb.jpg",
-      "genre": "True Crime"
-    },
-    "1532976305": {
-      "itunesId": "1532976305",
-      "title": "The Megyn Kelly Show",
-      "author": "SiriusXM",
-      "feedUrl": "https://feeds.simplecast.com/RV1USAfC",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3e/9f/c1/3e9fc13c-8030-b57e-f29e-0f14dc8db10d/mza_602213930944272333.jpg/600x600bb.jpg",
-      "genre": "News Commentary"
-    },
     "1537788786": {
       "itunesId": "1537788786",
       "title": "The Rest Is History",
@@ -139,13 +115,13 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9d/ca/35/9dca35d8-e7d2-7e4f-63b5-c2ff4973a3f5/mza_16891544429738729361.jpg/600x600bb.jpg",
       "genre": "Society & Culture"
     },
-    "1646101002": {
-      "itunesId": "1646101002",
-      "title": "The Mel Robbins Podcast",
-      "author": "Mel Robbins",
-      "feedUrl": "https://feeds.simplecast.com/UCwaTX1J",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2a/9f/c7/2a9fc792-c6a7-e159-0e10-a4442eec27d5/mza_5919882476720095362.jpg/600x600bb.jpg",
-      "genre": "Self-Improvement"
+    "1559564016": {
+      "itunesId": "1559564016",
+      "title": "Money Rehab with Nicole Lapin",
+      "author": "Money News Network",
+      "feedUrl": "https://feeds.megaphone.fm/TPG1669083856",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/97/41/91/97419109-345d-c6ab-da6f-5900ae26affe/mza_14505862824692177136.jpg/600x600bb.jpg",
+      "genre": "Business"
     },
     "1676846015": {
       "itunesId": "1676846015",
@@ -155,13 +131,13 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b5/c2/a2/b5c2a2d7-c4ff-41fe-fdf4-40c5f058e51b/mza_5124876125738057720.jpg/600x600bb.jpg",
       "genre": "Entrepreneurship"
     },
-    "1719657632": {
-      "itunesId": "1719657632",
-      "title": "The Tucker Carlson Show",
-      "author": "Tucker Carlson Network",
-      "feedUrl": "https://feeds.megaphone.fm/RSV1597324942",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/1a/1f/9c/1a1f9c6d-67fd-0e33-cdf3-4b62617ea9a6/mza_9226157347267917930.jpg/600x600bb.jpg",
-      "genre": "News Commentary"
+    "1728723635": {
+      "itunesId": "1728723635",
+      "title": "The Jamie Kern Lima Show",
+      "author": "Jamie Kern Lima",
+      "feedUrl": "https://feeds.megaphone.fm/LIFEISLOVELLC4342849321",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/50/66/2e/50662e7d-1f7e-3d9f-1f87-562a90dbdb0c/mza_10576714993608979175.jpeg/600x600bb.jpg",
+      "genre": "Self-Improvement"
     },
     "1731755953": {
       "itunesId": "1731755953",
@@ -171,6 +147,14 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/43/38/94/43389483-6e9b-050f-09f1-f3f6f43b5146/mza_4898027400280038938.jpeg/600x600bb.jpg",
       "genre": "Self-Improvement"
     },
+    "1744386875": {
+      "itunesId": "1744386875",
+      "title": "Proven Podcast",
+      "author": "Charles Schwartz",
+      "feedUrl": "https://rss.libsyn.com/shows/526583/destinations/4528548.xml",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/79/33/d2/7933d22b-9392-7d2c-714f-9a4c624003e5/mza_1012289391812617337.png/600x600bb.jpg",
+      "genre": "Entrepreneurship"
+    },
     "1795483480": {
       "itunesId": "1795483480",
       "title": "Good Hang with Amy Poehler",
@@ -178,6 +162,14 @@
       "feedUrl": "https://feeds.megaphone.fm/good-hang-with-amy-poehler",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/2b/94/bb/2b94bb6e-44f1-9d57-7748-b7456072806d/mza_1064202164981856225.jpg/600x600bb.jpg",
       "genre": "Comedy"
+    },
+    "1837193185": {
+      "itunesId": "1837193185",
+      "title": "The Vault Unlocked",
+      "author": "Kayvon Kay",
+      "feedUrl": "https://rss.libsyn.com/shows/591700/destinations/5140720.xml",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4a/9b/ba/4a9bba63-a1fa-c587-b9fd-1602438126dd/mza_14639740324285856032.png/600x600bb.jpg",
+      "genre": "Marketing"
     },
     "1844970260": {
       "itunesId": "1844970260",
@@ -194,6 +186,14 @@
       "feedUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/20968bfe-1a62-450f-a762-b3de0110281c/1c0ae3b2-ec1e-4a0c-a144-b3de01102fb1/podcast.rss",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b5/ad/82/b5ad82a9-b29a-1411-1506-05f9f3ad5d6b/mza_17395607531155205240.jpg/600x600bb.jpg",
       "genre": "True Crime"
+    },
+    "1895066656": {
+      "itunesId": "1895066656",
+      "title": "Hidden History with Dr. Harini Bhat",
+      "author": "Rewind Studios",
+      "feedUrl": "https://rss.amperwave.net/v2/feed/audacynetwork/9aee7d7eb8876a2f6880dceccf4955f6",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/50/5e/a6/505ea6d1-7ead-9877-22ea-5dc0b6642a49/mza_14229330381885096858.png/600x600bb.jpg",
+      "genre": "History"
     }
   }
 }
