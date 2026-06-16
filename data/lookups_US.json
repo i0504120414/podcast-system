@@ -1,30 +1,14 @@
 {
   "success": true,
   "country": "US",
-  "count": 24,
+  "count": 25,
   "lookups": {
-    "121493804": {
-      "itunesId": "121493804",
-      "title": "Wait Wait... Don't Tell Me!",
-      "author": "NPR",
-      "feedUrl": "https://feeds.npr.org/344098539/podcast.xml",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e9/94/fe/e994fed6-50a1-6519-9b84-b0beaa205242/mza_2290751556169099993.jpg/600x600bb.jpg",
-      "genre": "Comedy"
-    },
     "201671138": {
       "itunesId": "201671138",
       "title": "This American Life",
       "author": "This American Life",
       "feedUrl": "https://www.thisamericanlife.org/podcast/rss.xml",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/64/aa/3a/64aa3a66-a08a-947c-cf21-a5722a1b77ae/mza_11390421932467026234.png/600x600bb.jpg",
-      "genre": "Society & Culture"
-    },
-    "278981407": {
-      "itunesId": "278981407",
-      "title": "Stuff You Should Know",
-      "author": "iHeartPodcasts",
-      "feedUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/44710ecc-10bb-48d1-93c7-ae270180c33e/podcast.rss",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/aa/82/91/aa82912f-23ee-6f6a-583c-a4e993164d0e/mza_12111158076643383507.jpg/600x600bb.jpg",
       "genre": "Society & Culture"
     },
     "360084272": {
@@ -51,6 +35,14 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/81/6c/5d/816c5d57-7c3f-3df9-1557-08e17469dfe4/mza_1433648970787567135.jpg/600x600bb.jpg",
       "genre": "True Crime"
     },
+    "1012570406": {
+      "itunesId": "1012570406",
+      "title": "REAL AF with Andy Frisella",
+      "author": "Andy Frisella",
+      "feedUrl": "https://rss.libsyn.com/shows/67940/destinations/278377.xml",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/55/21/67/55216775-731a-1a0b-6c2a-81923902f058/mza_11706571282358600140.jpeg/600x600bb.jpg",
+      "genre": "Entrepreneurship"
+    },
     "1043699613": {
       "itunesId": "1043699613",
       "title": "The Bill Simmons Podcast",
@@ -58,6 +50,14 @@
       "feedUrl": "https://feeds.megaphone.fm/the-bill-simmons-podcast",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d6/ec/33/d6ec332d-41b2-4f6e-3b26-26932d266089/mza_9745793819236520970.jpg/600x600bb.jpg",
       "genre": "Sports"
+    },
+    "1089022756": {
+      "itunesId": "1089022756",
+      "title": "Pardon My Take",
+      "author": "Barstool Sports",
+      "feedUrl": "https://mcsorleys.barstoolsports.com/feed/pardon-my-take",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/35/74/6a/35746a0c-7687-7dde-ff04-338d93e78303/mza_10377078556009223546.jpg/600x600bb.jpg",
+      "genre": "Football"
     },
     "1192761536": {
       "itunesId": "1192761536",
@@ -115,13 +115,21 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/8c/00/7a/8c007a42-e550-0214-d4cb-b59cd7edf194/mza_5305664083935674472.jpeg/600x600bb.jpg",
       "genre": "True Crime"
     },
-    "1510240831": {
-      "itunesId": "1510240831",
-      "title": "The MeidasTouch Podcast",
-      "author": "MeidasTouch Network",
-      "feedUrl": "https://feeds.megaphone.fm/PDR2572281095",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/73/32/80/733280d2-330a-2f24-c600-bc1088f9f899/mza_17833502176263457882.jpeg/600x600bb.jpg",
-      "genre": "Politics"
+    "1492492083": {
+      "itunesId": "1492492083",
+      "title": "The Shawn Ryan Show",
+      "author": "Shawn Ryan",
+      "feedUrl": "https://rss.pdrl.fm/ac69ac/feeds.megaphone.fm/WWO7410387571",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/d0/b3/2d/d0b32d7f-ab2d-5791-83b0-854f698a9184/mza_13561258173056659752.jpg/600x600bb.jpg",
+      "genre": "Philosophy"
+    },
+    "1519456164": {
+      "itunesId": "1519456164",
+      "title": "Serialously with Annie Elise",
+      "author": "Annie Elise & Audioboom Studios",
+      "feedUrl": "https://audioboom.com/channels/5100770.rss",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b8/ae/ae/b8aeaee5-e289-54f0-c223-58334b88ddfb/mza_6406683089903069019.jpg/600x600bb.jpg",
+      "genre": "True Crime"
     },
     "1521578868": {
       "itunesId": "1521578868",
@@ -131,13 +139,13 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b1/93/5f/b1935f9f-35be-9144-e813-626bd8dabfb4/mza_4132654708551836825.jpg/600x600bb.jpg",
       "genre": "Comedy"
     },
-    "1537788786": {
-      "itunesId": "1537788786",
-      "title": "The Rest Is History",
-      "author": "Goalhanger",
-      "feedUrl": "https://feeds.megaphone.fm/GLT4787413333",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/20/ed/c7/20edc799-fdb3-e608-a164-0cdaaee63c6b/mza_16701966284979673066.jpg/600x600bb.jpg",
-      "genre": "History"
+    "1532976305": {
+      "itunesId": "1532976305",
+      "title": "The Megyn Kelly Show",
+      "author": "SiriusXM",
+      "feedUrl": "https://feeds.simplecast.com/RV1USAfC",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3e/9f/c1/3e9fc13c-8030-b57e-f29e-0f14dc8db10d/mza_602213930944272333.jpg/600x600bb.jpg",
+      "genre": "News Commentary"
     },
     "1646101002": {
       "itunesId": "1646101002",
