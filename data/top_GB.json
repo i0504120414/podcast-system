@@ -80,9 +80,9 @@
           }
         },
         "im:releaseDate": {
-          "label": "2026-06-17T16:00:00-07:00",
+          "label": "2026-06-19T04:25:00-07:00",
           "attributes": {
-            "label": "17 June 2026"
+            "label": "19 June 2026"
           }
         }
       },
@@ -314,9 +314,9 @@
           }
         },
         "im:releaseDate": {
-          "label": "2026-06-17T23:35:00-07:00",
+          "label": "2026-06-21T23:35:00-07:00",
           "attributes": {
-            "label": "17 June 2026"
+            "label": "21 June 2026"
           }
         }
       },
@@ -394,9 +394,163 @@
           }
         },
         "im:releaseDate": {
-          "label": "2026-06-20T00:40:00-07:00",
+          "label": "2026-06-21T23:04:00-07:00",
           "attributes": {
-            "label": "20 June 2026"
+            "label": "21 June 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "Newscast"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/69/3d/77/693d775a-d8d8-d735-a66f-072b8ae54106/mza_14077127562991224684.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/69/3d/77/693d775a-d8d8-d735-a66f-072b8ae54106/mza_14077127562991224684.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/69/3d/77/693d775a-d8d8-d735-a66f-072b8ae54106/mza_14077127562991224684.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "The BBC's daily news podcast, Newscast dives into the day's biggest news stories so you're never out of your depth.\nNewscast picks the brains of BBC News experts so you're ready if someone picks yours, covering the latest news, developments in politics in Westminster and beyond.\nNewscast is hosted by trusted politics and news journalists including Adam Fleming, BBC Political Editor Chris Mason, Laura Kuenssberg and Paddy O'Connell.    \nYou can now listen to Newscast on a smart speaker. If you want to listen, just say \"Ask BBC Sounds to play Newscast”. It works on most smart speakers.\nCatch Newscast seven-days a week and watch on BBC One at 23:40 on Thursday night or later on BBC iPlayer. \nGET IN TOUCH:\nYou can join our Newscast online community here: https://bbc.in/newscastdiscord\nSend us a message or voicenote via WhatsApp to 03301239480\nEmail Newscast@bbc.co.uk\nOr use the hashtag #BBCNewscast"
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "GBP"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© (C) BBC 2026"
+        },
+        "title": {
+          "label": "Newscast - BBC News"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/gb/podcast/newscast/id1234185718?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/gb/podcast/newscast/id1234185718?uo=2",
+          "attributes": {
+            "im:id": "1234185718"
+          }
+        },
+        "im:artist": {
+          "label": "BBC News",
+          "attributes": {
+            "href": "https://podcasts.apple.com/gb/artist/bbc/121676617?uo=2"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1526",
+            "term": "Daily News",
+            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-news-daily-news/id1526?uo=2",
+            "label": "Daily News"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-06-21T05:11:00-07:00",
+          "attributes": {
+            "label": "21 June 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "The Louis Theroux Podcast"
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "GBP"
+          }
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/1e/20/d1/1e20d177-1e41-10cf-1e2d-3b895ad3df8e/mza_10878364100163359946.jpeg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/1e/20/d1/1e20d177-1e41-10cf-1e2d-3b895ad3df8e/mza_10878364100163359946.jpeg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/1e/20/d1/1e20d177-1e41-10cf-1e2d-3b895ad3df8e/mza_10878364100163359946.jpeg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "Join Louis Theroux as he embarks on a series of in-depth and freewheeling conversations with a curated collection of fascinating figures from across the globe. The Louis Theroux Podcast is a Spotify podcast from Mindhouse, now available everywhere."
+        },
+        "im:artist": {
+          "label": "Spotify Studios"
+        },
+        "title": {
+          "label": "The Louis Theroux Podcast - Spotify Studios"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/gb/podcast/the-louis-theroux-podcast/id1725833532?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/gb/podcast/the-louis-theroux-podcast/id1725833532?uo=2",
+          "attributes": {
+            "im:id": "1725833532"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1324",
+            "term": "Society & Culture",
+            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-society-culture/id1324?uo=2",
+            "label": "Society & Culture"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-06-08T16:00:00-07:00",
+          "attributes": {
+            "label": "08 June 2026"
           }
         }
       },
@@ -479,104 +633,30 @@
       },
       {
         "im:name": {
-          "label": "The Louis Theroux Podcast"
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "GBP"
-          }
+          "label": "Stick to Football"
         },
         "im:image": [
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/1e/20/d1/1e20d177-1e41-10cf-1e2d-3b895ad3df8e/mza_10878364100163359946.jpeg/55x55bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bc/33/7d/bc337da6-5892-58c9-c6f2-a8b6e85d8eff/mza_17269967902655057672.jpeg/55x55bb.png",
             "attributes": {
               "height": "55"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/1e/20/d1/1e20d177-1e41-10cf-1e2d-3b895ad3df8e/mza_10878364100163359946.jpeg/60x60bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bc/33/7d/bc337da6-5892-58c9-c6f2-a8b6e85d8eff/mza_17269967902655057672.jpeg/60x60bb.png",
             "attributes": {
               "height": "60"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/1e/20/d1/1e20d177-1e41-10cf-1e2d-3b895ad3df8e/mza_10878364100163359946.jpeg/170x170bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bc/33/7d/bc337da6-5892-58c9-c6f2-a8b6e85d8eff/mza_17269967902655057672.jpeg/170x170bb.png",
             "attributes": {
               "height": "170"
             }
           }
         ],
         "summary": {
-          "label": "Join Louis Theroux as he embarks on a series of in-depth and freewheeling conversations with a curated collection of fascinating figures from across the globe. The Louis Theroux Podcast is a Spotify podcast from Mindhouse, now available everywhere."
-        },
-        "im:artist": {
-          "label": "Spotify Studios"
-        },
-        "title": {
-          "label": "The Louis Theroux Podcast - Spotify Studios"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/gb/podcast/the-louis-theroux-podcast/id1725833532?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/gb/podcast/the-louis-theroux-podcast/id1725833532?uo=2",
-          "attributes": {
-            "im:id": "1725833532"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1324",
-            "term": "Society & Culture",
-            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-society-culture/id1324?uo=2",
-            "label": "Society & Culture"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-06-08T16:00:00-07:00",
-          "attributes": {
-            "label": "08 June 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "The Rest Is Politics: US"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3a/f4/51/3af451dd-f500-9c3e-8834-839d86076411/mza_11954146268283790758.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3a/f4/51/3af451dd-f500-9c3e-8834-839d86076411/mza_11954146268283790758.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3a/f4/51/3af451dd-f500-9c3e-8834-839d86076411/mza_11954146268283790758.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "TRIP US uncovers secrets from inside the White House inner circles as well as taking a wider look at the intricacies of United States society and how they shape the world's most important economy.\n\nThe podcast is hosted by Anthony Scaramucci (The Mooch), former White House Director of Communications and Wall Street financier, and Katty Kay, US special correspondent for BBC who has been covering US politics for almost 30 years. \n\nStay informed with in-depth discussions on key political events, policy changes, and the forces shaping America’s future on the global stage.\n\nNew episodes released every Friday, or join our club for bonus content. Just head to https://therestispoliticsus.com to sign up today.."
+          "label": "An original series from The Overlap - with Gary Neville, Jamie Carragher, Jill Scott, Ian Wright and Roy Keane, featuring special guests discussing all things football. Hosted on Acast. See acast.com/privacy for more information."
         },
         "im:price": {
           "label": "Get",
@@ -592,22 +672,99 @@
           }
         },
         "rights": {
-          "label": "© Goalhanger"
+          "label": "© The Overlap"
         },
         "title": {
-          "label": "The Rest Is Politics: US - Goalhanger"
+          "label": "Stick to Football - The Overlap"
         },
         "link": {
           "attributes": {
             "rel": "alternate",
             "type": "text/html",
-            "href": "https://podcasts.apple.com/gb/podcast/the-rest-is-politics-us/id1743030473?uo=2"
+            "href": "https://podcasts.apple.com/gb/podcast/stick-to-football/id1709142395?uo=2"
           }
         },
         "id": {
-          "label": "https://podcasts.apple.com/gb/podcast/the-rest-is-politics-us/id1743030473?uo=2",
+          "label": "https://podcasts.apple.com/gb/podcast/stick-to-football/id1709142395?uo=2",
           "attributes": {
-            "im:id": "1743030473"
+            "im:id": "1709142395"
+          }
+        },
+        "im:artist": {
+          "label": "The Overlap"
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1546",
+            "term": "Soccer",
+            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-sport-football/id1546?uo=2",
+            "label": "Football"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-06-18T19:44:00-07:00",
+          "attributes": {
+            "label": "18 June 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "The Rest Is Politics: Leading"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/39/fb/9f/39fb9f6d-a443-5667-38f8-9baa8a6bdcd4/mza_13045446392846167658.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/39/fb/9f/39fb9f6d-a443-5667-38f8-9baa8a6bdcd4/mza_13045446392846167658.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/39/fb/9f/39fb9f6d-a443-5667-38f8-9baa8a6bdcd4/mza_13045446392846167658.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "The Rest Is Politics’ Alastair Campbell and Rory Stewart interview politicians, leaders, intellectuals, and more. \n\nFrom inside and outside of politics, guests join Rory and Alastair to discuss life, leadership, and the philosophy that’s led them to success in their chosen field. Their conversations cover key political events, global affairs, and the big ideas shaping the world today, offering listeners in-depth perspectives from those at the heart of change.\n\nThe Rest Is Politics Plus: Become a member for exclusive bonus content, early access to Question Time episodes to live show tickets, ad-free listening for both TRIP and Leading, our exclusive newsletter, discount book prices on titles mentioned on the pod, and our members’ chatroom on Discord. Just head to therestispolitics.com to sign up, or start a free trial today on Apple Podcasts: apple.co/therestispolitics.\n\nFor more Goalhanger Podcasts, head to www.goalhanger.com."
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "GBP"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© Goalhanger Podcasts"
+        },
+        "title": {
+          "label": "The Rest Is Politics: Leading - Goalhanger"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/gb/podcast/the-rest-is-politics-leading/id1665265193?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/gb/podcast/the-rest-is-politics-leading/id1665265193?uo=2",
+          "attributes": {
+            "im:id": "1665265193"
           }
         },
         "im:artist": {
@@ -622,9 +779,89 @@
           }
         },
         "im:releaseDate": {
-          "label": "2026-06-18T11:00:00-07:00",
+          "label": "2026-06-21T16:00:00-07:00",
           "attributes": {
-            "label": "18 June 2026"
+            "label": "21 June 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "No Such Thing As A Fish"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6f/9b/4c/6f9b4c39-3c1a-d7c7-9264-b0ed14579e08/mza_7947053701740283670.png/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6f/9b/4c/6f9b4c39-3c1a-d7c7-9264-b0ed14579e08/mza_7947053701740283670.png/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6f/9b/4c/6f9b4c39-3c1a-d7c7-9264-b0ed14579e08/mza_7947053701740283670.png/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "The official channel for the show about everything: four dorks discuss the most amazing facts they’ve learned over the last seven days.\n\n\nThe multi award-winning, globe-travelling, 600-million-download phenomenon. Hosted by Dan Schreiber, James Harkin, Andrew Hunter Murray and Anna Ptaszynski."
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "GBP"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© 2014 Quite Interesting Ltd"
+        },
+        "title": {
+          "label": "No Such Thing As A Fish - No Such Thing As A Fish"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/gb/podcast/no-such-thing-as-a-fish/id840986946?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/gb/podcast/no-such-thing-as-a-fish/id840986946?uo=2",
+          "attributes": {
+            "im:id": "840986946"
+          }
+        },
+        "im:artist": {
+          "label": "No Such Thing As A Fish",
+          "attributes": {
+            "href": "https://podcasts.apple.com/gb/artist/qi-elves/875258601?uo=2"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1303",
+            "term": "Comedy",
+            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-comedy/id1303?uo=2",
+            "label": "Comedy"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-06-21T15:55:00-07:00",
+          "attributes": {
+            "label": "21 June 2026"
           }
         }
       },
@@ -707,30 +944,7 @@
       },
       {
         "im:name": {
-          "label": "Stick to Football"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bc/33/7d/bc337da6-5892-58c9-c6f2-a8b6e85d8eff/mza_17269967902655057672.jpeg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bc/33/7d/bc337da6-5892-58c9-c6f2-a8b6e85d8eff/mza_17269967902655057672.jpeg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bc/33/7d/bc337da6-5892-58c9-c6f2-a8b6e85d8eff/mza_17269967902655057672.jpeg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "An original series from The Overlap - with Gary Neville, Jamie Carragher, Jill Scott, Ian Wright and Roy Keane, featuring special guests discussing all things football. Hosted on Acast. See acast.com/privacy for more information."
+          "label": "The Diary Of A CEO with Steven Bartlett"
         },
         "im:price": {
           "label": "Get",
@@ -739,46 +953,66 @@
             "currency": "GBP"
           }
         },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/69/af/0d/69af0ddd-1e0f-7ae3-c84b-88f18e31ad0c/mza_14445920128472365296.png/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/69/af/0d/69af0ddd-1e0f-7ae3-c84b-88f18e31ad0c/mza_14445920128472365296.png/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/69/af/0d/69af0ddd-1e0f-7ae3-c84b-88f18e31ad0c/mza_14445920128472365296.png/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "Steven Bartlett is a British entrepreneur, investor, and author. He’s the founder of Flight Story – a media company – and Flight Fund, an investment fund backing the next generation of category-defining businesses.\nHe created The Diary Of A CEO to share the unfiltered pages of the personal diaries of the world’s most fascinating CEOs, experts, therapists, and leaders – with the hope that their lessons will help both you and him live better lives. \nDOAC is a double acronym: Diary Of A CEO, but also Dreamers, Open-minded, Awareness, and Connection.This is your corner of the internet to dream boldly, think openly, expand your awareness, and feel more connected.\n\nMy New Book: https://g2ul0.app.link/DOAC\nIG: https://www.instagram.com/steven\nLI: https://www.linkedin.com/in/stevenbartlett-123"
+        },
+        "im:artist": {
+          "label": "DOAC"
+        },
+        "title": {
+          "label": "The Diary Of A CEO with Steven Bartlett - DOAC"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/gb/podcast/the-diary-of-a-ceo-with-steven-bartlett/id1291423644?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/gb/podcast/the-diary-of-a-ceo-with-steven-bartlett/id1291423644?uo=2",
+          "attributes": {
+            "im:id": "1291423644"
+          }
+        },
         "im:contentType": {
           "attributes": {
             "term": "Podcast",
             "label": "Podcast"
           }
         },
-        "rights": {
-          "label": "© The Overlap"
-        },
-        "title": {
-          "label": "Stick to Football - The Overlap"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/gb/podcast/stick-to-football/id1709142395?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/gb/podcast/stick-to-football/id1709142395?uo=2",
-          "attributes": {
-            "im:id": "1709142395"
-          }
-        },
-        "im:artist": {
-          "label": "The Overlap"
-        },
         "category": {
           "attributes": {
-            "im:id": "1546",
-            "term": "Soccer",
-            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-sport-football/id1546?uo=2",
-            "label": "Football"
+            "im:id": "1321",
+            "term": "Business",
+            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-business/id1321?uo=2",
+            "label": "Business"
           }
         },
         "im:releaseDate": {
-          "label": "2026-06-15T23:15:00-07:00",
+          "label": "2026-06-18T22:00:00-07:00",
           "attributes": {
-            "label": "15 June 2026"
+            "label": "18 June 2026"
           }
         }
       },
@@ -938,104 +1172,30 @@
       },
       {
         "im:name": {
-          "label": "The Diary Of A CEO with Steven Bartlett"
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "GBP"
-          }
+          "label": "The Truth (In My Opinion)"
         },
         "im:image": [
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/69/af/0d/69af0ddd-1e0f-7ae3-c84b-88f18e31ad0c/mza_14445920128472365296.png/55x55bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ce/e1/09/cee1098e-84e2-1031-59fd-b6c2a08860ff/mza_7187075144802391371.jpeg/55x55bb.png",
             "attributes": {
               "height": "55"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/69/af/0d/69af0ddd-1e0f-7ae3-c84b-88f18e31ad0c/mza_14445920128472365296.png/60x60bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ce/e1/09/cee1098e-84e2-1031-59fd-b6c2a08860ff/mza_7187075144802391371.jpeg/60x60bb.png",
             "attributes": {
               "height": "60"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/69/af/0d/69af0ddd-1e0f-7ae3-c84b-88f18e31ad0c/mza_14445920128472365296.png/170x170bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ce/e1/09/cee1098e-84e2-1031-59fd-b6c2a08860ff/mza_7187075144802391371.jpeg/170x170bb.png",
             "attributes": {
               "height": "170"
             }
           }
         ],
         "summary": {
-          "label": "Steven Bartlett is a British entrepreneur, investor, and author. He’s the founder of Flight Story – a media company – and Flight Fund, an investment fund backing the next generation of category-defining businesses.\nHe created The Diary Of A CEO to share the unfiltered pages of the personal diaries of the world’s most fascinating CEOs, experts, therapists, and leaders – with the hope that their lessons will help both you and him live better lives. \nDOAC is a double acronym: Diary Of A CEO, but also Dreamers, Open-minded, Awareness, and Connection.This is your corner of the internet to dream boldly, think openly, expand your awareness, and feel more connected.\n\nMy New Book: https://g2ul0.app.link/DOAC\nIG: https://www.instagram.com/steven\nLI: https://www.linkedin.com/in/stevenbartlett-123"
-        },
-        "im:artist": {
-          "label": "DOAC"
-        },
-        "title": {
-          "label": "The Diary Of A CEO with Steven Bartlett - DOAC"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/gb/podcast/the-diary-of-a-ceo-with-steven-bartlett/id1291423644?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/gb/podcast/the-diary-of-a-ceo-with-steven-bartlett/id1291423644?uo=2",
-          "attributes": {
-            "im:id": "1291423644"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1321",
-            "term": "Business",
-            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-business/id1321?uo=2",
-            "label": "Business"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-06-17T22:00:00-07:00",
-          "attributes": {
-            "label": "17 June 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "Newscast"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/69/3d/77/693d775a-d8d8-d735-a66f-072b8ae54106/mza_14077127562991224684.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/69/3d/77/693d775a-d8d8-d735-a66f-072b8ae54106/mza_14077127562991224684.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/69/3d/77/693d775a-d8d8-d735-a66f-072b8ae54106/mza_14077127562991224684.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "The BBC's daily news podcast, Newscast dives into the day's biggest news stories so you're never out of your depth.\nNewscast picks the brains of BBC News experts so you're ready if someone picks yours, covering the latest news, developments in politics in Westminster and beyond.\nNewscast is hosted by trusted politics and news journalists including Adam Fleming, BBC Political Editor Chris Mason, Laura Kuenssberg and Paddy O'Connell.    \nYou can now listen to Newscast on a smart speaker. If you want to listen, just say \"Ask BBC Sounds to play Newscast”. It works on most smart speakers.\nCatch Newscast seven-days a week and watch on BBC One at 23:40 on Thursday night or later on BBC iPlayer. \nGET IN TOUCH:\nYou can join our Newscast online community here: https://bbc.in/newscastdiscord\nSend us a message or voicenote via WhatsApp to 03301239480\nEmail Newscast@bbc.co.uk\nOr use the hashtag #BBCNewscast"
+          "label": "The podcast where comedian Cody Dahler puts his guests in charge of the news.\nCreated by Cody Dahler and Becky Carewe Jeffries\n Hosted on Acast. See acast.com/privacy for more information."
         },
         "im:price": {
           "label": "Get",
@@ -1051,42 +1211,190 @@
           }
         },
         "rights": {
-          "label": "© (C) BBC 2026"
+          "label": "© 2026 The Truth (In My Opinion)"
         },
         "title": {
-          "label": "Newscast - BBC News"
+          "label": "The Truth (In My Opinion) - Daily Dose Productions"
         },
         "link": {
           "attributes": {
             "rel": "alternate",
             "type": "text/html",
-            "href": "https://podcasts.apple.com/gb/podcast/newscast/id1234185718?uo=2"
+            "href": "https://podcasts.apple.com/gb/podcast/the-truth-in-my-opinion/id1788563985?uo=2"
           }
         },
         "id": {
-          "label": "https://podcasts.apple.com/gb/podcast/newscast/id1234185718?uo=2",
+          "label": "https://podcasts.apple.com/gb/podcast/the-truth-in-my-opinion/id1788563985?uo=2",
           "attributes": {
-            "im:id": "1234185718"
+            "im:id": "1788563985"
           }
         },
         "im:artist": {
-          "label": "BBC News",
+          "label": "Daily Dose Productions"
+        },
+        "category": {
           "attributes": {
-            "href": "https://podcasts.apple.com/gb/artist/bbc/121676617?uo=2"
+            "im:id": "1496",
+            "term": "Comedy Interviews",
+            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-comedy-comedy-interviews/id1496?uo=2",
+            "label": "Comedy Interviews"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-06-21T22:00:00-07:00",
+          "attributes": {
+            "label": "21 June 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "The Rest Is Politics: US"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3a/f4/51/3af451dd-f500-9c3e-8834-839d86076411/mza_11954146268283790758.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3a/f4/51/3af451dd-f500-9c3e-8834-839d86076411/mza_11954146268283790758.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3a/f4/51/3af451dd-f500-9c3e-8834-839d86076411/mza_11954146268283790758.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "TRIP US uncovers secrets from inside the White House inner circles as well as taking a wider look at the intricacies of United States society and how they shape the world's most important economy.\n\nThe podcast is hosted by Anthony Scaramucci (The Mooch), former White House Director of Communications and Wall Street financier, and Katty Kay, US special correspondent for BBC who has been covering US politics for almost 30 years. \n\nStay informed with in-depth discussions on key political events, policy changes, and the forces shaping America’s future on the global stage.\n\nNew episodes released every Friday, or join our club for bonus content. Just head to https://therestispoliticsus.com to sign up today.."
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "GBP"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© Goalhanger"
+        },
+        "title": {
+          "label": "The Rest Is Politics: US - Goalhanger"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/gb/podcast/the-rest-is-politics-us/id1743030473?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/gb/podcast/the-rest-is-politics-us/id1743030473?uo=2",
+          "attributes": {
+            "im:id": "1743030473"
+          }
+        },
+        "im:artist": {
+          "label": "Goalhanger"
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1527",
+            "term": "Politics",
+            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-news-politics/id1527?uo=2",
+            "label": "Politics"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-06-18T11:00:00-07:00",
+          "attributes": {
+            "label": "18 June 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "The Rest Is Classified"
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "GBP"
+          }
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f4/09/a7/f409a749-1c83-ddb6-26ca-3edb6deee0f9/mza_6566356699697291626.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f4/09/a7/f409a749-1c83-ddb6-26ca-3edb6deee0f9/mza_6566356699697291626.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f4/09/a7/f409a749-1c83-ddb6-26ca-3edb6deee0f9/mza_6566356699697291626.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "Enter the secretive world of spies, espionage, and covert operations. \nHosted by former CIA analyst turned spy novelist, David McCloskey, and veteran security correspondent, Gordon Corera, this podcast unravels real-life spy stories, intelligence secrets, and the hidden power struggles shaping global events. \nFrom Cold War espionage to modern-day intelligence agencies like the CIA, MI6, and Mossad, explore the world of double agents, classified missions, and the shadowy figures who operate in them. Whether you're a true crime addict, a thriller fan, or fascinated by spy stories, this is the show for you."
+        },
+        "im:artist": {
+          "label": "Goalhanger"
+        },
+        "title": {
+          "label": "The Rest Is Classified - Goalhanger"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/gb/podcast/the-rest-is-classified/id1780384916?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/gb/podcast/the-rest-is-classified/id1780384916?uo=2",
+          "attributes": {
+            "im:id": "1780384916"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
           }
         },
         "category": {
           "attributes": {
-            "im:id": "1526",
-            "term": "Daily News",
-            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-news-daily-news/id1526?uo=2",
-            "label": "Daily News"
+            "im:id": "1487",
+            "term": "History",
+            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-history/id1487?uo=2",
+            "label": "History"
           }
         },
         "im:releaseDate": {
-          "label": "2026-06-20T09:23:00-07:00",
+          "label": "2026-07-08T16:00:00-07:00",
           "attributes": {
-            "label": "20 June 2026"
+            "label": "08 July 2026"
           }
         }
       },
@@ -1161,6 +1469,160 @@
           "label": "2026-06-17T16:01:00-07:00",
           "attributes": {
             "label": "17 June 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "Fin vs History"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a6/a7/1f/a6a71fe8-aa9a-a04d-cf01-aa532aaeafcc/mza_15057319221118608287.jpeg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a6/a7/1f/a6a71fe8-aa9a-a04d-cf01-aa532aaeafcc/mza_15057319221118608287.jpeg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a6/a7/1f/a6a71fe8-aa9a-a04d-cf01-aa532aaeafcc/mza_15057319221118608287.jpeg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "For people who like history but don't care what actually happened.\nJoin comedians Fin Taylor and Horatio Gould as they guess/explain every event in human history, from Neanderthals to 9/11.\nGuaranteed to give you an entirely new and incorrect perspective on world events.\nSupport the show: https://www.patreon.com/fintaylor"
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "GBP"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© Fin Taylor & Horatio Gould / Podmasters"
+        },
+        "title": {
+          "label": "Fin vs History - Fin Taylor & Horatio Gould"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/gb/podcast/fin-vs-history/id1790458615?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/gb/podcast/fin-vs-history/id1790458615?uo=2",
+          "attributes": {
+            "im:id": "1790458615"
+          }
+        },
+        "im:artist": {
+          "label": "Fin Taylor & Horatio Gould"
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1303",
+            "term": "Comedy",
+            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-comedy/id1303?uo=2",
+            "label": "Comedy"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-06-17T19:00:00-07:00",
+          "attributes": {
+            "label": "17 June 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "Rosebud with Gyles Brandreth"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/ce/1d/c6/ce1dc6d1-1323-d07d-3a56-f1e6c259a845/mza_7854963181346373100.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/ce/1d/c6/ce1dc6d1-1323-d07d-3a56-f1e6c259a845/mza_7854963181346373100.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/ce/1d/c6/ce1dc6d1-1323-d07d-3a56-f1e6c259a845/mza_7854963181346373100.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "Legendary British writer, broadcaster, ex-MP and TV star Gyles Brandreth hosts “Rosebud”, in which he talks to famous and fascinating people about their first memories and first experiences. Expect laughter, nostalgia, memorable stories, revelations and, of course, the odd name-drop from Gyles.  We want to hear about your first memories - email us at hello@rosebudpodcast.com And you can follow us on Twitter and Instagram at @therosebudpod Artwork: Freya Betts. Music: Phil Lepherd. Producer: Harriet Jaine. Rosebud is a 'Plain Jaine Media' production. Creator: Gyles Brandreth/Plain Jaine Media Hosted on Acast. See acast.com/privacy for more information."
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "GBP"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© Gyles Brandreth"
+        },
+        "title": {
+          "label": "Rosebud with Gyles Brandreth - Gyles Brandreth / Plain Jaine Media"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/gb/podcast/rosebud-with-gyles-brandreth/id1704806594?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/gb/podcast/rosebud-with-gyles-brandreth/id1704806594?uo=2",
+          "attributes": {
+            "im:id": "1704806594"
+          }
+        },
+        "im:artist": {
+          "label": "Gyles Brandreth / Plain Jaine Media"
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1324",
+            "term": "Society & Culture",
+            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-society-culture/id1324?uo=2",
+            "label": "Society & Culture"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-06-15T19:00:00-07:00",
+          "attributes": {
+            "label": "15 June 2026"
           }
         }
       },
@@ -1243,30 +1705,30 @@
       },
       {
         "im:name": {
-          "label": "Foul Play"
+          "label": "The Andrew Neil Report"
         },
         "im:image": [
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/aa/48/aa/aa48aa88-fbd2-235c-924c-30c4a8a98c06/mza_14824163004884085013.jpeg/55x55bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e6/81/dd/e681dde3-4181-81b3-33b4-aaf8eafeb8bc/mza_3037107971493923905.jpeg/55x55bb.png",
             "attributes": {
               "height": "55"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/aa/48/aa/aa48aa88-fbd2-235c-924c-30c4a8a98c06/mza_14824163004884085013.jpeg/60x60bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e6/81/dd/e681dde3-4181-81b3-33b4-aaf8eafeb8bc/mza_3037107971493923905.jpeg/60x60bb.png",
             "attributes": {
               "height": "60"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/aa/48/aa/aa48aa88-fbd2-235c-924c-30c4a8a98c06/mza_14824163004884085013.jpeg/170x170bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e6/81/dd/e681dde3-4181-81b3-33b4-aaf8eafeb8bc/mza_3037107971493923905.jpeg/170x170bb.png",
             "attributes": {
               "height": "170"
             }
           }
         ],
         "summary": {
-          "label": "Ed is the grandson of footballing legend Gordon Banks. He was a national icon, the only goalkeeper ever to win the soccer World Cup for England. But Ed’s heard a rumour: that in 1970, while defending the title, his granddad, his hero, was poisoned… by the CIA. All part of a Cold War plot to bolster a military dictatorship in Latin America, supposedly. Could this possibly be true? Banks did get ill in Mexico in 1970 with food poisoning. And England crashed out, marking the start of decades of hurt. Ed enlists the help of investigative journalist Gabriel Gatehouse. Together they embark on a journey into the bewildering world of Cold War espionage, a journey that threatens to unravel 60 years of sporting history; or possibly… to knock Ed’s granddad off his pedestal. \nEpisodes 1 & 2 out May 28th, then released weekly. Want to skip the wait between episodes? Subscribe to Audible from launch to binge the entire series in one go - completely ad-free.\nFoul Play is an Audible Original, produced for Audible by Grayhouse Productions."
+          "label": "Andrew Neil has spent his career holding the powerful to account, armed with the facts they’d rather ignore. From Westminster to Washington, the political world has never been more complex— or more in need of proper scrutiny. Join him, alongside big-name guests for The Andrew Neil Report, where he dissects the week's domestic and global politics. No spin, just the evidence. New episodes every Thursday. Hosted on Acast. See acast.com/privacy for more information."
         },
         "im:price": {
           "label": "Get",
@@ -1282,39 +1744,39 @@
           }
         },
         "rights": {
-          "label": "© ©2026 Audible Ltd. (P)2026 Audible Ltd."
+          "label": "© News Broadcasting"
         },
         "title": {
-          "label": "Foul Play - Audible | Gabriel Gatehouse"
+          "label": "The Andrew Neil Report - Times Radio"
         },
         "link": {
           "attributes": {
             "rel": "alternate",
             "type": "text/html",
-            "href": "https://podcasts.apple.com/gb/podcast/foul-play/id1896803199?uo=2"
+            "href": "https://podcasts.apple.com/gb/podcast/the-andrew-neil-report/id1896865845?uo=2"
           }
         },
         "id": {
-          "label": "https://podcasts.apple.com/gb/podcast/foul-play/id1896803199?uo=2",
+          "label": "https://podcasts.apple.com/gb/podcast/the-andrew-neil-report/id1896865845?uo=2",
           "attributes": {
-            "im:id": "1896803199"
+            "im:id": "1896865845"
           }
         },
         "im:artist": {
-          "label": "Audible | Gabriel Gatehouse"
+          "label": "Times Radio"
         },
         "category": {
           "attributes": {
-            "im:id": "1488",
-            "term": "True Crime",
-            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-true-crime/id1488?uo=2",
-            "label": "True Crime"
+            "im:id": "1527",
+            "term": "Politics",
+            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-news-politics/id1527?uo=2",
+            "label": "Politics"
           }
         },
         "im:releaseDate": {
-          "label": "2026-06-30T21:00:00-07:00",
+          "label": "2026-06-19T07:50:00-07:00",
           "attributes": {
-            "label": "30 June 2026"
+            "label": "19 June 2026"
           }
         }
       },
@@ -1400,30 +1862,30 @@
       },
       {
         "im:name": {
-          "label": "Rosebud with Gyles Brandreth"
+          "label": "Casefile True Crime"
         },
         "im:image": [
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/ce/1d/c6/ce1dc6d1-1323-d07d-3a56-f1e6c259a845/mza_7854963181346373100.jpg/55x55bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/32/81/a3/3281a345-6fa5-1d0d-b0bc-f02b0850a0ae/mza_17562537467118278179.jpeg/55x55bb.png",
             "attributes": {
               "height": "55"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/ce/1d/c6/ce1dc6d1-1323-d07d-3a56-f1e6c259a845/mza_7854963181346373100.jpg/60x60bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/32/81/a3/3281a345-6fa5-1d0d-b0bc-f02b0850a0ae/mza_17562537467118278179.jpeg/60x60bb.png",
             "attributes": {
               "height": "60"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/ce/1d/c6/ce1dc6d1-1323-d07d-3a56-f1e6c259a845/mza_7854963181346373100.jpg/170x170bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/32/81/a3/3281a345-6fa5-1d0d-b0bc-f02b0850a0ae/mza_17562537467118278179.jpeg/170x170bb.png",
             "attributes": {
               "height": "170"
             }
           }
         ],
         "summary": {
-          "label": "Legendary British writer, broadcaster, ex-MP and TV star Gyles Brandreth hosts “Rosebud”, in which he talks to famous and fascinating people about their first memories and first experiences. Expect laughter, nostalgia, memorable stories, revelations and, of course, the odd name-drop from Gyles.  We want to hear about your first memories - email us at hello@rosebudpodcast.com And you can follow us on Twitter and Instagram at @therosebudpod Artwork: Freya Betts. Music: Phil Lepherd. Producer: Harriet Jaine. Rosebud is a 'Plain Jaine Media' production. Creator: Gyles Brandreth/Plain Jaine Media Hosted on Acast. See acast.com/privacy for more information."
+          "label": "Fact is scarier than fiction. Subscribe to Casefile Premium to receive ad-free episodes released one week early, along with access to bonus Q&A’s, our exclusive show ‘Behind the Files’, and more. Hosted on Acast. See acast.com/privacy for more information."
         },
         "im:price": {
           "label": "Get",
@@ -1439,504 +1901,48 @@
           }
         },
         "rights": {
-          "label": "© Gyles Brandreth"
+          "label": "© Casefile True Crime"
         },
         "title": {
-          "label": "Rosebud with Gyles Brandreth - Gyles Brandreth / Plain Jaine Media"
+          "label": "Casefile True Crime - Casefile Presents"
         },
         "link": {
           "attributes": {
             "rel": "alternate",
             "type": "text/html",
-            "href": "https://podcasts.apple.com/gb/podcast/rosebud-with-gyles-brandreth/id1704806594?uo=2"
+            "href": "https://podcasts.apple.com/gb/podcast/casefile-true-crime/id998568017?uo=2"
           }
         },
         "id": {
-          "label": "https://podcasts.apple.com/gb/podcast/rosebud-with-gyles-brandreth/id1704806594?uo=2",
+          "label": "https://podcasts.apple.com/gb/podcast/casefile-true-crime/id998568017?uo=2",
           "attributes": {
-            "im:id": "1704806594"
+            "im:id": "998568017"
           }
         },
         "im:artist": {
-          "label": "Gyles Brandreth / Plain Jaine Media"
-        },
-        "category": {
+          "label": "Casefile Presents",
           "attributes": {
-            "im:id": "1324",
-            "term": "Society & Culture",
-            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-society-culture/id1324?uo=2",
-            "label": "Society & Culture"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-06-15T19:00:00-07:00",
-          "attributes": {
-            "label": "15 June 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "No Such Thing As A Fish"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6f/9b/4c/6f9b4c39-3c1a-d7c7-9264-b0ed14579e08/mza_7947053701740283670.png/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6f/9b/4c/6f9b4c39-3c1a-d7c7-9264-b0ed14579e08/mza_7947053701740283670.png/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6f/9b/4c/6f9b4c39-3c1a-d7c7-9264-b0ed14579e08/mza_7947053701740283670.png/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "The official channel for the show about everything: four dorks discuss the most amazing facts they’ve learned over the last seven days.\n\n\nThe multi award-winning, globe-travelling, 600-million-download phenomenon. Hosted by Dan Schreiber, James Harkin, Andrew Hunter Murray and Anna Ptaszynski."
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "GBP"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© 2014 Quite Interesting Ltd"
-        },
-        "title": {
-          "label": "No Such Thing As A Fish - No Such Thing As A Fish"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/gb/podcast/no-such-thing-as-a-fish/id840986946?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/gb/podcast/no-such-thing-as-a-fish/id840986946?uo=2",
-          "attributes": {
-            "im:id": "840986946"
-          }
-        },
-        "im:artist": {
-          "label": "No Such Thing As A Fish",
-          "attributes": {
-            "href": "https://podcasts.apple.com/gb/artist/qi-elves/875258601?uo=2"
+            "href": "https://podcasts.apple.com/gb/artist/casefile-presents/1533870296?uo=2"
           }
         },
         "category": {
           "attributes": {
-            "im:id": "1303",
-            "term": "Comedy",
-            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-comedy/id1303?uo=2",
-            "label": "Comedy"
+            "im:id": "1488",
+            "term": "True Crime",
+            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-true-crime/id1488?uo=2",
+            "label": "True Crime"
           }
         },
         "im:releaseDate": {
-          "label": "2026-06-21T16:00:00-07:00",
+          "label": "2026-06-20T01:04:00-07:00",
           "attributes": {
-            "label": "21 June 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "The Andrew Neil Report"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e6/81/dd/e681dde3-4181-81b3-33b4-aaf8eafeb8bc/mza_3037107971493923905.jpeg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e6/81/dd/e681dde3-4181-81b3-33b4-aaf8eafeb8bc/mza_3037107971493923905.jpeg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e6/81/dd/e681dde3-4181-81b3-33b4-aaf8eafeb8bc/mza_3037107971493923905.jpeg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "Andrew Neil has spent his career holding the powerful to account, armed with the facts they’d rather ignore. From Westminster to Washington, the political world has never been more complex— or more in need of proper scrutiny. Join him, alongside big-name guests for The Andrew Neil Report, where he dissects the week's domestic and global politics. No spin, just the evidence. New episodes every Thursday. Hosted on Acast. See acast.com/privacy for more information."
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "GBP"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© News Broadcasting"
-        },
-        "title": {
-          "label": "The Andrew Neil Report - Times Radio"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/gb/podcast/the-andrew-neil-report/id1896865845?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/gb/podcast/the-andrew-neil-report/id1896865845?uo=2",
-          "attributes": {
-            "im:id": "1896865845"
-          }
-        },
-        "im:artist": {
-          "label": "Times Radio"
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1527",
-            "term": "Politics",
-            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-news-politics/id1527?uo=2",
-            "label": "Politics"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-06-19T07:50:00-07:00",
-          "attributes": {
-            "label": "19 June 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "Fin vs History"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a6/a7/1f/a6a71fe8-aa9a-a04d-cf01-aa532aaeafcc/mza_15057319221118608287.jpeg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a6/a7/1f/a6a71fe8-aa9a-a04d-cf01-aa532aaeafcc/mza_15057319221118608287.jpeg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a6/a7/1f/a6a71fe8-aa9a-a04d-cf01-aa532aaeafcc/mza_15057319221118608287.jpeg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "For people who like history but don't care what actually happened.\nJoin comedians Fin Taylor and Horatio Gould as they guess/explain every event in human history, from Neanderthals to 9/11.\nGuaranteed to give you an entirely new and incorrect perspective on world events.\nSupport the show: https://www.patreon.com/fintaylor"
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "GBP"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© Fin Taylor & Horatio Gould / Podmasters"
-        },
-        "title": {
-          "label": "Fin vs History - Fin Taylor & Horatio Gould"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/gb/podcast/fin-vs-history/id1790458615?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/gb/podcast/fin-vs-history/id1790458615?uo=2",
-          "attributes": {
-            "im:id": "1790458615"
-          }
-        },
-        "im:artist": {
-          "label": "Fin Taylor & Horatio Gould"
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1303",
-            "term": "Comedy",
-            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-comedy/id1303?uo=2",
-            "label": "Comedy"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-06-17T19:00:00-07:00",
-          "attributes": {
-            "label": "17 June 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "Great Company with Jamie Laing"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/14/cd/b9/14cdb9a9-cf9d-5304-b814-0a24ad6ea252/mza_10206908692311255628.jpeg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/14/cd/b9/14cdb9a9-cf9d-5304-b814-0a24ad6ea252/mza_10206908692311255628.jpeg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/14/cd/b9/14cdb9a9-cf9d-5304-b814-0a24ad6ea252/mza_10206908692311255628.jpeg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "I’m Jamie Laing and this is Great Company – a weekly podcast full of inspiring conversations about resilience, joy and self-improvement. Each week I sit down with fascinating guests from entertainment, business and psychology to share the stories that help us learn, grow and feel more connected.\nNew episodes every Wednesday.\nA JamPot Productions Original Podcast\n\n Hosted on Acast. See acast.com/privacy for more information."
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "GBP"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© JamPot Productions"
-        },
-        "title": {
-          "label": "Great Company with Jamie Laing - Jampot Productions"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/gb/podcast/great-company-with-jamie-laing/id1735702250?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/gb/podcast/great-company-with-jamie-laing/id1735702250?uo=2",
-          "attributes": {
-            "im:id": "1735702250"
-          }
-        },
-        "im:artist": {
-          "label": "Jampot Productions"
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1302",
-            "term": "Personal Journals",
-            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-society-culture-personal-journals/id1302?uo=2",
-            "label": "Personal Journals"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-06-16T16:03:00-07:00",
-          "attributes": {
-            "label": "16 June 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "We Need To Talk with Paul C. Brunson"
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "GBP"
-          }
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6f/59/ae/6f59ae2a-afec-dfa0-38c1-2b88a48c1a1a/mza_16605880432833834071.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6f/59/ae/6f59ae2a-afec-dfa0-38c1-2b88a48c1a1a/mza_16605880432833834071.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6f/59/ae/6f59ae2a-afec-dfa0-38c1-2b88a48c1a1a/mza_16605880432833834071.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "The most powerful conversations are the ones we usually avoid. Hosted by Paul C. Brunson, We Need To Talk is a show that empowers people to have the conversations they avoid by creating a safe, supportive, and insightful space that encourages vulnerability, self-discovery, and real-world connection. \n\nFrom breakups to breakthroughs, conflict to connection, we go beyond the headlines to uncover the human experiences and relationships that define us.\n\nInstagram: @needtotalk\n\nTikTok: @weneedtotalkpod"
-        },
-        "im:artist": {
-          "label": "WNTT"
-        },
-        "title": {
-          "label": "We Need To Talk with Paul C. Brunson - WNTT"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/gb/podcast/we-need-to-talk-with-paul-c-brunson/id1765126946?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/gb/podcast/we-need-to-talk-with-paul-c-brunson/id1765126946?uo=2",
-          "attributes": {
-            "im:id": "1765126946"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1544",
-            "term": "Relationships",
-            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-society-culture-relationships/id1544?uo=2",
-            "label": "Relationships"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-06-17T22:00:00-07:00",
-          "attributes": {
-            "label": "17 June 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "The Rest Is Classified"
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "GBP"
-          }
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f4/09/a7/f409a749-1c83-ddb6-26ca-3edb6deee0f9/mza_6566356699697291626.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f4/09/a7/f409a749-1c83-ddb6-26ca-3edb6deee0f9/mza_6566356699697291626.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f4/09/a7/f409a749-1c83-ddb6-26ca-3edb6deee0f9/mza_6566356699697291626.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "Enter the secretive world of spies, espionage, and covert operations. \nHosted by former CIA analyst turned spy novelist, David McCloskey, and veteran security correspondent, Gordon Corera, this podcast unravels real-life spy stories, intelligence secrets, and the hidden power struggles shaping global events. \nFrom Cold War espionage to modern-day intelligence agencies like the CIA, MI6, and Mossad, explore the world of double agents, classified missions, and the shadowy figures who operate in them. Whether you're a true crime addict, a thriller fan, or fascinated by spy stories, this is the show for you."
-        },
-        "im:artist": {
-          "label": "Goalhanger"
-        },
-        "title": {
-          "label": "The Rest Is Classified - Goalhanger"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/gb/podcast/the-rest-is-classified/id1780384916?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/gb/podcast/the-rest-is-classified/id1780384916?uo=2",
-          "attributes": {
-            "im:id": "1780384916"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1487",
-            "term": "History",
-            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-history/id1487?uo=2",
-            "label": "History"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-07-08T16:00:00-07:00",
-          "attributes": {
-            "label": "08 July 2026"
+            "label": "20 June 2026"
           }
         }
       }
     ],
     "updated": {
-      "label": "2026-06-21T02:59:31-07:00"
+      "label": "2026-06-22T05:18:34-07:00"
     },
     "rights": {
       "label": "Copyright 2008 Apple Inc."
