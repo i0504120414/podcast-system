@@ -3,14 +3,6 @@
   "country": "US",
   "count": 25,
   "lookups": {
-    "77001367": {
-      "itunesId": "77001367",
-      "title": "The Ramsey Show",
-      "author": "Ramsey Network",
-      "feedUrl": "https://feeds.megaphone.fm/RM4031649020",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/52/5a/58/525a5881-56d7-af3a-b134-5917b08d6d0f/mza_1355546972903263890.jpg/600x600bb.jpg",
-      "genre": "Investing"
-    },
     "278981407": {
       "itunesId": "278981407",
       "title": "Stuff You Should Know",
@@ -27,6 +19,14 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/53/f9/1b/53f91b92-46f0-cf52-f65c-6b23343397c3/mza_9009835258120886668.jpg/600x600bb.jpg",
       "genre": "Comedy"
     },
+    "934820588": {
+      "itunesId": "934820588",
+      "title": "The Dan Le Batard Show",
+      "author": "Dan Le Batard",
+      "feedUrl": "https://feeds.megaphone.fm/ESP2298543312",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/57/d7/d9/57d7d9e0-cf27-7928-0650-578623e80c29/mza_14930160221470262963.jpg/600x600bb.jpg",
+      "genre": "Sports"
+    },
     "965818306": {
       "itunesId": "965818306",
       "title": "48 Hours",
@@ -35,12 +35,20 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c8/4f/8f/c84f8fa2-074d-6023-7f31-9c781b80dedc/mza_7616553513239265555.jpeg/600x600bb.jpg",
       "genre": "TV & Film"
     },
-    "987967575": {
-      "itunesId": "987967575",
-      "title": "20/20",
-      "author": "ABC News",
-      "feedUrl": "https://feeds.megaphone.fm/ESP3456903052",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/81/6c/5d/816c5d57-7c3f-3df9-1557-08e17469dfe4/mza_1433648970787567135.jpg/600x600bb.jpg",
+    "1043699613": {
+      "itunesId": "1043699613",
+      "title": "The Bill Simmons Podcast",
+      "author": "The Ringer",
+      "feedUrl": "https://feeds.megaphone.fm/the-bill-simmons-podcast",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d6/ec/33/d6ec332d-41b2-4f6e-3b26-26932d266089/mza_9745793819236520970.jpg/600x600bb.jpg",
+      "genre": "Sports"
+    },
+    "1074507850": {
+      "itunesId": "1074507850",
+      "title": "My Favorite Murder with Karen Kilgariff and Georgia Hardstark",
+      "author": "Exactly Right and iHeartPodcasts",
+      "feedUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/bdde8bb3-169d-43b1-91d3-b24c0047969c/f450d41f-16bc-4ecd-8f6c-b24c004796e2/podcast.rss",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/1b/80/b1/1b80b146-8608-f76f-97e7-7a2317549c35/mza_14115126871478479568.jpg/600x600bb.jpg",
       "genre": "True Crime"
     },
     "1089022756": {
@@ -91,6 +99,14 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a4/69/a6/a469a64c-580d-938a-53f1-893d968e1332/mza_11675757052043432554.jpg/600x600bb.jpg",
       "genre": "True Crime"
     },
+    "1421573955": {
+      "itunesId": "1421573955",
+      "title": "Dr. Death",
+      "author": "Audible",
+      "feedUrl": "https://rss.art19.com/dr-death",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/79/c5/84/79c584a0-727d-5c23-3223-9163a6e9d047/mza_4089194153421910651.jpeg/600x600bb.jpg",
+      "genre": "True Crime"
+    },
     "1447684472": {
       "itunesId": "1447684472",
       "title": "The Bulwark Podcast",
@@ -107,6 +123,14 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/8c/00/7a/8c007a42-e550-0214-d4cb-b59cd7edf194/mza_5305664083935674472.jpeg/600x600bb.jpg",
       "genre": "True Crime"
     },
+    "1492492083": {
+      "itunesId": "1492492083",
+      "title": "The Shawn Ryan Show",
+      "author": "Shawn Ryan",
+      "feedUrl": "https://rss.pdrl.fm/ac69ac/feeds.megaphone.fm/WWO7410387571",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/d0/b3/2d/d0b32d7f-ab2d-5791-83b0-854f698a9184/mza_13561258173056659752.jpg/600x600bb.jpg",
+      "genre": "Philosophy"
+    },
     "1519456164": {
       "itunesId": "1519456164",
       "title": "Serialously with Annie Elise",
@@ -114,14 +138,6 @@
       "feedUrl": "https://audioboom.com/channels/5100770.rss",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b8/ae/ae/b8aeaee5-e289-54f0-c223-58334b88ddfb/mza_6406683089903069019.jpg/600x600bb.jpg",
       "genre": "True Crime"
-    },
-    "1521578868": {
-      "itunesId": "1521578868",
-      "title": "SmartLess",
-      "author": "Jason Bateman, Sean Hayes, Will Arnett",
-      "feedUrl": "https://feeds.simplecast.com/hNaFxXpO",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b1/93/5f/b1935f9f-35be-9144-e813-626bd8dabfb4/mza_4132654708551836825.jpg/600x600bb.jpg",
-      "genre": "Comedy"
     },
     "1532976305": {
       "itunesId": "1532976305",
@@ -138,6 +154,14 @@
       "feedUrl": "https://feeds.megaphone.fm/GLT4787413333",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/20/ed/c7/20edc799-fdb3-e608-a164-0cdaaee63c6b/mza_16701966284979673066.jpg/600x600bb.jpg",
       "genre": "History"
+    },
+    "1608813794": {
+      "itunesId": "1608813794",
+      "title": "MrBallen Podcast: Strange, Dark & Mysterious Stories",
+      "author": "Ballen Studios",
+      "feedUrl": "https://feeds.simplecast.com/dloY8UYJ",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a5/9c/8a/a59c8a0a-0cb2-9862-e0d6-7b5ee4e9e157/mza_12554888833857337425.jpg/600x600bb.jpg",
+      "genre": "True Crime"
     },
     "1676846015": {
       "itunesId": "1676846015",
@@ -163,14 +187,6 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/2b/94/bb/2b94bb6e-44f1-9d57-7748-b7456072806d/mza_1064202164981856225.jpg/600x600bb.jpg",
       "genre": "Comedy"
     },
-    "1805478723": {
-      "itunesId": "1805478723",
-      "title": "The Zach Lowe Show",
-      "author": "The Ringer",
-      "feedUrl": "https://feeds.megaphone.fm/zach-lowe",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/11/2d/8a/112d8a6b-2e47-2165-d6ef-1d5b4760afb2/mza_6466000752049811680.jpg/600x600bb.jpg",
-      "genre": "Basketball"
-    },
     "1844970260": {
       "itunesId": "1844970260",
       "title": "Unblinded with Sean Callagy",
@@ -179,28 +195,12 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fe/73/39/fe733903-aac9-857a-7e0d-97da75f26739/mza_7400622169884755798.jpg/600x600bb.jpg",
       "genre": "Business"
     },
-    "1876968955": {
-      "itunesId": "1876968955",
-      "title": "Friends Keep Secrets",
-      "author": "Perfect Strangers",
-      "feedUrl": "https://www.omnycontent.com/d/playlist/685222fd-cb27-439e-9d8d-b42f0031c93c/9fd3cb4c-1728-4f0c-bd5a-b4340164edb4/686e1d40-cd99-4724-9c10-b4340164edcc/podcast.rss",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/66/4c/0b/664c0b43-a04b-8114-68c0-59726320aded/mza_17105170738683158659.jpg/600x600bb.jpg",
-      "genre": "Comedy"
-    },
     "1878220033": {
       "itunesId": "1878220033",
       "title": "Love Trapped",
       "author": "iHeartPodcasts and Glass Podcasts",
       "feedUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/20968bfe-1a62-450f-a762-b3de0110281c/1c0ae3b2-ec1e-4a0c-a144-b3de01102fb1/podcast.rss",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b5/ad/82/b5ad82a9-b29a-1411-1506-05f9f3ad5d6b/mza_17395607531155205240.jpg/600x600bb.jpg",
-      "genre": "True Crime"
-    },
-    "1896908186": {
-      "itunesId": "1896908186",
-      "title": "The Last 12 Weeks",
-      "author": "Serial Productions & The New York Times",
-      "feedUrl": "https://feeds.simplecast.com/fho8oyc2",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/8b/cb/61/8bcb6179-38bd-0f94-a83e-75c99969f148/mza_1914265137006094689.jpg/600x600bb.jpg",
       "genre": "True Crime"
     }
   }
