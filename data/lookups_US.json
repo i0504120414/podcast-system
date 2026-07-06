@@ -3,6 +3,14 @@
   "country": "US",
   "count": 25,
   "lookups": {
+    "201671138": {
+      "itunesId": "201671138",
+      "title": "This American Life",
+      "author": "This American Life",
+      "feedUrl": "https://www.thisamericanlife.org/podcast/rss.xml",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/64/aa/3a/64aa3a66-a08a-947c-cf21-a5722a1b77ae/mza_11390421932467026234.png/600x600bb.jpg",
+      "genre": "Society & Culture"
+    },
     "278981407": {
       "itunesId": "278981407",
       "title": "Stuff You Should Know",
@@ -35,22 +43,6 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/81/6c/5d/816c5d57-7c3f-3df9-1557-08e17469dfe4/mza_1433648970787567135.jpg/600x600bb.jpg",
       "genre": "True Crime"
     },
-    "1043699613": {
-      "itunesId": "1043699613",
-      "title": "The Bill Simmons Podcast",
-      "author": "The Ringer",
-      "feedUrl": "https://feeds.megaphone.fm/the-bill-simmons-podcast",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d6/ec/33/d6ec332d-41b2-4f6e-3b26-26932d266089/mza_9745793819236520970.jpg/600x600bb.jpg",
-      "genre": "Sports"
-    },
-    "1074507850": {
-      "itunesId": "1074507850",
-      "title": "My Favorite Murder with Karen Kilgariff and Georgia Hardstark",
-      "author": "Exactly Right and iHeartPodcasts",
-      "feedUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/bdde8bb3-169d-43b1-91d3-b24c0047969c/f450d41f-16bc-4ecd-8f6c-b24c004796e2/podcast.rss",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/1b/80/b1/1b80b146-8608-f76f-97e7-7a2317549c35/mza_14115126871478479568.jpg/600x600bb.jpg",
-      "genre": "True Crime"
-    },
     "1089022756": {
       "itunesId": "1089022756",
       "title": "Pardon My Take",
@@ -58,6 +50,14 @@
       "feedUrl": "https://mcsorleys.barstoolsports.com/feed/pardon-my-take",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/35/74/6a/35746a0c-7687-7dde-ff04-338d93e78303/mza_10377078556009223546.jpg/600x600bb.jpg",
       "genre": "Football"
+    },
+    "1145089790": {
+      "itunesId": "1145089790",
+      "title": "Snapped: Women Who Murder",
+      "author": "Oxygen",
+      "feedUrl": "https://rss.art19.com/snapped-women-who-murder",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/d4/ef/ff/d4efff91-8a69-ba8a-b5a8-634c029af6ff/mza_14265882527940743554.jpeg/600x600bb.jpg",
+      "genre": "True Crime"
     },
     "1192761536": {
       "itunesId": "1192761536",
@@ -147,14 +147,6 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/20/ed/c7/20edc799-fdb3-e608-a164-0cdaaee63c6b/mza_16701966284979673066.jpg/600x600bb.jpg",
       "genre": "History"
     },
-    "1539568321": {
-      "itunesId": "1539568321",
-      "title": "The Bible in a Year (with Fr. Mike Schmitz)",
-      "author": "Ascension",
-      "feedUrl": "https://feeds.fireside.fm/bibleinayear/rss",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
-      "genre": "Christianity"
-    },
     "1548604447": {
       "itunesId": "1548604447",
       "title": "The Ezra Klein Show",
@@ -194,6 +186,14 @@
       "feedUrl": "https://feeds.megaphone.fm/good-hang-with-amy-poehler",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/2b/94/bb/2b94bb6e-44f1-9d57-7748-b7456072806d/mza_1064202164981856225.jpg/600x600bb.jpg",
       "genre": "Comedy"
+    },
+    "1844970260": {
+      "itunesId": "1844970260",
+      "title": "Unblinded with Sean Callagy",
+      "author": "Sean Callagy",
+      "feedUrl": "https://anchor.fm/s/10a340624/podcast/rss",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fe/73/39/fe733903-aac9-857a-7e0d-97da75f26739/mza_7400622169884755798.jpg/600x600bb.jpg",
+      "genre": "Business"
     },
     "1878220033": {
       "itunesId": "1878220033",
