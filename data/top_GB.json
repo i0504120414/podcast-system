@@ -11,6 +11,83 @@
     "entry": [
       {
         "im:name": {
+          "label": "The News Agents"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/40/86/8d/40868d10-4f7c-a931-e314-0e31be83667b/mza_15291423343249011134.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/40/86/8d/40868d10-4f7c-a931-e314-0e31be83667b/mza_15291423343249011134.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/40/86/8d/40868d10-4f7c-a931-e314-0e31be83667b/mza_15291423343249011134.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "Emily Maitlis, Jon Sopel and Lewis Goodall – three of the UK’s top journalists – host an award-winning daily news podcast: The News Agents.  \n\nThey’re not just here to tell you what's happening, but why. Expect astute analysis and explanation of the day's news – and a healthy dose of scepticism and the ability to laugh at it all when needed.\n\nEpisodes are available every weekday afternoon. You can listen to The News Agents on Alexa, just say \"Alexa ask Global Player to play The News Agents\"\n\nThe News Agents is a Global Player Original podcast.\n\nFor advertising opportunities on this podcast email: dax@global.com\n\nYou can visit our website here https://www.thenewsagents.co.uk/"
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "GBP"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© Global"
+        },
+        "title": {
+          "label": "The News Agents - Global"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/gb/podcast/the-news-agents/id1640878689?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/gb/podcast/the-news-agents/id1640878689?uo=2",
+          "attributes": {
+            "im:id": "1640878689"
+          }
+        },
+        "im:artist": {
+          "label": "Global"
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1526",
+            "term": "Daily News",
+            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-news-daily-news/id1526?uo=2",
+            "label": "Daily News"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-07-03T08:00:00-07:00",
+          "attributes": {
+            "label": "03 July 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
           "label": "The Rest Is History"
         },
         "im:image": [
@@ -80,6 +157,317 @@
             "term": "History",
             "scheme": "https://podcasts.apple.com/gb/genre/podcasts-history/id1487?uo=2",
             "label": "History"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-07-08T16:00:00-07:00",
+          "attributes": {
+            "label": "08 July 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "The Rest Is Football"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/08/d9/50/08d95003-b8f8-2c16-9992-f7fa917fb20d/mza_7656131614454790380.jpeg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/08/d9/50/08d95003-b8f8-2c16-9992-f7fa917fb20d/mza_7656131614454790380.jpeg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/08/d9/50/08d95003-b8f8-2c16-9992-f7fa917fb20d/mza_7656131614454790380.jpeg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "Gary Lineker, Alan Shearer, and Micah Richards discuss football's biggest stories.\nFrom last-minute winners to transfer sagas, fantasy football gems, and the drama behind the scenes.\nWith strong opinions, brilliant chemistry, and decades of Premier League experience, The Rest Is Football serves up three episodes every week packed with insights, dressing-room stories, and proper laughs.\nWhether it’s VAR controversies, title races, European nights, or England’s hopes in international tournaments, no topic is off the table. It's the essential podcast for football fans.\nFor more Goalhanger Podcasts, head to www.goalhanger.com."
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "GBP"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© 766979"
+        },
+        "title": {
+          "label": "The Rest Is Football - Goalhanger"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/gb/podcast/the-rest-is-football/id1701022490?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/gb/podcast/the-rest-is-football/id1701022490?uo=2",
+          "attributes": {
+            "im:id": "1701022490"
+          }
+        },
+        "im:artist": {
+          "label": "Goalhanger"
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1546",
+            "term": "Soccer",
+            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-sport-football/id1546?uo=2",
+            "label": "Football"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-07-06T16:30:00-07:00",
+          "attributes": {
+            "label": "06 July 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "Football Weekly"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e7/56/c9/e756c9f6-35a6-25b5-11dd-0ad301e01b3b/mza_7252499345169022637.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e7/56/c9/e756c9f6-35a6-25b5-11dd-0ad301e01b3b/mza_7252499345169022637.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e7/56/c9/e756c9f6-35a6-25b5-11dd-0ad301e01b3b/mza_7252499345169022637.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "Join Max Rushden, Barry Glendenning and fan favourites, including Barney Ronay and Jonathan Wilson, as Football Weekly goes daily for the entire World Cup. Follow the team across the USA, as they break down all the action, the results and of course, the drama. Football Weekly is the Guardian's award-winning football podcast, bringing together some of football’s most respected journalists, writers and broadcasters for expert analysis, opinion and debate throughout the World Cup. On World Cup Daily, the team reviews the biggest matches, discusses the latest news and talking points and analyses the performances shaping football's biggest competition. Whether you're following England, Scotland, USMNT, Argentina, Brazil, France, Germany, Spain, Portugal, Mexico, Canada, Australia or any of the other nations competing at the World Cup, World Cup Daily provides comprehensive coverage from the opening match to the final. The podcast regularly discusses the world's biggest players, including Lionel Messi, Kylian Mbappé, Jude Bellingham, Harry Kane, Vinícius Júnior, Erling Haaland, Cristiano Ronaldo, Lamine Yamal, Bukayo Saka, Declan Rice, Mohamed Salah, Neymar, Virgil van Dijk and many more. Expect reaction to the tournament's biggest moments, tactical analysis, VAR controversies and the stories making headlines on and off the pitch. Beyond the World Cup, Football Weekly covers the Premier League, Champions League, Europa League, Europa Conference League, Women's Super League, Women's World Cup, European Championship, Bundesliga, Serie A, Ligue 1, La Liga, the Championship and international football from around the globe. The show regularly discusses clubs including Manchester United, Manchester City, Arsenal, Liverpool, Chelsea, Tottenham Hotspur, Newcastle United, Aston Villa, Real Madrid, Barcelona, Atlético Madrid, Bayern Munich, Borussia Dortmund, Juventus, Inter, Milan, Napoli and Paris Saint-Germain. Featuring journalists and contributors including Barney Ronay, Jonathan Wilson, Suzy Wrack, Lars Sivertsen, Nicky Bandini, Sid Lowe, Johnny Liew, Robyn Cowen, Nedum Onuoha and many more, Football Weekly combines informed punditry, football journalism and entertaining discussion to deliver one of the most popular football podcasts in the world. Listen now wherever you get your podcasts or watch the full episodes on YouTube."
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "GBP"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© 2026 Guardian News & Media Limited or its affiliated companies. All rights reserved."
+        },
+        "title": {
+          "label": "Football Weekly - The Guardian"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/gb/podcast/football-weekly/id188674007?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/gb/podcast/football-weekly/id188674007?uo=2",
+          "attributes": {
+            "im:id": "188674007"
+          }
+        },
+        "im:artist": {
+          "label": "The Guardian",
+          "attributes": {
+            "href": "https://podcasts.apple.com/gb/artist/the-guardian/136731196?uo=2"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1546",
+            "term": "Soccer",
+            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-sport-football/id1546?uo=2",
+            "label": "Football"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-07-06T23:08:00-07:00",
+          "attributes": {
+            "label": "06 July 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "The Rest Is Politics: US"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3a/f4/51/3af451dd-f500-9c3e-8834-839d86076411/mza_11954146268283790758.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3a/f4/51/3af451dd-f500-9c3e-8834-839d86076411/mza_11954146268283790758.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3a/f4/51/3af451dd-f500-9c3e-8834-839d86076411/mza_11954146268283790758.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "TRIP US uncovers secrets from inside the White House inner circles as well as taking a wider look at the intricacies of United States society and how they shape the world's most important economy.\n\nThe podcast is hosted by Anthony Scaramucci (The Mooch), former White House Director of Communications and Wall Street financier, and Katty Kay, US special correspondent for BBC who has been covering US politics for almost 30 years. \n\nStay informed with in-depth discussions on key political events, policy changes, and the forces shaping America’s future on the global stage.\n\nNew episodes released every Friday, or join our club for bonus content. Just head to https://therestispoliticsus.com to sign up today.."
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "GBP"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© Goalhanger"
+        },
+        "title": {
+          "label": "The Rest Is Politics: US - Goalhanger"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/gb/podcast/the-rest-is-politics-us/id1743030473?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/gb/podcast/the-rest-is-politics-us/id1743030473?uo=2",
+          "attributes": {
+            "im:id": "1743030473"
+          }
+        },
+        "im:artist": {
+          "label": "Goalhanger"
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1527",
+            "term": "Politics",
+            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-news-politics/id1527?uo=2",
+            "label": "Politics"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-07-06T11:25:00-07:00",
+          "attributes": {
+            "label": "06 July 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "The Rest Is Entertainment"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5e/be/eb/5ebeebb0-0c2f-9b45-1fe5-4fbd11a402ca/mza_8283141955426595130.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5e/be/eb/5ebeebb0-0c2f-9b45-1fe5-4fbd11a402ca/mza_8283141955426595130.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5e/be/eb/5ebeebb0-0c2f-9b45-1fe5-4fbd11a402ca/mza_8283141955426595130.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "Richard Osman & Marina Hyde share insider knowledge on TV, movies, and pop culture.\nStay up to date on what's hot and what's not in entertainment with behind-the-scenes insights from Richard and Marina. As two of the most connected voices in the business, they provide a unique perspective on the latest television series, film releases, and cultural trends. Their podcast explores everything from media gossip to industry secrets, giving listeners the inside track on the world of showbiz.\nWhether you're a fan of gritty dramas, blockbuster movies, or celebrity news, this podcast is your ultimate guide to entertainment. Richard and Marina offer fresh, expert analysis on the latest hits, star power, and cultural moments shaping the media landscape, making sure you’re always in the know about the entertainment world.\nThe Rest Is Entertainment Plus: Become a member for exclusive bonus content, early access to our Q&A episodes, ad-free listening, access to our exclusive newsletter archive, discount book prices on selected titles with our partners at Coles, early ticket access to future live events, and our members’ chatroom on Discord.\nJust head to therestisentertainment.com to sign up, or start a free trial today on Apple Podcasts: apple.co/therestisentertainment.\nFor more Goalhanger Podcasts, head to www.goalhanger.com."
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "GBP"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© 766979"
+        },
+        "title": {
+          "label": "The Rest Is Entertainment - Goalhanger"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/gb/podcast/the-rest-is-entertainment/id1718287198?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/gb/podcast/the-rest-is-entertainment/id1718287198?uo=2",
+          "attributes": {
+            "im:id": "1718287198"
+          }
+        },
+        "im:artist": {
+          "label": "Goalhanger"
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1309",
+            "term": "TV & Film",
+            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-tv-film/id1309?uo=2",
+            "label": "TV & Film"
           }
         },
         "im:releaseDate": {
@@ -168,163 +556,6 @@
       },
       {
         "im:name": {
-          "label": "The News Agents"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/40/86/8d/40868d10-4f7c-a931-e314-0e31be83667b/mza_15291423343249011134.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/40/86/8d/40868d10-4f7c-a931-e314-0e31be83667b/mza_15291423343249011134.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/40/86/8d/40868d10-4f7c-a931-e314-0e31be83667b/mza_15291423343249011134.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "Emily Maitlis, Jon Sopel and Lewis Goodall – three of the UK’s top journalists – host an award-winning daily news podcast: The News Agents.  \n\nThey’re not just here to tell you what's happening, but why. Expect astute analysis and explanation of the day's news – and a healthy dose of scepticism and the ability to laugh at it all when needed.\n\nEpisodes are available every weekday afternoon. You can listen to The News Agents on Alexa, just say \"Alexa ask Global Player to play The News Agents\"\n\nThe News Agents is a Global Player Original podcast.\n\nFor advertising opportunities on this podcast email: dax@global.com\n\nYou can visit our website here https://www.thenewsagents.co.uk/"
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "GBP"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© Global"
-        },
-        "title": {
-          "label": "The News Agents - Global"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/gb/podcast/the-news-agents/id1640878689?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/gb/podcast/the-news-agents/id1640878689?uo=2",
-          "attributes": {
-            "im:id": "1640878689"
-          }
-        },
-        "im:artist": {
-          "label": "Global"
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1526",
-            "term": "Daily News",
-            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-news-daily-news/id1526?uo=2",
-            "label": "Daily News"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-07-03T08:00:00-07:00",
-          "attributes": {
-            "label": "03 July 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "Football Weekly"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e7/56/c9/e756c9f6-35a6-25b5-11dd-0ad301e01b3b/mza_7252499345169022637.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e7/56/c9/e756c9f6-35a6-25b5-11dd-0ad301e01b3b/mza_7252499345169022637.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e7/56/c9/e756c9f6-35a6-25b5-11dd-0ad301e01b3b/mza_7252499345169022637.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "Join Max Rushden, Barry Glendenning and fan favourites, including Barney Ronay and Jonathan Wilson, as Football Weekly goes daily for the entire World Cup. Follow the team across the USA, as they break down all the action, the results and of course, the drama. Football Weekly is the Guardian's award-winning football podcast, bringing together some of football’s most respected journalists, writers and broadcasters for expert analysis, opinion and debate throughout the World Cup. On World Cup Daily, the team reviews the biggest matches, discusses the latest news and talking points and analyses the performances shaping football's biggest competition. Whether you're following England, Scotland, USMNT, Argentina, Brazil, France, Germany, Spain, Portugal, Mexico, Canada, Australia or any of the other nations competing at the World Cup, World Cup Daily provides comprehensive coverage from the opening match to the final. The podcast regularly discusses the world's biggest players, including Lionel Messi, Kylian Mbappé, Jude Bellingham, Harry Kane, Vinícius Júnior, Erling Haaland, Cristiano Ronaldo, Lamine Yamal, Bukayo Saka, Declan Rice, Mohamed Salah, Neymar, Virgil van Dijk and many more. Expect reaction to the tournament's biggest moments, tactical analysis, VAR controversies and the stories making headlines on and off the pitch. Beyond the World Cup, Football Weekly covers the Premier League, Champions League, Europa League, Europa Conference League, Women's Super League, Women's World Cup, European Championship, Bundesliga, Serie A, Ligue 1, La Liga, the Championship and international football from around the globe. The show regularly discusses clubs including Manchester United, Manchester City, Arsenal, Liverpool, Chelsea, Tottenham Hotspur, Newcastle United, Aston Villa, Real Madrid, Barcelona, Atlético Madrid, Bayern Munich, Borussia Dortmund, Juventus, Inter, Milan, Napoli and Paris Saint-Germain. Featuring journalists and contributors including Barney Ronay, Jonathan Wilson, Suzy Wrack, Lars Sivertsen, Nicky Bandini, Sid Lowe, Johnny Liew, Robyn Cowen, Nedum Onuoha and many more, Football Weekly combines informed punditry, football journalism and entertaining discussion to deliver one of the most popular football podcasts in the world. Listen now wherever you get your podcasts or watch the full episodes on YouTube."
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "GBP"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© 2026 Guardian News & Media Limited or its affiliated companies. All rights reserved."
-        },
-        "title": {
-          "label": "Football Weekly - The Guardian"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/gb/podcast/football-weekly/id188674007?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/gb/podcast/football-weekly/id188674007?uo=2",
-          "attributes": {
-            "im:id": "188674007"
-          }
-        },
-        "im:artist": {
-          "label": "The Guardian",
-          "attributes": {
-            "href": "https://podcasts.apple.com/gb/artist/the-guardian/136731196?uo=2"
-          }
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1546",
-            "term": "Soccer",
-            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-sport-football/id1546?uo=2",
-            "label": "Football"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-07-05T23:45:00-07:00",
-          "attributes": {
-            "label": "05 July 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
           "label": "Outsiding"
         },
         "im:price": {
@@ -399,30 +630,30 @@
       },
       {
         "im:name": {
-          "label": "Newscast"
+          "label": "Stick to Football"
         },
         "im:image": [
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/69/3d/77/693d775a-d8d8-d735-a66f-072b8ae54106/mza_14077127562991224684.jpg/55x55bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bc/33/7d/bc337da6-5892-58c9-c6f2-a8b6e85d8eff/mza_17269967902655057672.jpeg/55x55bb.png",
             "attributes": {
               "height": "55"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/69/3d/77/693d775a-d8d8-d735-a66f-072b8ae54106/mza_14077127562991224684.jpg/60x60bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bc/33/7d/bc337da6-5892-58c9-c6f2-a8b6e85d8eff/mza_17269967902655057672.jpeg/60x60bb.png",
             "attributes": {
               "height": "60"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/69/3d/77/693d775a-d8d8-d735-a66f-072b8ae54106/mza_14077127562991224684.jpg/170x170bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bc/33/7d/bc337da6-5892-58c9-c6f2-a8b6e85d8eff/mza_17269967902655057672.jpeg/170x170bb.png",
             "attributes": {
               "height": "170"
             }
           }
         ],
         "summary": {
-          "label": "The BBC's daily news podcast, Newscast dives into the day's biggest news stories so you're never out of your depth.\nNewscast picks the brains of BBC News experts so you're ready if someone picks yours, covering the latest news, developments in politics in Westminster and beyond.\nNewscast is hosted by trusted politics and news journalists including Adam Fleming, BBC Political Editor Chris Mason, Laura Kuenssberg and Paddy O'Connell.    \nYou can now listen to Newscast on a smart speaker. If you want to listen, just say \"Ask BBC Sounds to play Newscast”. It works on most smart speakers.\nCatch Newscast seven-days a week and watch on BBC One at 23:40 on Thursday night or later on BBC iPlayer. \nGET IN TOUCH:\nYou can join our Newscast online community here: https://bbc.in/newscastdiscord\nSend us a message or voicenote via WhatsApp to 03301239480\nEmail Newscast@bbc.co.uk\nOr use the hashtag #BBCNewscast"
+          "label": "An original series from The Overlap - with Gary Neville, Jamie Carragher, Jill Scott, Ian Wright and Roy Keane, featuring special guests discussing all things football. Hosted on Acast. See acast.com/privacy for more information."
         },
         "im:price": {
           "label": "Get",
@@ -438,42 +669,193 @@
           }
         },
         "rights": {
-          "label": "© (C) BBC 2026"
+          "label": "© The Overlap"
         },
         "title": {
-          "label": "Newscast - BBC News"
+          "label": "Stick to Football - The Overlap"
         },
         "link": {
           "attributes": {
             "rel": "alternate",
             "type": "text/html",
-            "href": "https://podcasts.apple.com/gb/podcast/newscast/id1234185718?uo=2"
+            "href": "https://podcasts.apple.com/gb/podcast/stick-to-football/id1709142395?uo=2"
           }
         },
         "id": {
-          "label": "https://podcasts.apple.com/gb/podcast/newscast/id1234185718?uo=2",
+          "label": "https://podcasts.apple.com/gb/podcast/stick-to-football/id1709142395?uo=2",
           "attributes": {
-            "im:id": "1234185718"
+            "im:id": "1709142395"
           }
         },
         "im:artist": {
-          "label": "BBC News",
-          "attributes": {
-            "href": "https://podcasts.apple.com/gb/artist/bbc/121676617?uo=2"
-          }
+          "label": "The Overlap"
         },
         "category": {
           "attributes": {
-            "im:id": "1526",
-            "term": "Daily News",
-            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-news-daily-news/id1526?uo=2",
-            "label": "Daily News"
+            "im:id": "1546",
+            "term": "Soccer",
+            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-sport-football/id1546?uo=2",
+            "label": "Football"
           }
         },
         "im:releaseDate": {
-          "label": "2026-07-05T06:10:00-07:00",
+          "label": "2026-07-06T13:56:00-07:00",
+          "attributes": {
+            "label": "06 July 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "Posh George: The criminal behind Farage | Times Investigates"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/d0/a8/edd0a85c-9fa2-e40c-e058-fb677324fbd0/mza_9886183508050563701.jpeg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/d0/a8/edd0a85c-9fa2-e40c-e058-fb677324fbd0/mza_9886183508050563701.jpeg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/d0/a8/edd0a85c-9fa2-e40c-e058-fb677324fbd0/mza_9886183508050563701.jpeg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "Posh George: The criminal behind Farage is season 13 of Times Investigates - bringing you award-winning investigative and true crime podcasts from The Times and The Sunday Times\nFrom war zones to suburban homes, pursuing brutal criminals and cult leaders, our podcasts go further than any other to uncover the truth\nIn season 1, war correspondent Anthony Loyd investigates the life - and fate - of his colleague John Cantlie, who was kidnapped in Syria by Islamic State\nIn season 2, crime correspondent John Simpson breaks down the wall of silence surrounding the killing of 14-year-old Corey Junior Davis\nIn season 3 Berlin correspondent Oliver Moody uncovers the story of Hans Globke, the Nazi bureaucrat who laid the legal basis for the Holocaust - and helped build the modern German state\nIn season 4, columnist David Aaronovitch follows the trail of charm and deception left by businessman Lex Greensill through the corridors of power in Britain\nIn season 5, special correspondent Emily Dugan asks whether the wrong man was sent to prison for a brutal attack on a mother of two\nIn season six, Middle East correspondent Louise Callaghan steps into the weird world of ‘kittens’, ‘lions’, and televangelism surrounding a cult leader \nIn season seven, journalists Brenna Daldorph and David Aaronovitch explore the dark past behind some of Britain’s wealthiest stately homes\nIn season eight, feature writer Andrew Billen exposes a very British scandal at the world-famous university college, Christ Church, Oxford\nIn season nine, David Aaranovitch steps into the online world of Patriotic Alternative, a far-right group using the Covid pandemic as a recruiting tool\nIn season 10, journalists Peter Gillman and Emanuele Midolo investigate the death of one of our own, David Holden, the reporter whose killing became a Cold War whodunnit\nIn season 11, social affairs editor James Beal follows a trail leading from a quiet British town to frozen Canada, where he discovers a man allegedly selling death online\nIn season 12, reporter Mario Ledwith returns to his hometown in Northern Ireland, seeking answers about the bloody 1987 Remembrance Sunday attack\nIn series 13, The Sunday Times’s Insight team investigates how Nigel Farage came to depend upon a crypto enthusiast, gambler and fraudster  \n\n Hosted on Acast. See acast.com/privacy for more information."
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "GBP"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© The Times"
+        },
+        "title": {
+          "label": "Posh George: The criminal behind Farage | Times Investigates - The Times"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/gb/podcast/posh-george-the-criminal-behind-farage-times-investigates/id1630722986?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/gb/podcast/posh-george-the-criminal-behind-farage-times-investigates/id1630722986?uo=2",
+          "attributes": {
+            "im:id": "1630722986"
+          }
+        },
+        "im:artist": {
+          "label": "The Times"
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1489",
+            "term": "News",
+            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-news/id1489?uo=2",
+            "label": "News"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-07-05T16:01:00-07:00",
           "attributes": {
             "label": "05 July 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "For The Love Of Cycling"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f8/f9/87/f8f98763-7894-3e06-c419-c71f4141a76e/mza_11528391606854201854.jpeg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f8/f9/87/f8f98763-7894-3e06-c419-c71f4141a76e/mza_11528391606854201854.jpeg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f8/f9/87/f8f98763-7894-3e06-c419-c71f4141a76e/mza_11528391606854201854.jpeg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "For The Love Of Cycling is exactly what it sounds like. Four people obsessed with cycling.\n\nNed Boulting has spent decades narrating the drama from the commentary box, bringing the stories of the peloton to life, spotting the moments others miss and putting words to the madness.\n\nDavid Millar knows that madness better than most. A former pro who raced at the very top and brings a sharp, unfiltered view of how the sport really works.\n\nPete Kennaugh brings the view from inside the bunch, a former Team Sky road captain who’s ridden through the chaos of Grand Tours and come out the other side with the kind of insight you only get from being there.\n\nAnd Lizzie Deignan adds world-class insight from the women’s peloton, with the experience of a champion who’s raced, won, and helped shape the sport.\n\nBetween them, they’ve lived cycling from just about every angle.\n\nThey’ll take you into the heart of the biggest (and smallest) races. Not just what happened, but what it felt like. The atmosphere at the start line, the tension in the bunch, the strange, brilliant, exhausting rhythm of the road. It’s as much about the stories and the people of the sport as it is the results."
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "GBP"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© 8f46aed0-4eb4-11f1-9aca-8f95c3745e2c"
+        },
+        "title": {
+          "label": "For The Love Of Cycling - Crowd Network"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/gb/podcast/for-the-love-of-cycling/id1480803944?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/gb/podcast/for-the-love-of-cycling/id1480803944?uo=2",
+          "attributes": {
+            "im:id": "1480803944"
+          }
+        },
+        "im:artist": {
+          "label": "Crowd Network"
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1545",
+            "term": "Sports",
+            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-sport/id1545?uo=2",
+            "label": "Sport"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-07-06T10:51:00-07:00",
+          "attributes": {
+            "label": "06 July 2026"
           }
         }
       },
@@ -559,30 +941,30 @@
       },
       {
         "im:name": {
-          "label": "The Rest Is Football"
+          "label": "Off Menu with Ed Gamble and James Acaster"
         },
         "im:image": [
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/08/d9/50/08d95003-b8f8-2c16-9992-f7fa917fb20d/mza_7656131614454790380.jpeg/55x55bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/c4/dc/de/c4dcdec7-fbea-749e-7a03-bbe27db17137/mza_4311127974403693339.jpeg/55x55bb.png",
             "attributes": {
               "height": "55"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/08/d9/50/08d95003-b8f8-2c16-9992-f7fa917fb20d/mza_7656131614454790380.jpeg/60x60bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/c4/dc/de/c4dcdec7-fbea-749e-7a03-bbe27db17137/mza_4311127974403693339.jpeg/60x60bb.png",
             "attributes": {
               "height": "60"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/08/d9/50/08d95003-b8f8-2c16-9992-f7fa917fb20d/mza_7656131614454790380.jpeg/170x170bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/c4/dc/de/c4dcdec7-fbea-749e-7a03-bbe27db17137/mza_4311127974403693339.jpeg/170x170bb.png",
             "attributes": {
               "height": "170"
             }
           }
         ],
         "summary": {
-          "label": "Gary Lineker, Alan Shearer, and Micah Richards discuss football's biggest stories.\nFrom last-minute winners to transfer sagas, fantasy football gems, and the drama behind the scenes.\nWith strong opinions, brilliant chemistry, and decades of Premier League experience, The Rest Is Football serves up three episodes every week packed with insights, dressing-room stories, and proper laughs.\nWhether it’s VAR controversies, title races, European nights, or England’s hopes in international tournaments, no topic is off the table. It's the essential podcast for football fans.\nFor more Goalhanger Podcasts, head to www.goalhanger.com."
+          "label": "Comedians Ed Gamble and James Acaster invite special guests into their magical restaurant to each choose their favourite starter, main course, side dish, dessert and drink. Ever wanted to eat your dream meal? It's time to order Off Menu. Hosted on Acast. See acast.com/privacy for more information."
         },
         "im:price": {
           "label": "Get",
@@ -598,347 +980,42 @@
           }
         },
         "rights": {
-          "label": "© 766979"
+          "label": "© Plosive Limited"
         },
         "title": {
-          "label": "The Rest Is Football - Goalhanger"
+          "label": "Off Menu with Ed Gamble and James Acaster - Plosive"
         },
         "link": {
           "attributes": {
             "rel": "alternate",
             "type": "text/html",
-            "href": "https://podcasts.apple.com/gb/podcast/the-rest-is-football/id1701022490?uo=2"
+            "href": "https://podcasts.apple.com/gb/podcast/off-menu-with-ed-gamble-and-james-acaster/id1442950743?uo=2"
           }
         },
         "id": {
-          "label": "https://podcasts.apple.com/gb/podcast/the-rest-is-football/id1701022490?uo=2",
+          "label": "https://podcasts.apple.com/gb/podcast/off-menu-with-ed-gamble-and-james-acaster/id1442950743?uo=2",
           "attributes": {
-            "im:id": "1701022490"
+            "im:id": "1442950743"
           }
         },
         "im:artist": {
-          "label": "Goalhanger"
+          "label": "Plosive",
+          "attributes": {
+            "href": "https://podcasts.apple.com/gb/artist/plosive-productions/1554552867?uo=2"
+          }
         },
         "category": {
           "attributes": {
-            "im:id": "1546",
-            "term": "Soccer",
-            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-sport-football/id1546?uo=2",
-            "label": "Football"
+            "im:id": "1496",
+            "term": "Comedy Interviews",
+            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-comedy-comedy-interviews/id1496?uo=2",
+            "label": "Comedy Interviews"
           }
         },
         "im:releaseDate": {
-          "label": "2026-07-05T23:45:00-07:00",
+          "label": "2026-06-28T20:00:00-07:00",
           "attributes": {
-            "label": "05 July 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "Parenting Hell with Rob Beckett and Josh Widdicombe"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c4/6c/e9/c46ce980-5bc9-8576-7517-26b22a197af0/mza_3516779678634575270.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c4/6c/e9/c46ce980-5bc9-8576-7517-26b22a197af0/mza_3516779678634575270.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c4/6c/e9/c46ce980-5bc9-8576-7517-26b22a197af0/mza_3516779678634575270.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "Parenting... just not as you know it.\n\n\n\nJoin Rob & Josh twice a week as they share their tales of parenting woe and chat to celebrity parents about how they're coping, or not coping. \n\n\n\nParenting Hell is a Spotify Podcast, video episodes available on Tuesdays and Fridays every week. "
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "GBP"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© Copyright Keep It Light Media"
-        },
-        "title": {
-          "label": "Parenting Hell with Rob Beckett and Josh Widdicombe - Keep It Light Media / Spotify Studios"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/gb/podcast/parenting-hell-with-rob-beckett-and-josh-widdicombe/id1510251497?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/gb/podcast/parenting-hell-with-rob-beckett-and-josh-widdicombe/id1510251497?uo=2",
-          "attributes": {
-            "im:id": "1510251497"
-          }
-        },
-        "im:artist": {
-          "label": "Keep It Light Media / Spotify Studios"
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1303",
-            "term": "Comedy",
-            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-comedy/id1303?uo=2",
-            "label": "Comedy"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-06-29T21:45:00-07:00",
-          "attributes": {
-            "label": "29 June 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "For The Love Of Cycling"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f8/f9/87/f8f98763-7894-3e06-c419-c71f4141a76e/mza_11528391606854201854.jpeg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f8/f9/87/f8f98763-7894-3e06-c419-c71f4141a76e/mza_11528391606854201854.jpeg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f8/f9/87/f8f98763-7894-3e06-c419-c71f4141a76e/mza_11528391606854201854.jpeg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "For The Love Of Cycling is exactly what it sounds like. Four people obsessed with cycling.\n\nNed Boulting has spent decades narrating the drama from the commentary box, bringing the stories of the peloton to life, spotting the moments others miss and putting words to the madness.\n\nDavid Millar knows that madness better than most. A former pro who raced at the very top and brings a sharp, unfiltered view of how the sport really works.\n\nPete Kennaugh brings the view from inside the bunch, a former Team Sky road captain who’s ridden through the chaos of Grand Tours and come out the other side with the kind of insight you only get from being there.\n\nAnd Lizzie Deignan adds world-class insight from the women’s peloton, with the experience of a champion who’s raced, won, and helped shape the sport.\n\nBetween them, they’ve lived cycling from just about every angle.\n\nThey’ll take you into the heart of the biggest (and smallest) races. Not just what happened, but what it felt like. The atmosphere at the start line, the tension in the bunch, the strange, brilliant, exhausting rhythm of the road. It’s as much about the stories and the people of the sport as it is the results."
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "GBP"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© 8f46aed0-4eb4-11f1-9aca-8f95c3745e2c"
-        },
-        "title": {
-          "label": "For The Love Of Cycling - Crowd Network"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/gb/podcast/for-the-love-of-cycling/id1480803944?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/gb/podcast/for-the-love-of-cycling/id1480803944?uo=2",
-          "attributes": {
-            "im:id": "1480803944"
-          }
-        },
-        "im:artist": {
-          "label": "Crowd Network"
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1545",
-            "term": "Sports",
-            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-sport/id1545?uo=2",
-            "label": "Sport"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-07-05T11:05:00-07:00",
-          "attributes": {
-            "label": "05 July 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "The Rest Is Entertainment"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5e/be/eb/5ebeebb0-0c2f-9b45-1fe5-4fbd11a402ca/mza_8283141955426595130.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5e/be/eb/5ebeebb0-0c2f-9b45-1fe5-4fbd11a402ca/mza_8283141955426595130.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5e/be/eb/5ebeebb0-0c2f-9b45-1fe5-4fbd11a402ca/mza_8283141955426595130.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "Richard Osman & Marina Hyde share insider knowledge on TV, movies, and pop culture.\nStay up to date on what's hot and what's not in entertainment with behind-the-scenes insights from Richard and Marina. As two of the most connected voices in the business, they provide a unique perspective on the latest television series, film releases, and cultural trends. Their podcast explores everything from media gossip to industry secrets, giving listeners the inside track on the world of showbiz.\nWhether you're a fan of gritty dramas, blockbuster movies, or celebrity news, this podcast is your ultimate guide to entertainment. Richard and Marina offer fresh, expert analysis on the latest hits, star power, and cultural moments shaping the media landscape, making sure you’re always in the know about the entertainment world.\nThe Rest Is Entertainment Plus: Become a member for exclusive bonus content, early access to our Q&A episodes, ad-free listening, access to our exclusive newsletter archive, discount book prices on selected titles with our partners at Coles, early ticket access to future live events, and our members’ chatroom on Discord.\nJust head to therestisentertainment.com to sign up, or start a free trial today on Apple Podcasts: apple.co/therestisentertainment.\nFor more Goalhanger Podcasts, head to www.goalhanger.com."
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "GBP"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© 766979"
-        },
-        "title": {
-          "label": "The Rest Is Entertainment - Goalhanger"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/gb/podcast/the-rest-is-entertainment/id1718287198?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/gb/podcast/the-rest-is-entertainment/id1718287198?uo=2",
-          "attributes": {
-            "im:id": "1718287198"
-          }
-        },
-        "im:artist": {
-          "label": "Goalhanger"
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1309",
-            "term": "TV & Film",
-            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-tv-film/id1309?uo=2",
-            "label": "TV & Film"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-07-01T16:05:00-07:00",
-          "attributes": {
-            "label": "01 July 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "Sh**ged Married Annoyed"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/be/b7/5c/beb75c86-9128-5709-5541-80b6c3cc6ed9/mza_18366239786920109178.jpeg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/be/b7/5c/beb75c86-9128-5709-5541-80b6c3cc6ed9/mza_18366239786920109178.jpeg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/be/b7/5c/beb75c86-9128-5709-5541-80b6c3cc6ed9/mza_18366239786920109178.jpeg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "The only way Rosie and Chris Ramsey can have a conversation without being interrupted by a toddler or ending up staring at their phones is by doing a podcast. They’ll be chatting all about life, relationships, arguments, annoyances, parenting, growing up and everything in between. Each week they will answer questions from the public and a secret celebrity."
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "GBP"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© All rights reserved"
-        },
-        "title": {
-          "label": "Sh**ged Married Annoyed - Chris & Rosie Ramsey"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/gb/podcast/sh-ged-married-annoyed/id1451489585?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/gb/podcast/sh-ged-married-annoyed/id1451489585?uo=2",
-          "attributes": {
-            "im:id": "1451489585"
-          }
-        },
-        "im:artist": {
-          "label": "Chris & Rosie Ramsey"
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1303",
-            "term": "Comedy",
-            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-comedy/id1303?uo=2",
-            "label": "Comedy"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-06-30T20:56:00-07:00",
-          "attributes": {
-            "label": "30 June 2026"
+            "label": "28 June 2026"
           }
         }
       },
@@ -1021,104 +1098,30 @@
       },
       {
         "im:name": {
-          "label": "The Diary Of A CEO with Steven Bartlett"
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "GBP"
-          }
+          "label": "Newscast"
         },
         "im:image": [
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/69/af/0d/69af0ddd-1e0f-7ae3-c84b-88f18e31ad0c/mza_14445920128472365296.png/55x55bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/69/3d/77/693d775a-d8d8-d735-a66f-072b8ae54106/mza_14077127562991224684.jpg/55x55bb.png",
             "attributes": {
               "height": "55"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/69/af/0d/69af0ddd-1e0f-7ae3-c84b-88f18e31ad0c/mza_14445920128472365296.png/60x60bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/69/3d/77/693d775a-d8d8-d735-a66f-072b8ae54106/mza_14077127562991224684.jpg/60x60bb.png",
             "attributes": {
               "height": "60"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/69/af/0d/69af0ddd-1e0f-7ae3-c84b-88f18e31ad0c/mza_14445920128472365296.png/170x170bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/69/3d/77/693d775a-d8d8-d735-a66f-072b8ae54106/mza_14077127562991224684.jpg/170x170bb.png",
             "attributes": {
               "height": "170"
             }
           }
         ],
         "summary": {
-          "label": "Steven Bartlett is a British entrepreneur, investor, and author. He’s the founder of Flight Story – a media company – and Flight Fund, an investment fund backing the next generation of category-defining businesses.\nHe created The Diary Of A CEO to share the unfiltered pages of the personal diaries of the world’s most fascinating CEOs, experts, therapists, and leaders – with the hope that their lessons will help both you and him live better lives. \nDOAC is a double acronym: Diary Of A CEO, but also Dreamers, Open-minded, Awareness, and Connection.This is your corner of the internet to dream boldly, think openly, expand your awareness, and feel more connected.\n\nMy New Book: https://g2ul0.app.link/DOAC\nIG: https://www.instagram.com/steven\nLI: https://www.linkedin.com/in/stevenbartlett-123"
-        },
-        "im:artist": {
-          "label": "DOAC"
-        },
-        "title": {
-          "label": "The Diary Of A CEO with Steven Bartlett - DOAC"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/gb/podcast/the-diary-of-a-ceo-with-steven-bartlett/id1291423644?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/gb/podcast/the-diary-of-a-ceo-with-steven-bartlett/id1291423644?uo=2",
-          "attributes": {
-            "im:id": "1291423644"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1321",
-            "term": "Business",
-            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-business/id1321?uo=2",
-            "label": "Business"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-07-05T22:00:00-07:00",
-          "attributes": {
-            "label": "05 July 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "Casefile True Crime"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/32/81/a3/3281a345-6fa5-1d0d-b0bc-f02b0850a0ae/mza_17562537467118278179.jpeg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/32/81/a3/3281a345-6fa5-1d0d-b0bc-f02b0850a0ae/mza_17562537467118278179.jpeg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/32/81/a3/3281a345-6fa5-1d0d-b0bc-f02b0850a0ae/mza_17562537467118278179.jpeg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "Fact is scarier than fiction. Subscribe to Casefile Premium to receive ad-free episodes released one week early, along with access to bonus Q&A’s, our exclusive show ‘Behind the Files’, and more. Hosted on Acast. See acast.com/privacy for more information."
+          "label": "The BBC's daily news podcast, Newscast dives into the day's biggest news stories so you're never out of your depth.\nNewscast picks the brains of BBC News experts so you're ready if someone picks yours, covering the latest news, developments in politics in Westminster and beyond.\nNewscast is hosted by trusted politics and news journalists including Adam Fleming, BBC Political Editor Chris Mason, Laura Kuenssberg and Paddy O'Connell.    \nYou can now listen to Newscast on a smart speaker. If you want to listen, just say \"Ask BBC Sounds to play Newscast”. It works on most smart speakers.\nCatch Newscast seven-days a week and watch on BBC One at 23:40 on Thursday night or later on BBC iPlayer. \nGET IN TOUCH:\nYou can join our Newscast online community here: https://bbc.in/newscastdiscord\nSend us a message or voicenote via WhatsApp to 03301239480\nEmail Newscast@bbc.co.uk\nOr use the hashtag #BBCNewscast"
         },
         "im:price": {
           "label": "Get",
@@ -1134,71 +1137,71 @@
           }
         },
         "rights": {
-          "label": "© Casefile True Crime"
+          "label": "© (C) BBC 2026"
         },
         "title": {
-          "label": "Casefile True Crime - Casefile Presents"
+          "label": "Newscast - BBC News"
         },
         "link": {
           "attributes": {
             "rel": "alternate",
             "type": "text/html",
-            "href": "https://podcasts.apple.com/gb/podcast/casefile-true-crime/id998568017?uo=2"
+            "href": "https://podcasts.apple.com/gb/podcast/newscast/id1234185718?uo=2"
           }
         },
         "id": {
-          "label": "https://podcasts.apple.com/gb/podcast/casefile-true-crime/id998568017?uo=2",
+          "label": "https://podcasts.apple.com/gb/podcast/newscast/id1234185718?uo=2",
           "attributes": {
-            "im:id": "998568017"
+            "im:id": "1234185718"
           }
         },
         "im:artist": {
-          "label": "Casefile Presents",
+          "label": "BBC News",
           "attributes": {
-            "href": "https://podcasts.apple.com/gb/artist/casefile-presents/1533870296?uo=2"
+            "href": "https://podcasts.apple.com/gb/artist/bbc/121676617?uo=2"
           }
         },
         "category": {
           "attributes": {
-            "im:id": "1488",
-            "term": "True Crime",
-            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-true-crime/id1488?uo=2",
-            "label": "True Crime"
+            "im:id": "1526",
+            "term": "Daily News",
+            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-news-daily-news/id1526?uo=2",
+            "label": "Daily News"
           }
         },
         "im:releaseDate": {
-          "label": "2026-07-04T01:40:00-07:00",
+          "label": "2026-07-06T10:48:00-07:00",
           "attributes": {
-            "label": "04 July 2026"
+            "label": "06 July 2026"
           }
         }
       },
       {
         "im:name": {
-          "label": "Posh George: The criminal behind Farage | Times Investigates"
+          "label": "Parenting Hell with Rob Beckett and Josh Widdicombe"
         },
         "im:image": [
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/d0/a8/edd0a85c-9fa2-e40c-e058-fb677324fbd0/mza_9886183508050563701.jpeg/55x55bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c4/6c/e9/c46ce980-5bc9-8576-7517-26b22a197af0/mza_3516779678634575270.jpg/55x55bb.png",
             "attributes": {
               "height": "55"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/d0/a8/edd0a85c-9fa2-e40c-e058-fb677324fbd0/mza_9886183508050563701.jpeg/60x60bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c4/6c/e9/c46ce980-5bc9-8576-7517-26b22a197af0/mza_3516779678634575270.jpg/60x60bb.png",
             "attributes": {
               "height": "60"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/d0/a8/edd0a85c-9fa2-e40c-e058-fb677324fbd0/mza_9886183508050563701.jpeg/170x170bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c4/6c/e9/c46ce980-5bc9-8576-7517-26b22a197af0/mza_3516779678634575270.jpg/170x170bb.png",
             "attributes": {
               "height": "170"
             }
           }
         ],
         "summary": {
-          "label": "Posh George: The criminal behind Farage is season 13 of Times Investigates - bringing you award-winning investigative and true crime podcasts from The Times and The Sunday Times\nFrom war zones to suburban homes, pursuing brutal criminals and cult leaders, our podcasts go further than any other to uncover the truth\nIn season 1, war correspondent Anthony Loyd investigates the life - and fate - of his colleague John Cantlie, who was kidnapped in Syria by Islamic State\nIn season 2, crime correspondent John Simpson breaks down the wall of silence surrounding the killing of 14-year-old Corey Junior Davis\nIn season 3 Berlin correspondent Oliver Moody uncovers the story of Hans Globke, the Nazi bureaucrat who laid the legal basis for the Holocaust - and helped build the modern German state\nIn season 4, columnist David Aaronovitch follows the trail of charm and deception left by businessman Lex Greensill through the corridors of power in Britain\nIn season 5, special correspondent Emily Dugan asks whether the wrong man was sent to prison for a brutal attack on a mother of two\nIn season six, Middle East correspondent Louise Callaghan steps into the weird world of ‘kittens’, ‘lions’, and televangelism surrounding a cult leader \nIn season seven, journalists Brenna Daldorph and David Aaronovitch explore the dark past behind some of Britain’s wealthiest stately homes\nIn season eight, feature writer Andrew Billen exposes a very British scandal at the world-famous university college, Christ Church, Oxford\nIn season nine, David Aaranovitch steps into the online world of Patriotic Alternative, a far-right group using the Covid pandemic as a recruiting tool\nIn season 10, journalists Peter Gillman and Emanuele Midolo investigate the death of one of our own, David Holden, the reporter whose killing became a Cold War whodunnit\nIn season 11, social affairs editor James Beal follows a trail leading from a quiet British town to frozen Canada, where he discovers a man allegedly selling death online\nIn season 12, reporter Mario Ledwith returns to his hometown in Northern Ireland, seeking answers about the bloody 1987 Remembrance Sunday attack\nIn series 13, The Sunday Times’s Insight team investigates how Nigel Farage came to depend upon a crypto enthusiast, gambler and fraudster  \n\n Hosted on Acast. See acast.com/privacy for more information."
+          "label": "Parenting... just not as you know it.\n\n\n\nJoin Rob & Josh twice a week as they share their tales of parenting woe and chat to celebrity parents about how they're coping, or not coping. \n\n\n\nParenting Hell is a Spotify Podcast, video episodes available on Tuesdays and Fridays every week. "
         },
         "im:price": {
           "label": "Get",
@@ -1214,273 +1217,39 @@
           }
         },
         "rights": {
-          "label": "© The Times"
+          "label": "© Copyright Keep It Light Media"
         },
         "title": {
-          "label": "Posh George: The criminal behind Farage | Times Investigates - The Times"
+          "label": "Parenting Hell with Rob Beckett and Josh Widdicombe - Keep It Light Media / Spotify Studios"
         },
         "link": {
           "attributes": {
             "rel": "alternate",
             "type": "text/html",
-            "href": "https://podcasts.apple.com/gb/podcast/posh-george-the-criminal-behind-farage-times-investigates/id1630722986?uo=2"
+            "href": "https://podcasts.apple.com/gb/podcast/parenting-hell-with-rob-beckett-and-josh-widdicombe/id1510251497?uo=2"
           }
         },
         "id": {
-          "label": "https://podcasts.apple.com/gb/podcast/posh-george-the-criminal-behind-farage-times-investigates/id1630722986?uo=2",
+          "label": "https://podcasts.apple.com/gb/podcast/parenting-hell-with-rob-beckett-and-josh-widdicombe/id1510251497?uo=2",
           "attributes": {
-            "im:id": "1630722986"
+            "im:id": "1510251497"
           }
         },
         "im:artist": {
-          "label": "The Times"
+          "label": "Keep It Light Media / Spotify Studios"
         },
         "category": {
           "attributes": {
-            "im:id": "1489",
-            "term": "News",
-            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-news/id1489?uo=2",
-            "label": "News"
+            "im:id": "1303",
+            "term": "Comedy",
+            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-comedy/id1303?uo=2",
+            "label": "Comedy"
           }
         },
         "im:releaseDate": {
-          "label": "2026-07-05T16:01:00-07:00",
+          "label": "2026-07-07T00:28:00-07:00",
           "attributes": {
-            "label": "05 July 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "The Rest Is Politics: US"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3a/f4/51/3af451dd-f500-9c3e-8834-839d86076411/mza_11954146268283790758.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3a/f4/51/3af451dd-f500-9c3e-8834-839d86076411/mza_11954146268283790758.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3a/f4/51/3af451dd-f500-9c3e-8834-839d86076411/mza_11954146268283790758.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "TRIP US uncovers secrets from inside the White House inner circles as well as taking a wider look at the intricacies of United States society and how they shape the world's most important economy.\n\nThe podcast is hosted by Anthony Scaramucci (The Mooch), former White House Director of Communications and Wall Street financier, and Katty Kay, US special correspondent for BBC who has been covering US politics for almost 30 years. \n\nStay informed with in-depth discussions on key political events, policy changes, and the forces shaping America’s future on the global stage.\n\nNew episodes released every Friday, or join our club for bonus content. Just head to https://therestispoliticsus.com to sign up today.."
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "GBP"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© Goalhanger"
-        },
-        "title": {
-          "label": "The Rest Is Politics: US - Goalhanger"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/gb/podcast/the-rest-is-politics-us/id1743030473?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/gb/podcast/the-rest-is-politics-us/id1743030473?uo=2",
-          "attributes": {
-            "im:id": "1743030473"
-          }
-        },
-        "im:artist": {
-          "label": "Goalhanger"
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1527",
-            "term": "Politics",
-            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-news-politics/id1527?uo=2",
-            "label": "Politics"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-07-02T11:15:00-07:00",
-          "attributes": {
-            "label": "02 July 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "Rosebud with Gyles Brandreth"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/ce/1d/c6/ce1dc6d1-1323-d07d-3a56-f1e6c259a845/mza_7854963181346373100.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/ce/1d/c6/ce1dc6d1-1323-d07d-3a56-f1e6c259a845/mza_7854963181346373100.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/ce/1d/c6/ce1dc6d1-1323-d07d-3a56-f1e6c259a845/mza_7854963181346373100.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "Legendary British writer, broadcaster, ex-MP and TV star Gyles Brandreth hosts “Rosebud”, in which he talks to famous and fascinating people about their first memories and first experiences. Expect laughter, nostalgia, memorable stories, revelations and, of course, the odd name-drop from Gyles.  We want to hear about your first memories - email us at hello@rosebudpodcast.com And you can follow us on Twitter and Instagram at @therosebudpod Artwork: Freya Betts. Music: Phil Lepherd. Producer: Harriet Jaine. Rosebud is a 'Plain Jaine Media' production. Creator: Gyles Brandreth/Plain Jaine Media Hosted on Acast. See acast.com/privacy for more information."
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "GBP"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© Gyles Brandreth"
-        },
-        "title": {
-          "label": "Rosebud with Gyles Brandreth - Gyles Brandreth / Plain Jaine Media"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/gb/podcast/rosebud-with-gyles-brandreth/id1704806594?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/gb/podcast/rosebud-with-gyles-brandreth/id1704806594?uo=2",
-          "attributes": {
-            "im:id": "1704806594"
-          }
-        },
-        "im:artist": {
-          "label": "Gyles Brandreth / Plain Jaine Media"
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1324",
-            "term": "Society & Culture",
-            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-society-culture/id1324?uo=2",
-            "label": "Society & Culture"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-06-29T19:00:00-07:00",
-          "attributes": {
-            "label": "29 June 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "Off Menu with Ed Gamble and James Acaster"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/c4/dc/de/c4dcdec7-fbea-749e-7a03-bbe27db17137/mza_4311127974403693339.jpeg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/c4/dc/de/c4dcdec7-fbea-749e-7a03-bbe27db17137/mza_4311127974403693339.jpeg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/c4/dc/de/c4dcdec7-fbea-749e-7a03-bbe27db17137/mza_4311127974403693339.jpeg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "Comedians Ed Gamble and James Acaster invite special guests into their magical restaurant to each choose their favourite starter, main course, side dish, dessert and drink. Ever wanted to eat your dream meal? It's time to order Off Menu. Hosted on Acast. See acast.com/privacy for more information."
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "GBP"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© Plosive Limited"
-        },
-        "title": {
-          "label": "Off Menu with Ed Gamble and James Acaster - Plosive"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/gb/podcast/off-menu-with-ed-gamble-and-james-acaster/id1442950743?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/gb/podcast/off-menu-with-ed-gamble-and-james-acaster/id1442950743?uo=2",
-          "attributes": {
-            "im:id": "1442950743"
-          }
-        },
-        "im:artist": {
-          "label": "Plosive",
-          "attributes": {
-            "href": "https://podcasts.apple.com/gb/artist/plosive-productions/1554552867?uo=2"
-          }
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1496",
-            "term": "Comedy Interviews",
-            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-comedy-comedy-interviews/id1496?uo=2",
-            "label": "Comedy Interviews"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-06-28T20:00:00-07:00",
-          "attributes": {
-            "label": "28 June 2026"
+            "label": "07 July 2026"
           }
         }
       },
@@ -1560,6 +1329,160 @@
       },
       {
         "im:name": {
+          "label": "The Diary Of A CEO with Steven Bartlett"
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "GBP"
+          }
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/69/af/0d/69af0ddd-1e0f-7ae3-c84b-88f18e31ad0c/mza_14445920128472365296.png/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/69/af/0d/69af0ddd-1e0f-7ae3-c84b-88f18e31ad0c/mza_14445920128472365296.png/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/69/af/0d/69af0ddd-1e0f-7ae3-c84b-88f18e31ad0c/mza_14445920128472365296.png/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "Steven Bartlett is a British entrepreneur, investor, and author. He’s the founder of Flight Story – a media company – and Flight Fund, an investment fund backing the next generation of category-defining businesses.\nHe created The Diary Of A CEO to share the unfiltered pages of the personal diaries of the world’s most fascinating CEOs, experts, therapists, and leaders – with the hope that their lessons will help both you and him live better lives. \nDOAC is a double acronym: Diary Of A CEO, but also Dreamers, Open-minded, Awareness, and Connection.This is your corner of the internet to dream boldly, think openly, expand your awareness, and feel more connected.\n\nMy New Book: https://g2ul0.app.link/DOAC\nIG: https://www.instagram.com/steven\nLI: https://www.linkedin.com/in/stevenbartlett-123"
+        },
+        "im:artist": {
+          "label": "DOAC"
+        },
+        "title": {
+          "label": "The Diary Of A CEO with Steven Bartlett - DOAC"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/gb/podcast/the-diary-of-a-ceo-with-steven-bartlett/id1291423644?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/gb/podcast/the-diary-of-a-ceo-with-steven-bartlett/id1291423644?uo=2",
+          "attributes": {
+            "im:id": "1291423644"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1321",
+            "term": "Business",
+            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-business/id1321?uo=2",
+            "label": "Business"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-07-05T22:00:00-07:00",
+          "attributes": {
+            "label": "05 July 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "Football Daily"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b7/c0/8b/b7c08b99-5f54-8221-0f6a-6f06fabd3e77/mza_488387276148774749.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b7/c0/8b/b7c08b99-5f54-8221-0f6a-6f06fabd3e77/mza_488387276148774749.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b7/c0/8b/b7c08b99-5f54-8221-0f6a-6f06fabd3e77/mza_488387276148774749.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "Your daily World Cup 2026 podcast. Get the latest World Cup news, expert analysis, match previews and reviews, team news, reaction and interviews from across the tournament. \n \nFrom the biggest matches and talking points to in-depth discussion of the world's best players and teams, we'll bring you everything you need to follow the FIFA World Cup 2026. \n \nGet in touch with us @5liveSport on social media and remember to leave us your ratings and reviews."
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "GBP"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© (C) BBC 2026"
+        },
+        "title": {
+          "label": "Football Daily - BBC Radio 5 Live"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/gb/podcast/football-daily/id261291929?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/gb/podcast/football-daily/id261291929?uo=2",
+          "attributes": {
+            "im:id": "261291929"
+          }
+        },
+        "im:artist": {
+          "label": "BBC Radio 5 Live",
+          "attributes": {
+            "href": "https://podcasts.apple.com/gb/artist/bbc/121676617?uo=2"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1546",
+            "term": "Soccer",
+            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-sport-football/id1546?uo=2",
+            "label": "Football"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-07-07T01:34:00-07:00",
+          "attributes": {
+            "label": "07 July 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
           "label": "The Romesh Ranganathan Show"
         },
         "im:price": {
@@ -1634,30 +1557,30 @@
       },
       {
         "im:name": {
-          "label": "My Therapist Ghosted Me"
+          "label": "The Totally Football Show with James Richardson"
         },
         "im:image": [
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0a/1e/bf/0a1ebffd-4c87-09f6-0bf5-d76b0753348e/mza_16449583591087722250.jpg/55x55bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6d/85/f7/6d85f75c-5222-6887-d364-e61ce75fe750/mza_3596621206818028926.jpeg/55x55bb.png",
             "attributes": {
               "height": "55"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0a/1e/bf/0a1ebffd-4c87-09f6-0bf5-d76b0753348e/mza_16449583591087722250.jpg/60x60bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6d/85/f7/6d85f75c-5222-6887-d364-e61ce75fe750/mza_3596621206818028926.jpeg/60x60bb.png",
             "attributes": {
               "height": "60"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0a/1e/bf/0a1ebffd-4c87-09f6-0bf5-d76b0753348e/mza_16449583591087722250.jpg/170x170bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6d/85/f7/6d85f75c-5222-6887-d364-e61ce75fe750/mza_3596621206818028926.jpeg/170x170bb.png",
             "attributes": {
               "height": "170"
             }
           }
         ],
         "summary": {
-          "label": "Join Vogue Williams & Joanne McNally for a weekly chat with 100% honesty guaranteed.\n\n\"My Therapist Ghosted Me\" is the result of Joanne's therapist doing just that! Ignoring her calls, refusing to answer the door at the clinic, or speak to her after she'd tracked him down at Enfield crematorium as he scattered his Aunt's ashes. Despite it all, it’s often said that friends give the best therapy so Vogue & Joanne have teamed up to do exactly that (alongside a generous helping of laughter as that too is said to be the best form of therapy). Together they will give 100% unqualified, unsubstantiated but up front and honest advice on the plethora of issues they and many others continue to grapple with.\n\nIf you'd like to get in touch, you can send an email to hello@MTGMpod.com\n\nFor live shows, merch and more, visit mytherapistghostedme.com\n\nPlease review Global's Privacy Policy: https://global.com/legal/privacy-policy/\n\nFor advertising opportunities on this podcast email: dax@global.com"
+          "label": "James Richardson and Team Totally bring their blend of charming analysis and unique insights to Los Angeles this summer, where there'll be releasing episodes after every single World Cup matchday. It's all the football news and chat you need - and plenty that you don’t too. Hosted on Acast. See acast.com/privacy for more information."
         },
         "im:price": {
           "label": "Get",
@@ -1673,29 +1596,106 @@
           }
         },
         "rights": {
-          "label": "© Global"
+          "label": "© The Athletic"
         },
         "title": {
-          "label": "My Therapist Ghosted Me - Global"
+          "label": "The Totally Football Show with James Richardson - The Athletic"
         },
         "link": {
           "attributes": {
             "rel": "alternate",
             "type": "text/html",
-            "href": "https://podcasts.apple.com/gb/podcast/my-therapist-ghosted-me/id1560176558?uo=2"
+            "href": "https://podcasts.apple.com/gb/podcast/the-totally-football-show-with-james-richardson/id1267958765?uo=2"
           }
         },
         "id": {
-          "label": "https://podcasts.apple.com/gb/podcast/my-therapist-ghosted-me/id1560176558?uo=2",
+          "label": "https://podcasts.apple.com/gb/podcast/the-totally-football-show-with-james-richardson/id1267958765?uo=2",
           "attributes": {
-            "im:id": "1560176558"
+            "im:id": "1267958765"
           }
         },
         "im:artist": {
-          "label": "Global",
+          "label": "The Athletic",
           "attributes": {
-            "href": "https://podcasts.apple.com/gb/artist/global-media-entertainment/1242379718?uo=2"
+            "href": "https://podcasts.apple.com/gb/artist/muddy-knees-media/1441549899?uo=2"
           }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1547",
+            "term": "Football",
+            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-sport-american-football/id1547?uo=2",
+            "label": "American Football"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-07-06T22:52:00-07:00",
+          "attributes": {
+            "label": "06 July 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "Sh**ged Married Annoyed"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/be/b7/5c/beb75c86-9128-5709-5541-80b6c3cc6ed9/mza_18366239786920109178.jpeg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/be/b7/5c/beb75c86-9128-5709-5541-80b6c3cc6ed9/mza_18366239786920109178.jpeg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/be/b7/5c/beb75c86-9128-5709-5541-80b6c3cc6ed9/mza_18366239786920109178.jpeg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "The only way Rosie and Chris Ramsey can have a conversation without being interrupted by a toddler or ending up staring at their phones is by doing a podcast. They’ll be chatting all about life, relationships, arguments, annoyances, parenting, growing up and everything in between. Each week they will answer questions from the public and a secret celebrity."
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "GBP"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© All rights reserved"
+        },
+        "title": {
+          "label": "Sh**ged Married Annoyed - Chris & Rosie Ramsey"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/gb/podcast/sh-ged-married-annoyed/id1451489585?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/gb/podcast/sh-ged-married-annoyed/id1451489585?uo=2",
+          "attributes": {
+            "im:id": "1451489585"
+          }
+        },
+        "im:artist": {
+          "label": "Chris & Rosie Ramsey"
         },
         "category": {
           "attributes": {
@@ -1706,9 +1706,9 @@
           }
         },
         "im:releaseDate": {
-          "label": "2026-07-03T03:00:00-07:00",
+          "label": "2026-06-30T20:56:00-07:00",
           "attributes": {
-            "label": "03 July 2026"
+            "label": "30 June 2026"
           }
         }
       },
@@ -1854,38 +1854,38 @@
           }
         },
         "im:releaseDate": {
-          "label": "2026-07-03T02:20:00-07:00",
+          "label": "2025-01-29T23:00:00-07:00",
           "attributes": {
-            "label": "03 July 2026"
+            "label": "29 January 2025"
           }
         }
       },
       {
         "im:name": {
-          "label": "Stuff Matters with Ed Conway"
+          "label": "Rosebud with Gyles Brandreth"
         },
         "im:image": [
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/66/ce/86/66ce8690-5ec0-2446-1e79-f761668e62ae/mza_12049652280805206107.jpg/55x55bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/ce/1d/c6/ce1dc6d1-1323-d07d-3a56-f1e6c259a845/mza_7854963181346373100.jpg/55x55bb.png",
             "attributes": {
               "height": "55"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/66/ce/86/66ce8690-5ec0-2446-1e79-f761668e62ae/mza_12049652280805206107.jpg/60x60bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/ce/1d/c6/ce1dc6d1-1323-d07d-3a56-f1e6c259a845/mza_7854963181346373100.jpg/60x60bb.png",
             "attributes": {
               "height": "60"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/66/ce/86/66ce8690-5ec0-2446-1e79-f761668e62ae/mza_12049652280805206107.jpg/170x170bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/ce/1d/c6/ce1dc6d1-1323-d07d-3a56-f1e6c259a845/mza_7854963181346373100.jpg/170x170bb.png",
             "attributes": {
               "height": "170"
             }
           }
         ],
         "summary": {
-          "label": "In Stuff Matters, Ed Conway takes an object, cracks it open and reveals the world shaping forces hidden inside. Each episode follows a trail of ideas that stretches beyond the object itself, uncovering far reaching economic powers that shape how we live. Along the way, Ed meets fascinating characters, from brilliant inventors to Latin American revolutionaries. He dives into their personal stories and reveals how they’ve changed the course of industries and economies.  Because when you look closely enough, even the simplest things turn out to matter more than you think."
+          "label": "Legendary British writer, broadcaster, ex-MP and TV star Gyles Brandreth hosts “Rosebud”, in which he talks to famous and fascinating people about their first memories and first experiences. Expect laughter, nostalgia, memorable stories, revelations and, of course, the odd name-drop from Gyles.  We want to hear about your first memories - email us at hello@rosebudpodcast.com And you can follow us on Twitter and Instagram at @therosebudpod Artwork: Freya Betts. Music: Phil Lepherd. Producer: Harriet Jaine. Rosebud is a 'Plain Jaine Media' production. Creator: Gyles Brandreth/Plain Jaine Media Hosted on Acast. See acast.com/privacy for more information."
         },
         "im:price": {
           "label": "Get",
@@ -1901,45 +1901,45 @@
           }
         },
         "rights": {
-          "label": "© Copyright Sky News"
+          "label": "© Gyles Brandreth"
         },
         "title": {
-          "label": "Stuff Matters with Ed Conway - Sky News"
+          "label": "Rosebud with Gyles Brandreth - Gyles Brandreth / Plain Jaine Media"
         },
         "link": {
           "attributes": {
             "rel": "alternate",
             "type": "text/html",
-            "href": "https://podcasts.apple.com/gb/podcast/stuff-matters-with-ed-conway/id1563573558?uo=2"
+            "href": "https://podcasts.apple.com/gb/podcast/rosebud-with-gyles-brandreth/id1704806594?uo=2"
           }
         },
         "id": {
-          "label": "https://podcasts.apple.com/gb/podcast/stuff-matters-with-ed-conway/id1563573558?uo=2",
+          "label": "https://podcasts.apple.com/gb/podcast/rosebud-with-gyles-brandreth/id1704806594?uo=2",
           "attributes": {
-            "im:id": "1563573558"
+            "im:id": "1704806594"
           }
         },
         "im:artist": {
-          "label": "Sky News"
+          "label": "Gyles Brandreth / Plain Jaine Media"
         },
         "category": {
           "attributes": {
-            "im:id": "1543",
-            "term": "Documentary",
-            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-society-culture-documentary/id1543?uo=2",
-            "label": "Documentary"
+            "im:id": "1324",
+            "term": "Society & Culture",
+            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-society-culture/id1324?uo=2",
+            "label": "Society & Culture"
           }
         },
         "im:releaseDate": {
-          "label": "2026-07-05T12:00:00-07:00",
+          "label": "2026-07-02T19:00:00-07:00",
           "attributes": {
-            "label": "05 July 2026"
+            "label": "02 July 2026"
           }
         }
       }
     ],
     "updated": {
-      "label": "2026-07-06T03:52:11-07:00"
+      "label": "2026-07-07T02:54:07-07:00"
     },
     "rights": {
       "label": "Copyright 2008 Apple Inc."
