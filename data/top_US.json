@@ -83,9 +83,9 @@
           }
         },
         "im:releaseDate": {
-          "label": "2026-07-27T00:00:00-07:00",
+          "label": "2026-08-03T00:00:00-07:00",
           "attributes": {
-            "label": "July 27, 2026"
+            "label": "August 3, 2026"
           }
         }
       },
@@ -243,9 +243,9 @@
           }
         },
         "im:releaseDate": {
-          "label": "2026-07-31T02:46:00-07:00",
+          "label": "2026-08-02T03:00:00-07:00",
           "attributes": {
-            "label": "July 31, 2026"
+            "label": "August 2, 2026"
           }
         }
       },
@@ -331,83 +331,6 @@
       },
       {
         "im:name": {
-          "label": "Morbid"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/78/e9/0e/78e90ee0-567d-1ad8-17a0-17d7c988c4bd/mza_8425901783365617933.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/78/e9/0e/78e90ee0-567d-1ad8-17a0-17d7c988c4bd/mza_8425901783365617933.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/78/e9/0e/78e90ee0-567d-1ad8-17a0-17d7c988c4bd/mza_8425901783365617933.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "It’s a lighthearted nightmare in here, weirdos! Morbid is a true crime, creepy history and all things spooky podcast hosted by an autopsy technician and a hairstylist. Join us for a heavy dose of research with a dash of comedy thrown in for flavor.\n\nSubscribe to SiriusXM Podcasts+ to listen to new episodes of Morbid ad-free.\n\nStart a free trial now on Apple Podcasts or by visiting siriusxm.com/podcastsplus."
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "USD"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© Morbid: A True Crime Podcast"
-        },
-        "title": {
-          "label": "Morbid - Ash Kelley & Alaina Urquhart"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/us/podcast/morbid/id1379959217?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/us/podcast/morbid/id1379959217?uo=2",
-          "attributes": {
-            "im:id": "1379959217"
-          }
-        },
-        "im:artist": {
-          "label": "Ash Kelley & Alaina Urquhart"
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1488",
-            "term": "True Crime",
-            "scheme": "https://podcasts.apple.com/us/genre/podcasts-true-crime/id1488?uo=2",
-            "label": "True Crime"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-07-31T00:00:00-07:00",
-          "attributes": {
-            "label": "July 31, 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
           "label": "Pod Save America"
         },
         "im:image": [
@@ -480,7 +403,7 @@
           }
         },
         "im:releaseDate": {
-          "label": "2026-08-02T00:00:00-07:00",
+          "label": "2026-08-02T02:55:00-07:00",
           "attributes": {
             "label": "August 2, 2026"
           }
@@ -568,6 +491,240 @@
       },
       {
         "im:name": {
+          "label": "Morbid"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/78/e9/0e/78e90ee0-567d-1ad8-17a0-17d7c988c4bd/mza_8425901783365617933.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/78/e9/0e/78e90ee0-567d-1ad8-17a0-17d7c988c4bd/mza_8425901783365617933.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/78/e9/0e/78e90ee0-567d-1ad8-17a0-17d7c988c4bd/mza_8425901783365617933.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "It’s a lighthearted nightmare in here, weirdos! Morbid is a true crime, creepy history and all things spooky podcast hosted by an autopsy technician and a hairstylist. Join us for a heavy dose of research with a dash of comedy thrown in for flavor.\n\nSubscribe to SiriusXM Podcasts+ to listen to new episodes of Morbid ad-free.\n\nStart a free trial now on Apple Podcasts or by visiting siriusxm.com/podcastsplus."
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© Morbid: A True Crime Podcast"
+        },
+        "title": {
+          "label": "Morbid - Ash Kelley & Alaina Urquhart"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/us/podcast/morbid/id1379959217?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/us/podcast/morbid/id1379959217?uo=2",
+          "attributes": {
+            "im:id": "1379959217"
+          }
+        },
+        "im:artist": {
+          "label": "Ash Kelley & Alaina Urquhart"
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1488",
+            "term": "True Crime",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-true-crime/id1488?uo=2",
+            "label": "True Crime"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-08-03T00:00:00-07:00",
+          "attributes": {
+            "label": "August 3, 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "Mick Unplugged"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f8/75/0c/f8750cf1-ca31-5d55-00a1-ce86329309d5/mza_11785095184998327365.jpeg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f8/75/0c/f8750cf1-ca31-5d55-00a1-ce86329309d5/mza_11785095184998327365.jpeg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f8/75/0c/f8750cf1-ca31-5d55-00a1-ce86329309d5/mza_11785095184998327365.jpeg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "Everybody talks about your WHY. Mick Hunt goes deeper.\n\nMick Unplugged is the leadership and personal growth podcast built on one idea: your BECAUSE is the purpose underneath your purpose, and it is the most powerful force you own. Hosted by Mick Hunt, USA Today bestselling author and the voice of Modern Leadership, every episode sits across from a high performer, founder, athlete, or culture-shaper and asks the one question they cannot fake an answer to. What is your BECAUSE?\n\nPast guests include Shark Tank stars Daymond John and Kevin O'Leary, entrepreneur Gary Vaynerchuk, motivational legend Les Brown, Chef Robert Irvine, comedians Rickey Smiley and Earthquake, NFL Hall of Famer Jared Allen, hospitality mogul David Grutman, and World Series champion Jeremy Guthrie. No scripts. No surface-level fluff. Just the real fire behind why they refused to quit.\n\nIf you are a leader, an entrepreneur, or someone who is done coasting on motivational quotes, this is your show. You will walk away every week with mindset shifts, leadership strategy, and the kind of straight talk that actually moves you forward.\n\nNew episodes drop weekly. Follow Mick Unplugged on Apple Podcasts, Spotify, and YouTube so you never miss one.\n\nYour BECAUSE is your Superpower. Go Unleash It."
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© Copyright © 2025 Mick Hunt. All Rights Reserved. 437499"
+        },
+        "title": {
+          "label": "Mick Unplugged - Mick Hunt"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/us/podcast/mick-unplugged/id1731755953?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/us/podcast/mick-unplugged/id1731755953?uo=2",
+          "attributes": {
+            "im:id": "1731755953"
+          }
+        },
+        "im:artist": {
+          "label": "Mick Hunt"
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1500",
+            "term": "Self-Improvement",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-education-self-improvement/id1500?uo=2",
+            "label": "Self-Improvement"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-07-30T03:00:00-07:00",
+          "attributes": {
+            "label": "July 30, 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "The Rest Is History"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a3/05/8f/a3058ff1-eff9-036b-f412-8c4e96aad380/mza_221907431660085079.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a3/05/8f/a3058ff1-eff9-036b-f412-8c4e96aad380/mza_221907431660085079.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a3/05/8f/a3058ff1-eff9-036b-f412-8c4e96aad380/mza_221907431660085079.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "Take a deep dive into History’s biggest moments with Tom Holland & Dominic Sandbrook.\n\n\n\nExplore the stories of History’s most brutal rulers, deadly battles, and world-changing events. From the rise and fall of the Roman Empire, the Nazi conquest of Europe, and Hitler’s evil master plan for world domination, to the French Revolution, the sinking of the Titanic, or the Norman Conquest of England in 1066, Tom and Dominic bring the past to life with gripping storytelling and expert analysis, as they unpack the high-drama moments that shaped our world.\n\n\n\nJoin The Rest Is History Club: Unlock the full experience of the show – with exclusive bonus episodes, ad-free listening, early access to every series and live show tickets, a members-only newsletter, discounted books from the show, and access to our private Discord chatroom. Sign up directly at therestishistory.com. \n\n\n\nFor more Goalhanger Podcasts, head to www.goalhanger.com."
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© Goalhanger"
+        },
+        "title": {
+          "label": "The Rest Is History - Goalhanger"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/us/podcast/the-rest-is-history/id1537788786?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/us/podcast/the-rest-is-history/id1537788786?uo=2",
+          "attributes": {
+            "im:id": "1537788786"
+          }
+        },
+        "im:artist": {
+          "label": "Goalhanger",
+          "attributes": {
+            "href": "https://podcasts.apple.com/us/artist/goalhanger-films/1561421475?uo=2"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1487",
+            "term": "History",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-history/id1487?uo=2",
+            "label": "History"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-08-12T16:00:00-07:00",
+          "attributes": {
+            "label": "August 12, 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
           "label": "Up First from NPR"
         },
         "im:image": [
@@ -648,30 +805,30 @@
       },
       {
         "im:name": {
-          "label": "Pardon My Take"
+          "label": "This American Life"
         },
         "im:image": [
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/35/74/6a/35746a0c-7687-7dde-ff04-338d93e78303/mza_10377078556009223546.jpg/55x55bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/64/aa/3a/64aa3a66-a08a-947c-cf21-a5722a1b77ae/mza_11390421932467026234.png/55x55bb.png",
             "attributes": {
               "height": "55"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/35/74/6a/35746a0c-7687-7dde-ff04-338d93e78303/mza_10377078556009223546.jpg/60x60bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/64/aa/3a/64aa3a66-a08a-947c-cf21-a5722a1b77ae/mza_11390421932467026234.png/60x60bb.png",
             "attributes": {
               "height": "60"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/35/74/6a/35746a0c-7687-7dde-ff04-338d93e78303/mza_10377078556009223546.jpg/170x170bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/64/aa/3a/64aa3a66-a08a-947c-cf21-a5722a1b77ae/mza_11390421932467026234.png/170x170bb.png",
             "attributes": {
               "height": "170"
             }
           }
         ],
         "summary": {
-          "label": "On \"Pardon My Take,\" Big Cat & PFT Commenter deliver the loudest and most correct sports takes in the history of the spoken word. Daily topics, guests, and an inability to tell what the hosts might be doing will make this your new favorite sports talk show. This is a podcast that will without a doubt change your life for the better- guaranteed, or your money back. *Pretend a reggaeton air horn is going off right now* PMT.\n\n\nYou can find every episode of this show on Apple Podcasts, Spotify or Netflix. Prime Members can listen ad-free on Amazon Music. For more, visit barstool.link/pardon-my-take"
+          "label": "Each week we choose a theme. Then anything can happen. This American Life is true stories that unfold like little movies for radio. Personal stories with funny moments, big feelings, and surprising plot twists. Newsy stories that try to capture what it’s like to be alive right now. It’s the most popular weekly podcast in the world, and winner of the first ever Pulitzer Prize for a radio show or podcast. Hosted by Ira Glass and produced in collaboration with WBEZ Chicago."
         },
         "im:price": {
           "label": "Get",
@@ -687,71 +844,71 @@
           }
         },
         "rights": {
-          "label": "© 2026 Barstool Sports, Inc."
+          "label": "© Copyright 1995-2026 This American Life"
         },
         "title": {
-          "label": "Pardon My Take - Barstool Sports"
+          "label": "This American Life - This American Life"
         },
         "link": {
           "attributes": {
             "rel": "alternate",
             "type": "text/html",
-            "href": "https://podcasts.apple.com/us/podcast/pardon-my-take/id1089022756?uo=2"
+            "href": "https://podcasts.apple.com/us/podcast/this-american-life/id201671138?uo=2"
           }
         },
         "id": {
-          "label": "https://podcasts.apple.com/us/podcast/pardon-my-take/id1089022756?uo=2",
+          "label": "https://podcasts.apple.com/us/podcast/this-american-life/id201671138?uo=2",
           "attributes": {
-            "im:id": "1089022756"
+            "im:id": "201671138"
           }
         },
         "im:artist": {
-          "label": "Barstool Sports",
+          "label": "This American Life",
           "attributes": {
-            "href": "https://podcasts.apple.com/us/artist/barstool-sports/1524874689?uo=2"
+            "href": "https://podcasts.apple.com/us/artist/wbez/364380278?uo=2"
           }
         },
         "category": {
           "attributes": {
-            "im:id": "1547",
-            "term": "Football",
-            "scheme": "https://podcasts.apple.com/us/genre/podcasts-sports-football/id1547?uo=2",
-            "label": "Football"
+            "im:id": "1324",
+            "term": "Society & Culture",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-society-culture/id1324?uo=2",
+            "label": "Society & Culture"
           }
         },
         "im:releaseDate": {
-          "label": "2026-07-30T21:00:00-07:00",
+          "label": "2026-08-02T15:00:00-07:00",
           "attributes": {
-            "label": "July 30, 2026"
+            "label": "August 2, 2026"
           }
         }
       },
       {
         "im:name": {
-          "label": "Mick Unplugged"
+          "label": "20/20"
         },
         "im:image": [
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f8/75/0c/f8750cf1-ca31-5d55-00a1-ce86329309d5/mza_11785095184998327365.jpeg/55x55bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/81/6c/5d/816c5d57-7c3f-3df9-1557-08e17469dfe4/mza_1433648970787567135.jpg/55x55bb.png",
             "attributes": {
               "height": "55"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f8/75/0c/f8750cf1-ca31-5d55-00a1-ce86329309d5/mza_11785095184998327365.jpeg/60x60bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/81/6c/5d/816c5d57-7c3f-3df9-1557-08e17469dfe4/mza_1433648970787567135.jpg/60x60bb.png",
             "attributes": {
               "height": "60"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f8/75/0c/f8750cf1-ca31-5d55-00a1-ce86329309d5/mza_11785095184998327365.jpeg/170x170bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/81/6c/5d/816c5d57-7c3f-3df9-1557-08e17469dfe4/mza_1433648970787567135.jpg/170x170bb.png",
             "attributes": {
               "height": "170"
             }
           }
         ],
         "summary": {
-          "label": "Everybody talks about your WHY. Mick Hunt goes deeper.\n\nMick Unplugged is the leadership and personal growth podcast built on one idea: your BECAUSE is the purpose underneath your purpose, and it is the most powerful force you own. Hosted by Mick Hunt, USA Today bestselling author and the voice of Modern Leadership, every episode sits across from a high performer, founder, athlete, or culture-shaper and asks the one question they cannot fake an answer to. What is your BECAUSE?\n\nPast guests include Shark Tank stars Daymond John and Kevin O'Leary, entrepreneur Gary Vaynerchuk, motivational legend Les Brown, Chef Robert Irvine, comedians Rickey Smiley and Earthquake, NFL Hall of Famer Jared Allen, hospitality mogul David Grutman, and World Series champion Jeremy Guthrie. No scripts. No surface-level fluff. Just the real fire behind why they refused to quit.\n\nIf you are a leader, an entrepreneur, or someone who is done coasting on motivational quotes, this is your show. You will walk away every week with mindset shifts, leadership strategy, and the kind of straight talk that actually moves you forward.\n\nNew episodes drop weekly. Follow Mick Unplugged on Apple Podcasts, Spotify, and YouTube so you never miss one.\n\nYour BECAUSE is your Superpower. Go Unleash It."
+          "label": "Unforgettable true crime mysteries, exclusive newsmaker interviews, hard-hitting investigative reports and in-depth coverage of high profile stories. Now listen throughout the week with the official 20/20 After Show, the True Crime Vault, and our spotlight of true crime originals.\n\nSubscribe to 20/20 True Crime+ for ad-free listening, early access to new series, exclusive bonus content, and hundreds of episodes from the 20/20 true crime vault. Visit apple.co/2020truecrime to subscribe now.  Terms apply."
         },
         "im:price": {
           "label": "Get",
@@ -767,39 +924,42 @@
           }
         },
         "rights": {
-          "label": "© Copyright © 2025 Mick Hunt. All Rights Reserved. 437499"
+          "label": "© Copyright 2026, ABC Audio. All rights reserved."
         },
         "title": {
-          "label": "Mick Unplugged - Mick Hunt"
+          "label": "20/20 - ABC News"
         },
         "link": {
           "attributes": {
             "rel": "alternate",
             "type": "text/html",
-            "href": "https://podcasts.apple.com/us/podcast/mick-unplugged/id1731755953?uo=2"
+            "href": "https://podcasts.apple.com/us/podcast/20-20/id987967575?uo=2"
           }
         },
         "id": {
-          "label": "https://podcasts.apple.com/us/podcast/mick-unplugged/id1731755953?uo=2",
+          "label": "https://podcasts.apple.com/us/podcast/20-20/id987967575?uo=2",
           "attributes": {
-            "im:id": "1731755953"
+            "im:id": "987967575"
           }
         },
         "im:artist": {
-          "label": "Mick Hunt"
+          "label": "ABC News",
+          "attributes": {
+            "href": "https://podcasts.apple.com/us/artist/abc-news/119945519?uo=2"
+          }
         },
         "category": {
           "attributes": {
-            "im:id": "1500",
-            "term": "Self-Improvement",
-            "scheme": "https://podcasts.apple.com/us/genre/podcasts-education-self-improvement/id1500?uo=2",
-            "label": "Self-Improvement"
+            "im:id": "1488",
+            "term": "True Crime",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-true-crime/id1488?uo=2",
+            "label": "True Crime"
           }
         },
         "im:releaseDate": {
-          "label": "2026-07-30T03:00:00-07:00",
+          "label": "2026-08-03T00:00:00-07:00",
           "attributes": {
-            "label": "July 30, 2026"
+            "label": "August 3, 2026"
           }
         }
       },
@@ -959,246 +1119,6 @@
       },
       {
         "im:name": {
-          "label": "48 Hours"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c8/4f/8f/c84f8fa2-074d-6023-7f31-9c781b80dedc/mza_7616553513239265555.jpeg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c8/4f/8f/c84f8fa2-074d-6023-7f31-9c781b80dedc/mza_7616553513239265555.jpeg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c8/4f/8f/c84f8fa2-074d-6023-7f31-9c781b80dedc/mza_7616553513239265555.jpeg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "“48 Hours” uncovers the narrative behind crime and justice cases that have left a lasting mark on society. Award-winning CBS News correspondents thoughtfully examine the complexities of each crime by transporting you to the heart of the investigation through key evidence and gripping interviews with critical figures from the case. The unmatched reporting has made a tangible difference in countless lives, leading to the exoneration of wrongly convicted individuals and the reopening — and resolution — of previously closed cold cases.Listen to a new “48 Hours” episode every Monday and then go deeper into the case on Tuesdays with the immersive “Post Mortem” series — producers and correspondents join host Anne-Marie Green to discuss key evidence, dead ends, mishaps, and stranger-than-fiction twists they faced in the field. Also available on the 48 Hours YouTube channel. Plus, every Wednesday and Thursday, we’ll revisit a classic “48 Hours” episode. Get ad-free access to 48 Hours podcasts by subscribing to 48 Hours+. Subscribe at 48HoursPodcasts.com, then listen in Apple Podcasts, Spotify, or use your private link in your favorite podcast app."
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "USD"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© 2026 CBS Broadcasting Inc. All Rights Reserved."
-        },
-        "title": {
-          "label": "48 Hours - CBS News"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/us/podcast/48-hours/id965818306?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/us/podcast/48-hours/id965818306?uo=2",
-          "attributes": {
-            "im:id": "965818306"
-          }
-        },
-        "im:artist": {
-          "label": "CBS News",
-          "attributes": {
-            "href": "https://podcasts.apple.com/us/artist/cbs-news/121020699?uo=2"
-          }
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1488",
-            "term": "True Crime",
-            "scheme": "https://podcasts.apple.com/us/genre/podcasts-true-crime/id1488?uo=2",
-            "label": "True Crime"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-07-31T00:00:00-07:00",
-          "attributes": {
-            "label": "July 31, 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "The Rest Is History"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a3/05/8f/a3058ff1-eff9-036b-f412-8c4e96aad380/mza_221907431660085079.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a3/05/8f/a3058ff1-eff9-036b-f412-8c4e96aad380/mza_221907431660085079.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a3/05/8f/a3058ff1-eff9-036b-f412-8c4e96aad380/mza_221907431660085079.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "Take a deep dive into History’s biggest moments with Tom Holland & Dominic Sandbrook.\n\n\n\nExplore the stories of History’s most brutal rulers, deadly battles, and world-changing events. From the rise and fall of the Roman Empire, the Nazi conquest of Europe, and Hitler’s evil master plan for world domination, to the French Revolution, the sinking of the Titanic, or the Norman Conquest of England in 1066, Tom and Dominic bring the past to life with gripping storytelling and expert analysis, as they unpack the high-drama moments that shaped our world.\n\n\n\nJoin The Rest Is History Club: Unlock the full experience of the show – with exclusive bonus episodes, ad-free listening, early access to every series and live show tickets, a members-only newsletter, discounted books from the show, and access to our private Discord chatroom. Sign up directly at therestishistory.com. \n\n\n\nFor more Goalhanger Podcasts, head to www.goalhanger.com."
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "USD"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© Goalhanger"
-        },
-        "title": {
-          "label": "The Rest Is History - Goalhanger"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/us/podcast/the-rest-is-history/id1537788786?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/us/podcast/the-rest-is-history/id1537788786?uo=2",
-          "attributes": {
-            "im:id": "1537788786"
-          }
-        },
-        "im:artist": {
-          "label": "Goalhanger",
-          "attributes": {
-            "href": "https://podcasts.apple.com/us/artist/goalhanger-films/1561421475?uo=2"
-          }
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1487",
-            "term": "History",
-            "scheme": "https://podcasts.apple.com/us/genre/podcasts-history/id1487?uo=2",
-            "label": "History"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-08-12T16:00:00-07:00",
-          "attributes": {
-            "label": "August 12, 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "20/20"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/81/6c/5d/816c5d57-7c3f-3df9-1557-08e17469dfe4/mza_1433648970787567135.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/81/6c/5d/816c5d57-7c3f-3df9-1557-08e17469dfe4/mza_1433648970787567135.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/81/6c/5d/816c5d57-7c3f-3df9-1557-08e17469dfe4/mza_1433648970787567135.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "Unforgettable true crime mysteries, exclusive newsmaker interviews, hard-hitting investigative reports and in-depth coverage of high profile stories. Now listen throughout the week with the official 20/20 After Show, the True Crime Vault, and our spotlight of true crime originals.\n\nSubscribe to 20/20 True Crime+ for ad-free listening, early access to new series, exclusive bonus content, and hundreds of episodes from the 20/20 true crime vault. Visit apple.co/2020truecrime to subscribe now.  Terms apply."
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "USD"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© Copyright 2026, ABC Audio. All rights reserved."
-        },
-        "title": {
-          "label": "20/20 - ABC News"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/us/podcast/20-20/id987967575?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/us/podcast/20-20/id987967575?uo=2",
-          "attributes": {
-            "im:id": "987967575"
-          }
-        },
-        "im:artist": {
-          "label": "ABC News",
-          "attributes": {
-            "href": "https://podcasts.apple.com/us/artist/abc-news/119945519?uo=2"
-          }
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1488",
-            "term": "True Crime",
-            "scheme": "https://podcasts.apple.com/us/genre/podcasts-true-crime/id1488?uo=2",
-            "label": "True Crime"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-08-01T07:32:00-07:00",
-          "attributes": {
-            "label": "August 1, 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
           "label": "Stuff You Should Know"
         },
         "im:image": [
@@ -1279,30 +1199,30 @@
       },
       {
         "im:name": {
-          "label": "Love Trapped"
+          "label": "The Bill Simmons Podcast"
         },
         "im:image": [
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b5/ad/82/b5ad82a9-b29a-1411-1506-05f9f3ad5d6b/mza_17395607531155205240.jpg/55x55bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c6/b7/60/c6b7608b-8fba-be51-b2f1-5791b5c1df74/mza_16907875688841172667.jpg/55x55bb.png",
             "attributes": {
               "height": "55"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b5/ad/82/b5ad82a9-b29a-1411-1506-05f9f3ad5d6b/mza_17395607531155205240.jpg/60x60bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c6/b7/60/c6b7608b-8fba-be51-b2f1-5791b5c1df74/mza_16907875688841172667.jpg/60x60bb.png",
             "attributes": {
               "height": "60"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b5/ad/82/b5ad82a9-b29a-1411-1506-05f9f3ad5d6b/mza_17395607531155205240.jpg/170x170bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c6/b7/60/c6b7608b-8fba-be51-b2f1-5791b5c1df74/mza_16907875688841172667.jpg/170x170bb.png",
             "attributes": {
               "height": "170"
             }
           }
         ],
         "summary": {
-          "label": "Former Bachelor Clayton Echard’s casual one-night fling turned into a paternity nightmare. When the news broke about the scandal, no one believed Clayton at first. He was a reality TV star, and an unpopular one at that. Clayton found himself trying to prove the truth, while trapped in a web of lies, manipulation, and threats. He would soon discover he was not the only one.  At its core, this is a story about who you believe and why. It’s an epic battle that would take a group of strangers, citizen sleuths from across the world, to crack the case and finally hold someone accountable.  New episodes of Love Trapped are released every Thursday, starting February 26th, 2026.  \n\nIf you would like to reach out to the Love Trapped team, email us at lovetrappedpod@gmail.com and follow along on Instagram @glasspodcasts."
+          "label": "HBO and The Ringer's Bill Simmons hosts the most downloaded sports podcast of all time, with a rotating crew of celebrities, athletes, and media staples, as well as mainstays like Cousin Sal, Joe House, and a slew of other friends and family members who always happen to be suspiciously available."
         },
         "im:price": {
           "label": "Get",
@@ -1318,39 +1238,42 @@
           }
         },
         "rights": {
-          "label": "2026 iHeartMedia, Inc. © Any use of this intellectual property for text and data mining or computational analysis including as training material for artificial intelligence systems is strictly prohibited without express written consent from iHeartMedia"
+          "label": "© All rights reserved."
         },
         "title": {
-          "label": "Love Trapped - iHeartPodcasts and Glass Podcasts"
+          "label": "The Bill Simmons Podcast - The Ringer"
         },
         "link": {
           "attributes": {
             "rel": "alternate",
             "type": "text/html",
-            "href": "https://podcasts.apple.com/us/podcast/love-trapped/id1878220033?uo=2"
+            "href": "https://podcasts.apple.com/us/podcast/the-bill-simmons-podcast/id1043699613?uo=2"
           }
         },
         "id": {
-          "label": "https://podcasts.apple.com/us/podcast/love-trapped/id1878220033?uo=2",
+          "label": "https://podcasts.apple.com/us/podcast/the-bill-simmons-podcast/id1043699613?uo=2",
           "attributes": {
-            "im:id": "1878220033"
+            "im:id": "1043699613"
           }
         },
         "im:artist": {
-          "label": "iHeartPodcasts and Glass Podcasts"
+          "label": "The Ringer",
+          "attributes": {
+            "href": "https://podcasts.apple.com/us/artist/the-ringer/1043703531?uo=2"
+          }
         },
         "category": {
           "attributes": {
-            "im:id": "1488",
-            "term": "True Crime",
-            "scheme": "https://podcasts.apple.com/us/genre/podcasts-true-crime/id1488?uo=2",
-            "label": "True Crime"
+            "im:id": "1545",
+            "term": "Sports",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-sports/id1545?uo=2",
+            "label": "Sports"
           }
         },
         "im:releaseDate": {
-          "label": "2026-07-08T21:00:00-07:00",
+          "label": "2026-07-26T18:46:00-07:00",
           "attributes": {
-            "label": "July 8, 2026"
+            "label": "July 26, 2026"
           }
         }
       },
@@ -1436,6 +1359,163 @@
       },
       {
         "im:name": {
+          "label": "Love Trapped"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b5/ad/82/b5ad82a9-b29a-1411-1506-05f9f3ad5d6b/mza_17395607531155205240.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b5/ad/82/b5ad82a9-b29a-1411-1506-05f9f3ad5d6b/mza_17395607531155205240.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b5/ad/82/b5ad82a9-b29a-1411-1506-05f9f3ad5d6b/mza_17395607531155205240.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "Former Bachelor Clayton Echard’s casual one-night fling turned into a paternity nightmare. When the news broke about the scandal, no one believed Clayton at first. He was a reality TV star, and an unpopular one at that. Clayton found himself trying to prove the truth, while trapped in a web of lies, manipulation, and threats. He would soon discover he was not the only one.  At its core, this is a story about who you believe and why. It’s an epic battle that would take a group of strangers, citizen sleuths from across the world, to crack the case and finally hold someone accountable.  New episodes of Love Trapped are released every Thursday, starting February 26th, 2026.  \n\nIf you would like to reach out to the Love Trapped team, email us at lovetrappedpod@gmail.com and follow along on Instagram @glasspodcasts."
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "2026 iHeartMedia, Inc. © Any use of this intellectual property for text and data mining or computational analysis including as training material for artificial intelligence systems is strictly prohibited without express written consent from iHeartMedia"
+        },
+        "title": {
+          "label": "Love Trapped - iHeartPodcasts and Glass Podcasts"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/us/podcast/love-trapped/id1878220033?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/us/podcast/love-trapped/id1878220033?uo=2",
+          "attributes": {
+            "im:id": "1878220033"
+          }
+        },
+        "im:artist": {
+          "label": "iHeartPodcasts and Glass Podcasts"
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1488",
+            "term": "True Crime",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-true-crime/id1488?uo=2",
+            "label": "True Crime"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-07-08T21:00:00-07:00",
+          "attributes": {
+            "label": "July 8, 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "Pardon My Take"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/35/74/6a/35746a0c-7687-7dde-ff04-338d93e78303/mza_10377078556009223546.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/35/74/6a/35746a0c-7687-7dde-ff04-338d93e78303/mza_10377078556009223546.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/35/74/6a/35746a0c-7687-7dde-ff04-338d93e78303/mza_10377078556009223546.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "On \"Pardon My Take,\" Big Cat & PFT Commenter deliver the loudest and most correct sports takes in the history of the spoken word. Daily topics, guests, and an inability to tell what the hosts might be doing will make this your new favorite sports talk show. This is a podcast that will without a doubt change your life for the better- guaranteed, or your money back. *Pretend a reggaeton air horn is going off right now* PMT.\n\n\nYou can find every episode of this show on Apple Podcasts, Spotify or Netflix. Prime Members can listen ad-free on Amazon Music. For more, visit barstool.link/pardon-my-take"
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© 2026 Barstool Sports, Inc."
+        },
+        "title": {
+          "label": "Pardon My Take - Barstool Sports"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/us/podcast/pardon-my-take/id1089022756?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/us/podcast/pardon-my-take/id1089022756?uo=2",
+          "attributes": {
+            "im:id": "1089022756"
+          }
+        },
+        "im:artist": {
+          "label": "Barstool Sports",
+          "attributes": {
+            "href": "https://podcasts.apple.com/us/artist/barstool-sports/1524874689?uo=2"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1547",
+            "term": "Football",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-sports-football/id1547?uo=2",
+            "label": "Football"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-08-02T23:41:00-07:00",
+          "attributes": {
+            "label": "August 2, 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
           "label": "REAL AF with Andy Frisella"
         },
         "im:image": [
@@ -1508,6 +1588,163 @@
           "label": "2026-07-31T02:00:00-07:00",
           "attributes": {
             "label": "July 31, 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "48 Hours"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c8/4f/8f/c84f8fa2-074d-6023-7f31-9c781b80dedc/mza_7616553513239265555.jpeg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c8/4f/8f/c84f8fa2-074d-6023-7f31-9c781b80dedc/mza_7616553513239265555.jpeg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c8/4f/8f/c84f8fa2-074d-6023-7f31-9c781b80dedc/mza_7616553513239265555.jpeg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "“48 Hours” uncovers the narrative behind crime and justice cases that have left a lasting mark on society. Award-winning CBS News correspondents thoughtfully examine the complexities of each crime by transporting you to the heart of the investigation through key evidence and gripping interviews with critical figures from the case. The unmatched reporting has made a tangible difference in countless lives, leading to the exoneration of wrongly convicted individuals and the reopening — and resolution — of previously closed cold cases.Listen to a new “48 Hours” episode every Monday and then go deeper into the case on Tuesdays with the immersive “Post Mortem” series — producers and correspondents join host Anne-Marie Green to discuss key evidence, dead ends, mishaps, and stranger-than-fiction twists they faced in the field. Also available on the 48 Hours YouTube channel. Plus, every Wednesday and Thursday, we’ll revisit a classic “48 Hours” episode. Get ad-free access to 48 Hours podcasts by subscribing to 48 Hours+. Subscribe at 48HoursPodcasts.com, then listen in Apple Podcasts, Spotify, or use your private link in your favorite podcast app."
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© 2026 CBS Broadcasting Inc. All Rights Reserved."
+        },
+        "title": {
+          "label": "48 Hours - CBS News"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/us/podcast/48-hours/id965818306?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/us/podcast/48-hours/id965818306?uo=2",
+          "attributes": {
+            "im:id": "965818306"
+          }
+        },
+        "im:artist": {
+          "label": "CBS News",
+          "attributes": {
+            "href": "https://podcasts.apple.com/us/artist/cbs-news/121020699?uo=2"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1488",
+            "term": "True Crime",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-true-crime/id1488?uo=2",
+            "label": "True Crime"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-08-03T00:00:00-07:00",
+          "attributes": {
+            "label": "August 3, 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "The Mel Robbins Podcast"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ab/66/a5/ab66a5f5-b52b-c70a-227b-0721bd9dc660/mza_13546984924981879479.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ab/66/a5/ab66a5f5-b52b-c70a-227b-0721bd9dc660/mza_13546984924981879479.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ab/66/a5/ab66a5f5-b52b-c70a-227b-0721bd9dc660/mza_13546984924981879479.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "You can change your life and Mel Robbins will show you how. The Mel Robbins Podcast is the #1 podcast on the globe for a reason: Mel’s simple, research-backed advice has changed millions of people’s lives, and in every episode, she’s giving you all her hard-fought secrets, science-backed tools, and deeply personal stories, so you can change yours too. If you’re a new listener, you’re in the right place. Every episode will empower you to create a better life and help you take a step toward the life you want. Want more? Follow along at @melrobbins\n\nSubscribe to SiriusXM Podcasts+ to listen to new episodes of The Mel Robbins Podcast ad-free.\nStart a free trial now on Apple Podcasts or by visiting siriusxm.com/podcastsplus."
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© SiriusXM"
+        },
+        "title": {
+          "label": "The Mel Robbins Podcast - Mel Robbins"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/us/podcast/the-mel-robbins-podcast/id1646101002?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/us/podcast/the-mel-robbins-podcast/id1646101002?uo=2",
+          "attributes": {
+            "im:id": "1646101002"
+          }
+        },
+        "im:artist": {
+          "label": "Mel Robbins"
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1500",
+            "term": "Self-Improvement",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-education-self-improvement/id1500?uo=2",
+            "label": "Self-Improvement"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-08-02T21:05:00-07:00",
+          "attributes": {
+            "label": "August 2, 2026"
           }
         }
       },
@@ -1590,160 +1827,6 @@
       },
       {
         "im:name": {
-          "label": "The Tucker Carlson Show"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/1a/1f/9c/1a1f9c6d-67fd-0e33-cdf3-4b62617ea9a6/mza_9226157347267917930.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/1a/1f/9c/1a1f9c6d-67fd-0e33-cdf3-4b62617ea9a6/mza_9226157347267917930.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/1a/1f/9c/1a1f9c6d-67fd-0e33-cdf3-4b62617ea9a6/mza_9226157347267917930.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "The Tucker Carlson Show is your beacon of free speech and honest reporting in a media landscape dominated by misinformation. The only solution to ending the propaganda spiral is by telling the truth. That's our job. Every day. No matter what."
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "USD"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© 606167"
-        },
-        "title": {
-          "label": "The Tucker Carlson Show - Tucker Carlson Network"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/us/podcast/the-tucker-carlson-show/id1719657632?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/us/podcast/the-tucker-carlson-show/id1719657632?uo=2",
-          "attributes": {
-            "im:id": "1719657632"
-          }
-        },
-        "im:artist": {
-          "label": "Tucker Carlson Network"
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1530",
-            "term": "News Commentary",
-            "scheme": "https://podcasts.apple.com/us/genre/podcasts-news-news-commentary/id1530?uo=2",
-            "label": "News Commentary"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-07-31T10:23:00-07:00",
-          "attributes": {
-            "label": "July 31, 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "The Mel Robbins Podcast"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ab/66/a5/ab66a5f5-b52b-c70a-227b-0721bd9dc660/mza_13546984924981879479.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ab/66/a5/ab66a5f5-b52b-c70a-227b-0721bd9dc660/mza_13546984924981879479.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ab/66/a5/ab66a5f5-b52b-c70a-227b-0721bd9dc660/mza_13546984924981879479.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "You can change your life and Mel Robbins will show you how. The Mel Robbins Podcast is the #1 podcast on the globe for a reason: Mel’s simple, research-backed advice has changed millions of people’s lives, and in every episode, she’s giving you all her hard-fought secrets, science-backed tools, and deeply personal stories, so you can change yours too. If you’re a new listener, you’re in the right place. Every episode will empower you to create a better life and help you take a step toward the life you want. Want more? Follow along at @melrobbins\n\nSubscribe to SiriusXM Podcasts+ to listen to new episodes of The Mel Robbins Podcast ad-free.\nStart a free trial now on Apple Podcasts or by visiting siriusxm.com/podcastsplus."
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "USD"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© SiriusXM"
-        },
-        "title": {
-          "label": "The Mel Robbins Podcast - Mel Robbins"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/us/podcast/the-mel-robbins-podcast/id1646101002?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/us/podcast/the-mel-robbins-podcast/id1646101002?uo=2",
-          "attributes": {
-            "im:id": "1646101002"
-          }
-        },
-        "im:artist": {
-          "label": "Mel Robbins"
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1500",
-            "term": "Self-Improvement",
-            "scheme": "https://podcasts.apple.com/us/genre/podcasts-education-self-improvement/id1500?uo=2",
-            "label": "Self-Improvement"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-07-29T21:05:00-07:00",
-          "attributes": {
-            "label": "July 29, 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
           "label": "Armchair Expert with Dax Shepard"
         },
         "im:image": [
@@ -1816,84 +1899,7 @@
           }
         },
         "im:releaseDate": {
-          "label": "2026-07-29T00:30:00-07:00",
-          "attributes": {
-            "label": "July 29, 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "Giggly Squad"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b1/0a/29/b10a293d-31bf-0e82-dd54-50452336f4c1/mza_908601013238146456.jpeg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b1/0a/29/b10a293d-31bf-0e82-dd54-50452336f4c1/mza_908601013238146456.jpeg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b1/0a/29/b10a293d-31bf-0e82-dd54-50452336f4c1/mza_908601013238146456.jpeg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "Welcome to Giggly Squad. Each week, Hannah Berner and Paige DeSorbo make fun of everything, but most importantly themselves. They discuss pop culture, fashion trends, television, horoscopes, mental health, dating, and expose their personal lives. Also, they can't be managed. Hosted on Acast. See acast.com/privacy for more information."
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "USD"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© Hannah Berner & Paige DeSorbo"
-        },
-        "title": {
-          "label": "Giggly Squad - Hannah Berner & Paige DeSorbo"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/us/podcast/giggly-squad/id1536352412?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/us/podcast/giggly-squad/id1536352412?uo=2",
-          "attributes": {
-            "im:id": "1536352412"
-          }
-        },
-        "im:artist": {
-          "label": "Hannah Berner & Paige DeSorbo"
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1303",
-            "term": "Comedy",
-            "scheme": "https://podcasts.apple.com/us/genre/podcasts-comedy/id1303?uo=2",
-            "label": "Comedy"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-07-31T13:01:00-07:00",
+          "label": "2026-07-31T00:30:00-07:00",
           "attributes": {
             "label": "July 31, 2026"
           }
@@ -1901,30 +1907,30 @@
       },
       {
         "im:name": {
-          "label": "MrBallen Podcast: Strange, Dark & Mysterious Stories"
+          "label": "The Bible in a Year (with Fr. Mike Schmitz)"
         },
         "im:image": [
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a5/9c/8a/a59c8a0a-0cb2-9862-e0d6-7b5ee4e9e157/mza_12554888833857337425.jpg/55x55bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/55x55bb.png",
             "attributes": {
               "height": "55"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a5/9c/8a/a59c8a0a-0cb2-9862-e0d6-7b5ee4e9e157/mza_12554888833857337425.jpg/60x60bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/60x60bb.png",
             "attributes": {
               "height": "60"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a5/9c/8a/a59c8a0a-0cb2-9862-e0d6-7b5ee4e9e157/mza_12554888833857337425.jpg/170x170bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/170x170bb.png",
             "attributes": {
               "height": "170"
             }
           }
         ],
         "summary": {
-          "label": "MrBallen Podcast: Strange, Dark and Mysterious Stories is a true crime and mystery podcast that presents strange, dark and mysterious content delivered in story format. The program is hosted by John Allen a.k.a. MrBallen.\n\nSubscribe to SiriusXM Podcasts+ to listen to new episodes 7-days early and ad-free. Start a free trial now on Apple Podcasts or by visiting siriusxm.com/podcastsplus."
+          "label": "In The Bible in a Year podcast, Fr. Mike Schmitz walks you through the entire Bible in 365 episodes, providing commentary, reflection, and prayer along the way. Unlike any other Bible podcast, Ascension’s Bible in a Year podcast follows a reading plan inspired by The Great Adventure Bible Timeline, a ground-breaking approach to understanding salvation history developed by renowned Catholic Bible scholar Jeff Cavins. For each period in the timeline, Jeff will join Fr. Mike for a special episode that will help you understand the context of each reading. With this podcast, you won’t just read the Bible in a year … you’ll finally understand how all the pieces of the Bible fit together to tell an amazing story that continues in your life today! Listen and… Read the ENTIRE Bible Feel more confident about your understanding of Scripture Experience the transformative power of God’s Word in your daily life Start seeing the world through the lens of Scripture Each 20-25 minute episode includes: Two to three scripture readings A reflection from Fr. Mike Schmitz A guided prayer to help you hear God’s voice in his Word The Bible contains adult themes that may not be suitable for children - parental discretion is advised."
         },
         "im:price": {
           "label": "Get",
@@ -1940,45 +1946,48 @@
           }
         },
         "rights": {
-          "label": "© Ballen Studios"
+          "label": "© 2026 Ascension Catholic Faith Formation"
         },
         "title": {
-          "label": "MrBallen Podcast: Strange, Dark & Mysterious Stories - Ballen Studios"
+          "label": "The Bible in a Year (with Fr. Mike Schmitz) - Ascension"
         },
         "link": {
           "attributes": {
             "rel": "alternate",
             "type": "text/html",
-            "href": "https://podcasts.apple.com/us/podcast/mrballen-podcast-strange-dark-mysterious-stories/id1608813794?uo=2"
+            "href": "https://podcasts.apple.com/us/podcast/the-bible-in-a-year-with-fr-mike-schmitz/id1539568321?uo=2"
           }
         },
         "id": {
-          "label": "https://podcasts.apple.com/us/podcast/mrballen-podcast-strange-dark-mysterious-stories/id1608813794?uo=2",
+          "label": "https://podcasts.apple.com/us/podcast/the-bible-in-a-year-with-fr-mike-schmitz/id1539568321?uo=2",
           "attributes": {
-            "im:id": "1608813794"
+            "im:id": "1539568321"
           }
         },
         "im:artist": {
-          "label": "Ballen Studios"
+          "label": "Ascension",
+          "attributes": {
+            "href": "https://podcasts.apple.com/us/artist/ascension-the-leader-in-catholic-faith-formation/1468392145?uo=2"
+          }
         },
         "category": {
           "attributes": {
-            "im:id": "1488",
-            "term": "True Crime",
-            "scheme": "https://podcasts.apple.com/us/genre/podcasts-true-crime/id1488?uo=2",
-            "label": "True Crime"
+            "im:id": "1439",
+            "term": "Christianity",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-christianity/id1439?uo=2",
+            "label": "Christianity"
           }
         },
         "im:releaseDate": {
-          "label": "2026-08-07T00:00:00-07:00",
+          "label": "2026-08-03T00:15:00-07:00",
           "attributes": {
-            "label": "August 7, 2026"
+            "label": "August 3, 2026"
           }
         }
       }
     ],
     "updated": {
-      "label": "2026-08-02T01:28:25-07:00"
+      "label": "2026-08-03T02:58:27-07:00"
     },
     "rights": {
       "label": "Copyright 2008 Apple Inc."
