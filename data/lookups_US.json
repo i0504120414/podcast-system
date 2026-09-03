@@ -3,14 +3,6 @@
   "country": "US",
   "count": 25,
   "lookups": {
-    "201671138": {
-      "itunesId": "201671138",
-      "title": "This American Life",
-      "author": "This American Life",
-      "feedUrl": "https://www.thisamericanlife.org/podcast/rss.xml",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/64/aa/3a/64aa3a66-a08a-947c-cf21-a5722a1b77ae/mza_11390421932467026234.png/600x600bb.jpg",
-      "genre": "Society & Culture"
-    },
     "360084272": {
       "itunesId": "360084272",
       "title": "The Joe Rogan Experience",
@@ -26,6 +18,14 @@
       "feedUrl": "https://feeds.simplecast.com/sw7PGWfw",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e0/f6/ed/e0f6edb8-b352-1dd1-1836-c77fdf5c6f17/mza_1578365354745278550.jpeg/600x600bb.jpg",
       "genre": "Fantasy Sports"
+    },
+    "965818306": {
+      "itunesId": "965818306",
+      "title": "48 Hours",
+      "author": "CBS News",
+      "feedUrl": "https://rss.amperwave.net/v2/feed/audacynetwork/496099a4061493caac75b71a6c26b8fb",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c8/4f/8f/c84f8fa2-074d-6023-7f31-9c781b80dedc/mza_7616553513239265555.jpeg/600x600bb.jpg",
+      "genre": "True Crime"
     },
     "987967575": {
       "itunesId": "987967575",
@@ -115,14 +115,6 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/d0/b3/2d/d0b32d7f-ab2d-5791-83b0-854f698a9184/mza_13561258173056659752.jpg/600x600bb.jpg",
       "genre": "Philosophy"
     },
-    "1521578868": {
-      "itunesId": "1521578868",
-      "title": "SmartLess",
-      "author": "Jason Bateman, Sean Hayes, Will Arnett",
-      "feedUrl": "https://feeds.simplecast.com/hNaFxXpO",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b1/93/5f/b1935f9f-35be-9144-e813-626bd8dabfb4/mza_4132654708551836825.jpg/600x600bb.jpg",
-      "genre": "Comedy"
-    },
     "1532976305": {
       "itunesId": "1532976305",
       "title": "The Megyn Kelly Show",
@@ -200,8 +192,16 @@
       "title": "COERCED: The Devotion & Death of Mica Francis Miller",
       "author": "LUNASHARK®⁠",
       "feedUrl": "https://feeds.megaphone.fm/coerced",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e0/3c/4b/e03c4b54-7e46-db58-be88-956da68d44ad/mza_8216076859040169488.jpeg/600x600bb.jpg",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ca/db/35/cadb3557-aa6f-6cf2-38d8-524f2fcc4314/mza_10387182729682199580.jpeg/600x600bb.jpg",
       "genre": "True Crime"
+    },
+    "6805930852": {
+      "itunesId": "6805930852",
+      "title": "Happy Hour with Ina Garten",
+      "author": "Vox Media",
+      "feedUrl": "https://feeds.megaphone.fm/VMP2612107147",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/63/95/85/63958592-550c-9c6c-8319-2818cd10a3ad/mza_15908877599917864646.jpg/600x600bb.jpg",
+      "genre": "Society & Culture"
     }
   }
 }
