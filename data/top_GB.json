@@ -245,6 +245,157 @@
       },
       {
         "im:name": {
+          "label": "Black Box: The Chatbots"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ca/86/fa/ca86fad3-33a3-9564-9c16-5de5b26ed871/mza_12886737881153787636.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ca/86/fa/ca86fad3-33a3-9564-9c16-5de5b26ed871/mza_12886737881153787636.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ca/86/fa/ca86fad3-33a3-9564-9c16-5de5b26ed871/mza_12886737881153787636.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "People are becoming convinced they have made scientific breakthroughs, cured diseases or invented new technologies using AI chatbots. What does this reveal about a technology now used by more than a billion people? A new series from the Guardian Investigates"
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "GBP"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© 2026 Guardian News & Media Limited or its affiliated companies. All rights reserved."
+        },
+        "title": {
+          "label": "Black Box: The Chatbots - The Guardian"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/gb/podcast/black-box-the-chatbots/id1731314182?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/gb/podcast/black-box-the-chatbots/id1731314182?uo=2",
+          "attributes": {
+            "im:id": "1731314182"
+          }
+        },
+        "im:artist": {
+          "label": "The Guardian"
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1543",
+            "term": "Documentary",
+            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-society-culture-documentary/id1543?uo=2",
+            "label": "Documentary"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-09-03T07:20:00-07:00",
+          "attributes": {
+            "label": "03 September 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "The Rest Is Classified"
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "GBP"
+          }
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f4/09/a7/f409a749-1c83-ddb6-26ca-3edb6deee0f9/mza_6566356699697291626.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f4/09/a7/f409a749-1c83-ddb6-26ca-3edb6deee0f9/mza_6566356699697291626.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f4/09/a7/f409a749-1c83-ddb6-26ca-3edb6deee0f9/mza_6566356699697291626.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "Enter the secretive world of spies, espionage, and covert operations. \nHosted by former CIA analyst turned spy novelist, David McCloskey, and veteran security correspondent, Gordon Corera, this podcast unravels real-life spy stories, intelligence secrets, and the hidden power struggles shaping global events. \nFrom Cold War espionage to modern-day intelligence agencies like the CIA, MI6, and Mossad, explore the world of double agents, classified missions, and the shadowy figures who operate in them. Whether you're a true crime addict, a thriller fan, or fascinated by spy stories, this is the show for you."
+        },
+        "im:artist": {
+          "label": "Goalhanger"
+        },
+        "title": {
+          "label": "The Rest Is Classified - Goalhanger"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/gb/podcast/the-rest-is-classified/id1780384916?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/gb/podcast/the-rest-is-classified/id1780384916?uo=2",
+          "attributes": {
+            "im:id": "1780384916"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1487",
+            "term": "History",
+            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-history/id1487?uo=2",
+            "label": "History"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-09-09T16:00:00-07:00",
+          "attributes": {
+            "label": "09 September 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
           "label": "Parenting Hell with Rob Beckett and Josh Widdicombe"
         },
         "im:image": [
@@ -402,30 +553,178 @@
       },
       {
         "im:name": {
-          "label": "The Rest Is Politics: US"
+          "label": "The Romesh Ranganathan Show"
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "GBP"
+          }
         },
         "im:image": [
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/42/d8/be/42d8be3a-34d0-3888-301e-b8ff7aafe1f2/mza_15214757562517445787.jpg/55x55bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fe/7e/2c/fe7e2c0b-83c6-073d-6790-de6be1d69a15/mza_17832604879501978810.jpg/55x55bb.png",
             "attributes": {
               "height": "55"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/42/d8/be/42d8be3a-34d0-3888-301e-b8ff7aafe1f2/mza_15214757562517445787.jpg/60x60bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fe/7e/2c/fe7e2c0b-83c6-073d-6790-de6be1d69a15/mza_17832604879501978810.jpg/60x60bb.png",
             "attributes": {
               "height": "60"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/42/d8/be/42d8be3a-34d0-3888-301e-b8ff7aafe1f2/mza_15214757562517445787.jpg/170x170bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fe/7e/2c/fe7e2c0b-83c6-073d-6790-de6be1d69a15/mza_17832604879501978810.jpg/170x170bb.png",
             "attributes": {
               "height": "170"
             }
           }
         ],
         "summary": {
-          "label": "TRIP US uncovers secrets from inside the White House inner circles as well as taking a wider look at the intricacies of United States society and how they shape the world's most important economy.\n\nThe podcast is hosted by Anthony Scaramucci (The Mooch), former White House Director of Communications and Wall Street financier, and Katty Kay, US special correspondent for BBC who has been covering US politics for almost 30 years. \n\nStay informed with in-depth discussions on key political events, policy changes, and the forces shaping America’s future on the global stage.\n\nNew episodes released every Friday, or join our club for bonus content. Just head to https://therestispoliticsus.com to sign up today.."
+          "label": "The world’s biggest stars join Romesh for candid conversations and loads of laughs. \n\nEvery Monday, Romesh Ranganathan meets actors, musicians, comedians and icons who share stories you won’t hear anywhere else, combining humour, heart and genuine insight. Expect backstage anecdotes, untold tales from the spotlight, and extraordinary insight into what makes them tick. \n\nOn Thursdays, Rom’s mum Shanthi joins the show to share family stories, answer audience questions, and offer her no-nonsense take on life, proving that the funniest and most relatable conversations often happen around the kitchen table. \n\nLeave a voice note for Romesh and Shanthi by messaging +447731623355, @theromeshshow on Instagram, or emailing podcast@rangabee.com. \n\nA Ranga Bee Production in Partnership with Listen."
+        },
+        "im:artist": {
+          "label": "Ranga Bee & Platform Media"
+        },
+        "title": {
+          "label": "The Romesh Ranganathan Show - Ranga Bee & Platform Media"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/gb/podcast/the-romesh-ranganathan-show/id1838594107?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/gb/podcast/the-romesh-ranganathan-show/id1838594107?uo=2",
+          "attributes": {
+            "im:id": "1838594107"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1303",
+            "term": "Comedy",
+            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-comedy/id1303?uo=2",
+            "label": "Comedy"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-09-02T16:01:00-07:00",
+          "attributes": {
+            "label": "02 September 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "Begin Again with Davina McCall"
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "GBP"
+          }
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/1a/25/f3/1a25f39f-a4c3-7a03-f256-d0c86663f203/mza_16084548294158924584.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/1a/25/f3/1a25f39f-a4c3-7a03-f256-d0c86663f203/mza_16084548294158924584.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/1a/25/f3/1a25f39f-a4c3-7a03-f256-d0c86663f203/mza_16084548294158924584.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "Begin Again with Davina McCall is your reminder to live a life that you love!\n\nWe’re all guilty of staying inside our comfort zone. We’ve convinced ourselves to settle, to accept our lot in life, that it’s too late, too scary, too much.\n\nBut what if you could approach change in your life differently? What if you could be excited about stepping outside of your comfort zone? What if you gave yourself permission to reinvent yourself?\n\nEvery week, Davina grabs you by the hands and sits you down on the big green sofa for honest, personal conversations with the people who chose change. These are national treasures, everyday heroes, and leading experts, who help you step outside of your comfort zone, embrace reinvention, and get excited about what comes next.\n\nBegin Again is a space where both big changes and small shifts are celebrated as a chance to grow, rediscover yourself, and start again. \n\nSo come on in, get comfortable, and join Davina in Britain’s living room where you get to begin again and again and again!\n\n\n\nInstagram: @beginagain\n\nLinkedIn: linkedin.com/in/davina-mccall-82204a19b/"
+        },
+        "im:artist": {
+          "label": "Begin Again"
+        },
+        "title": {
+          "label": "Begin Again with Davina McCall - Begin Again"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/gb/podcast/begin-again-with-davina-mccall/id1773104705?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/gb/podcast/begin-again-with-davina-mccall/id1773104705?uo=2",
+          "attributes": {
+            "im:id": "1773104705"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1500",
+            "term": "Self-Improvement",
+            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-education-self-improvement/id1500?uo=2",
+            "label": "Self-Improvement"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-09-02T22:00:00-07:00",
+          "attributes": {
+            "label": "02 September 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "The Rest Is Politics: Leading"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/39/fb/9f/39fb9f6d-a443-5667-38f8-9baa8a6bdcd4/mza_13045446392846167658.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/39/fb/9f/39fb9f6d-a443-5667-38f8-9baa8a6bdcd4/mza_13045446392846167658.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/39/fb/9f/39fb9f6d-a443-5667-38f8-9baa8a6bdcd4/mza_13045446392846167658.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "The Rest Is Politics’ Alastair Campbell and Rory Stewart interview politicians, leaders, intellectuals, and more. \n\nFrom inside and outside of politics, guests join Rory and Alastair to discuss life, leadership, and the philosophy that’s led them to success in their chosen field. Their conversations cover key political events, global affairs, and the big ideas shaping the world today, offering listeners in-depth perspectives from those at the heart of change.\n\nThe Rest Is Politics Plus: Become a member for exclusive bonus content, early access to Question Time episodes to live show tickets, ad-free listening for both TRIP and Leading, our exclusive newsletter, discount book prices on titles mentioned on the pod, and our members’ chatroom on Discord. Just head to therestispolitics.com to sign up, or start a free trial today on Apple Podcasts: apple.co/therestispolitics.\n\nFor more Goalhanger Podcasts, head to www.goalhanger.com."
         },
         "im:price": {
           "label": "Get",
@@ -441,22 +740,22 @@
           }
         },
         "rights": {
-          "label": "© Goalhanger"
+          "label": "© Goalhanger Podcasts"
         },
         "title": {
-          "label": "The Rest Is Politics: US - Goalhanger"
+          "label": "The Rest Is Politics: Leading - Goalhanger"
         },
         "link": {
           "attributes": {
             "rel": "alternate",
             "type": "text/html",
-            "href": "https://podcasts.apple.com/gb/podcast/the-rest-is-politics-us/id1743030473?uo=2"
+            "href": "https://podcasts.apple.com/gb/podcast/the-rest-is-politics-leading/id1665265193?uo=2"
           }
         },
         "id": {
-          "label": "https://podcasts.apple.com/gb/podcast/the-rest-is-politics-us/id1743030473?uo=2",
+          "label": "https://podcasts.apple.com/gb/podcast/the-rest-is-politics-leading/id1665265193?uo=2",
           "attributes": {
-            "im:id": "1743030473"
+            "im:id": "1665265193"
           }
         },
         "im:artist": {
@@ -471,38 +770,112 @@
           }
         },
         "im:releaseDate": {
-          "label": "2026-09-03T11:10:00-07:00",
+          "label": "2026-09-06T16:00:00-07:00",
           "attributes": {
-            "label": "03 September 2026"
+            "label": "06 September 2026"
           }
         }
       },
       {
         "im:name": {
-          "label": "Black Box: The Chatbots"
+          "label": "The Diary Of A CEO with Steven Bartlett"
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "GBP"
+          }
         },
         "im:image": [
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ca/86/fa/ca86fad3-33a3-9564-9c16-5de5b26ed871/mza_12886737881153787636.jpg/55x55bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/69/af/0d/69af0ddd-1e0f-7ae3-c84b-88f18e31ad0c/mza_14445920128472365296.png/55x55bb.png",
             "attributes": {
               "height": "55"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ca/86/fa/ca86fad3-33a3-9564-9c16-5de5b26ed871/mza_12886737881153787636.jpg/60x60bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/69/af/0d/69af0ddd-1e0f-7ae3-c84b-88f18e31ad0c/mza_14445920128472365296.png/60x60bb.png",
             "attributes": {
               "height": "60"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ca/86/fa/ca86fad3-33a3-9564-9c16-5de5b26ed871/mza_12886737881153787636.jpg/170x170bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/69/af/0d/69af0ddd-1e0f-7ae3-c84b-88f18e31ad0c/mza_14445920128472365296.png/170x170bb.png",
             "attributes": {
               "height": "170"
             }
           }
         ],
         "summary": {
-          "label": "People are becoming convinced they have made scientific breakthroughs, cured diseases or invented new technologies using AI chatbots. What does this reveal about a technology now used by more than a billion people? A new series from the Guardian Investigates"
+          "label": "Welcome to The Diary Of A CEO where you'll find raw, human conversations with the world’s most fascinating experts, storytellers, thinkers and business leaders.\n\nHosted by Steven Bartlett (entrepreneur, investor, author, and founder of Steven.com and Flight Fund) this channel was created with a simple mission: to share personal lessons that help both you live better, more fulfilling lives.\n\nWhat is DOAC? Beyond Diary Of A CEO, the acronym reflects our core ethos:\n\n- Dreamers — Dream boldly.\n- Open-minded — Think without limits.\n- Awareness — Expand your perspective.\n- Connection — Feel more connected.\n\nThis is your corner of the internet to dream boldly, think openly, expand your awareness, and feel more connected.\nThe Diary Of A CEO:\n◼ Join DOAC circle here - https://doaccircle.com/\n◼ Buy The Diary Of A CEO book here - https://link.thediaryofaceo.com/BWjLTZK\n◼ Shop The Diary Of A CEO collection: https://thediary.com/collections/shop\n◼ Get email updates - https://link.thediaryofaceo.com/5IB1H6E\n◼ Follow Steven - https://link.thediaryofaceo.com/AGU9QP4"
+        },
+        "im:artist": {
+          "label": "DOAC"
+        },
+        "title": {
+          "label": "The Diary Of A CEO with Steven Bartlett - DOAC"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/gb/podcast/the-diary-of-a-ceo-with-steven-bartlett/id1291423644?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/gb/podcast/the-diary-of-a-ceo-with-steven-bartlett/id1291423644?uo=2",
+          "attributes": {
+            "im:id": "1291423644"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1321",
+            "term": "Business",
+            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-business/id1321?uo=2",
+            "label": "Business"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-09-06T22:00:00-07:00",
+          "attributes": {
+            "label": "06 September 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "Newscast"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/69/3d/77/693d775a-d8d8-d735-a66f-072b8ae54106/mza_14077127562991224684.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/69/3d/77/693d775a-d8d8-d735-a66f-072b8ae54106/mza_14077127562991224684.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/69/3d/77/693d775a-d8d8-d735-a66f-072b8ae54106/mza_14077127562991224684.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "The BBC's daily news podcast, Newscast dives into the day's biggest news stories so you're never out of your depth.\nNewscast picks the brains of BBC News experts so you're ready if someone picks yours, covering the latest news, developments in politics in Westminster and beyond.\nNewscast is hosted by trusted politics and news journalists including Adam Fleming, BBC Political Editor Chris Mason, Laura Kuenssberg and Paddy O'Connell.   \n \nYou can now listen to Newscast on a smart speaker. If you want to listen, just say \"Ask BBC Sounds to play Newscast”. It works on most smart speakers.\nCatch Newscast seven-days a week and watch on BBC One at 23:40 on Thursday night or later on BBC iPlayer. \nGET IN TOUCH:\nSend us a message or voicenote via WhatsApp to 03301239480\nEmail newscast@bbc.co.uk\nJoin our Newscast online community here: https://bbc.in/newscastdiscord\nOr use the hashtag #BBCNewscast"
         },
         "im:price": {
           "label": "Get",
@@ -518,39 +891,42 @@
           }
         },
         "rights": {
-          "label": "© 2026 Guardian News & Media Limited or its affiliated companies. All rights reserved."
+          "label": "© (C) BBC 2026"
         },
         "title": {
-          "label": "Black Box: The Chatbots - The Guardian"
+          "label": "Newscast - BBC News"
         },
         "link": {
           "attributes": {
             "rel": "alternate",
             "type": "text/html",
-            "href": "https://podcasts.apple.com/gb/podcast/black-box-the-chatbots/id1731314182?uo=2"
+            "href": "https://podcasts.apple.com/gb/podcast/newscast/id1234185718?uo=2"
           }
         },
         "id": {
-          "label": "https://podcasts.apple.com/gb/podcast/black-box-the-chatbots/id1731314182?uo=2",
+          "label": "https://podcasts.apple.com/gb/podcast/newscast/id1234185718?uo=2",
           "attributes": {
-            "im:id": "1731314182"
+            "im:id": "1234185718"
           }
         },
         "im:artist": {
-          "label": "The Guardian"
+          "label": "BBC News",
+          "attributes": {
+            "href": "https://podcasts.apple.com/gb/artist/bbc/121676617?uo=2"
+          }
         },
         "category": {
           "attributes": {
-            "im:id": "1543",
-            "term": "Documentary",
-            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-society-culture-documentary/id1543?uo=2",
-            "label": "Documentary"
+            "im:id": "1526",
+            "term": "Daily News",
+            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-news-daily-news/id1526?uo=2",
+            "label": "Daily News"
           }
         },
         "im:releaseDate": {
-          "label": "2026-09-03T07:20:00-07:00",
+          "label": "2026-09-06T04:36:00-07:00",
           "attributes": {
-            "label": "03 September 2026"
+            "label": "06 September 2026"
           }
         }
       },
@@ -633,30 +1009,30 @@
       },
       {
         "im:name": {
-          "label": "Newscast"
+          "label": "Fin vs History"
         },
         "im:image": [
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/69/3d/77/693d775a-d8d8-d735-a66f-072b8ae54106/mza_14077127562991224684.jpg/55x55bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a6/a7/1f/a6a71fe8-aa9a-a04d-cf01-aa532aaeafcc/mza_15057319221118608287.jpeg/55x55bb.png",
             "attributes": {
               "height": "55"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/69/3d/77/693d775a-d8d8-d735-a66f-072b8ae54106/mza_14077127562991224684.jpg/60x60bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a6/a7/1f/a6a71fe8-aa9a-a04d-cf01-aa532aaeafcc/mza_15057319221118608287.jpeg/60x60bb.png",
             "attributes": {
               "height": "60"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/69/3d/77/693d775a-d8d8-d735-a66f-072b8ae54106/mza_14077127562991224684.jpg/170x170bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a6/a7/1f/a6a71fe8-aa9a-a04d-cf01-aa532aaeafcc/mza_15057319221118608287.jpeg/170x170bb.png",
             "attributes": {
               "height": "170"
             }
           }
         ],
         "summary": {
-          "label": "The BBC's daily news podcast, Newscast dives into the day's biggest news stories so you're never out of your depth.\nNewscast picks the brains of BBC News experts so you're ready if someone picks yours, covering the latest news, developments in politics in Westminster and beyond.\nNewscast is hosted by trusted politics and news journalists including Adam Fleming, BBC Political Editor Chris Mason, Laura Kuenssberg and Paddy O'Connell.   \n \nYou can now listen to Newscast on a smart speaker. If you want to listen, just say \"Ask BBC Sounds to play Newscast”. It works on most smart speakers.\nCatch Newscast seven-days a week and watch on BBC One at 23:40 on Thursday night or later on BBC iPlayer. \nGET IN TOUCH:\nSend us a message or voicenote via WhatsApp to 03301239480\nEmail newscast@bbc.co.uk\nJoin our Newscast online community here: https://bbc.in/newscastdiscord\nOr use the hashtag #BBCNewscast"
+          "label": "For people who like history but don't care what actually happened.\nJoin comedians Fin Taylor and Horatio Gould as they guess/explain every event in human history, from Neanderthals to 9/11.\nGuaranteed to give you an entirely new and incorrect perspective on world events.\nSupport the show: https://www.patreon.com/fintaylor"
         },
         "im:price": {
           "label": "Get",
@@ -672,48 +1048,122 @@
           }
         },
         "rights": {
-          "label": "© (C) BBC 2026"
+          "label": "© Fin Taylor & Horatio Gould / Podmasters"
         },
         "title": {
-          "label": "Newscast - BBC News"
+          "label": "Fin vs History - Fin Taylor & Horatio Gould"
         },
         "link": {
           "attributes": {
             "rel": "alternate",
             "type": "text/html",
-            "href": "https://podcasts.apple.com/gb/podcast/newscast/id1234185718?uo=2"
+            "href": "https://podcasts.apple.com/gb/podcast/fin-vs-history/id1790458615?uo=2"
           }
         },
         "id": {
-          "label": "https://podcasts.apple.com/gb/podcast/newscast/id1234185718?uo=2",
+          "label": "https://podcasts.apple.com/gb/podcast/fin-vs-history/id1790458615?uo=2",
           "attributes": {
-            "im:id": "1234185718"
+            "im:id": "1790458615"
           }
         },
         "im:artist": {
-          "label": "BBC News",
-          "attributes": {
-            "href": "https://podcasts.apple.com/gb/artist/bbc/121676617?uo=2"
-          }
+          "label": "Fin Taylor & Horatio Gould"
         },
         "category": {
           "attributes": {
-            "im:id": "1526",
-            "term": "Daily News",
-            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-news-daily-news/id1526?uo=2",
-            "label": "Daily News"
+            "im:id": "1303",
+            "term": "Comedy",
+            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-comedy/id1303?uo=2",
+            "label": "Comedy"
           }
         },
         "im:releaseDate": {
-          "label": "2026-09-05T09:02:00-07:00",
+          "label": "2026-09-06T20:00:00-07:00",
           "attributes": {
-            "label": "05 September 2026"
+            "label": "06 September 2026"
           }
         }
       },
       {
         "im:name": {
-          "label": "Begin Again with Davina McCall"
+          "label": "The Rest Is Politics: US"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/42/d8/be/42d8be3a-34d0-3888-301e-b8ff7aafe1f2/mza_15214757562517445787.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/42/d8/be/42d8be3a-34d0-3888-301e-b8ff7aafe1f2/mza_15214757562517445787.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/42/d8/be/42d8be3a-34d0-3888-301e-b8ff7aafe1f2/mza_15214757562517445787.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "TRIP US uncovers secrets from inside the White House inner circles as well as taking a wider look at the intricacies of United States society and how they shape the world's most important economy.\n\nThe podcast is hosted by Anthony Scaramucci (The Mooch), former White House Director of Communications and Wall Street financier, and Katty Kay, US special correspondent for BBC who has been covering US politics for almost 30 years. \n\nStay informed with in-depth discussions on key political events, policy changes, and the forces shaping America’s future on the global stage.\n\nNew episodes released every Friday, or join our club for bonus content. Just head to https://therestispoliticsus.com to sign up today.."
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "GBP"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© Goalhanger"
+        },
+        "title": {
+          "label": "The Rest Is Politics: US - Goalhanger"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/gb/podcast/the-rest-is-politics-us/id1743030473?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/gb/podcast/the-rest-is-politics-us/id1743030473?uo=2",
+          "attributes": {
+            "im:id": "1743030473"
+          }
+        },
+        "im:artist": {
+          "label": "Goalhanger"
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1527",
+            "term": "Politics",
+            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-news-politics/id1527?uo=2",
+            "label": "Politics"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-09-03T11:10:00-07:00",
+          "attributes": {
+            "label": "03 September 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "We Need To Talk with Paul C. Brunson"
         },
         "im:price": {
           "label": "Get",
@@ -724,44 +1174,44 @@
         },
         "im:image": [
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/1a/25/f3/1a25f39f-a4c3-7a03-f256-d0c86663f203/mza_16084548294158924584.jpg/55x55bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6f/59/ae/6f59ae2a-afec-dfa0-38c1-2b88a48c1a1a/mza_16605880432833834071.jpg/55x55bb.png",
             "attributes": {
               "height": "55"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/1a/25/f3/1a25f39f-a4c3-7a03-f256-d0c86663f203/mza_16084548294158924584.jpg/60x60bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6f/59/ae/6f59ae2a-afec-dfa0-38c1-2b88a48c1a1a/mza_16605880432833834071.jpg/60x60bb.png",
             "attributes": {
               "height": "60"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/1a/25/f3/1a25f39f-a4c3-7a03-f256-d0c86663f203/mza_16084548294158924584.jpg/170x170bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6f/59/ae/6f59ae2a-afec-dfa0-38c1-2b88a48c1a1a/mza_16605880432833834071.jpg/170x170bb.png",
             "attributes": {
               "height": "170"
             }
           }
         ],
         "summary": {
-          "label": "Begin Again with Davina McCall is your reminder to live a life that you love!\n\nWe’re all guilty of staying inside our comfort zone. We’ve convinced ourselves to settle, to accept our lot in life, that it’s too late, too scary, too much.\n\nBut what if you could approach change in your life differently? What if you could be excited about stepping outside of your comfort zone? What if you gave yourself permission to reinvent yourself?\n\nEvery week, Davina grabs you by the hands and sits you down on the big green sofa for honest, personal conversations with the people who chose change. These are national treasures, everyday heroes, and leading experts, who help you step outside of your comfort zone, embrace reinvention, and get excited about what comes next.\n\nBegin Again is a space where both big changes and small shifts are celebrated as a chance to grow, rediscover yourself, and start again. \n\nSo come on in, get comfortable, and join Davina in Britain’s living room where you get to begin again and again and again!\n\n\n\nInstagram: @beginagain\n\nLinkedIn: linkedin.com/in/davina-mccall-82204a19b/"
+          "label": "The most powerful conversations are the ones we usually avoid. Hosted by Paul C. Brunson, We Need To Talk is a show that empowers people to have the conversations they avoid by creating a safe, supportive, and insightful space that encourages vulnerability, self-discovery, and real-world connection. \n\nFrom breakups to breakthroughs, conflict to connection, we go beyond the headlines to uncover the human experiences and relationships that define us.\n\nInstagram: @needtotalk\n\nTikTok: @weneedtotalkpod"
         },
         "im:artist": {
-          "label": "Begin Again"
+          "label": "WNTT"
         },
         "title": {
-          "label": "Begin Again with Davina McCall - Begin Again"
+          "label": "We Need To Talk with Paul C. Brunson - WNTT"
         },
         "link": {
           "attributes": {
             "rel": "alternate",
             "type": "text/html",
-            "href": "https://podcasts.apple.com/gb/podcast/begin-again-with-davina-mccall/id1773104705?uo=2"
+            "href": "https://podcasts.apple.com/gb/podcast/we-need-to-talk-with-paul-c-brunson/id1765126946?uo=2"
           }
         },
         "id": {
-          "label": "https://podcasts.apple.com/gb/podcast/begin-again-with-davina-mccall/id1773104705?uo=2",
+          "label": "https://podcasts.apple.com/gb/podcast/we-need-to-talk-with-paul-c-brunson/id1765126946?uo=2",
           "attributes": {
-            "im:id": "1773104705"
+            "im:id": "1765126946"
           }
         },
         "im:contentType": {
@@ -772,16 +1222,16 @@
         },
         "category": {
           "attributes": {
-            "im:id": "1500",
-            "term": "Self-Improvement",
-            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-education-self-improvement/id1500?uo=2",
-            "label": "Self-Improvement"
+            "im:id": "1544",
+            "term": "Relationships",
+            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-society-culture-relationships/id1544?uo=2",
+            "label": "Relationships"
           }
         },
         "im:releaseDate": {
-          "label": "2026-09-02T22:00:00-07:00",
+          "label": "2026-08-31T22:00:00-07:00",
           "attributes": {
-            "label": "02 September 2026"
+            "label": "31 August 2026"
           }
         }
       },
@@ -864,154 +1314,6 @@
       },
       {
         "im:name": {
-          "label": "The Rest Is Classified"
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "GBP"
-          }
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f4/09/a7/f409a749-1c83-ddb6-26ca-3edb6deee0f9/mza_6566356699697291626.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f4/09/a7/f409a749-1c83-ddb6-26ca-3edb6deee0f9/mza_6566356699697291626.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f4/09/a7/f409a749-1c83-ddb6-26ca-3edb6deee0f9/mza_6566356699697291626.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "Enter the secretive world of spies, espionage, and covert operations. \nHosted by former CIA analyst turned spy novelist, David McCloskey, and veteran security correspondent, Gordon Corera, this podcast unravels real-life spy stories, intelligence secrets, and the hidden power struggles shaping global events. \nFrom Cold War espionage to modern-day intelligence agencies like the CIA, MI6, and Mossad, explore the world of double agents, classified missions, and the shadowy figures who operate in them. Whether you're a true crime addict, a thriller fan, or fascinated by spy stories, this is the show for you."
-        },
-        "im:artist": {
-          "label": "Goalhanger"
-        },
-        "title": {
-          "label": "The Rest Is Classified - Goalhanger"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/gb/podcast/the-rest-is-classified/id1780384916?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/gb/podcast/the-rest-is-classified/id1780384916?uo=2",
-          "attributes": {
-            "im:id": "1780384916"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1487",
-            "term": "History",
-            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-history/id1487?uo=2",
-            "label": "History"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-09-09T16:00:00-07:00",
-          "attributes": {
-            "label": "09 September 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "The Romesh Ranganathan Show"
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "GBP"
-          }
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fe/7e/2c/fe7e2c0b-83c6-073d-6790-de6be1d69a15/mza_17832604879501978810.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fe/7e/2c/fe7e2c0b-83c6-073d-6790-de6be1d69a15/mza_17832604879501978810.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fe/7e/2c/fe7e2c0b-83c6-073d-6790-de6be1d69a15/mza_17832604879501978810.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "The world’s biggest stars join Romesh for candid conversations and loads of laughs. \n\nEvery Monday, Romesh Ranganathan meets actors, musicians, comedians and icons who share stories you won’t hear anywhere else, combining humour, heart and genuine insight. Expect backstage anecdotes, untold tales from the spotlight, and extraordinary insight into what makes them tick. \n\nOn Thursdays, Rom’s mum Shanthi joins the show to share family stories, answer audience questions, and offer her no-nonsense take on life, proving that the funniest and most relatable conversations often happen around the kitchen table. \n\nLeave a voice note for Romesh and Shanthi by messaging +447731623355, @theromeshshow on Instagram, or emailing podcast@rangabee.com. \n\nA Ranga Bee Production in Partnership with Listen."
-        },
-        "im:artist": {
-          "label": "Ranga Bee & Platform Media"
-        },
-        "title": {
-          "label": "The Romesh Ranganathan Show - Ranga Bee & Platform Media"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/gb/podcast/the-romesh-ranganathan-show/id1838594107?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/gb/podcast/the-romesh-ranganathan-show/id1838594107?uo=2",
-          "attributes": {
-            "im:id": "1838594107"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1303",
-            "term": "Comedy",
-            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-comedy/id1303?uo=2",
-            "label": "Comedy"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-09-02T16:01:00-07:00",
-          "attributes": {
-            "label": "02 September 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
           "label": "RedHanded"
         },
         "im:price": {
@@ -1086,7 +1388,7 @@
       },
       {
         "im:name": {
-          "label": "We Need To Talk with Paul C. Brunson"
+          "label": "Blink | Jake Haendel's Story"
         },
         "im:price": {
           "label": "Get",
@@ -1097,44 +1399,44 @@
         },
         "im:image": [
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6f/59/ae/6f59ae2a-afec-dfa0-38c1-2b88a48c1a1a/mza_16605880432833834071.jpg/55x55bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6e/73/c4/6e73c431-fe10-02bf-2773-ea4f6a13c195/mza_6361613379084526731.png/55x55bb.png",
             "attributes": {
               "height": "55"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6f/59/ae/6f59ae2a-afec-dfa0-38c1-2b88a48c1a1a/mza_16605880432833834071.jpg/60x60bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6e/73/c4/6e73c431-fe10-02bf-2773-ea4f6a13c195/mza_6361613379084526731.png/60x60bb.png",
             "attributes": {
               "height": "60"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6f/59/ae/6f59ae2a-afec-dfa0-38c1-2b88a48c1a1a/mza_16605880432833834071.jpg/170x170bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6e/73/c4/6e73c431-fe10-02bf-2773-ea4f6a13c195/mza_6361613379084526731.png/170x170bb.png",
             "attributes": {
               "height": "170"
             }
           }
         ],
         "summary": {
-          "label": "The most powerful conversations are the ones we usually avoid. Hosted by Paul C. Brunson, We Need To Talk is a show that empowers people to have the conversations they avoid by creating a safe, supportive, and insightful space that encourages vulnerability, self-discovery, and real-world connection. \n\nFrom breakups to breakthroughs, conflict to connection, we go beyond the headlines to uncover the human experiences and relationships that define us.\n\nInstagram: @needtotalk\n\nTikTok: @weneedtotalkpod"
+          "label": "Jacob Haendel has been handed a death sentence. He has a terminal progressive disease that's eating away at the white matter of his brain. In six months, he'll be dead. As the months progress, Jake slips into a coma, laying there in total darkness. But something odd has happened... Jake is fully conscious. Nobody knows that he can hear them. They’re certain he's no longer in there. With the promise that Jake will never recover, friends and family visit less and less. Until there is just one person left. A person who begins to whisper strange admissions in his ear. It is here, helpless in his hospital bed, that Jake realizes what may have gotten him here in the first place. The scariest thing in the room is no longer the potential of dying, but rather, the person sitting right next to him. This is Blink, the untold true story and survival of Jacob Haendel.\nBlink is part of The Binge - subscribe to The Binge to get new episodes of Blink one week early and all episodes completely ad-free.\nFrom serial killer nurses to psychic scammers – The Binge is your home for true crime stories that pull you in and never let go.\nFollow The Binge Crimes and The Binge Cases wherever you get your podcasts to get new stories on the first of the month, every month. Hit ‘Subscribe’ at the top of the Blink show page on Apple Podcasts or visit GetTheBinge.com.\nThe Binge – feed your true crime obsession."
         },
         "im:artist": {
-          "label": "WNTT"
+          "label": "Sony Music, Corinne Vien, Jacob Haendel"
         },
         "title": {
-          "label": "We Need To Talk with Paul C. Brunson - WNTT"
+          "label": "Blink | Jake Haendel's Story - Sony Music, Corinne Vien, Jacob Haendel"
         },
         "link": {
           "attributes": {
             "rel": "alternate",
             "type": "text/html",
-            "href": "https://podcasts.apple.com/gb/podcast/we-need-to-talk-with-paul-c-brunson/id1765126946?uo=2"
+            "href": "https://podcasts.apple.com/gb/podcast/blink-jake-haendels-story/id1779813806?uo=2"
           }
         },
         "id": {
-          "label": "https://podcasts.apple.com/gb/podcast/we-need-to-talk-with-paul-c-brunson/id1765126946?uo=2",
+          "label": "https://podcasts.apple.com/gb/podcast/blink-jake-haendels-story/id1779813806?uo=2",
           "attributes": {
-            "im:id": "1765126946"
+            "im:id": "1779813806"
           }
         },
         "im:contentType": {
@@ -1145,119 +1447,45 @@
         },
         "category": {
           "attributes": {
-            "im:id": "1544",
-            "term": "Relationships",
-            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-society-culture-relationships/id1544?uo=2",
-            "label": "Relationships"
+            "im:id": "1488",
+            "term": "True Crime",
+            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-true-crime/id1488?uo=2",
+            "label": "True Crime"
           }
         },
         "im:releaseDate": {
-          "label": "2026-08-31T22:00:00-07:00",
+          "label": "2026-07-06T21:00:00-07:00",
           "attributes": {
-            "label": "31 August 2026"
+            "label": "06 July 2026"
           }
         }
       },
       {
         "im:name": {
-          "label": "The Diary Of A CEO with Steven Bartlett"
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "GBP"
-          }
+          "label": "The Rest Is Science"
         },
         "im:image": [
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/69/af/0d/69af0ddd-1e0f-7ae3-c84b-88f18e31ad0c/mza_14445920128472365296.png/55x55bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b5/7d/0c/b57d0c08-17e6-0ec9-484a-491f759d48b7/mza_3391787018699283273.jpeg/55x55bb.png",
             "attributes": {
               "height": "55"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/69/af/0d/69af0ddd-1e0f-7ae3-c84b-88f18e31ad0c/mza_14445920128472365296.png/60x60bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b5/7d/0c/b57d0c08-17e6-0ec9-484a-491f759d48b7/mza_3391787018699283273.jpeg/60x60bb.png",
             "attributes": {
               "height": "60"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/69/af/0d/69af0ddd-1e0f-7ae3-c84b-88f18e31ad0c/mza_14445920128472365296.png/170x170bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b5/7d/0c/b57d0c08-17e6-0ec9-484a-491f759d48b7/mza_3391787018699283273.jpeg/170x170bb.png",
             "attributes": {
               "height": "170"
             }
           }
         ],
         "summary": {
-          "label": "Welcome to The Diary Of A CEO where you'll find raw, human conversations with the world’s most fascinating experts, storytellers, thinkers and business leaders.\n\nHosted by Steven Bartlett (entrepreneur, investor, author, and founder of Steven.com and Flight Fund) this channel was created with a simple mission: to share personal lessons that help both you live better, more fulfilling lives.\n\nWhat is DOAC? Beyond Diary Of A CEO, the acronym reflects our core ethos:\n\n- Dreamers — Dream boldly.\n- Open-minded — Think without limits.\n- Awareness — Expand your perspective.\n- Connection — Feel more connected.\n\nThis is your corner of the internet to dream boldly, think openly, expand your awareness, and feel more connected.\nThe Diary Of A CEO:\n◼ Join DOAC circle here - https://doaccircle.com/\n◼ Buy The Diary Of A CEO book here - https://link.thediaryofaceo.com/BWjLTZK\n◼ Shop The Diary Of A CEO collection: https://thediary.com/collections/shop\n◼ Get email updates - https://link.thediaryofaceo.com/5IB1H6E\n◼ Follow Steven - https://link.thediaryofaceo.com/AGU9QP4"
-        },
-        "im:artist": {
-          "label": "DOAC"
-        },
-        "title": {
-          "label": "The Diary Of A CEO with Steven Bartlett - DOAC"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/gb/podcast/the-diary-of-a-ceo-with-steven-bartlett/id1291423644?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/gb/podcast/the-diary-of-a-ceo-with-steven-bartlett/id1291423644?uo=2",
-          "attributes": {
-            "im:id": "1291423644"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1321",
-            "term": "Business",
-            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-business/id1321?uo=2",
-            "label": "Business"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-09-02T22:00:00-07:00",
-          "attributes": {
-            "label": "02 September 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "Sh**ged Married Annoyed"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/be/b7/5c/beb75c86-9128-5709-5541-80b6c3cc6ed9/mza_18366239786920109178.jpeg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/be/b7/5c/beb75c86-9128-5709-5541-80b6c3cc6ed9/mza_18366239786920109178.jpeg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/be/b7/5c/beb75c86-9128-5709-5541-80b6c3cc6ed9/mza_18366239786920109178.jpeg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "The only way Rosie and Chris Ramsey can have a conversation without being interrupted by a toddler or ending up staring at their phones is by doing a podcast. They’ll be chatting all about life, relationships, arguments, annoyances, parenting, growing up and everything in between. Each week they will answer questions from the public and a secret celebrity."
+          "label": "Join mathematician Professor Hannah Fry and science creator Michael Stevens (Vsauce) as they dig into the weird scientific questions that often go unexplored. \n\nWelcome to The Rest Is Science, a show that sits in the fascinating space between what we think we know, and what we actually know. Why do we assume we understand things like time, randomness, or even gravity? Once you start questioning these familiar ideas, reality becomes astonishingly strange and completely fragile.\n\nWhether you're a lifelong science fan or just naturally curious, The Rest Is Science will change your perception of reality, and prove that the biggest questions are always the most fun."
         },
         "im:price": {
           "label": "Get",
@@ -1273,116 +1501,39 @@
           }
         },
         "rights": {
-          "label": "© All rights reserved"
+          "label": "© Goalhanger"
         },
         "title": {
-          "label": "Sh**ged Married Annoyed - Chris & Rosie Ramsey"
+          "label": "The Rest Is Science - Goalhanger"
         },
         "link": {
           "attributes": {
             "rel": "alternate",
             "type": "text/html",
-            "href": "https://podcasts.apple.com/gb/podcast/sh-ged-married-annoyed/id1451489585?uo=2"
+            "href": "https://podcasts.apple.com/gb/podcast/the-rest-is-science/id1853007888?uo=2"
           }
         },
         "id": {
-          "label": "https://podcasts.apple.com/gb/podcast/sh-ged-married-annoyed/id1451489585?uo=2",
+          "label": "https://podcasts.apple.com/gb/podcast/the-rest-is-science/id1853007888?uo=2",
           "attributes": {
-            "im:id": "1451489585"
+            "im:id": "1853007888"
           }
         },
         "im:artist": {
-          "label": "Chris & Rosie Ramsey"
+          "label": "Goalhanger"
         },
         "category": {
           "attributes": {
-            "im:id": "1303",
-            "term": "Comedy",
-            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-comedy/id1303?uo=2",
-            "label": "Comedy"
+            "im:id": "1542",
+            "term": "Physics",
+            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-science-physics/id1542?uo=2",
+            "label": "Physics"
           }
         },
         "im:releaseDate": {
-          "label": "2026-09-01T19:45:00-07:00",
+          "label": "2026-09-06T14:00:00-07:00",
           "attributes": {
-            "label": "01 September 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "Fin vs History"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a6/a7/1f/a6a71fe8-aa9a-a04d-cf01-aa532aaeafcc/mza_15057319221118608287.jpeg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a6/a7/1f/a6a71fe8-aa9a-a04d-cf01-aa532aaeafcc/mza_15057319221118608287.jpeg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a6/a7/1f/a6a71fe8-aa9a-a04d-cf01-aa532aaeafcc/mza_15057319221118608287.jpeg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "For people who like history but don't care what actually happened.\nJoin comedians Fin Taylor and Horatio Gould as they guess/explain every event in human history, from Neanderthals to 9/11.\nGuaranteed to give you an entirely new and incorrect perspective on world events.\nSupport the show: https://www.patreon.com/fintaylor"
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "GBP"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© Fin Taylor & Horatio Gould / Podmasters"
-        },
-        "title": {
-          "label": "Fin vs History - Fin Taylor & Horatio Gould"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/gb/podcast/fin-vs-history/id1790458615?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/gb/podcast/fin-vs-history/id1790458615?uo=2",
-          "attributes": {
-            "im:id": "1790458615"
-          }
-        },
-        "im:artist": {
-          "label": "Fin Taylor & Horatio Gould"
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1303",
-            "term": "Comedy",
-            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-comedy/id1303?uo=2",
-            "label": "Comedy"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-08-30T20:00:00-07:00",
-          "attributes": {
-            "label": "30 August 2026"
+            "label": "06 September 2026"
           }
         }
       },
@@ -1468,6 +1619,83 @@
       },
       {
         "im:name": {
+          "label": "Sh**ged Married Annoyed"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/be/b7/5c/beb75c86-9128-5709-5541-80b6c3cc6ed9/mza_18366239786920109178.jpeg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/be/b7/5c/beb75c86-9128-5709-5541-80b6c3cc6ed9/mza_18366239786920109178.jpeg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/be/b7/5c/beb75c86-9128-5709-5541-80b6c3cc6ed9/mza_18366239786920109178.jpeg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "The only way Rosie and Chris Ramsey can have a conversation without being interrupted by a toddler or ending up staring at their phones is by doing a podcast. They’ll be chatting all about life, relationships, arguments, annoyances, parenting, growing up and everything in between. Each week they will answer questions from the public and a secret celebrity."
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "GBP"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© All rights reserved"
+        },
+        "title": {
+          "label": "Sh**ged Married Annoyed - Chris & Rosie Ramsey"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/gb/podcast/sh-ged-married-annoyed/id1451489585?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/gb/podcast/sh-ged-married-annoyed/id1451489585?uo=2",
+          "attributes": {
+            "im:id": "1451489585"
+          }
+        },
+        "im:artist": {
+          "label": "Chris & Rosie Ramsey"
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1303",
+            "term": "Comedy",
+            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-comedy/id1303?uo=2",
+            "label": "Comedy"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-09-01T19:45:00-07:00",
+          "attributes": {
+            "label": "01 September 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
           "label": "Wolf & Owl with Romesh Ranganathan and Tom Davis"
         },
         "im:image": [
@@ -1545,30 +1773,30 @@
       },
       {
         "im:name": {
-          "label": "Elis James and John Robins"
+          "label": "Intrigue"
         },
         "im:image": [
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9e/74/87/9e748733-bf14-47ef-9000-aa64fa709a3e/mza_9331812427600364864.jpeg/55x55bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/53/41/3f/53413f58-3627-2e9c-4fcb-28f4bb56c556/mza_5302213885380022967.jpg/55x55bb.png",
             "attributes": {
               "height": "55"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9e/74/87/9e748733-bf14-47ef-9000-aa64fa709a3e/mza_9331812427600364864.jpeg/60x60bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/53/41/3f/53413f58-3627-2e9c-4fcb-28f4bb56c556/mza_5302213885380022967.jpg/60x60bb.png",
             "attributes": {
               "height": "60"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9e/74/87/9e748733-bf14-47ef-9000-aa64fa709a3e/mza_9331812427600364864.jpeg/170x170bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/53/41/3f/53413f58-3627-2e9c-4fcb-28f4bb56c556/mza_5302213885380022967.jpg/170x170bb.png",
             "attributes": {
               "height": "170"
             }
           }
         ],
         "summary": {
-          "label": "Join the UK's youngest and most relevant broadcasters Elis James and John Robins for your twice-weekly dose of big laughs and top quality #content. Hilarious, welcoming and unashamedly ashamed, let these two best friends keep you company every Tuesday and Friday. Hosted on Acast. See acast.com/privacy for more information."
+          "label": "Twenty-five years on from the deadliest terror attack in history, BBC investigative journalist Jane McMullen asks why thousands of grieving families are still fighting for answers.  \n \nIn early 2000, two young Saudis arrived in San Diego. They had never been to America, spoke almost no English, and had no idea how to open a bank account or rent a flat. Within weeks they had done all of it. Twenty months later they hijacked a plane and crashed it into the Pentagon. \n \nMcMullen investigates the hidden story of a man who helped two of the hijackers - and reveals a story that the US and Saudi governments have fought to keep secret."
         },
         "im:price": {
           "label": "Get",
@@ -1584,257 +1812,26 @@
           }
         },
         "rights": {
-          "label": "© Significant Productions"
+          "label": "© (C) BBC 2026"
         },
         "title": {
-          "label": "Elis James and John Robins - Significant Productions"
+          "label": "Intrigue - BBC Radio 4"
         },
         "link": {
           "attributes": {
             "rel": "alternate",
             "type": "text/html",
-            "href": "https://podcasts.apple.com/gb/podcast/elis-james-and-john-robins/id1465290044?uo=2"
+            "href": "https://podcasts.apple.com/gb/podcast/intrigue/id1741328387?uo=2"
           }
         },
         "id": {
-          "label": "https://podcasts.apple.com/gb/podcast/elis-james-and-john-robins/id1465290044?uo=2",
+          "label": "https://podcasts.apple.com/gb/podcast/intrigue/id1741328387?uo=2",
           "attributes": {
-            "im:id": "1465290044"
+            "im:id": "1741328387"
           }
         },
         "im:artist": {
-          "label": "Significant Productions",
-          "attributes": {
-            "href": "https://podcasts.apple.com/gb/artist/bbc/121676617?uo=2"
-          }
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1303",
-            "term": "Comedy",
-            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-comedy/id1303?uo=2",
-            "label": "Comedy"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-09-01T07:45:00-07:00",
-          "attributes": {
-            "label": "01 September 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "Olivia's House with Olivia Attwood"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ab/43/05/ab4305cd-5a37-a91a-5d77-6ddc34e404c5/mza_12314098621722452322.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ab/43/05/ab4305cd-5a37-a91a-5d77-6ddc34e404c5/mza_12314098621722452322.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ab/43/05/ab4305cd-5a37-a91a-5d77-6ddc34e404c5/mza_12314098621722452322.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "Welcome to Olivia's House — the intimate and stylish new podcast from Olivia Attwood that blends sharp humour with unfiltered, heartfelt conversation. From New York to London, Olivia invites bold guests to explore love, fame, family, and everything in between- no topic is off-limits. Expect scandalous stories, laugh-out-loud chaos, and the honest, messy moments that make us human. So… are you coming in?"
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "GBP"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© Platform Media"
-        },
-        "title": {
-          "label": "Olivia's House with Olivia Attwood - Platform Media"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/gb/podcast/olivias-house-with-olivia-attwood/id1731180091?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/gb/podcast/olivias-house-with-olivia-attwood/id1731180091?uo=2",
-          "attributes": {
-            "im:id": "1731180091"
-          }
-        },
-        "im:artist": {
-          "label": "Platform Media"
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1324",
-            "term": "Society & Culture",
-            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-society-culture/id1324?uo=2",
-            "label": "Society & Culture"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-09-02T22:00:00-07:00",
-          "attributes": {
-            "label": "02 September 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "Stick to Football"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bc/33/7d/bc337da6-5892-58c9-c6f2-a8b6e85d8eff/mza_17269967902655057672.jpeg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bc/33/7d/bc337da6-5892-58c9-c6f2-a8b6e85d8eff/mza_17269967902655057672.jpeg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bc/33/7d/bc337da6-5892-58c9-c6f2-a8b6e85d8eff/mza_17269967902655057672.jpeg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "An original series from The Overlap - with Gary Neville, Jamie Carragher, Jill Scott, Ian Wright and Roy Keane, featuring special guests discussing all things football. Hosted on Acast. See acast.com/privacy for more information."
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "GBP"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© The Overlap"
-        },
-        "title": {
-          "label": "Stick to Football - The Overlap"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/gb/podcast/stick-to-football/id1709142395?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/gb/podcast/stick-to-football/id1709142395?uo=2",
-          "attributes": {
-            "im:id": "1709142395"
-          }
-        },
-        "im:artist": {
-          "label": "The Overlap"
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1546",
-            "term": "Soccer",
-            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-sport-football/id1546?uo=2",
-            "label": "Football"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-09-02T21:00:00-07:00",
-          "attributes": {
-            "label": "02 September 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "Blink | Jake Haendel's Story"
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "GBP"
-          }
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6e/73/c4/6e73c431-fe10-02bf-2773-ea4f6a13c195/mza_6361613379084526731.png/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6e/73/c4/6e73c431-fe10-02bf-2773-ea4f6a13c195/mza_6361613379084526731.png/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6e/73/c4/6e73c431-fe10-02bf-2773-ea4f6a13c195/mza_6361613379084526731.png/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "Jacob Haendel has been handed a death sentence. He has a terminal progressive disease that's eating away at the white matter of his brain. In six months, he'll be dead. As the months progress, Jake slips into a coma, laying there in total darkness. But something odd has happened... Jake is fully conscious. Nobody knows that he can hear them. They’re certain he's no longer in there. With the promise that Jake will never recover, friends and family visit less and less. Until there is just one person left. A person who begins to whisper strange admissions in his ear. It is here, helpless in his hospital bed, that Jake realizes what may have gotten him here in the first place. The scariest thing in the room is no longer the potential of dying, but rather, the person sitting right next to him. This is Blink, the untold true story and survival of Jacob Haendel.\nBlink is part of The Binge - subscribe to The Binge to get new episodes of Blink one week early and all episodes completely ad-free.\nFrom serial killer nurses to psychic scammers – The Binge is your home for true crime stories that pull you in and never let go.\nFollow The Binge Crimes and The Binge Cases wherever you get your podcasts to get new stories on the first of the month, every month. Hit ‘Subscribe’ at the top of the Blink show page on Apple Podcasts or visit GetTheBinge.com.\nThe Binge – feed your true crime obsession."
-        },
-        "im:artist": {
-          "label": "Sony Music, Corinne Vien, Jacob Haendel"
-        },
-        "title": {
-          "label": "Blink | Jake Haendel's Story - Sony Music, Corinne Vien, Jacob Haendel"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/gb/podcast/blink-jake-haendels-story/id1779813806?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/gb/podcast/blink-jake-haendels-story/id1779813806?uo=2",
-          "attributes": {
-            "im:id": "1779813806"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
+          "label": "BBC Radio 4"
         },
         "category": {
           "attributes": {
@@ -1845,9 +1842,9 @@
           }
         },
         "im:releaseDate": {
-          "label": "2026-07-06T21:00:00-07:00",
+          "label": "2026-09-06T23:05:00-07:00",
           "attributes": {
-            "label": "06 July 2026"
+            "label": "06 September 2026"
           }
         }
       },
@@ -1927,7 +1924,7 @@
       }
     ],
     "updated": {
-      "label": "2026-09-06T03:43:08-07:00"
+      "label": "2026-09-07T05:12:01-07:00"
     },
     "rights": {
       "label": "Copyright 2008 Apple Inc."
