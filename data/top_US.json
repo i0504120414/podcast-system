@@ -11,6 +11,86 @@
     "entry": [
       {
         "im:name": {
+          "label": "The Daily"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ab/64/66/ab6466a9-9a7d-e20e-7a3d-bc5be37d29ce/mza_15084852813176276273.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ab/64/66/ab6466a9-9a7d-e20e-7a3d-bc5be37d29ce/mza_15084852813176276273.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ab/64/66/ab6466a9-9a7d-e20e-7a3d-bc5be37d29ce/mza_15084852813176276273.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "This is what the news should sound like. The biggest stories of our time, told by the best journalists in the world. Hosted by Michael Barbaro, Rachel Abrams and Natalie Kitroeff. Twenty minutes a day, six days a week, ready by 6 a.m. \n\nSubscribe today at nytimes.com/podcasts or on Apple Podcasts, Spotify and Amazon Music. You can also subscribe via your favorite podcast app here https://www.nytimes.com/activate-access/audio?source=podcatcher."
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© 2020-2021 THE NEW YORK TIMES COMPANY; The New York Times encourages the use of RSS feeds for personal use in a news reader or as part of a non-commercial blog, subject to your agreement to our Terms of Service."
+        },
+        "title": {
+          "label": "The Daily - The New York Times"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/us/podcast/the-daily/id1200361736?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/us/podcast/the-daily/id1200361736?uo=2",
+          "attributes": {
+            "im:id": "1200361736"
+          }
+        },
+        "im:artist": {
+          "label": "The New York Times",
+          "attributes": {
+            "href": "https://podcasts.apple.com/us/artist/the-new-york-times/121664449?uo=2"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1526",
+            "term": "Daily News",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-news-daily-news/id1526?uo=2",
+            "label": "Daily News"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-09-30T02:45:00-07:00",
+          "attributes": {
+            "label": "September 30, 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
           "label": "Crime Junkie"
         },
         "im:image": [
@@ -91,30 +171,30 @@
       },
       {
         "im:name": {
-          "label": "The Daily"
+          "label": "Dateline NBC"
         },
         "im:image": [
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ab/64/66/ab6466a9-9a7d-e20e-7a3d-bc5be37d29ce/mza_15084852813176276273.jpg/55x55bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/8c/00/7a/8c007a42-e550-0214-d4cb-b59cd7edf194/mza_5305664083935674472.jpeg/55x55bb.png",
             "attributes": {
               "height": "55"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ab/64/66/ab6466a9-9a7d-e20e-7a3d-bc5be37d29ce/mza_15084852813176276273.jpg/60x60bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/8c/00/7a/8c007a42-e550-0214-d4cb-b59cd7edf194/mza_5305664083935674472.jpeg/60x60bb.png",
             "attributes": {
               "height": "60"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ab/64/66/ab6466a9-9a7d-e20e-7a3d-bc5be37d29ce/mza_15084852813176276273.jpg/170x170bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/8c/00/7a/8c007a42-e550-0214-d4cb-b59cd7edf194/mza_5305664083935674472.jpeg/170x170bb.png",
             "attributes": {
               "height": "170"
             }
           }
         ],
         "summary": {
-          "label": "This is what the news should sound like. The biggest stories of our time, told by the best journalists in the world. Hosted by Michael Barbaro, Rachel Abrams and Natalie Kitroeff. Twenty minutes a day, six days a week, ready by 6 a.m. \n\nSubscribe today at nytimes.com/podcasts or on Apple Podcasts, Spotify and Amazon Music. You can also subscribe via your favorite podcast app here https://www.nytimes.com/activate-access/audio?source=podcatcher."
+          "label": "Current and classic episodes, featuring compelling true-crime mysteries, powerful documentaries and in-depth investigations. \n  \nFollow now to get the latest episodes of Dateline NBC completely free, or subscribe to Dateline Premium for ad-free listening and exclusive bonus content: DatelinePremium.com"
         },
         "im:price": {
           "label": "Get",
@@ -130,186 +210,29 @@
           }
         },
         "rights": {
-          "label": "© 2020-2021 THE NEW YORK TIMES COMPANY; The New York Times encourages the use of RSS feeds for personal use in a news reader or as part of a non-commercial blog, subject to your agreement to our Terms of Service."
+          "label": "© 2019 NBC News"
         },
         "title": {
-          "label": "The Daily - The New York Times"
+          "label": "Dateline NBC - NBC News"
         },
         "link": {
           "attributes": {
             "rel": "alternate",
             "type": "text/html",
-            "href": "https://podcasts.apple.com/us/podcast/the-daily/id1200361736?uo=2"
+            "href": "https://podcasts.apple.com/us/podcast/dateline-nbc/id1464919521?uo=2"
           }
         },
         "id": {
-          "label": "https://podcasts.apple.com/us/podcast/the-daily/id1200361736?uo=2",
+          "label": "https://podcasts.apple.com/us/podcast/dateline-nbc/id1464919521?uo=2",
           "attributes": {
-            "im:id": "1200361736"
+            "im:id": "1464919521"
           }
         },
         "im:artist": {
-          "label": "The New York Times",
+          "label": "NBC News",
           "attributes": {
-            "href": "https://podcasts.apple.com/us/artist/the-new-york-times/121664449?uo=2"
+            "href": "https://podcasts.apple.com/us/artist/nbc-news/119945391?uo=2"
           }
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1526",
-            "term": "Daily News",
-            "scheme": "https://podcasts.apple.com/us/genre/podcasts-news-daily-news/id1526?uo=2",
-            "label": "Daily News"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-09-29T02:45:00-07:00",
-          "attributes": {
-            "label": "September 29, 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "Pardon My Take"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/35/74/6a/35746a0c-7687-7dde-ff04-338d93e78303/mza_10377078556009223546.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/35/74/6a/35746a0c-7687-7dde-ff04-338d93e78303/mza_10377078556009223546.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/35/74/6a/35746a0c-7687-7dde-ff04-338d93e78303/mza_10377078556009223546.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "On \"Pardon My Take,\" Big Cat & PFT Commenter deliver the loudest and most correct sports takes in the history of the spoken word. Daily topics, guests, and an inability to tell what the hosts might be doing will make this your new favorite sports talk show. This is a podcast that will without a doubt change your life for the better- guaranteed, or your money back. *Pretend a reggaeton air horn is going off right now* PMT.\n\n\nYou can find every episode of this show on Apple Podcasts, Spotify or Netflix. Prime Members can listen ad-free on Amazon Music. For more, visit barstool.link/pardon-my-take"
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "USD"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© 2026 Barstool Sports, Inc."
-        },
-        "title": {
-          "label": "Pardon My Take - Barstool Sports"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/us/podcast/pardon-my-take/id1089022756?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/us/podcast/pardon-my-take/id1089022756?uo=2",
-          "attributes": {
-            "im:id": "1089022756"
-          }
-        },
-        "im:artist": {
-          "label": "Barstool Sports",
-          "attributes": {
-            "href": "https://podcasts.apple.com/us/artist/barstool-sports/1524874689?uo=2"
-          }
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1547",
-            "term": "Football",
-            "scheme": "https://podcasts.apple.com/us/genre/podcasts-sports-football/id1547?uo=2",
-            "label": "Football"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-09-24T23:26:00-07:00",
-          "attributes": {
-            "label": "September 24, 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "Morbid"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/78/e9/0e/78e90ee0-567d-1ad8-17a0-17d7c988c4bd/mza_8425901783365617933.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/78/e9/0e/78e90ee0-567d-1ad8-17a0-17d7c988c4bd/mza_8425901783365617933.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/78/e9/0e/78e90ee0-567d-1ad8-17a0-17d7c988c4bd/mza_8425901783365617933.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "It’s a lighthearted nightmare in here, weirdos! Morbid is a true crime, creepy history and all things spooky podcast hosted by an autopsy technician and a hairstylist. Join us for a heavy dose of research with a dash of comedy thrown in for flavor.\n\nSubscribe to SiriusXM Podcasts+ to listen to new episodes of Morbid ad-free.\n\nStart a free trial now on Apple Podcasts or by visiting siriusxm.com/podcastsplus."
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "USD"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© Morbid: A True Crime Podcast"
-        },
-        "title": {
-          "label": "Morbid - Ash Kelley & Alaina Urquhart"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/us/podcast/morbid/id1379959217?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/us/podcast/morbid/id1379959217?uo=2",
-          "attributes": {
-            "im:id": "1379959217"
-          }
-        },
-        "im:artist": {
-          "label": "Ash Kelley & Alaina Urquhart"
         },
         "category": {
           "attributes": {
@@ -320,9 +243,246 @@
           }
         },
         "im:releaseDate": {
-          "label": "2026-09-28T00:00:00-07:00",
+          "label": "2026-09-29T21:00:00-07:00",
           "attributes": {
-            "label": "September 28, 2026"
+            "label": "September 29, 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "The Joe Rogan Experience"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/99/08/92/990892a2-72fc-d84f-10a8-5dc6eff51fd6/mza_13906283896473041916.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/99/08/92/990892a2-72fc-d84f-10a8-5dc6eff51fd6/mza_13906283896473041916.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/99/08/92/990892a2-72fc-d84f-10a8-5dc6eff51fd6/mza_13906283896473041916.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "The official podcast of comedian Joe Rogan."
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© All rights reserved"
+        },
+        "title": {
+          "label": "The Joe Rogan Experience - Joe Rogan"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/us/podcast/the-joe-rogan-experience/id360084272?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/us/podcast/the-joe-rogan-experience/id360084272?uo=2",
+          "attributes": {
+            "im:id": "360084272"
+          }
+        },
+        "im:artist": {
+          "label": "Joe Rogan",
+          "attributes": {
+            "href": "https://podcasts.apple.com/us/artist/joe-rogan/974891224?uo=2"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1303",
+            "term": "Comedy",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-comedy/id1303?uo=2",
+            "label": "Comedy"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-09-24T10:00:00-07:00",
+          "attributes": {
+            "label": "September 24, 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "Pod Save America"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/44/dc/61/44dc6141-25e9-5bb3-e19e-a2337233d19e/mza_5506771870755587769.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/44/dc/61/44dc6141-25e9-5bb3-e19e-a2337233d19e/mza_5506771870755587769.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/44/dc/61/44dc6141-25e9-5bb3-e19e-a2337233d19e/mza_5506771870755587769.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "Pod Save America is a no-b******t conversation about politics hosted by former Obama aides Jon Favreau, Jon Lovett, Dan Pfeiffer, and Tommy Vietor. It cuts through the noise to break down the week’s news and helps people figure out what matters and how they can help. They’re regularly joined by journalists, activists, politicians, entertainers, and world leaders. You can watch on YouTube or listen to new episodes every Tuesday, Friday and Sunday.\n\n\n\nSubscribe to Friends of the Pod! Your subscription makes Crooked’s work possible and gives you access to ad-free episodes of Pod Save America and Pod Save the World, plus exclusive content and a lively Discord community. Learn more and subscribe at crooked.com/friends or on Apple Podcasts. \n\n\nFor a transcript of an episode of Pod Save America, please email transcripts@crooked.com."
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© Crooked Media. All Rights Reserved."
+        },
+        "title": {
+          "label": "Pod Save America - Pod Save America"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/us/podcast/pod-save-america/id1192761536?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/us/podcast/pod-save-america/id1192761536?uo=2",
+          "attributes": {
+            "im:id": "1192761536"
+          }
+        },
+        "im:artist": {
+          "label": "Pod Save America",
+          "attributes": {
+            "href": "https://podcasts.apple.com/us/artist/crooked-media/1200975667?uo=2"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1527",
+            "term": "Politics",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-news-politics/id1527?uo=2",
+            "label": "Politics"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-09-29T02:55:00-07:00",
+          "attributes": {
+            "label": "September 29, 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "Good Hang with Amy Poehler"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/2b/94/bb/2b94bb6e-44f1-9d57-7748-b7456072806d/mza_1064202164981856225.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/2b/94/bb/2b94bb6e-44f1-9d57-7748-b7456072806d/mza_1064202164981856225.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/2b/94/bb/2b94bb6e-44f1-9d57-7748-b7456072806d/mza_1064202164981856225.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "Come hang with Amy Poehler. Each week on her podcast, she'll welcome celebrities and fun people to her studio. They'll share stories about their careers, mutual friends, shared enthusiasms, and most importantly, what's been making them laugh. This podcast is not about trying to make you better or giving advice. Amy just wants to have a good time."
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© All rights reserved."
+        },
+        "title": {
+          "label": "Good Hang with Amy Poehler - The Ringer"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/us/podcast/good-hang-with-amy-poehler/id1795483480?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/us/podcast/good-hang-with-amy-poehler/id1795483480?uo=2",
+          "attributes": {
+            "im:id": "1795483480"
+          }
+        },
+        "im:artist": {
+          "label": "The Ringer"
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1303",
+            "term": "Comedy",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-comedy/id1303?uo=2",
+            "label": "Comedy"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-09-22T03:00:00-07:00",
+          "attributes": {
+            "label": "September 22, 2026"
           }
         }
       },
@@ -405,86 +565,6 @@
       },
       {
         "im:name": {
-          "label": "The Bill Simmons Podcast"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/7a/98/73/7a987302-599c-9285-c210-fca2c83b9450/mza_1946147658144436679.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/7a/98/73/7a987302-599c-9285-c210-fca2c83b9450/mza_1946147658144436679.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/7a/98/73/7a987302-599c-9285-c210-fca2c83b9450/mza_1946147658144436679.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "HBO and The Ringer's Bill Simmons hosts the most downloaded sports podcast of all time, with a rotating crew of celebrities, athletes, and media staples, as well as mainstays like Cousin Sal, Joe House, and a slew of other friends and family members who always happen to be suspiciously available."
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "USD"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© All rights reserved."
-        },
-        "title": {
-          "label": "The Bill Simmons Podcast - The Ringer"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/us/podcast/the-bill-simmons-podcast/id1043699613?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/us/podcast/the-bill-simmons-podcast/id1043699613?uo=2",
-          "attributes": {
-            "im:id": "1043699613"
-          }
-        },
-        "im:artist": {
-          "label": "The Ringer",
-          "attributes": {
-            "href": "https://podcasts.apple.com/us/artist/the-ringer/1043703531?uo=2"
-          }
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1545",
-            "term": "Sports",
-            "scheme": "https://podcasts.apple.com/us/genre/podcasts-sports/id1545?uo=2",
-            "label": "Sports"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-09-28T00:22:00-07:00",
-          "attributes": {
-            "label": "September 28, 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
           "label": "Up First from NPR"
         },
         "im:image": [
@@ -557,38 +637,38 @@
           }
         },
         "im:releaseDate": {
-          "label": "2026-09-29T02:58:00-07:00",
+          "label": "2026-09-30T03:03:00-07:00",
           "attributes": {
-            "label": "September 29, 2026"
+            "label": "September 30, 2026"
           }
         }
       },
       {
         "im:name": {
-          "label": "Dateline NBC"
+          "label": "Morbid"
         },
         "im:image": [
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/8c/00/7a/8c007a42-e550-0214-d4cb-b59cd7edf194/mza_5305664083935674472.jpeg/55x55bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/78/e9/0e/78e90ee0-567d-1ad8-17a0-17d7c988c4bd/mza_8425901783365617933.jpg/55x55bb.png",
             "attributes": {
               "height": "55"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/8c/00/7a/8c007a42-e550-0214-d4cb-b59cd7edf194/mza_5305664083935674472.jpeg/60x60bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/78/e9/0e/78e90ee0-567d-1ad8-17a0-17d7c988c4bd/mza_8425901783365617933.jpg/60x60bb.png",
             "attributes": {
               "height": "60"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/8c/00/7a/8c007a42-e550-0214-d4cb-b59cd7edf194/mza_5305664083935674472.jpeg/170x170bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/78/e9/0e/78e90ee0-567d-1ad8-17a0-17d7c988c4bd/mza_8425901783365617933.jpg/170x170bb.png",
             "attributes": {
               "height": "170"
             }
           }
         ],
         "summary": {
-          "label": "Current and classic episodes, featuring compelling true-crime mysteries, powerful documentaries and in-depth investigations. \n  \nFollow now to get the latest episodes of Dateline NBC completely free, or subscribe to Dateline Premium for ad-free listening and exclusive bonus content: DatelinePremium.com"
+          "label": "It’s a lighthearted nightmare in here, weirdos! Morbid is a true crime, creepy history and all things spooky podcast hosted by an autopsy technician and a hairstylist. Join us for a heavy dose of research with a dash of comedy thrown in for flavor.\n\nSubscribe to SiriusXM Podcasts+ to listen to new episodes of Morbid ad-free.\n\nStart a free trial now on Apple Podcasts or by visiting siriusxm.com/podcastsplus."
         },
         "im:price": {
           "label": "Get",
@@ -604,29 +684,26 @@
           }
         },
         "rights": {
-          "label": "© 2019 NBC News"
+          "label": "© Morbid: A True Crime Podcast"
         },
         "title": {
-          "label": "Dateline NBC - NBC News"
+          "label": "Morbid - Ash Kelley & Alaina Urquhart"
         },
         "link": {
           "attributes": {
             "rel": "alternate",
             "type": "text/html",
-            "href": "https://podcasts.apple.com/us/podcast/dateline-nbc/id1464919521?uo=2"
+            "href": "https://podcasts.apple.com/us/podcast/morbid/id1379959217?uo=2"
           }
         },
         "id": {
-          "label": "https://podcasts.apple.com/us/podcast/dateline-nbc/id1464919521?uo=2",
+          "label": "https://podcasts.apple.com/us/podcast/morbid/id1379959217?uo=2",
           "attributes": {
-            "im:id": "1464919521"
+            "im:id": "1379959217"
           }
         },
         "im:artist": {
-          "label": "NBC News",
-          "attributes": {
-            "href": "https://podcasts.apple.com/us/artist/nbc-news/119945391?uo=2"
-          }
+          "label": "Ash Kelley & Alaina Urquhart"
         },
         "category": {
           "attributes": {
@@ -637,9 +714,9 @@
           }
         },
         "im:releaseDate": {
-          "label": "2026-09-29T02:00:00-07:00",
+          "label": "2026-09-28T00:00:00-07:00",
           "attributes": {
-            "label": "September 29, 2026"
+            "label": "September 28, 2026"
           }
         }
       },
@@ -799,6 +876,166 @@
       },
       {
         "im:name": {
+          "label": "The Ezra Klein Show"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9d/ca/35/9dca35d8-e7d2-7e4f-63b5-c2ff4973a3f5/mza_16891544429738729361.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9d/ca/35/9dca35d8-e7d2-7e4f-63b5-c2ff4973a3f5/mza_16891544429738729361.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9d/ca/35/9dca35d8-e7d2-7e4f-63b5-c2ff4973a3f5/mza_16891544429738729361.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "Ezra Klein invites you into a conversation on something that matters. How do we address climate change if the political system fails to act? Has the logic of markets infiltrated too many aspects of our lives? What is the future of the Republican Party? What do psychedelics teach us about consciousness? What does sci-fi understand about our present that we miss? Can our food system be just to humans and animals alike?\n\nSubscribe today at nytimes.com/podcasts or on Apple Podcasts, Spotify and Amazon Music. You can also subscribe via your favorite podcast app here https://www.nytimes.com/activate-access/audio?source=podcatcher."
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© 2024 THE NEW YORK TIMES COMPANY; The New York Times encourages the use of RSS feeds for personal use in a news reader or as part of a non-commercial blog, subject to your agreement to our Terms of Service."
+        },
+        "title": {
+          "label": "The Ezra Klein Show - New York Times Opinion"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/us/podcast/the-ezra-klein-show/id1548604447?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/us/podcast/the-ezra-klein-show/id1548604447?uo=2",
+          "attributes": {
+            "im:id": "1548604447"
+          }
+        },
+        "im:artist": {
+          "label": "New York Times Opinion",
+          "attributes": {
+            "href": "https://podcasts.apple.com/us/artist/the-new-york-times/121664449?uo=2"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1324",
+            "term": "Society & Culture",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-society-culture/id1324?uo=2",
+            "label": "Society & Culture"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-09-29T02:00:00-07:00",
+          "attributes": {
+            "label": "September 29, 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "Pardon My Take"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/35/74/6a/35746a0c-7687-7dde-ff04-338d93e78303/mza_10377078556009223546.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/35/74/6a/35746a0c-7687-7dde-ff04-338d93e78303/mza_10377078556009223546.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/35/74/6a/35746a0c-7687-7dde-ff04-338d93e78303/mza_10377078556009223546.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "On \"Pardon My Take,\" Big Cat & PFT Commenter deliver the loudest and most correct sports takes in the history of the spoken word. Daily topics, guests, and an inability to tell what the hosts might be doing will make this your new favorite sports talk show. This is a podcast that will without a doubt change your life for the better- guaranteed, or your money back. *Pretend a reggaeton air horn is going off right now* PMT.\n\n\nYou can find every episode of this show on Apple Podcasts, Spotify or Netflix. Prime Members can listen ad-free on Amazon Music. For more, visit barstool.link/pardon-my-take"
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© 2026 Barstool Sports, Inc."
+        },
+        "title": {
+          "label": "Pardon My Take - Barstool Sports"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/us/podcast/pardon-my-take/id1089022756?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/us/podcast/pardon-my-take/id1089022756?uo=2",
+          "attributes": {
+            "im:id": "1089022756"
+          }
+        },
+        "im:artist": {
+          "label": "Barstool Sports",
+          "attributes": {
+            "href": "https://podcasts.apple.com/us/artist/barstool-sports/1524874689?uo=2"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1547",
+            "term": "Football",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-sports-football/id1547?uo=2",
+            "label": "Football"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-09-30T00:46:00-07:00",
+          "attributes": {
+            "label": "September 30, 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
           "label": "SmartLess"
         },
         "im:image": [
@@ -945,38 +1182,38 @@
           }
         },
         "im:releaseDate": {
-          "label": "2026-09-23T03:00:00-07:00",
+          "label": "2026-09-28T03:00:00-07:00",
           "attributes": {
-            "label": "September 23, 2026"
+            "label": "September 28, 2026"
           }
         }
       },
       {
         "im:name": {
-          "label": "The Joe Rogan Experience"
+          "label": "The Woman in the Woods"
         },
         "im:image": [
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/99/08/92/990892a2-72fc-d84f-10a8-5dc6eff51fd6/mza_13906283896473041916.jpg/55x55bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/7a/a2/63/7aa26315-a471-10d2-eb09-23583f07f0dd/mza_13135717494208594853.jpg/55x55bb.png",
             "attributes": {
               "height": "55"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/99/08/92/990892a2-72fc-d84f-10a8-5dc6eff51fd6/mza_13906283896473041916.jpg/60x60bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/7a/a2/63/7aa26315-a471-10d2-eb09-23583f07f0dd/mza_13135717494208594853.jpg/60x60bb.png",
             "attributes": {
               "height": "60"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/99/08/92/990892a2-72fc-d84f-10a8-5dc6eff51fd6/mza_13906283896473041916.jpg/170x170bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/7a/a2/63/7aa26315-a471-10d2-eb09-23583f07f0dd/mza_13135717494208594853.jpg/170x170bb.png",
             "attributes": {
               "height": "170"
             }
           }
         ],
         "summary": {
-          "label": "The official podcast of comedian Joe Rogan."
+          "label": "Nick and Mindi Kassotis believed they were being hunted. According to friends and family, Nick's classified military work had put them both in danger, so much so that Mindi rarely left the house. But the couple also shared they were expecting a child. Then, just after Thanksgiving, Mindi died suddenly in the hospital. Soon after, Nick died too. That's what everyone who loved them believed, that is until a woman's dismembered remains turned up in a wooded area. Stories started to unravel and a mysterious new figure emerged. \"48 Hours\" correspondent Erin Moriarty separates fact from fiction in a case built upon unimaginable layers of deception."
         },
         "im:price": {
           "label": "Get",
@@ -992,71 +1229,68 @@
           }
         },
         "rights": {
-          "label": "© All rights reserved"
+          "label": "© 2026 CBS Broadcasting Inc. All Rights Reserved."
         },
         "title": {
-          "label": "The Joe Rogan Experience - Joe Rogan"
+          "label": "The Woman in the Woods - 48 Hours"
         },
         "link": {
           "attributes": {
             "rel": "alternate",
             "type": "text/html",
-            "href": "https://podcasts.apple.com/us/podcast/the-joe-rogan-experience/id360084272?uo=2"
+            "href": "https://podcasts.apple.com/us/podcast/the-woman-in-the-woods/id6809864042?uo=2"
           }
         },
         "id": {
-          "label": "https://podcasts.apple.com/us/podcast/the-joe-rogan-experience/id360084272?uo=2",
+          "label": "https://podcasts.apple.com/us/podcast/the-woman-in-the-woods/id6809864042?uo=2",
           "attributes": {
-            "im:id": "360084272"
+            "im:id": "6809864042"
           }
         },
         "im:artist": {
-          "label": "Joe Rogan",
-          "attributes": {
-            "href": "https://podcasts.apple.com/us/artist/joe-rogan/974891224?uo=2"
-          }
+          "label": "48 Hours"
         },
         "category": {
           "attributes": {
-            "im:id": "1303",
-            "term": "Comedy",
-            "scheme": "https://podcasts.apple.com/us/genre/podcasts-comedy/id1303?uo=2",
-            "label": "Comedy"
+            "im:id": "1488",
+            "term": "True Crime",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-true-crime/id1488?uo=2",
+            "label": "True Crime"
           }
         },
         "im:releaseDate": {
-          "label": "2026-09-24T10:00:00-07:00",
+          "label": "2026-10-20T21:00:00-07:00",
           "attributes": {
-            "label": "September 24, 2026"
+            "label": "October 20, 2026"
           }
         }
       },
       {
         "im:name": {
-          "label": "This American Life"
+          "label": "The Shawn Ryan Show"
         },
         "im:image": [
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f2/74/1f/f2741f77-1c20-b058-a845-f261c819fe80/mza_557469201745576820.png/55x55bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/d0/b3/2d/d0b32d7f-ab2d-5791-83b0-854f698a9184/mza_13561258173056659752.jpg/55x55bb.png",
             "attributes": {
               "height": "55"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f2/74/1f/f2741f77-1c20-b058-a845-f261c819fe80/mza_557469201745576820.png/60x60bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/d0/b3/2d/d0b32d7f-ab2d-5791-83b0-854f698a9184/mza_13561258173056659752.jpg/60x60bb.png",
             "attributes": {
               "height": "60"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f2/74/1f/f2741f77-1c20-b058-a845-f261c819fe80/mza_557469201745576820.png/170x170bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/d0/b3/2d/d0b32d7f-ab2d-5791-83b0-854f698a9184/mza_13561258173056659752.jpg/170x170bb.png",
             "attributes": {
               "height": "170"
             }
           }
         ],
         "summary": {
-          "label": "Each week we choose a theme. Then anything can happen. This American Life is true stories that unfold like little movies for radio. Personal stories with funny moments, big feelings, and surprising plot twists. Newsy stories that try to capture what it’s like to be alive right now. It’s the most popular weekly podcast in the world, and winner of the first ever Pulitzer Prize for a radio show or podcast. Hosted by Ira Glass and produced in collaboration with WBEZ Chicago."
+          "label": "The \"Shawn Ryan Show\" is hosted by Shawn Ryan, former U.S. Navy SEAL, CIA Contractor, and Founder of Vigilance Elite. We tell REAL stories about REAL people from all walks of life. We discuss the ups and downs, wins and losses, successes and struggles, the good and bad in a respectful but candid way with our guest. We're better than entertainment, we're the REAL thing. Please enjoy the show."
         },
         "im:price": {
           "label": "Get",
@@ -1072,42 +1306,39 @@
           }
         },
         "rights": {
-          "label": "© Copyright 1995-2026 This American Life"
+          "label": "© 2026 Shawn Ryan Show"
         },
         "title": {
-          "label": "This American Life - This American Life"
+          "label": "The Shawn Ryan Show - Shawn Ryan"
         },
         "link": {
           "attributes": {
             "rel": "alternate",
             "type": "text/html",
-            "href": "https://podcasts.apple.com/us/podcast/this-american-life/id201671138?uo=2"
+            "href": "https://podcasts.apple.com/us/podcast/the-shawn-ryan-show/id1492492083?uo=2"
           }
         },
         "id": {
-          "label": "https://podcasts.apple.com/us/podcast/this-american-life/id201671138?uo=2",
+          "label": "https://podcasts.apple.com/us/podcast/the-shawn-ryan-show/id1492492083?uo=2",
           "attributes": {
-            "im:id": "201671138"
+            "im:id": "1492492083"
           }
         },
         "im:artist": {
-          "label": "This American Life",
-          "attributes": {
-            "href": "https://podcasts.apple.com/us/artist/wbez/364380278?uo=2"
-          }
+          "label": "Shawn Ryan"
         },
         "category": {
           "attributes": {
-            "im:id": "1324",
-            "term": "Society & Culture",
-            "scheme": "https://podcasts.apple.com/us/genre/podcasts-society-culture/id1324?uo=2",
-            "label": "Society & Culture"
+            "im:id": "1443",
+            "term": "Philosophy",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-society-culture-philosophy/id1443?uo=2",
+            "label": "Philosophy"
           }
         },
         "im:releaseDate": {
-          "label": "2026-09-25T18:30:00-07:00",
+          "label": "2026-09-28T03:00:00-07:00",
           "attributes": {
-            "label": "September 25, 2026"
+            "label": "September 28, 2026"
           }
         }
       },
@@ -1190,240 +1421,6 @@
       },
       {
         "im:name": {
-          "label": "Passion Struck with John R. Miles"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e8/d7/ca/e8d7ca5c-35fa-6e90-42ec-09e168d110cc/mza_400047353205660386.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e8/d7/ca/e8d7ca5c-35fa-6e90-42ec-09e168d110cc/mza_400047353205660386.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e8/d7/ca/e8d7ca5c-35fa-6e90-42ec-09e168d110cc/mza_400047353205660386.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "You built the life you were supposed to want. So why doesn't it feel like enough? Passion Struck is the #1 Health and Fitness podcast — and it exists to answer exactly that question. I'm John R. Miles — Navy veteran, former Fortune 50 executive, bestselling author — and I built this show because I lived the \"successful but empty\" version of life myself, and I wanted to find a better way. Each week, I sit down with the world's top voices in neuroscience, psychology, medicine, and elite performance — including Angela Duckworth, Susan Cain, Robert Waldinger, Daniel Amen, and Ryan Holiday — to unpack what the research tells us about purpose, connection, and resilience, and how to apply it to your own life. Fridays, I share what I'm learning directly, in solo episodes built around the same ideas. New interviews every Tuesday and Thursday. Solo episodes every Friday."
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "USD"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© Copyright 2020-2026 John R. Miles"
-        },
-        "title": {
-          "label": "Passion Struck with John R. Miles - Passion Struck with John R. Miles"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/us/podcast/passion-struck-with-john-r-miles/id1553279283?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/us/podcast/passion-struck-with-john-r-miles/id1553279283?uo=2",
-          "attributes": {
-            "im:id": "1553279283"
-          }
-        },
-        "im:artist": {
-          "label": "Passion Struck with John R. Miles"
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1513",
-            "term": "Alternative Health",
-            "scheme": "https://podcasts.apple.com/us/genre/podcasts-health-fitness-alternative-health/id1513?uo=2",
-            "label": "Alternative Health"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-09-28T21:00:00-07:00",
-          "attributes": {
-            "label": "September 28, 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "Unblinded with Sean Callagy"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fe/73/39/fe733903-aac9-857a-7e0d-97da75f26739/mza_7400622169884755798.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fe/73/39/fe733903-aac9-857a-7e0d-97da75f26739/mza_7400622169884755798.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fe/73/39/fe733903-aac9-857a-7e0d-97da75f26739/mza_7400622169884755798.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "What if you could see what others don’t—and unlock the hidden patterns that quietly drive every outcome in business, relationships, and life?\n\nHosted by entrepreneur, attorney, philanthropist, and world-class communicator Sean Callagy, Unblinded is where peak performance meets integrity and possibility. Sean—legally blind since childhood—defied the odds to build multiple eight-figure companies, reinvent industries, and train thousands of leaders in the art of influence. His message is clear: influence is not manipulation, it’s mastery—and when harnessed for good, it transforms everything."
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "USD"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© Sean Callagy"
-        },
-        "title": {
-          "label": "Unblinded with Sean Callagy - Sean Callagy"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/us/podcast/unblinded-with-sean-callagy/id1844970260?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/us/podcast/unblinded-with-sean-callagy/id1844970260?uo=2",
-          "attributes": {
-            "im:id": "1844970260"
-          }
-        },
-        "im:artist": {
-          "label": "Sean Callagy"
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1321",
-            "term": "Business",
-            "scheme": "https://podcasts.apple.com/us/genre/podcasts-business/id1321?uo=2",
-            "label": "Business"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-09-10T09:11:00-07:00",
-          "attributes": {
-            "label": "September 10, 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "The Rest Is History"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/bf/89/a5/bf89a586-3f77-bf37-7ba3-b75f1bca7bfa/mza_1664785978944494824.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/bf/89/a5/bf89a586-3f77-bf37-7ba3-b75f1bca7bfa/mza_1664785978944494824.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/bf/89/a5/bf89a586-3f77-bf37-7ba3-b75f1bca7bfa/mza_1664785978944494824.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "Take a deep dive into History’s biggest moments with Tom Holland & Dominic Sandbrook.\n\n\n\nExplore the stories of History’s most brutal rulers, deadly battles, and world-changing events. From the rise and fall of the Roman Empire, the Nazi conquest of Europe, and Hitler’s evil master plan for world domination, to the French Revolution, the sinking of the Titanic, or the Norman Conquest of England in 1066, Tom and Dominic bring the past to life with gripping storytelling and expert analysis, as they unpack the high-drama moments that shaped our world.\n\n\n\nJoin The Rest Is History Club: Unlock the full experience of the show – with exclusive bonus episodes, ad-free listening, early access to every series and live show tickets, a members-only newsletter, discounted books from the show, and access to our private Discord chatroom. Sign up directly at therestishistory.com. \n\n\n\nFor more Goalhanger Podcasts, head to www.goalhanger.com."
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "USD"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© Goalhanger"
-        },
-        "title": {
-          "label": "The Rest Is History - Goalhanger"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/us/podcast/the-rest-is-history/id1537788786?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/us/podcast/the-rest-is-history/id1537788786?uo=2",
-          "attributes": {
-            "im:id": "1537788786"
-          }
-        },
-        "im:artist": {
-          "label": "Goalhanger",
-          "attributes": {
-            "href": "https://podcasts.apple.com/us/artist/goalhanger-films/1561421475?uo=2"
-          }
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1487",
-            "term": "History",
-            "scheme": "https://podcasts.apple.com/us/genre/podcasts-history/id1487?uo=2",
-            "label": "History"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-10-07T16:00:00-07:00",
-          "attributes": {
-            "label": "October 7, 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
           "label": "Tomorrow, Today"
         },
         "im:image": [
@@ -1493,38 +1490,38 @@
           }
         },
         "im:releaseDate": {
-          "label": "2026-09-15T08:30:00-07:00",
+          "label": "2026-09-22T08:30:00-07:00",
           "attributes": {
-            "label": "September 15, 2026"
+            "label": "September 22, 2026"
           }
         }
       },
       {
         "im:name": {
-          "label": "20/20"
+          "label": "Notes from the Edge"
         },
         "im:image": [
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/81/6c/5d/816c5d57-7c3f-3df9-1557-08e17469dfe4/mza_1433648970787567135.jpg/55x55bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0d/05/8b/0d058b4b-e722-7328-aba0-eb3a69848b7c/mza_13626234271195180876.jpeg/55x55bb.png",
             "attributes": {
               "height": "55"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/81/6c/5d/816c5d57-7c3f-3df9-1557-08e17469dfe4/mza_1433648970787567135.jpg/60x60bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0d/05/8b/0d058b4b-e722-7328-aba0-eb3a69848b7c/mza_13626234271195180876.jpeg/60x60bb.png",
             "attributes": {
               "height": "60"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/81/6c/5d/816c5d57-7c3f-3df9-1557-08e17469dfe4/mza_1433648970787567135.jpg/170x170bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0d/05/8b/0d058b4b-e722-7328-aba0-eb3a69848b7c/mza_13626234271195180876.jpeg/170x170bb.png",
             "attributes": {
               "height": "170"
             }
           }
         ],
         "summary": {
-          "label": "Unforgettable true crime mysteries, exclusive newsmaker interviews, hard-hitting investigative reports and in-depth coverage of high profile stories. Now listen throughout the week with the official 20/20 After Show, the True Crime Vault, and our spotlight of true crime originals.\n\nSubscribe to 20/20 True Crime+ for ad-free listening, early access to new series, exclusive bonus content, and hundreds of episodes from the 20/20 true crime vault. Visit apple.co/2020truecrime to subscribe now.  Terms apply."
+          "label": "Notes From the Edge is where polished stories end and the truth begins. Hosted by writer, trauma educator, executive advisor, and author Lisa Lacy, this globally ranked podcast explores survival, identity, trauma, addiction, recovery, leadership, relationships, and reinvention through raw, deeply human conversations. No scripts. No small talk. Just the stories we were taught to hide, the roles we performed to survive, and the truths that set us free. What did you perform in order to survive? Welcome to the edge. www.lisalacy.com"
         },
         "im:price": {
           "label": "Get",
@@ -1540,117 +1537,37 @@
           }
         },
         "rights": {
-          "label": "© Copyright 2026, ABC Audio. All rights reserved."
+          "label": "© Lisa Lacy"
         },
         "title": {
-          "label": "20/20 - ABC News"
+          "label": "Notes from the Edge - Gamut Podcast Network"
         },
         "link": {
           "attributes": {
             "rel": "alternate",
             "type": "text/html",
-            "href": "https://podcasts.apple.com/us/podcast/20-20/id987967575?uo=2"
+            "href": "https://podcasts.apple.com/us/podcast/notes-from-the-edge/id1896943121?uo=2"
           }
         },
         "id": {
-          "label": "https://podcasts.apple.com/us/podcast/20-20/id987967575?uo=2",
+          "label": "https://podcasts.apple.com/us/podcast/notes-from-the-edge/id1896943121?uo=2",
           "attributes": {
-            "im:id": "987967575"
+            "im:id": "1896943121"
           }
         },
         "im:artist": {
-          "label": "ABC News",
-          "attributes": {
-            "href": "https://podcasts.apple.com/us/artist/abc-news/119945519?uo=2"
-          }
+          "label": "Gamut Podcast Network"
         },
         "category": {
           "attributes": {
-            "im:id": "1488",
-            "term": "True Crime",
-            "scheme": "https://podcasts.apple.com/us/genre/podcasts-true-crime/id1488?uo=2",
-            "label": "True Crime"
+            "im:id": "1302",
+            "term": "Personal Journals",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-society-culture-personal-journals/id1302?uo=2",
+            "label": "Personal Journals"
           }
         },
         "im:releaseDate": {
-          "label": "2026-11-03T21:00:00-07:00",
-          "attributes": {
-            "label": "November 3, 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "Young and Profiting (YAP) with Hala Taha: Entrepreneurship and Self-Improvement Podcast"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/80/c1/bd/80c1bd2c-eac4-bdb6-f8cb-ac980b4ad473/mza_16051863235006465622.jpeg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/80/c1/bd/80c1bd2c-eac4-bdb6-f8cb-ac980b4ad473/mza_16051863235006465622.jpeg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/80/c1/bd/80c1bd2c-eac4-bdb6-f8cb-ac980b4ad473/mza_16051863235006465622.jpeg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "YAP is the must-listen podcast for driven entrepreneurs and high achievers who are hardcore about business, personal growth, and achieving their potential. Hosted by Hala Taha, self-made entrepreneur and CEO of YAP Media, this #1 entrepreneurship podcast features mini-masterclasses with business icons and industry legends like GaryVee, Alex Hormozi, Mel Robbins, Reid Hoffman, Kevin O’Leary, and Codie Sanchez who help you profit in all aspects of life—from boosting sales and beating algorithms to biohacking and productivity. Whether you’re launching a startup, scaling your business, running a side hustle, or upgrading your mindset, every YAP episode delivers actionable advice that WILL help you profit. Listen, Learn, and Profit with the Young and Profiting (YAP) podcast!\n\n\n\nFor ad inquiries, please reach out to: Network+YAP@yapmedia.com"
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "USD"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© Copyright 2022. All rights reserved."
-        },
-        "title": {
-          "label": "Young and Profiting (YAP) with Hala Taha: Entrepreneurship and Self-Improvement Podcast - Hala Taha | Entrepreneurship, Sales, Marketing | YAP Media Network"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/us/podcast/young-and-profiting-yap-with-hala-taha/id1368888880?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/us/podcast/young-and-profiting-yap-with-hala-taha/id1368888880?uo=2",
-          "attributes": {
-            "im:id": "1368888880"
-          }
-        },
-        "im:artist": {
-          "label": "Hala Taha | Entrepreneurship, Sales, Marketing | YAP Media Network"
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1493",
-            "term": "Entrepreneurship",
-            "scheme": "https://podcasts.apple.com/us/genre/podcasts-business-entrepreneurship/id1493?uo=2",
-            "label": "Entrepreneurship"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-09-28T01:00:00-07:00",
+          "label": "2026-09-28T02:30:00-07:00",
           "attributes": {
             "label": "September 28, 2026"
           }
@@ -1735,30 +1652,30 @@
       },
       {
         "im:name": {
-          "label": "The Shawn Ryan Show"
+          "label": "Unblinded with Sean Callagy"
         },
         "im:image": [
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/d0/b3/2d/d0b32d7f-ab2d-5791-83b0-854f698a9184/mza_13561258173056659752.jpg/55x55bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fe/73/39/fe733903-aac9-857a-7e0d-97da75f26739/mza_7400622169884755798.jpg/55x55bb.png",
             "attributes": {
               "height": "55"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/d0/b3/2d/d0b32d7f-ab2d-5791-83b0-854f698a9184/mza_13561258173056659752.jpg/60x60bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fe/73/39/fe733903-aac9-857a-7e0d-97da75f26739/mza_7400622169884755798.jpg/60x60bb.png",
             "attributes": {
               "height": "60"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/d0/b3/2d/d0b32d7f-ab2d-5791-83b0-854f698a9184/mza_13561258173056659752.jpg/170x170bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fe/73/39/fe733903-aac9-857a-7e0d-97da75f26739/mza_7400622169884755798.jpg/170x170bb.png",
             "attributes": {
               "height": "170"
             }
           }
         ],
         "summary": {
-          "label": "The \"Shawn Ryan Show\" is hosted by Shawn Ryan, former U.S. Navy SEAL, CIA Contractor, and Founder of Vigilance Elite. We tell REAL stories about REAL people from all walks of life. We discuss the ups and downs, wins and losses, successes and struggles, the good and bad in a respectful but candid way with our guest. We're better than entertainment, we're the REAL thing. Please enjoy the show."
+          "label": "What if you could see what others don’t—and unlock the hidden patterns that quietly drive every outcome in business, relationships, and life?\n\nHosted by entrepreneur, attorney, philanthropist, and world-class communicator Sean Callagy, Unblinded is where peak performance meets integrity and possibility. Sean—legally blind since childhood—defied the odds to build multiple eight-figure companies, reinvent industries, and train thousands of leaders in the art of influence. His message is clear: influence is not manipulation, it’s mastery—and when harnessed for good, it transforms everything."
         },
         "im:price": {
           "label": "Get",
@@ -1774,202 +1691,279 @@
           }
         },
         "rights": {
-          "label": "© 2026 Shawn Ryan Show"
+          "label": "© Sean Callagy"
         },
         "title": {
-          "label": "The Shawn Ryan Show - Shawn Ryan"
+          "label": "Unblinded with Sean Callagy - Sean Callagy"
         },
         "link": {
           "attributes": {
             "rel": "alternate",
             "type": "text/html",
-            "href": "https://podcasts.apple.com/us/podcast/the-shawn-ryan-show/id1492492083?uo=2"
+            "href": "https://podcasts.apple.com/us/podcast/unblinded-with-sean-callagy/id1844970260?uo=2"
           }
         },
         "id": {
-          "label": "https://podcasts.apple.com/us/podcast/the-shawn-ryan-show/id1492492083?uo=2",
+          "label": "https://podcasts.apple.com/us/podcast/unblinded-with-sean-callagy/id1844970260?uo=2",
           "attributes": {
-            "im:id": "1492492083"
+            "im:id": "1844970260"
           }
         },
         "im:artist": {
-          "label": "Shawn Ryan"
+          "label": "Sean Callagy"
         },
         "category": {
           "attributes": {
-            "im:id": "1443",
-            "term": "Philosophy",
-            "scheme": "https://podcasts.apple.com/us/genre/podcasts-society-culture-philosophy/id1443?uo=2",
-            "label": "Philosophy"
+            "im:id": "1321",
+            "term": "Business",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-business/id1321?uo=2",
+            "label": "Business"
           }
         },
         "im:releaseDate": {
-          "label": "2026-09-28T03:00:00-07:00",
-          "attributes": {
-            "label": "September 28, 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "Notes from the Edge"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0d/05/8b/0d058b4b-e722-7328-aba0-eb3a69848b7c/mza_13626234271195180876.jpeg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0d/05/8b/0d058b4b-e722-7328-aba0-eb3a69848b7c/mza_13626234271195180876.jpeg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0d/05/8b/0d058b4b-e722-7328-aba0-eb3a69848b7c/mza_13626234271195180876.jpeg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "Notes From the Edge is where polished stories end and the truth begins. Hosted by writer, trauma educator, executive advisor, and author Lisa Lacy, this globally ranked podcast explores survival, identity, trauma, addiction, recovery, leadership, relationships, and reinvention through raw, deeply human conversations. No scripts. No small talk. Just the stories we were taught to hide, the roles we performed to survive, and the truths that set us free. What did you perform in order to survive? Welcome to the edge. www.lisalacy.com"
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "USD"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© Lisa Lacy"
-        },
-        "title": {
-          "label": "Notes from the Edge - Gamut Podcast Network"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/us/podcast/notes-from-the-edge/id1896943121?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/us/podcast/notes-from-the-edge/id1896943121?uo=2",
-          "attributes": {
-            "im:id": "1896943121"
-          }
-        },
-        "im:artist": {
-          "label": "Gamut Podcast Network"
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1302",
-            "term": "Personal Journals",
-            "scheme": "https://podcasts.apple.com/us/genre/podcasts-society-culture-personal-journals/id1302?uo=2",
-            "label": "Personal Journals"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-09-28T02:30:00-07:00",
-          "attributes": {
-            "label": "September 28, 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "Pod Save America"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/44/dc/61/44dc6141-25e9-5bb3-e19e-a2337233d19e/mza_5506771870755587769.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/44/dc/61/44dc6141-25e9-5bb3-e19e-a2337233d19e/mza_5506771870755587769.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/44/dc/61/44dc6141-25e9-5bb3-e19e-a2337233d19e/mza_5506771870755587769.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "Pod Save America is a no-b******t conversation about politics hosted by former Obama aides Jon Favreau, Jon Lovett, Dan Pfeiffer, and Tommy Vietor. It cuts through the noise to break down the week’s news and helps people figure out what matters and how they can help. They’re regularly joined by journalists, activists, politicians, entertainers, and world leaders. You can watch on YouTube or listen to new episodes every Tuesday, Friday and Sunday.\n\n\n\nSubscribe to Friends of the Pod! Your subscription makes Crooked’s work possible and gives you access to ad-free episodes of Pod Save America and Pod Save the World, plus exclusive content and a lively Discord community. Learn more and subscribe at crooked.com/friends or on Apple Podcasts. \n\n\nFor a transcript of an episode of Pod Save America, please email transcripts@crooked.com."
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "USD"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© Crooked Media. All Rights Reserved."
-        },
-        "title": {
-          "label": "Pod Save America - Pod Save America"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/us/podcast/pod-save-america/id1192761536?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/us/podcast/pod-save-america/id1192761536?uo=2",
-          "attributes": {
-            "im:id": "1192761536"
-          }
-        },
-        "im:artist": {
-          "label": "Pod Save America",
-          "attributes": {
-            "href": "https://podcasts.apple.com/us/artist/crooked-media/1200975667?uo=2"
-          }
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1527",
-            "term": "Politics",
-            "scheme": "https://podcasts.apple.com/us/genre/podcasts-news-politics/id1527?uo=2",
-            "label": "Politics"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-09-29T02:55:00-07:00",
+          "label": "2026-09-29T09:04:00-07:00",
           "attributes": {
             "label": "September 29, 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "Passion Struck with John R. Miles"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e8/d7/ca/e8d7ca5c-35fa-6e90-42ec-09e168d110cc/mza_400047353205660386.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e8/d7/ca/e8d7ca5c-35fa-6e90-42ec-09e168d110cc/mza_400047353205660386.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e8/d7/ca/e8d7ca5c-35fa-6e90-42ec-09e168d110cc/mza_400047353205660386.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "You built the life you were supposed to want. So why doesn't it feel like enough? Passion Struck is the #1 Health and Fitness podcast — and it exists to answer exactly that question. I'm John R. Miles — Navy veteran, former Fortune 50 executive, bestselling author — and I built this show because I lived the \"successful but empty\" version of life myself, and I wanted to find a better way. Each week, I sit down with the world's top voices in neuroscience, psychology, medicine, and elite performance — including Angela Duckworth, Susan Cain, Robert Waldinger, Daniel Amen, and Ryan Holiday — to unpack what the research tells us about purpose, connection, and resilience, and how to apply it to your own life. Fridays, I share what I'm learning directly, in solo episodes built around the same ideas. New interviews every Tuesday and Thursday. Solo episodes every Friday."
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© Copyright 2020-2026 John R. Miles"
+        },
+        "title": {
+          "label": "Passion Struck with John R. Miles - Passion Struck with John R. Miles"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/us/podcast/passion-struck-with-john-r-miles/id1553279283?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/us/podcast/passion-struck-with-john-r-miles/id1553279283?uo=2",
+          "attributes": {
+            "im:id": "1553279283"
+          }
+        },
+        "im:artist": {
+          "label": "Passion Struck with John R. Miles"
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1513",
+            "term": "Alternative Health",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-health-fitness-alternative-health/id1513?uo=2",
+            "label": "Alternative Health"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-09-28T21:00:00-07:00",
+          "attributes": {
+            "label": "September 28, 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "Young and Profiting (YAP) with Hala Taha: Entrepreneurship and Self-Improvement Podcast"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/80/c1/bd/80c1bd2c-eac4-bdb6-f8cb-ac980b4ad473/mza_16051863235006465622.jpeg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/80/c1/bd/80c1bd2c-eac4-bdb6-f8cb-ac980b4ad473/mza_16051863235006465622.jpeg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/80/c1/bd/80c1bd2c-eac4-bdb6-f8cb-ac980b4ad473/mza_16051863235006465622.jpeg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "YAP is the must-listen podcast for driven entrepreneurs and high achievers who are hardcore about business, personal growth, and achieving their potential. Hosted by Hala Taha, self-made entrepreneur and CEO of YAP Media, this #1 entrepreneurship podcast features mini-masterclasses with business icons and industry legends like GaryVee, Alex Hormozi, Mel Robbins, Reid Hoffman, Kevin O’Leary, and Codie Sanchez who help you profit in all aspects of life—from boosting sales and beating algorithms to biohacking and productivity. Whether you’re launching a startup, scaling your business, running a side hustle, or upgrading your mindset, every YAP episode delivers actionable advice that WILL help you profit. Listen, Learn, and Profit with the Young and Profiting (YAP) podcast!\n\n\n\nFor ad inquiries, please reach out to: Network+YAP@yapmedia.com"
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© Copyright 2022. All rights reserved."
+        },
+        "title": {
+          "label": "Young and Profiting (YAP) with Hala Taha: Entrepreneurship and Self-Improvement Podcast - Hala Taha | Entrepreneurship, Sales, Marketing | YAP Media Network"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/us/podcast/young-and-profiting-yap-with-hala-taha/id1368888880?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/us/podcast/young-and-profiting-yap-with-hala-taha/id1368888880?uo=2",
+          "attributes": {
+            "im:id": "1368888880"
+          }
+        },
+        "im:artist": {
+          "label": "Hala Taha | Entrepreneurship, Sales, Marketing | YAP Media Network"
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1493",
+            "term": "Entrepreneurship",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-business-entrepreneurship/id1493?uo=2",
+            "label": "Entrepreneurship"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-09-30T01:00:00-07:00",
+          "attributes": {
+            "label": "September 30, 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "20/20"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/81/6c/5d/816c5d57-7c3f-3df9-1557-08e17469dfe4/mza_1433648970787567135.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/81/6c/5d/816c5d57-7c3f-3df9-1557-08e17469dfe4/mza_1433648970787567135.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/81/6c/5d/816c5d57-7c3f-3df9-1557-08e17469dfe4/mza_1433648970787567135.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "Unforgettable true crime mysteries, exclusive newsmaker interviews, hard-hitting investigative reports and in-depth coverage of high profile stories. Now listen throughout the week with the official 20/20 After Show, the True Crime Vault, and our spotlight of true crime originals.\n\nSubscribe to 20/20 True Crime+ for ad-free listening, early access to new series, exclusive bonus content, and hundreds of episodes from the 20/20 true crime vault. Visit apple.co/2020truecrime to subscribe now.  Terms apply."
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© Copyright 2026, ABC Audio. All rights reserved."
+        },
+        "title": {
+          "label": "20/20 - ABC News"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/us/podcast/20-20/id987967575?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/us/podcast/20-20/id987967575?uo=2",
+          "attributes": {
+            "im:id": "987967575"
+          }
+        },
+        "im:artist": {
+          "label": "ABC News",
+          "attributes": {
+            "href": "https://podcasts.apple.com/us/artist/abc-news/119945519?uo=2"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1488",
+            "term": "True Crime",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-true-crime/id1488?uo=2",
+            "label": "True Crime"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-11-03T21:00:00-07:00",
+          "attributes": {
+            "label": "November 3, 2026"
           }
         }
       }
     ],
     "updated": {
-      "label": "2026-09-29T05:35:45-07:00"
+      "label": "2026-09-30T05:20:41-07:00"
     },
     "rights": {
       "label": "Copyright 2008 Apple Inc."
