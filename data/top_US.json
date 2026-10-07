@@ -83,9 +83,9 @@
           }
         },
         "im:releaseDate": {
-          "label": "2026-10-06T02:46:00-07:00",
+          "label": "2026-10-07T02:45:00-07:00",
           "attributes": {
-            "label": "October 6, 2026"
+            "label": "October 7, 2026"
           }
         }
       },
@@ -171,6 +171,163 @@
       },
       {
         "im:name": {
+          "label": "Dateline NBC"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/8c/00/7a/8c007a42-e550-0214-d4cb-b59cd7edf194/mza_5305664083935674472.jpeg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/8c/00/7a/8c007a42-e550-0214-d4cb-b59cd7edf194/mza_5305664083935674472.jpeg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/8c/00/7a/8c007a42-e550-0214-d4cb-b59cd7edf194/mza_5305664083935674472.jpeg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "Current and classic episodes, featuring compelling true-crime mysteries, powerful documentaries and in-depth investigations. \n  \nFollow now to get the latest episodes of Dateline NBC completely free, or subscribe to Dateline Premium for ad-free listening and exclusive bonus content: DatelinePremium.com"
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© 2019 NBC News"
+        },
+        "title": {
+          "label": "Dateline NBC - NBC News"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/us/podcast/dateline-nbc/id1464919521?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/us/podcast/dateline-nbc/id1464919521?uo=2",
+          "attributes": {
+            "im:id": "1464919521"
+          }
+        },
+        "im:artist": {
+          "label": "NBC News",
+          "attributes": {
+            "href": "https://podcasts.apple.com/us/artist/nbc-news/119945391?uo=2"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1488",
+            "term": "True Crime",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-true-crime/id1488?uo=2",
+            "label": "True Crime"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-10-07T02:00:00-07:00",
+          "attributes": {
+            "label": "October 7, 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "Good Hang with Amy Poehler"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/2b/94/bb/2b94bb6e-44f1-9d57-7748-b7456072806d/mza_1064202164981856225.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/2b/94/bb/2b94bb6e-44f1-9d57-7748-b7456072806d/mza_1064202164981856225.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/2b/94/bb/2b94bb6e-44f1-9d57-7748-b7456072806d/mza_1064202164981856225.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "Come hang with Amy Poehler. Each week on her podcast, she'll welcome celebrities and fun people to her studio. They'll share stories about their careers, mutual friends, shared enthusiasms, and most importantly, what's been making them laugh. This podcast is not about trying to make you better or giving advice. Amy just wants to have a good time."
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© All rights reserved."
+        },
+        "title": {
+          "label": "Good Hang with Amy Poehler - The Ringer"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/us/podcast/good-hang-with-amy-poehler/id1795483480?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/us/podcast/good-hang-with-amy-poehler/id1795483480?uo=2",
+          "attributes": {
+            "im:id": "1795483480"
+          }
+        },
+        "im:artist": {
+          "label": "The Ringer"
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1303",
+            "term": "Comedy",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-comedy/id1303?uo=2",
+            "label": "Comedy"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-10-06T03:00:00-07:00",
+          "attributes": {
+            "label": "October 6, 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
           "label": "Reaching Out"
         },
         "im:image": [
@@ -248,394 +405,6 @@
       },
       {
         "im:name": {
-          "label": "Unblinded with Sean Callagy"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fe/73/39/fe733903-aac9-857a-7e0d-97da75f26739/mza_7400622169884755798.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fe/73/39/fe733903-aac9-857a-7e0d-97da75f26739/mza_7400622169884755798.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fe/73/39/fe733903-aac9-857a-7e0d-97da75f26739/mza_7400622169884755798.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "What if you could see what others don’t—and unlock the hidden patterns that quietly drive every outcome in business, relationships, and life?\n\nHosted by entrepreneur, attorney, philanthropist, and world-class communicator Sean Callagy, Unblinded is where peak performance meets integrity and possibility. Sean—legally blind since childhood—defied the odds to build multiple eight-figure companies, reinvent industries, and train thousands of leaders in the art of influence. His message is clear: influence is not manipulation, it’s mastery—and when harnessed for good, it transforms everything."
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "USD"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© Sean Callagy"
-        },
-        "title": {
-          "label": "Unblinded with Sean Callagy - Sean Callagy"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/us/podcast/unblinded-with-sean-callagy/id1844970260?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/us/podcast/unblinded-with-sean-callagy/id1844970260?uo=2",
-          "attributes": {
-            "im:id": "1844970260"
-          }
-        },
-        "im:artist": {
-          "label": "Sean Callagy"
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1321",
-            "term": "Business",
-            "scheme": "https://podcasts.apple.com/us/genre/podcasts-business/id1321?uo=2",
-            "label": "Business"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-09-29T09:04:00-07:00",
-          "attributes": {
-            "label": "September 29, 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "Proven Podcast"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/79/33/d2/7933d22b-9392-7d2c-714f-9a4c624003e5/mza_1012289391812617337.png/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/79/33/d2/7933d22b-9392-7d2c-714f-9a4c624003e5/mza_1012289391812617337.png/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/79/33/d2/7933d22b-9392-7d2c-714f-9a4c624003e5/mza_1012289391812617337.png/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "Welcome to the Proven Podcast, where it does not matter what you think, only what you can prove."
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "USD"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© 2024"
-        },
-        "title": {
-          "label": "Proven Podcast - Charles Schwartz"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/us/podcast/proven-podcast/id1744386875?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/us/podcast/proven-podcast/id1744386875?uo=2",
-          "attributes": {
-            "im:id": "1744386875"
-          }
-        },
-        "im:artist": {
-          "label": "Charles Schwartz"
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1493",
-            "term": "Entrepreneurship",
-            "scheme": "https://podcasts.apple.com/us/genre/podcasts-business-entrepreneurship/id1493?uo=2",
-            "label": "Entrepreneurship"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-07-01T02:34:00-07:00",
-          "attributes": {
-            "label": "July 1, 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "Young and Profiting (YAP) with Hala Taha: Entrepreneurship and Self-Improvement Podcast"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/80/c1/bd/80c1bd2c-eac4-bdb6-f8cb-ac980b4ad473/mza_16051863235006465622.jpeg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/80/c1/bd/80c1bd2c-eac4-bdb6-f8cb-ac980b4ad473/mza_16051863235006465622.jpeg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/80/c1/bd/80c1bd2c-eac4-bdb6-f8cb-ac980b4ad473/mza_16051863235006465622.jpeg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "YAP is the must-listen podcast for driven entrepreneurs and high achievers who are hardcore about business, personal growth, and achieving their potential. Hosted by Hala Taha, self-made entrepreneur and CEO of YAP Media, this #1 entrepreneurship podcast features mini-masterclasses with business icons and industry legends like GaryVee, Alex Hormozi, Mel Robbins, Reid Hoffman, Kevin O’Leary, and Codie Sanchez who help you profit in all aspects of life—from boosting sales and beating algorithms to biohacking and productivity. Whether you’re launching a startup, scaling your business, running a side hustle, or upgrading your mindset, every YAP episode delivers actionable advice that WILL help you profit. Listen, Learn, and Profit with the Young and Profiting (YAP) podcast!\n\n\n\nFor ad inquiries, please reach out to: Network+YAP@yapmedia.com"
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "USD"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© Copyright 2022. All rights reserved."
-        },
-        "title": {
-          "label": "Young and Profiting (YAP) with Hala Taha: Entrepreneurship and Self-Improvement Podcast - Hala Taha | Entrepreneurship, Sales, Marketing | YAP Media Network"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/us/podcast/young-and-profiting-yap-with-hala-taha/id1368888880?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/us/podcast/young-and-profiting-yap-with-hala-taha/id1368888880?uo=2",
-          "attributes": {
-            "im:id": "1368888880"
-          }
-        },
-        "im:artist": {
-          "label": "Hala Taha | Entrepreneurship, Sales, Marketing | YAP Media Network"
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1493",
-            "term": "Entrepreneurship",
-            "scheme": "https://podcasts.apple.com/us/genre/podcasts-business-entrepreneurship/id1493?uo=2",
-            "label": "Entrepreneurship"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-10-05T01:00:00-07:00",
-          "attributes": {
-            "label": "October 5, 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "Habits and Hustle"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ba/d2/09/bad209e9-7b0d-66b8-14fe-207a69d9397b/mza_12651442554869510823.jpeg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ba/d2/09/bad209e9-7b0d-66b8-14fe-207a69d9397b/mza_12651442554869510823.jpeg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ba/d2/09/bad209e9-7b0d-66b8-14fe-207a69d9397b/mza_12651442554869510823.jpeg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "Habits and Hustle helps share the stories, habits, and rituals of people's journeys on living fulfilled lives. Host Jennifer Cohen interviews thought leaders, entrepreneurs, and overall extraordinary people who share their insight and open up about the normally hidden aspects that have made a difference in their success."
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "USD"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© 2026"
-        },
-        "title": {
-          "label": "Habits and Hustle - Jen Cohen"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/us/podcast/habits-and-hustle/id1451897026?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/us/podcast/habits-and-hustle/id1451897026?uo=2",
-          "attributes": {
-            "im:id": "1451897026"
-          }
-        },
-        "im:artist": {
-          "label": "Jen Cohen"
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1493",
-            "term": "Entrepreneurship",
-            "scheme": "https://podcasts.apple.com/us/genre/podcasts-business-entrepreneurship/id1493?uo=2",
-            "label": "Entrepreneurship"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-10-06T01:00:00-07:00",
-          "attributes": {
-            "label": "October 6, 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "Pardon My Take"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/35/74/6a/35746a0c-7687-7dde-ff04-338d93e78303/mza_10377078556009223546.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/35/74/6a/35746a0c-7687-7dde-ff04-338d93e78303/mza_10377078556009223546.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/35/74/6a/35746a0c-7687-7dde-ff04-338d93e78303/mza_10377078556009223546.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "On \"Pardon My Take,\" Big Cat & PFT Commenter deliver the loudest and most correct sports takes in the history of the spoken word. Daily topics, guests, and an inability to tell what the hosts might be doing will make this your new favorite sports talk show. This is a podcast that will without a doubt change your life for the better- guaranteed, or your money back. *Pretend a reggaeton air horn is going off right now* PMT.\n\n\nYou can find every episode of this show on Apple Podcasts, Spotify or Netflix. Prime Members can listen ad-free on Amazon Music. For more, visit barstool.link/pardon-my-take"
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "USD"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© 2026 Barstool Sports, Inc."
-        },
-        "title": {
-          "label": "Pardon My Take - Barstool Sports"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/us/podcast/pardon-my-take/id1089022756?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/us/podcast/pardon-my-take/id1089022756?uo=2",
-          "attributes": {
-            "im:id": "1089022756"
-          }
-        },
-        "im:artist": {
-          "label": "Barstool Sports",
-          "attributes": {
-            "href": "https://podcasts.apple.com/us/artist/barstool-sports/1524874689?uo=2"
-          }
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1547",
-            "term": "Football",
-            "scheme": "https://podcasts.apple.com/us/genre/podcasts-sports-football/id1547?uo=2",
-            "label": "Football"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-10-01T22:51:00-07:00",
-          "attributes": {
-            "label": "October 1, 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
           "label": "The Joe Rogan Experience"
         },
         "im:image": [
@@ -708,38 +477,38 @@
           }
         },
         "im:releaseDate": {
-          "label": "2026-09-30T10:00:00-07:00",
+          "label": "2026-10-01T10:00:00-07:00",
           "attributes": {
-            "label": "September 30, 2026"
+            "label": "October 1, 2026"
           }
         }
       },
       {
         "im:name": {
-          "label": "Passion Struck with John R. Miles"
+          "label": "Pod Save America"
         },
         "im:image": [
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e8/d7/ca/e8d7ca5c-35fa-6e90-42ec-09e168d110cc/mza_400047353205660386.jpg/55x55bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/44/dc/61/44dc6141-25e9-5bb3-e19e-a2337233d19e/mza_5506771870755587769.jpg/55x55bb.png",
             "attributes": {
               "height": "55"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e8/d7/ca/e8d7ca5c-35fa-6e90-42ec-09e168d110cc/mza_400047353205660386.jpg/60x60bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/44/dc/61/44dc6141-25e9-5bb3-e19e-a2337233d19e/mza_5506771870755587769.jpg/60x60bb.png",
             "attributes": {
               "height": "60"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e8/d7/ca/e8d7ca5c-35fa-6e90-42ec-09e168d110cc/mza_400047353205660386.jpg/170x170bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/44/dc/61/44dc6141-25e9-5bb3-e19e-a2337233d19e/mza_5506771870755587769.jpg/170x170bb.png",
             "attributes": {
               "height": "170"
             }
           }
         ],
         "summary": {
-          "label": "You built the life you were supposed to want. So why doesn't it feel like enough? Passion Struck is the #1 Health and Fitness podcast — and it exists to answer exactly that question. I'm John R. Miles — Navy veteran, former Fortune 50 executive, bestselling author — and I built this show because I lived the \"successful but empty\" version of life myself, and I wanted to find a better way. Each week, I sit down with the world's top voices in neuroscience, psychology, medicine, and elite performance — including Angela Duckworth, Susan Cain, Robert Waldinger, Daniel Amen, and Ryan Holiday — to unpack what the research tells us about purpose, connection, and resilience, and how to apply it to your own life. Fridays, I share what I'm learning directly, in solo episodes built around the same ideas. New interviews every Tuesday and Thursday. Solo episodes every Friday."
+          "label": "Pod Save America is a no-b******t conversation about politics hosted by former Obama aides Jon Favreau, Jon Lovett, Dan Pfeiffer, and Tommy Vietor. It cuts through the noise to break down the week’s news and helps people figure out what matters and how they can help. They’re regularly joined by journalists, activists, politicians, entertainers, and world leaders. You can watch on YouTube or listen to new episodes every Tuesday, Friday and Sunday.\n\n\n\nSubscribe to Friends of the Pod! Your subscription makes Crooked’s work possible and gives you access to ad-free episodes of Pod Save America and Pod Save the World, plus exclusive content and a lively Discord community. Learn more and subscribe at crooked.com/friends or on Apple Podcasts. \n\n\nFor a transcript of an episode of Pod Save America, please email transcripts@crooked.com."
         },
         "im:price": {
           "label": "Get",
@@ -755,196 +524,42 @@
           }
         },
         "rights": {
-          "label": "© Copyright 2020-2026 John R. Miles"
+          "label": "© Crooked Media. All Rights Reserved."
         },
         "title": {
-          "label": "Passion Struck with John R. Miles - Passion Struck with John R. Miles"
+          "label": "Pod Save America - Pod Save America"
         },
         "link": {
           "attributes": {
             "rel": "alternate",
             "type": "text/html",
-            "href": "https://podcasts.apple.com/us/podcast/passion-struck-with-john-r-miles/id1553279283?uo=2"
+            "href": "https://podcasts.apple.com/us/podcast/pod-save-america/id1192761536?uo=2"
           }
         },
         "id": {
-          "label": "https://podcasts.apple.com/us/podcast/passion-struck-with-john-r-miles/id1553279283?uo=2",
+          "label": "https://podcasts.apple.com/us/podcast/pod-save-america/id1192761536?uo=2",
           "attributes": {
-            "im:id": "1553279283"
+            "im:id": "1192761536"
           }
         },
         "im:artist": {
-          "label": "Passion Struck with John R. Miles"
-        },
-        "category": {
+          "label": "Pod Save America",
           "attributes": {
-            "im:id": "1513",
-            "term": "Alternative Health",
-            "scheme": "https://podcasts.apple.com/us/genre/podcasts-health-fitness-alternative-health/id1513?uo=2",
-            "label": "Alternative Health"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-10-05T21:00:00-07:00",
-          "attributes": {
-            "label": "October 5, 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "Dateline NBC"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/8c/00/7a/8c007a42-e550-0214-d4cb-b59cd7edf194/mza_5305664083935674472.jpeg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/8c/00/7a/8c007a42-e550-0214-d4cb-b59cd7edf194/mza_5305664083935674472.jpeg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/8c/00/7a/8c007a42-e550-0214-d4cb-b59cd7edf194/mza_5305664083935674472.jpeg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "Current and classic episodes, featuring compelling true-crime mysteries, powerful documentaries and in-depth investigations. \n  \nFollow now to get the latest episodes of Dateline NBC completely free, or subscribe to Dateline Premium for ad-free listening and exclusive bonus content: DatelinePremium.com"
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "USD"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© 2019 NBC News"
-        },
-        "title": {
-          "label": "Dateline NBC - NBC News"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/us/podcast/dateline-nbc/id1464919521?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/us/podcast/dateline-nbc/id1464919521?uo=2",
-          "attributes": {
-            "im:id": "1464919521"
-          }
-        },
-        "im:artist": {
-          "label": "NBC News",
-          "attributes": {
-            "href": "https://podcasts.apple.com/us/artist/nbc-news/119945391?uo=2"
+            "href": "https://podcasts.apple.com/us/artist/crooked-media/1200975667?uo=2"
           }
         },
         "category": {
           "attributes": {
-            "im:id": "1488",
-            "term": "True Crime",
-            "scheme": "https://podcasts.apple.com/us/genre/podcasts-true-crime/id1488?uo=2",
-            "label": "True Crime"
+            "im:id": "1527",
+            "term": "Politics",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-news-politics/id1527?uo=2",
+            "label": "Politics"
           }
         },
         "im:releaseDate": {
-          "label": "2026-10-06T02:00:00-07:00",
+          "label": "2026-10-06T02:55:00-07:00",
           "attributes": {
             "label": "October 6, 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "The Woman in the Woods"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/7a/a2/63/7aa26315-a471-10d2-eb09-23583f07f0dd/mza_13135717494208594853.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/7a/a2/63/7aa26315-a471-10d2-eb09-23583f07f0dd/mza_13135717494208594853.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/7a/a2/63/7aa26315-a471-10d2-eb09-23583f07f0dd/mza_13135717494208594853.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "Nick and Mindi Kassotis believed they were being hunted. According to friends and family, Nick's classified military work had put them both in danger, so much so that Mindi rarely left the house. But the couple also shared they were expecting a child. Then, just after Thanksgiving, Mindi died suddenly in the hospital. Soon after, Nick died too. That's what everyone who loved them believed, that is until a woman's dismembered remains turned up in a wooded area. Stories started to unravel and a mysterious new figure emerged. \"48 Hours\" correspondent Erin Moriarty separates fact from fiction in a case built upon unimaginable layers of deception."
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "USD"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© 2026 CBS Broadcasting Inc. All Rights Reserved."
-        },
-        "title": {
-          "label": "The Woman in the Woods - 48 Hours"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/us/podcast/the-woman-in-the-woods/id6809864042?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/us/podcast/the-woman-in-the-woods/id6809864042?uo=2",
-          "attributes": {
-            "im:id": "6809864042"
-          }
-        },
-        "im:artist": {
-          "label": "48 Hours"
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1488",
-            "term": "True Crime",
-            "scheme": "https://podcasts.apple.com/us/genre/podcasts-true-crime/id1488?uo=2",
-            "label": "True Crime"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-10-20T21:00:00-07:00",
-          "attributes": {
-            "label": "October 20, 2026"
           }
         }
       },
@@ -1022,9 +637,166 @@
           }
         },
         "im:releaseDate": {
-          "label": "2026-10-06T02:55:00-07:00",
+          "label": "2026-10-07T02:50:00-07:00",
           "attributes": {
-            "label": "October 6, 2026"
+            "label": "October 7, 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "This Past Weekend w/ Theo Von"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9c/f6/5a/9cf65abb-f8db-fb7b-984f-b4276a1e8c85/mza_2107148709996282347.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9c/f6/5a/9cf65abb-f8db-fb7b-984f-b4276a1e8c85/mza_2107148709996282347.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9c/f6/5a/9cf65abb-f8db-fb7b-984f-b4276a1e8c85/mza_2107148709996282347.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "What happened this past weekend. And sometimes what happened on other days."
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© 2023 Theo Von"
+        },
+        "title": {
+          "label": "This Past Weekend w/ Theo Von - Theo Von"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/us/podcast/this-past-weekend-w-theo-von/id1190981360?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/us/podcast/this-past-weekend-w-theo-von/id1190981360?uo=2",
+          "attributes": {
+            "im:id": "1190981360"
+          }
+        },
+        "im:artist": {
+          "label": "Theo Von"
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1496",
+            "term": "Comedy Interviews",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-comedy-comedy-interviews/id1496?uo=2",
+            "label": "Comedy Interviews"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-10-05T16:17:00-07:00",
+          "attributes": {
+            "label": "October 5, 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "In The Dark"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/67/d5/37/67d537b9-b27e-240b-b9a2-43c13bdfd7fb/mza_4163719876671560348.jpeg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/67/d5/37/67d537b9-b27e-240b-b9a2-43c13bdfd7fb/mza_4163719876671560348.jpeg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/67/d5/37/67d537b9-b27e-240b-b9a2-43c13bdfd7fb/mza_4163719876671560348.jpeg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "In the Dark, hosted by Madeleine Baran, is an award-winning investigative-journalism podcast that started in 2016. Its first season looked at the mysterious abduction of Jacob Wetterling in rural Minnesota and the lack of accountability that sheriffs face when they fail to solve cases. Season 2 examined the case of Curtis Flowers, who was tried six times for the same crime. In 2020, In the Dark released a special report on the coronavirus pandemic in the Mississippi Delta. In 2023, In the Dark joined The New Yorker and in 2024, it released “The Runaway Princesses,” a four-part series that asks why the women in Dubai’s royal family keep trying to run away. Season 3, released in 2024, asked why no one was punished for the killings of twenty-five civilians in Haditha, Iraq.\n\nIn the Dark won the Pulitzer Prize for audio for Season 3. The podcast is a three-time Peabody Award winner and, in 2019, became the first podcast to win a George Polk Award, one of the top honors in journalism. The program has also received an Alfred I. duPont-Columbia University Award and a Robert F. Kennedy Journalism Award.\n\nNew Yorker subscribers get early, ad-free access. In Apple Podcasts, tap the link at the top of the feed to subscribe or link an existing subscription. Or visit newyorker.com/dark to subscribe and listen in the New Yorker app.\n\nIf you have comments or story tips, please send them to inthedark@newyorker.com."
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© 2026 Condé Nast. All rights reserved."
+        },
+        "title": {
+          "label": "In The Dark - The New Yorker"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/us/podcast/in-the-dark/id1148175292?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/us/podcast/in-the-dark/id1148175292?uo=2",
+          "attributes": {
+            "im:id": "1148175292"
+          }
+        },
+        "im:artist": {
+          "label": "The New Yorker",
+          "attributes": {
+            "href": "https://podcasts.apple.com/us/artist/american-public-media/127439791?uo=2"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1488",
+            "term": "True Crime",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-true-crime/id1488?uo=2",
+            "label": "True Crime"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-09-29T03:00:00-07:00",
+          "attributes": {
+            "label": "September 29, 2026"
           }
         }
       },
@@ -1256,38 +1028,38 @@
           }
         },
         "im:releaseDate": {
-          "label": "2026-10-01T23:19:00-07:00",
+          "label": "2026-10-05T01:05:00-07:00",
           "attributes": {
-            "label": "October 1, 2026"
+            "label": "October 5, 2026"
           }
         }
       },
       {
         "im:name": {
-          "label": "the bossbabe podcast"
+          "label": "Next Question with Katie Couric"
         },
         "im:image": [
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/52/a1/ab/52a1abee-87c4-c0b8-d242-a041522add49/mza_11816846594555703738.jpg/55x55bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/20/6e/0b/206e0ba9-bad7-a158-78e4-927aaec97052/mza_8554917336891903581.jpeg/55x55bb.png",
             "attributes": {
               "height": "55"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/52/a1/ab/52a1abee-87c4-c0b8-d242-a041522add49/mza_11816846594555703738.jpg/60x60bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/20/6e/0b/206e0ba9-bad7-a158-78e4-927aaec97052/mza_8554917336891903581.jpeg/60x60bb.png",
             "attributes": {
               "height": "60"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/52/a1/ab/52a1abee-87c4-c0b8-d242-a041522add49/mza_11816846594555703738.jpg/170x170bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/20/6e/0b/206e0ba9-bad7-a158-78e4-927aaec97052/mza_8554917336891903581.jpeg/170x170bb.png",
             "attributes": {
               "height": "170"
             }
           }
         ],
         "summary": {
-          "label": "Bossbabe is one of the world's largest communities of ambitious women, with over 4.2 million followers and the top online membership for women entrepreneurs. We're passionate about helping you build a Freedom-Based Business™ to make more money + live a lifestyle you love. Every week, the bossbabe podcast brings you the real behind-the-scenes of building a wildly successful, profitable + reliable business, plus tools and strategies to make sales on repeat, grow an audience on social media, + create the life you truly want."
+          "label": "Tired of political headlines that feel like déjà vu? Wondering if you actually need to care about every controversy? This season, Katie’s asking those same questions—and talking to the people who have real answers. From political insiders to sharp-eyed journalists, she’s breaking down what’s worth your attention (and what’s not), with smarts, sanity, and even a little humor. Because none of us can be tuned in 24/7—but we can stay informed without losing our minds. \nTune in every Thursday and join Katie Couric and her guests for a conversation on NEXT QUESTION.\n Hosted on Acast. See acast.com/privacy for more information."
         },
         "im:price": {
           "label": "Get",
@@ -1303,336 +1075,28 @@
           }
         },
         "rights": {
-          "label": "© e4d410a0-90cb-11f1-83a6-4b34022a930e"
+          "label": "2026 Katie Couric Media © Any use of this intellectual property for text and data mining or computational analysis including as training material for artificial intelligence systems is strictly prohibited without express written consent"
         },
         "title": {
-          "label": "the bossbabe podcast - Natalie Ellis"
+          "label": "Next Question with Katie Couric - Katie Couric Media"
         },
         "link": {
           "attributes": {
             "rel": "alternate",
             "type": "text/html",
-            "href": "https://podcasts.apple.com/us/podcast/the-bossbabe-podcast/id1453389736?uo=2"
+            "href": "https://podcasts.apple.com/us/podcast/next-question-with-katie-couric/id1134154895?uo=2"
           }
         },
         "id": {
-          "label": "https://podcasts.apple.com/us/podcast/the-bossbabe-podcast/id1453389736?uo=2",
+          "label": "https://podcasts.apple.com/us/podcast/next-question-with-katie-couric/id1134154895?uo=2",
           "attributes": {
-            "im:id": "1453389736"
+            "im:id": "1134154895"
           }
         },
         "im:artist": {
-          "label": "Natalie Ellis"
-        },
-        "category": {
+          "label": "Katie Couric Media",
           "attributes": {
-            "im:id": "1493",
-            "term": "Entrepreneurship",
-            "scheme": "https://podcasts.apple.com/us/genre/podcasts-business-entrepreneurship/id1493?uo=2",
-            "label": "Entrepreneurship"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-09-29T02:00:00-07:00",
-          "attributes": {
-            "label": "September 29, 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "The Jamie Kern Lima Show"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/50/66/2e/50662e7d-1f7e-3d9f-1f87-562a90dbdb0c/mza_10576714993608979175.jpeg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/50/66/2e/50662e7d-1f7e-3d9f-1f87-562a90dbdb0c/mza_10576714993608979175.jpeg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/50/66/2e/50662e7d-1f7e-3d9f-1f87-562a90dbdb0c/mza_10576714993608979175.jpeg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "Get Ready to Believe In YOU! Welcome to The Jamie Kern Lima Show!\n\nImagine. . . overcoming self-doubt, learning to believe in yourself and trust yourself and know you’re enough. Imagine stepping into all of who you are, and into the person you we’re born to be. . . unstoppable. Unstoppable in your joy, your success, your faith and in your belief in yourself! The Jamie Kern Lima Show is for you if you’re ready to ignite that light inside of you, and learn to shine it brightly, even if it’s for the first time, or for the first time in a long time. IT’s YOUR time, today is YOUR day, and THIS is your show. This is How You Trust Yourself. This is How You Love Yourself. This is How You Believe in Yourself. Welcome to The Jamie Kern Lima Show!\n\nI’m Jamie Kern Lima and I went from struggling waitress facing non-stop rejection, to building a billion-dollar business from my living room, and becoming a New York Times bestselling author, all by learning to believe in myself. And I’m obsessed with showing you how you can believe in yourself too! If self-doubt has already cost you too much in your life, it’s time to change that together!\n\nI interview experts, celebrities, athletes and thought leaders so that through aha-moment-filled conversations, and insights you won’t hear anywhere else, every episode will leave you with tactical tools and takeaways you can apply to your life right now on your journey of living your best life and becoming the person you’re born to be!\n\nThe Jamie Kern Lima Show debuts this Summer. New episodes every Tuesday. Your support means EVERYTHING to me and I don’t take it for granted — click the follow button and leave a review to help us spread the love with The Jamie Kern Lima Show. This is YOUR show, and I’m so honored to be on this journey with you, together!\n\nTo learn more about Jamie, go deeper into the show, find the resources and research she mentions, or submit a topic or question, visit https://www.JamieKernLima.com/Show"
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "USD"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© Copyright Life is Love, LLC"
-        },
-        "title": {
-          "label": "The Jamie Kern Lima Show - Jamie Kern Lima"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/us/podcast/the-jamie-kern-lima-show/id1728723635?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/us/podcast/the-jamie-kern-lima-show/id1728723635?uo=2",
-          "attributes": {
-            "im:id": "1728723635"
-          }
-        },
-        "im:artist": {
-          "label": "Jamie Kern Lima"
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1500",
-            "term": "Self-Improvement",
-            "scheme": "https://podcasts.apple.com/us/genre/podcasts-education-self-improvement/id1500?uo=2",
-            "label": "Self-Improvement"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-10-01T04:32:00-07:00",
-          "attributes": {
-            "label": "October 1, 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "Live Free with Josh Howerton"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/03/c8/84/03c8844c-bbd6-2c29-5045-25eac434eaef/mza_16269028133219747046.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/03/c8/84/03c8844c-bbd6-2c29-5045-25eac434eaef/mza_16269028133219747046.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/03/c8/84/03c8844c-bbd6-2c29-5045-25eac434eaef/mza_16269028133219747046.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "Welcome to Live Free with Pastor Josh Howerton. Lakepointe Church is a movement for all people to know Christ, live free, and change the world for God‘s glory. If this podcast is hitting home for you, leave a rating, drop a review, or share it. Your support helps us keep spreading the truth and reaching more people for Jesus. For more digital content, visit https://lakepointe.church/digital/"
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "USD"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© 2023 Lakepointe Church"
-        },
-        "title": {
-          "label": "Live Free with Josh Howerton - Lakepointe Church"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/us/podcast/live-free-with-josh-howerton/id1669321198?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/us/podcast/live-free-with-josh-howerton/id1669321198?uo=2",
-          "attributes": {
-            "im:id": "1669321198"
-          }
-        },
-        "im:artist": {
-          "label": "Lakepointe Church"
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1439",
-            "term": "Christianity",
-            "scheme": "https://podcasts.apple.com/us/genre/podcasts-christianity/id1439?uo=2",
-            "label": "Christianity"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-09-30T03:00:00-07:00",
-          "attributes": {
-            "label": "September 30, 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "The Money Mondays"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/a8/60/49/a860491e-a48a-2016-55c4-5426c7998dc9/mza_12477201885067188723.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/a8/60/49/a860491e-a48a-2016-55c4-5426c7998dc9/mza_12477201885067188723.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/a8/60/49/a860491e-a48a-2016-55c4-5426c7998dc9/mza_12477201885067188723.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "“The Money Mondays” is primed to be a global brand in the business space, focusing on investments, cash flowing businesses, side hustles and visual acts of charity. Viewers will be able to learn from experts, win weekly prizes and participate in charity efforts in an “MTV Cribs” style setting.\n\nMany episodes of the podcast will be recorded with Celebrities, influencers & athletes inside of their homes, studios & headquarters. \n\nHosted by Dan Fleyshman, the youngest founder of a publicly traded company. Dan has Angel invested in 43 companies and spoken at over 250 business industry events."
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "USD"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© Dan Fleyshman"
-        },
-        "title": {
-          "label": "The Money Mondays - Dan Fleyshman"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/us/podcast/the-money-mondays/id1664983297?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/us/podcast/the-money-mondays/id1664983297?uo=2",
-          "attributes": {
-            "im:id": "1664983297"
-          }
-        },
-        "im:artist": {
-          "label": "Dan Fleyshman"
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1493",
-            "term": "Entrepreneurship",
-            "scheme": "https://podcasts.apple.com/us/genre/podcasts-business-entrepreneurship/id1493?uo=2",
-            "label": "Entrepreneurship"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-07-21T20:29:00-07:00",
-          "attributes": {
-            "label": "July 21, 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "This American Life"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3d/30/4d/3d304d0f-e6b8-22df-dee3-71b2c762308c/mza_4778717731733935424.png/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3d/30/4d/3d304d0f-e6b8-22df-dee3-71b2c762308c/mza_4778717731733935424.png/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3d/30/4d/3d304d0f-e6b8-22df-dee3-71b2c762308c/mza_4778717731733935424.png/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "Each week we choose a theme. Then anything can happen. This American Life is true stories that unfold like little movies for radio. Personal stories with funny moments, big feelings, and surprising plot twists. Newsy stories that try to capture what it’s like to be alive right now. It’s the most popular weekly podcast in the world, and winner of the first ever Pulitzer Prize for a radio show or podcast. Hosted by Ira Glass and produced in collaboration with WBEZ Chicago."
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "USD"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© Copyright 1995-2026 This American Life"
-        },
-        "title": {
-          "label": "This American Life - This American Life"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/us/podcast/this-american-life/id201671138?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/us/podcast/this-american-life/id201671138?uo=2",
-          "attributes": {
-            "im:id": "201671138"
-          }
-        },
-        "im:artist": {
-          "label": "This American Life",
-          "attributes": {
-            "href": "https://podcasts.apple.com/us/artist/wbez/364380278?uo=2"
+            "href": "https://podcasts.apple.com/us/artist/iheartradio/284341002?uo=2"
           }
         },
         "category": {
@@ -1644,9 +1108,9 @@
           }
         },
         "im:releaseDate": {
-          "label": "2026-10-04T17:00:00-07:00",
+          "label": "2026-10-07T01:00:00-07:00",
           "attributes": {
-            "label": "October 4, 2026"
+            "label": "October 7, 2026"
           }
         }
       },
@@ -1729,30 +1193,30 @@
       },
       {
         "im:name": {
-          "label": "Business MVP"
+          "label": "20/20"
         },
         "im:image": [
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ea/c3/a5/eac3a50c-4096-9e8a-2976-ba56927f07cc/mza_5580212575802116973.jpeg/55x55bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/81/6c/5d/816c5d57-7c3f-3df9-1557-08e17469dfe4/mza_1433648970787567135.jpg/55x55bb.png",
             "attributes": {
               "height": "55"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ea/c3/a5/eac3a50c-4096-9e8a-2976-ba56927f07cc/mza_5580212575802116973.jpeg/60x60bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/81/6c/5d/816c5d57-7c3f-3df9-1557-08e17469dfe4/mza_1433648970787567135.jpg/60x60bb.png",
             "attributes": {
               "height": "60"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ea/c3/a5/eac3a50c-4096-9e8a-2976-ba56927f07cc/mza_5580212575802116973.jpeg/170x170bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/81/6c/5d/816c5d57-7c3f-3df9-1557-08e17469dfe4/mza_1433648970787567135.jpg/170x170bb.png",
             "attributes": {
               "height": "170"
             }
           }
         ],
         "summary": {
-          "label": "The best business leaders aren't just talented — they're trained. And for some of them, that training started long before they ever stepped into a boardroom.\n\nBusiness MVP takes you inside the real stories of elite athletes, coaches, and sports entrepreneurs who've translated what they learned on the field into extraordinary success in business. Through candid conversations, we break down the habits, mindset, and leadership principles that drive performance under pressure — and explore how these leaders are building businesses, leading teams, and using their platforms to create meaningful impact through philanthropy and community work.\n\nWe go beyond the highlight reel. This is about the discipline, the setbacks, the pivots, and the championship mindset that turns competitors into business leaders.\n\nHosted by Sammy Peterson — legal strategist, executive leader, and mom of three competitive athletes — this show sits at the intersection of sports, business, and leadership. Sammy brings both strategic insight and real-world perspective to every conversation.\n\nIf you want to think sharper, lead better, and compete at an MVP level — in business and in life — this is the playbook.\n\n\n\nConnect with Sammy on ⁠Instagram⁠⁠ and LinkedIn."
+          "label": "Unforgettable true crime mysteries, exclusive newsmaker interviews, hard-hitting investigative reports and in-depth coverage of high profile stories. Now listen throughout the week with the official 20/20 After Show, the True Crime Vault, and our spotlight of true crime originals.\n\nSubscribe to 20/20 True Crime+ for ad-free listening, early access to new series, exclusive bonus content, and hundreds of episodes from the 20/20 true crime vault. Visit apple.co/2020truecrime to subscribe now.  Terms apply."
         },
         "im:price": {
           "label": "Get",
@@ -1768,45 +1232,71 @@
           }
         },
         "rights": {
-          "label": "© YAP Media"
+          "label": "© Copyright 2026, ABC Audio. All rights reserved."
         },
         "title": {
-          "label": "Business MVP - Sammy Peterson"
+          "label": "20/20 - ABC News"
         },
         "link": {
           "attributes": {
             "rel": "alternate",
             "type": "text/html",
-            "href": "https://podcasts.apple.com/us/podcast/business-mvp/id6788010464?uo=2"
+            "href": "https://podcasts.apple.com/us/podcast/20-20/id987967575?uo=2"
           }
         },
         "id": {
-          "label": "https://podcasts.apple.com/us/podcast/business-mvp/id6788010464?uo=2",
+          "label": "https://podcasts.apple.com/us/podcast/20-20/id987967575?uo=2",
           "attributes": {
-            "im:id": "6788010464"
+            "im:id": "987967575"
           }
         },
         "im:artist": {
-          "label": "Sammy Peterson"
+          "label": "ABC News",
+          "attributes": {
+            "href": "https://podcasts.apple.com/us/artist/abc-news/119945519?uo=2"
+          }
         },
         "category": {
           "attributes": {
-            "im:id": "1493",
-            "term": "Entrepreneurship",
-            "scheme": "https://podcasts.apple.com/us/genre/podcasts-business-entrepreneurship/id1493?uo=2",
-            "label": "Entrepreneurship"
+            "im:id": "1488",
+            "term": "True Crime",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-true-crime/id1488?uo=2",
+            "label": "True Crime"
           }
         },
         "im:releaseDate": {
-          "label": "2026-10-06T02:00:00-07:00",
+          "label": "2026-11-03T21:00:00-07:00",
           "attributes": {
-            "label": "October 6, 2026"
+            "label": "November 3, 2026"
           }
         }
       },
       {
         "im:name": {
-          "label": "The Home Service Expert Podcast"
+          "label": "The Woman in the Woods"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/7a/a2/63/7aa26315-a471-10d2-eb09-23583f07f0dd/mza_13135717494208594853.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/7a/a2/63/7aa26315-a471-10d2-eb09-23583f07f0dd/mza_13135717494208594853.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/7a/a2/63/7aa26315-a471-10d2-eb09-23583f07f0dd/mza_13135717494208594853.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "Nick and Mindi Kassotis believed they were being hunted. According to friends and family, Nick's classified military work had put them both in danger, so much so that Mindi rarely left the house. But the couple also shared they were expecting a child. Then, just after Thanksgiving, Mindi died suddenly in the hospital. Soon after, Nick died too. That's what everyone who loved them believed, that is until a woman's dismembered remains turned up in a wooded area. Stories started to unravel and a mysterious new figure emerged. \"48 Hours\" correspondent Erin Moriarty separates fact from fiction in a case built upon unimaginable layers of deception."
         },
         "im:price": {
           "label": "Get",
@@ -1815,46 +1305,81 @@
             "currency": "USD"
           }
         },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© 2026 CBS Broadcasting Inc. All Rights Reserved."
+        },
+        "title": {
+          "label": "The Woman in the Woods - 48 Hours"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/us/podcast/the-woman-in-the-woods/id6809864042?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/us/podcast/the-woman-in-the-woods/id6809864042?uo=2",
+          "attributes": {
+            "im:id": "6809864042"
+          }
+        },
+        "im:artist": {
+          "label": "48 Hours"
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1488",
+            "term": "True Crime",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-true-crime/id1488?uo=2",
+            "label": "True Crime"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-10-20T21:00:00-07:00",
+          "attributes": {
+            "label": "October 20, 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "Live Free with Josh Howerton"
+        },
         "im:image": [
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/4a/61/3d/4a613d98-7530-ac40-a8df-79f0c08bd64a/mza_17092466455454967949.png/55x55bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/03/c8/84/03c8844c-bbd6-2c29-5045-25eac434eaef/mza_16269028133219747046.jpg/55x55bb.png",
             "attributes": {
               "height": "55"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/4a/61/3d/4a613d98-7530-ac40-a8df-79f0c08bd64a/mza_17092466455454967949.png/60x60bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/03/c8/84/03c8844c-bbd6-2c29-5045-25eac434eaef/mza_16269028133219747046.jpg/60x60bb.png",
             "attributes": {
               "height": "60"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/4a/61/3d/4a613d98-7530-ac40-a8df-79f0c08bd64a/mza_17092466455454967949.png/170x170bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/03/c8/84/03c8844c-bbd6-2c29-5045-25eac434eaef/mza_16269028133219747046.jpg/170x170bb.png",
             "attributes": {
               "height": "170"
             }
           }
         ],
         "summary": {
-          "label": "The Home Service Expert podcast is the No. 1 podcast for ambitious home service entrepreneurs, whether they are in plumbing, HVAC or another niche. In this show, Tommy Mello, a $200M business founder, will talk with the best entrepreneurs and experts in the home service industry and beyond, to share insights that have made them successful: from the newest marketing tools to the best scaling strategies. Previous podcast guests include Terry Nicholson (former national trainer of NYSE-listed home services company), Craig Smith (President of HomeAdvisor, a home services marketplace valued at $2B+), Cameron Herold (former COO of three $100M+ companies), etc."
+          "label": "Welcome to Live Free with Pastor Josh Howerton. Lakepointe Church is a movement for all people to know Christ, live free, and change the world for God‘s glory. If this podcast is hitting home for you, leave a rating, drop a review, or share it. Your support helps us keep spreading the truth and reaching more people for Jesus. For more digital content, visit https://lakepointe.church/digital/"
         },
-        "im:artist": {
-          "label": "Tommy Mello: $200 Million Founder|Forbes, Inc., Entrepreneur Columnist"
-        },
-        "title": {
-          "label": "The Home Service Expert Podcast - Tommy Mello: $200 Million Founder|Forbes, Inc., Entrepreneur Columnist"
-        },
-        "link": {
+        "im:price": {
+          "label": "Get",
           "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/us/podcast/the-home-service-expert-podcast/id1341478446?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/us/podcast/the-home-service-expert-podcast/id1341478446?uo=2",
-          "attributes": {
-            "im:id": "1341478446"
+            "amount": "0",
+            "currency": "USD"
           }
         },
         "im:contentType": {
@@ -1863,18 +1388,120 @@
             "label": "Podcast"
           }
         },
+        "rights": {
+          "label": "© 2023 Lakepointe Church"
+        },
+        "title": {
+          "label": "Live Free with Josh Howerton - Lakepointe Church"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/us/podcast/live-free-with-josh-howerton/id1669321198?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/us/podcast/live-free-with-josh-howerton/id1669321198?uo=2",
+          "attributes": {
+            "im:id": "1669321198"
+          }
+        },
+        "im:artist": {
+          "label": "Lakepointe Church"
+        },
         "category": {
           "attributes": {
-            "im:id": "1491",
-            "term": "Management",
-            "scheme": "https://podcasts.apple.com/us/genre/podcasts-business-management/id1491?uo=2",
-            "label": "Management"
+            "im:id": "1439",
+            "term": "Christianity",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-christianity/id1439?uo=2",
+            "label": "Christianity"
           }
         },
         "im:releaseDate": {
-          "label": "2026-10-01T15:38:00-07:00",
+          "label": "2026-10-05T03:00:00-07:00",
           "attributes": {
-            "label": "October 1, 2026"
+            "label": "October 5, 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "Pardon My Take"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/35/74/6a/35746a0c-7687-7dde-ff04-338d93e78303/mza_10377078556009223546.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/35/74/6a/35746a0c-7687-7dde-ff04-338d93e78303/mza_10377078556009223546.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/35/74/6a/35746a0c-7687-7dde-ff04-338d93e78303/mza_10377078556009223546.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "On \"Pardon My Take,\" Big Cat & PFT Commenter deliver the loudest and most correct sports takes in the history of the spoken word. Daily topics, guests, and an inability to tell what the hosts might be doing will make this your new favorite sports talk show. This is a podcast that will without a doubt change your life for the better- guaranteed, or your money back. *Pretend a reggaeton air horn is going off right now* PMT.\n\n\nYou can find every episode of this show on Apple Podcasts, Spotify or Netflix. Prime Members can listen ad-free on Amazon Music. For more, visit barstool.link/pardon-my-take"
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© 2026 Barstool Sports, Inc."
+        },
+        "title": {
+          "label": "Pardon My Take - Barstool Sports"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/us/podcast/pardon-my-take/id1089022756?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/us/podcast/pardon-my-take/id1089022756?uo=2",
+          "attributes": {
+            "im:id": "1089022756"
+          }
+        },
+        "im:artist": {
+          "label": "Barstool Sports",
+          "attributes": {
+            "href": "https://podcasts.apple.com/us/artist/barstool-sports/1524874689?uo=2"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1547",
+            "term": "Football",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-sports-football/id1547?uo=2",
+            "label": "Football"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-10-05T00:56:00-07:00",
+          "attributes": {
+            "label": "October 5, 2026"
           }
         }
       },
@@ -1954,10 +1581,395 @@
             "label": "October 12, 2026"
           }
         }
+      },
+      {
+        "im:name": {
+          "label": "Proven Podcast"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/79/33/d2/7933d22b-9392-7d2c-714f-9a4c624003e5/mza_1012289391812617337.png/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/79/33/d2/7933d22b-9392-7d2c-714f-9a4c624003e5/mza_1012289391812617337.png/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/79/33/d2/7933d22b-9392-7d2c-714f-9a4c624003e5/mza_1012289391812617337.png/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "Welcome to the Proven Podcast, where it does not matter what you think, only what you can prove."
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© 2024"
+        },
+        "title": {
+          "label": "Proven Podcast - Charles Schwartz"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/us/podcast/proven-podcast/id1744386875?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/us/podcast/proven-podcast/id1744386875?uo=2",
+          "attributes": {
+            "im:id": "1744386875"
+          }
+        },
+        "im:artist": {
+          "label": "Charles Schwartz"
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1493",
+            "term": "Entrepreneurship",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-business-entrepreneurship/id1493?uo=2",
+            "label": "Entrepreneurship"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-10-06T21:00:00-07:00",
+          "attributes": {
+            "label": "October 6, 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "Unblinded with Sean Callagy"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fe/73/39/fe733903-aac9-857a-7e0d-97da75f26739/mza_7400622169884755798.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fe/73/39/fe733903-aac9-857a-7e0d-97da75f26739/mza_7400622169884755798.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fe/73/39/fe733903-aac9-857a-7e0d-97da75f26739/mza_7400622169884755798.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "What if you could see what others don’t—and unlock the hidden patterns that quietly drive every outcome in business, relationships, and life?\n\nHosted by entrepreneur, attorney, philanthropist, and world-class communicator Sean Callagy, Unblinded is where peak performance meets integrity and possibility. Sean—legally blind since childhood—defied the odds to build multiple eight-figure companies, reinvent industries, and train thousands of leaders in the art of influence. His message is clear: influence is not manipulation, it’s mastery—and when harnessed for good, it transforms everything."
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© Sean Callagy"
+        },
+        "title": {
+          "label": "Unblinded with Sean Callagy - Sean Callagy"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/us/podcast/unblinded-with-sean-callagy/id1844970260?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/us/podcast/unblinded-with-sean-callagy/id1844970260?uo=2",
+          "attributes": {
+            "im:id": "1844970260"
+          }
+        },
+        "im:artist": {
+          "label": "Sean Callagy"
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1321",
+            "term": "Business",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-business/id1321?uo=2",
+            "label": "Business"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-09-29T09:04:00-07:00",
+          "attributes": {
+            "label": "September 29, 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "The Diary Of A CEO with Steven Bartlett"
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "USD"
+          }
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/69/af/0d/69af0ddd-1e0f-7ae3-c84b-88f18e31ad0c/mza_14445920128472365296.png/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/69/af/0d/69af0ddd-1e0f-7ae3-c84b-88f18e31ad0c/mza_14445920128472365296.png/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/69/af/0d/69af0ddd-1e0f-7ae3-c84b-88f18e31ad0c/mza_14445920128472365296.png/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "Welcome to The Diary Of A CEO where you'll find raw, human conversations with the world’s most fascinating experts, storytellers, thinkers and business leaders.\n\nHosted by Steven Bartlett (entrepreneur, investor, author, and founder of Steven.com and Flight Fund) this channel was created with a simple mission: to share personal lessons that help both you live better, more fulfilling lives.\n\nWhat is DOAC? Beyond Diary Of A CEO, the acronym reflects our core ethos:\n\n- Dreamers — Dream boldly.\n- Open-minded — Think without limits.\n- Awareness — Expand your perspective.\n- Connection — Feel more connected.\n\nThis is your corner of the internet to dream boldly, think openly, expand your awareness, and feel more connected.\nThe Diary Of A CEO:\n◼ Join DOAC circle here - https://doaccircle.com/\n◼ Buy The Diary Of A CEO book here - https://link.thediaryofaceo.com/BWjLTZK\n◼ Shop The Diary Of A CEO collection: https://thediary.com/collections/shop\n◼ Get email updates - https://link.thediaryofaceo.com/5IB1H6E\n◼ Follow Steven - https://link.thediaryofaceo.com/AGU9QP4"
+        },
+        "im:artist": {
+          "label": "DOAC"
+        },
+        "title": {
+          "label": "The Diary Of A CEO with Steven Bartlett - DOAC"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/us/podcast/the-diary-of-a-ceo-with-steven-bartlett/id1291423644?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/us/podcast/the-diary-of-a-ceo-with-steven-bartlett/id1291423644?uo=2",
+          "attributes": {
+            "im:id": "1291423644"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1321",
+            "term": "Business",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-business/id1321?uo=2",
+            "label": "Business"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-10-01T22:00:00-07:00",
+          "attributes": {
+            "label": "October 1, 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "On The Line with Jim Pyne"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3d/db/41/3ddb4115-4461-1b44-344b-a9280cb59e7b/mza_10892588309988853434.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3d/db/41/3ddb4115-4461-1b44-344b-a9280cb59e7b/mza_10892588309988853434.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3d/db/41/3ddb4115-4461-1b44-344b-a9280cb59e7b/mza_10892588309988853434.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "On the Line with Jim Pyne brings you authentic conversations with the leaders shaping sports, business, and entertainment.\nHosted by former NFL player, coach, executive, entrepreneur, and Founder & CEO of PLS Aviation, Jim Pyne draws on decades of relationships to explore leadership, winning cultures, entrepreneurship, resilience, and the experiences that define extraordinary careers.\nFrom championship coaches and elite athletes to CEOs and innovators, each episode delivers candid insights and practical lessons from people who have performed at the highest levels.\nLeadership. Relationships. Success."
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© 2026 On The Line with Jim Pyne"
+        },
+        "title": {
+          "label": "On The Line with Jim Pyne - Jim"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/us/podcast/on-the-line-with-jim-pyne/id6794668286?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/us/podcast/on-the-line-with-jim-pyne/id6794668286?uo=2",
+          "attributes": {
+            "im:id": "6794668286"
+          }
+        },
+        "im:artist": {
+          "label": "Jim"
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1545",
+            "term": "Sports",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-sports/id1545?uo=2",
+            "label": "Sports"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-10-06T04:00:00-07:00",
+          "attributes": {
+            "label": "October 6, 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "The Rest Is History"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/bf/89/a5/bf89a586-3f77-bf37-7ba3-b75f1bca7bfa/mza_1664785978944494824.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/bf/89/a5/bf89a586-3f77-bf37-7ba3-b75f1bca7bfa/mza_1664785978944494824.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/bf/89/a5/bf89a586-3f77-bf37-7ba3-b75f1bca7bfa/mza_1664785978944494824.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "Take a deep dive into History’s biggest moments with Tom Holland & Dominic Sandbrook.\n\n\n\nExplore the stories of History’s most brutal rulers, deadly battles, and world-changing events. From the rise and fall of the Roman Empire, the Nazi conquest of Europe, and Hitler’s evil master plan for world domination, to the French Revolution, the sinking of the Titanic, or the Norman Conquest of England in 1066, Tom and Dominic bring the past to life with gripping storytelling and expert analysis, as they unpack the high-drama moments that shaped our world.\n\n\n\nJoin The Rest Is History Club: Unlock the full experience of the show – with exclusive bonus episodes, ad-free listening, early access to every series and live show tickets, a members-only newsletter, discounted books from the show, and access to our private Discord chatroom. Sign up directly at therestishistory.com. \n\n\n\nFor more Goalhanger Podcasts, head to www.goalhanger.com."
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© Goalhanger"
+        },
+        "title": {
+          "label": "The Rest Is History - Goalhanger"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/us/podcast/the-rest-is-history/id1537788786?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/us/podcast/the-rest-is-history/id1537788786?uo=2",
+          "attributes": {
+            "im:id": "1537788786"
+          }
+        },
+        "im:artist": {
+          "label": "Goalhanger",
+          "attributes": {
+            "href": "https://podcasts.apple.com/us/artist/goalhanger-films/1561421475?uo=2"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1487",
+            "term": "History",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-history/id1487?uo=2",
+            "label": "History"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-10-07T16:00:00-07:00",
+          "attributes": {
+            "label": "October 7, 2026"
+          }
+        }
       }
     ],
     "updated": {
-      "label": "2026-10-06T06:10:34-07:00"
+      "label": "2026-10-07T06:06:00-07:00"
     },
     "rights": {
       "label": "Copyright 2008 Apple Inc."
