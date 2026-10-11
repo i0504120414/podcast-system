@@ -88,83 +88,6 @@
       },
       {
         "im:name": {
-          "label": "The News Agents"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/40/86/8d/40868d10-4f7c-a931-e314-0e31be83667b/mza_15291423343249011134.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/40/86/8d/40868d10-4f7c-a931-e314-0e31be83667b/mza_15291423343249011134.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/40/86/8d/40868d10-4f7c-a931-e314-0e31be83667b/mza_15291423343249011134.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "Emily Maitlis, Jon Sopel and Lewis Goodall – three of the UK’s top journalists – host an award-winning daily news podcast: The News Agents.  \n\nThey’re not just here to tell you what's happening, but why. Expect astute analysis and explanation of the day's news – and a healthy dose of scepticism and the ability to laugh at it all when needed.\n\nEpisodes are available every weekday afternoon. You can listen to The News Agents on Alexa, just say \"Alexa ask Global Player to play The News Agents\"\n\nThe News Agents is a Global Player Original podcast.\n\nFor advertising opportunities on this podcast, email: GlobalStudiosSales@global.com\n\nYou can visit our website here https://www.thenewsagents.co.uk/"
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "GBP"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© Global"
-        },
-        "title": {
-          "label": "The News Agents - Global"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/gb/podcast/the-news-agents/id1640878689?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/gb/podcast/the-news-agents/id1640878689?uo=2",
-          "attributes": {
-            "im:id": "1640878689"
-          }
-        },
-        "im:artist": {
-          "label": "Global"
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1526",
-            "term": "Daily News",
-            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-news-daily-news/id1526?uo=2",
-            "label": "Daily News"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-10-08T10:00:00-07:00",
-          "attributes": {
-            "label": "08 October 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
           "label": "The Rest Is History"
         },
         "im:image": [
@@ -240,6 +163,83 @@
           "label": "2026-10-18T16:00:00-07:00",
           "attributes": {
             "label": "18 October 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "The News Agents"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/40/86/8d/40868d10-4f7c-a931-e314-0e31be83667b/mza_15291423343249011134.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/40/86/8d/40868d10-4f7c-a931-e314-0e31be83667b/mza_15291423343249011134.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/40/86/8d/40868d10-4f7c-a931-e314-0e31be83667b/mza_15291423343249011134.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "Emily Maitlis, Jon Sopel and Lewis Goodall – three of the UK’s top journalists – host an award-winning daily news podcast: The News Agents.  \n\nThey’re not just here to tell you what's happening, but why. Expect astute analysis and explanation of the day's news – and a healthy dose of scepticism and the ability to laugh at it all when needed.\n\nEpisodes are available every weekday afternoon. You can listen to The News Agents on Alexa, just say \"Alexa ask Global Player to play The News Agents\"\n\nThe News Agents is a Global Player Original podcast.\n\nFor advertising opportunities on this podcast, email: GlobalStudiosSales@global.com\n\nYou can visit our website here https://www.thenewsagents.co.uk/"
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "GBP"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© Global"
+        },
+        "title": {
+          "label": "The News Agents - Global"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/gb/podcast/the-news-agents/id1640878689?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/gb/podcast/the-news-agents/id1640878689?uo=2",
+          "attributes": {
+            "im:id": "1640878689"
+          }
+        },
+        "im:artist": {
+          "label": "Global"
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1526",
+            "term": "Daily News",
+            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-news-daily-news/id1526?uo=2",
+            "label": "Daily News"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-10-08T10:00:00-07:00",
+          "attributes": {
+            "label": "08 October 2026"
           }
         }
       },
@@ -322,30 +322,7 @@
       },
       {
         "im:name": {
-          "label": "The Rest Is Politics: US"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/42/d8/be/42d8be3a-34d0-3888-301e-b8ff7aafe1f2/mza_15214757562517445787.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/42/d8/be/42d8be3a-34d0-3888-301e-b8ff7aafe1f2/mza_15214757562517445787.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/42/d8/be/42d8be3a-34d0-3888-301e-b8ff7aafe1f2/mza_15214757562517445787.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "TRIP US uncovers secrets from inside the White House inner circles as well as taking a wider look at the intricacies of United States society and how they shape the world's most important economy.\n\nThe podcast is hosted by Anthony Scaramucci (The Mooch), former White House Director of Communications and Wall Street financier, and Katty Kay, US special correspondent for BBC who has been covering US politics for almost 30 years. \n\nStay informed with in-depth discussions on key political events, policy changes, and the forces shaping America’s future on the global stage.\n\nNew episodes released every Friday, or join our club for bonus content. Just head to https://therestispoliticsus.com to sign up today.."
+          "label": "The Romesh Ranganathan Show"
         },
         "im:price": {
           "label": "Get",
@@ -354,46 +331,66 @@
             "currency": "GBP"
           }
         },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5a/d1/69/5ad169ac-3c33-fc7d-fea7-bf6f26b84fa7/mza_3429833149955313235.jpeg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5a/d1/69/5ad169ac-3c33-fc7d-fea7-bf6f26b84fa7/mza_3429833149955313235.jpeg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5a/d1/69/5ad169ac-3c33-fc7d-fea7-bf6f26b84fa7/mza_3429833149955313235.jpeg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "The world’s biggest stars join Romesh for candid conversations and loads of laughs. \n\nEvery Monday, Romesh Ranganathan meets actors, musicians, comedians and icons who share stories you won’t hear anywhere else, combining humour, heart and genuine insight. Expect backstage anecdotes, untold tales from the spotlight, and extraordinary insight into what makes them tick. \n\nOn Thursdays, Rom’s mum Shanthi joins the show to share family stories, answer audience questions, and offer her no-nonsense take on life, proving that the funniest and most relatable conversations often happen around the kitchen table. \n\nLeave a voice note for Romesh and Shanthi by messaging +447731623355, @theromeshshow on Instagram, or emailing podcast@rangabee.com. \n\nA Ranga Bee Production."
+        },
+        "im:artist": {
+          "label": "Ranga Bee"
+        },
+        "title": {
+          "label": "The Romesh Ranganathan Show - Ranga Bee"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/gb/podcast/the-romesh-ranganathan-show/id1838594107?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/gb/podcast/the-romesh-ranganathan-show/id1838594107?uo=2",
+          "attributes": {
+            "im:id": "1838594107"
+          }
+        },
         "im:contentType": {
           "attributes": {
             "term": "Podcast",
             "label": "Podcast"
           }
         },
-        "rights": {
-          "label": "© Goalhanger"
-        },
-        "title": {
-          "label": "The Rest Is Politics: US - Goalhanger"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/gb/podcast/the-rest-is-politics-us/id1743030473?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/gb/podcast/the-rest-is-politics-us/id1743030473?uo=2",
-          "attributes": {
-            "im:id": "1743030473"
-          }
-        },
-        "im:artist": {
-          "label": "Goalhanger"
-        },
         "category": {
           "attributes": {
-            "im:id": "1527",
-            "term": "Politics",
-            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-news-politics/id1527?uo=2",
-            "label": "Politics"
+            "im:id": "1303",
+            "term": "Comedy",
+            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-comedy/id1303?uo=2",
+            "label": "Comedy"
           }
         },
         "im:releaseDate": {
-          "label": "2026-10-08T12:51:00-07:00",
+          "label": "2026-10-07T16:00:00-07:00",
           "attributes": {
-            "label": "08 October 2026"
+            "label": "07 October 2026"
           }
         }
       },
@@ -556,7 +553,30 @@
       },
       {
         "im:name": {
-          "label": "The Romesh Ranganathan Show"
+          "label": "The Rest Is Politics: US"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/42/d8/be/42d8be3a-34d0-3888-301e-b8ff7aafe1f2/mza_15214757562517445787.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/42/d8/be/42d8be3a-34d0-3888-301e-b8ff7aafe1f2/mza_15214757562517445787.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/42/d8/be/42d8be3a-34d0-3888-301e-b8ff7aafe1f2/mza_15214757562517445787.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "TRIP US uncovers secrets from inside the White House inner circles as well as taking a wider look at the intricacies of United States society and how they shape the world's most important economy.\n\nThe podcast is hosted by Anthony Scaramucci (The Mooch), former White House Director of Communications and Wall Street financier, and Katty Kay, US special correspondent for BBC who has been covering US politics for almost 30 years. \n\nStay informed with in-depth discussions on key political events, policy changes, and the forces shaping America’s future on the global stage.\n\nNew episodes released every Friday, or join our club for bonus content. Just head to https://therestispoliticsus.com to sign up today.."
         },
         "im:price": {
           "label": "Get",
@@ -565,66 +585,46 @@
             "currency": "GBP"
           }
         },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5a/d1/69/5ad169ac-3c33-fc7d-fea7-bf6f26b84fa7/mza_3429833149955313235.jpeg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5a/d1/69/5ad169ac-3c33-fc7d-fea7-bf6f26b84fa7/mza_3429833149955313235.jpeg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5a/d1/69/5ad169ac-3c33-fc7d-fea7-bf6f26b84fa7/mza_3429833149955313235.jpeg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "The world’s biggest stars join Romesh for candid conversations and loads of laughs. \n\nEvery Monday, Romesh Ranganathan meets actors, musicians, comedians and icons who share stories you won’t hear anywhere else, combining humour, heart and genuine insight. Expect backstage anecdotes, untold tales from the spotlight, and extraordinary insight into what makes them tick. \n\nOn Thursdays, Rom’s mum Shanthi joins the show to share family stories, answer audience questions, and offer her no-nonsense take on life, proving that the funniest and most relatable conversations often happen around the kitchen table. \n\nLeave a voice note for Romesh and Shanthi by messaging +447731623355, @theromeshshow on Instagram, or emailing podcast@rangabee.com. \n\nA Ranga Bee Production."
-        },
-        "im:artist": {
-          "label": "Ranga Bee"
-        },
-        "title": {
-          "label": "The Romesh Ranganathan Show - Ranga Bee"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/gb/podcast/the-romesh-ranganathan-show/id1838594107?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/gb/podcast/the-romesh-ranganathan-show/id1838594107?uo=2",
-          "attributes": {
-            "im:id": "1838594107"
-          }
-        },
         "im:contentType": {
           "attributes": {
             "term": "Podcast",
             "label": "Podcast"
           }
         },
+        "rights": {
+          "label": "© Goalhanger"
+        },
+        "title": {
+          "label": "The Rest Is Politics: US - Goalhanger"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/gb/podcast/the-rest-is-politics-us/id1743030473?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/gb/podcast/the-rest-is-politics-us/id1743030473?uo=2",
+          "attributes": {
+            "im:id": "1743030473"
+          }
+        },
+        "im:artist": {
+          "label": "Goalhanger"
+        },
         "category": {
           "attributes": {
-            "im:id": "1303",
-            "term": "Comedy",
-            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-comedy/id1303?uo=2",
-            "label": "Comedy"
+            "im:id": "1527",
+            "term": "Politics",
+            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-news-politics/id1527?uo=2",
+            "label": "Politics"
           }
         },
         "im:releaseDate": {
-          "label": "2026-10-07T16:00:00-07:00",
+          "label": "2026-10-08T12:51:00-07:00",
           "attributes": {
-            "label": "07 October 2026"
+            "label": "08 October 2026"
           }
         }
       },
@@ -784,83 +784,6 @@
       },
       {
         "im:name": {
-          "label": "SAS: The Shadow War"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/cf/e7/b1/cfe7b189-c5fd-f1fd-8ce5-67711d085684/mza_6246620597513519640.jpeg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/cf/e7/b1/cfe7b189-c5fd-f1fd-8ce5-67711d085684/mza_6246620597513519640.jpeg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/cf/e7/b1/cfe7b189-c5fd-f1fd-8ce5-67711d085684/mza_6246620597513519640.jpeg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "For decades, the SAS has operated beyond public view, its missions shaped by secrecy and its reputation burnished by the rare moments when that secrecy has fallen away.\nIn SAS: The Shadow War, The Independent's world affairs editor Sam Kiley traces the regiment’s covert campaign against the IRA in Northern Ireland, from the surveillance operations and ambushes of the Troubles to the hard questions that still endure today. Along the way, the Iranian Embassy siege and a deadly operation in Gibraltar reveal how the SAS became both a celebrated and a contested force.\nDrawing on rare and previously unheard first-hand accounts from former operatives and those who witnessed the conflict up close, this eight-part documentary series explores a war fought largely out of sight – and the legal battle now being waged over how its actions should be judged.\n Hosted on Acast. See acast.com/privacy for more information."
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "GBP"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© The Independent"
-        },
-        "title": {
-          "label": "SAS: The Shadow War - The Independent / Aurra Studios"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/gb/podcast/sas-the-shadow-war/id6816927402?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/gb/podcast/sas-the-shadow-war/id6816927402?uo=2",
-          "attributes": {
-            "im:id": "6816927402"
-          }
-        },
-        "im:artist": {
-          "label": "The Independent / Aurra Studios"
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1543",
-            "term": "Documentary",
-            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-society-culture-documentary/id1543?uo=2",
-            "label": "Documentary"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-10-04T21:00:00-07:00",
-          "attributes": {
-            "label": "04 October 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
           "label": "Overlap Daily"
         },
         "im:image": [
@@ -933,240 +856,6 @@
           "label": "2026-10-09T07:56:00-07:00",
           "attributes": {
             "label": "09 October 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "Off Menu with Ed Gamble and James Acaster"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/c4/dc/de/c4dcdec7-fbea-749e-7a03-bbe27db17137/mza_4311127974403693339.jpeg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/c4/dc/de/c4dcdec7-fbea-749e-7a03-bbe27db17137/mza_4311127974403693339.jpeg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/c4/dc/de/c4dcdec7-fbea-749e-7a03-bbe27db17137/mza_4311127974403693339.jpeg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "Comedians Ed Gamble and James Acaster invite special guests into their magical restaurant to each choose their favourite starter, main course, side dish, dessert and drink. Ever wanted to eat your dream meal? It's time to order Off Menu. Hosted on Acast. See acast.com/privacy for more information."
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "GBP"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© Plosive Limited"
-        },
-        "title": {
-          "label": "Off Menu with Ed Gamble and James Acaster - Plosive"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/gb/podcast/off-menu-with-ed-gamble-and-james-acaster/id1442950743?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/gb/podcast/off-menu-with-ed-gamble-and-james-acaster/id1442950743?uo=2",
-          "attributes": {
-            "im:id": "1442950743"
-          }
-        },
-        "im:artist": {
-          "label": "Plosive",
-          "attributes": {
-            "href": "https://podcasts.apple.com/gb/artist/plosive-productions/1554552867?uo=2"
-          }
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1496",
-            "term": "Comedy Interviews",
-            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-comedy-comedy-interviews/id1496?uo=2",
-            "label": "Comedy Interviews"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-10-06T20:00:00-07:00",
-          "attributes": {
-            "label": "06 October 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "Sh**ged Married Annoyed"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/be/b7/5c/beb75c86-9128-5709-5541-80b6c3cc6ed9/mza_18366239786920109178.jpeg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/be/b7/5c/beb75c86-9128-5709-5541-80b6c3cc6ed9/mza_18366239786920109178.jpeg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/be/b7/5c/beb75c86-9128-5709-5541-80b6c3cc6ed9/mza_18366239786920109178.jpeg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "The only way Rosie and Chris Ramsey can have a conversation without being interrupted by a toddler or ending up staring at their phones is by doing a podcast. They’ll be chatting all about life, relationships, arguments, annoyances, parenting, growing up and everything in between. Each week they will answer questions from the public and a secret celebrity."
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "GBP"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© All rights reserved"
-        },
-        "title": {
-          "label": "Sh**ged Married Annoyed - Chris & Rosie Ramsey"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/gb/podcast/sh-ged-married-annoyed/id1451489585?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/gb/podcast/sh-ged-married-annoyed/id1451489585?uo=2",
-          "attributes": {
-            "im:id": "1451489585"
-          }
-        },
-        "im:artist": {
-          "label": "Chris & Rosie Ramsey"
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1303",
-            "term": "Comedy",
-            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-comedy/id1303?uo=2",
-            "label": "Comedy"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-10-08T20:40:00-07:00",
-          "attributes": {
-            "label": "08 October 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "Wolf & Owl with Romesh Ranganathan and Tom Davis"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d6/61/05/d66105ec-27da-f023-684b-585c462bf938/mza_13555541829995193084.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d6/61/05/d66105ec-27da-f023-684b-585c462bf938/mza_13555541829995193084.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d6/61/05/d66105ec-27da-f023-684b-585c462bf938/mza_13555541829995193084.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "Comedians Tom Davis (The Wolf) and Romesh Ranganathan (The Owl) shoot the breeze for an hour a week because they couldn’t work out a format. They also take on listener problems if they remember to ask for them before they record. Not enough podcasts are just people talking with no real purpose. We’ve come to change all that. It’s a huge waste of time, but an entertaining one. Contains swearing because it’s really cool.\n\n\"As shooting the breeze goes, Tom and Romesh are as good as it gets\" - Evening Standard\n\nFor questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you.\n\nInstagram - @wolfowlpod\n\nTikTok - @wolfowlpodcast\n\nYouTube - www.youtube.com/WolfandOwlPodcast\n\nMerch & Mailing List - https://wolfandowlpod.com/\n\nA Ranga Bee Production in partnership with Platform Media"
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "GBP"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© Ranga Bee & Platform Media"
-        },
-        "title": {
-          "label": "Wolf & Owl with Romesh Ranganathan and Tom Davis - Ranga Bee & Platform Media"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/gb/podcast/wolf-owl-with-romesh-ranganathan-and-tom-davis/id1540826523?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/gb/podcast/wolf-owl-with-romesh-ranganathan-and-tom-davis/id1540826523?uo=2",
-          "attributes": {
-            "im:id": "1540826523"
-          }
-        },
-        "im:artist": {
-          "label": "Ranga Bee & Platform Media"
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1303",
-            "term": "Comedy",
-            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-comedy/id1303?uo=2",
-            "label": "Comedy"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-10-08T16:00:00-07:00",
-          "attributes": {
-            "label": "08 October 2026"
           }
         }
       },
@@ -1252,7 +941,30 @@
       },
       {
         "im:name": {
-          "label": "The Diary Of A CEO with Steven Bartlett"
+          "label": "SAS: The Shadow War"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/cf/e7/b1/cfe7b189-c5fd-f1fd-8ce5-67711d085684/mza_6246620597513519640.jpeg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/cf/e7/b1/cfe7b189-c5fd-f1fd-8ce5-67711d085684/mza_6246620597513519640.jpeg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/cf/e7/b1/cfe7b189-c5fd-f1fd-8ce5-67711d085684/mza_6246620597513519640.jpeg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "For decades, the SAS has operated beyond public view, its missions shaped by secrecy and its reputation burnished by the rare moments when that secrecy has fallen away.\nIn SAS: The Shadow War, The Independent's world affairs editor Sam Kiley traces the regiment’s covert campaign against the IRA in Northern Ireland, from the surveillance operations and ambushes of the Troubles to the hard questions that still endure today. Along the way, the Iranian Embassy siege and a deadly operation in Gibraltar reveal how the SAS became both a celebrated and a contested force.\nDrawing on rare and previously unheard first-hand accounts from former operatives and those who witnessed the conflict up close, this eight-part documentary series explores a war fought largely out of sight – and the legal battle now being waged over how its actions should be judged.\n Hosted on Acast. See acast.com/privacy for more information."
         },
         "im:price": {
           "label": "Get",
@@ -1261,46 +973,81 @@
             "currency": "GBP"
           }
         },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© The Independent"
+        },
+        "title": {
+          "label": "SAS: The Shadow War - The Independent / Aurra Studios"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/gb/podcast/sas-the-shadow-war/id6816927402?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/gb/podcast/sas-the-shadow-war/id6816927402?uo=2",
+          "attributes": {
+            "im:id": "6816927402"
+          }
+        },
+        "im:artist": {
+          "label": "The Independent / Aurra Studios"
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1543",
+            "term": "Documentary",
+            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-society-culture-documentary/id1543?uo=2",
+            "label": "Documentary"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-10-04T21:00:00-07:00",
+          "attributes": {
+            "label": "04 October 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "Off Menu with Ed Gamble and James Acaster"
+        },
         "im:image": [
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/69/af/0d/69af0ddd-1e0f-7ae3-c84b-88f18e31ad0c/mza_14445920128472365296.png/55x55bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/c4/dc/de/c4dcdec7-fbea-749e-7a03-bbe27db17137/mza_4311127974403693339.jpeg/55x55bb.png",
             "attributes": {
               "height": "55"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/69/af/0d/69af0ddd-1e0f-7ae3-c84b-88f18e31ad0c/mza_14445920128472365296.png/60x60bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/c4/dc/de/c4dcdec7-fbea-749e-7a03-bbe27db17137/mza_4311127974403693339.jpeg/60x60bb.png",
             "attributes": {
               "height": "60"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/69/af/0d/69af0ddd-1e0f-7ae3-c84b-88f18e31ad0c/mza_14445920128472365296.png/170x170bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/c4/dc/de/c4dcdec7-fbea-749e-7a03-bbe27db17137/mza_4311127974403693339.jpeg/170x170bb.png",
             "attributes": {
               "height": "170"
             }
           }
         ],
         "summary": {
-          "label": "Welcome to The Diary Of A CEO where you'll find raw, human conversations with the world’s most fascinating experts, storytellers, thinkers and business leaders.\n\nHosted by Steven Bartlett (entrepreneur, investor, author, and founder of Steven.com and Flight Fund) this channel was created with a simple mission: to share personal lessons that help both you live better, more fulfilling lives.\n\nWhat is DOAC? Beyond Diary Of A CEO, the acronym reflects our core ethos:\n\n- Dreamers — Dream boldly.\n- Open-minded — Think without limits.\n- Awareness — Expand your perspective.\n- Connection — Feel more connected.\n\nThis is your corner of the internet to dream boldly, think openly, expand your awareness, and feel more connected.\nThe Diary Of A CEO:\n◼ Join DOAC circle here - https://doaccircle.com/\n◼ Buy The Diary Of A CEO book here - https://link.thediaryofaceo.com/BWjLTZK\n◼ Shop The Diary Of A CEO collection: https://thediary.com/collections/shop\n◼ Get email updates - https://link.thediaryofaceo.com/5IB1H6E\n◼ Follow Steven - https://link.thediaryofaceo.com/AGU9QP4"
+          "label": "Comedians Ed Gamble and James Acaster invite special guests into their magical restaurant to each choose their favourite starter, main course, side dish, dessert and drink. Ever wanted to eat your dream meal? It's time to order Off Menu. Hosted on Acast. See acast.com/privacy for more information."
         },
-        "im:artist": {
-          "label": "DOAC"
-        },
-        "title": {
-          "label": "The Diary Of A CEO with Steven Bartlett - DOAC"
-        },
-        "link": {
+        "im:price": {
+          "label": "Get",
           "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/gb/podcast/the-diary-of-a-ceo-with-steven-bartlett/id1291423644?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/gb/podcast/the-diary-of-a-ceo-with-steven-bartlett/id1291423644?uo=2",
-          "attributes": {
-            "im:id": "1291423644"
+            "amount": "0",
+            "currency": "GBP"
           }
         },
         "im:contentType": {
@@ -1309,16 +1056,118 @@
             "label": "Podcast"
           }
         },
+        "rights": {
+          "label": "© Plosive Limited"
+        },
+        "title": {
+          "label": "Off Menu with Ed Gamble and James Acaster - Plosive"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/gb/podcast/off-menu-with-ed-gamble-and-james-acaster/id1442950743?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/gb/podcast/off-menu-with-ed-gamble-and-james-acaster/id1442950743?uo=2",
+          "attributes": {
+            "im:id": "1442950743"
+          }
+        },
+        "im:artist": {
+          "label": "Plosive",
+          "attributes": {
+            "href": "https://podcasts.apple.com/gb/artist/plosive-productions/1554552867?uo=2"
+          }
+        },
         "category": {
           "attributes": {
-            "im:id": "1321",
-            "term": "Business",
-            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-business/id1321?uo=2",
-            "label": "Business"
+            "im:id": "1496",
+            "term": "Comedy Interviews",
+            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-comedy-comedy-interviews/id1496?uo=2",
+            "label": "Comedy Interviews"
           }
         },
         "im:releaseDate": {
-          "label": "2026-10-07T22:00:00-07:00",
+          "label": "2026-10-06T20:00:00-07:00",
+          "attributes": {
+            "label": "06 October 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "Rosebud with Gyles Brandreth"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/ce/1d/c6/ce1dc6d1-1323-d07d-3a56-f1e6c259a845/mza_7854963181346373100.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/ce/1d/c6/ce1dc6d1-1323-d07d-3a56-f1e6c259a845/mza_7854963181346373100.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/ce/1d/c6/ce1dc6d1-1323-d07d-3a56-f1e6c259a845/mza_7854963181346373100.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "Legendary British writer, broadcaster, ex-MP and TV star Gyles Brandreth hosts “Rosebud”, in which he talks to famous and fascinating people about their first memories and first experiences. Expect laughter, nostalgia, memorable stories, revelations and, of course, the odd name-drop from Gyles.  We want to hear about your first memories - email us at hello@rosebudpodcast.com And you can follow us on Twitter and Instagram at @therosebudpod Artwork: Freya Betts. Music: Phil Lepherd. Producer: Harriet Jaine. Rosebud is a 'Plain Jaine Media' production. Creator: Gyles Brandreth/Plain Jaine Media Hosted on Acast. See acast.com/privacy for more information."
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "GBP"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© Gyles Brandreth"
+        },
+        "title": {
+          "label": "Rosebud with Gyles Brandreth - Gyles Brandreth / Plain Jaine Media"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/gb/podcast/rosebud-with-gyles-brandreth/id1704806594?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/gb/podcast/rosebud-with-gyles-brandreth/id1704806594?uo=2",
+          "attributes": {
+            "im:id": "1704806594"
+          }
+        },
+        "im:artist": {
+          "label": "Gyles Brandreth / Plain Jaine Media"
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1324",
+            "term": "Society & Culture",
+            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-society-culture/id1324?uo=2",
+            "label": "Society & Culture"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-10-07T05:01:00-07:00",
           "attributes": {
             "label": "07 October 2026"
           }
@@ -1406,30 +1255,7 @@
       },
       {
         "im:name": {
-          "label": "Rosebud with Gyles Brandreth"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/ce/1d/c6/ce1dc6d1-1323-d07d-3a56-f1e6c259a845/mza_7854963181346373100.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/ce/1d/c6/ce1dc6d1-1323-d07d-3a56-f1e6c259a845/mza_7854963181346373100.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/ce/1d/c6/ce1dc6d1-1323-d07d-3a56-f1e6c259a845/mza_7854963181346373100.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "Legendary British writer, broadcaster, ex-MP and TV star Gyles Brandreth hosts “Rosebud”, in which he talks to famous and fascinating people about their first memories and first experiences. Expect laughter, nostalgia, memorable stories, revelations and, of course, the odd name-drop from Gyles.  We want to hear about your first memories - email us at hello@rosebudpodcast.com And you can follow us on Twitter and Instagram at @therosebudpod Artwork: Freya Betts. Music: Phil Lepherd. Producer: Harriet Jaine. Rosebud is a 'Plain Jaine Media' production. Creator: Gyles Brandreth/Plain Jaine Media Hosted on Acast. See acast.com/privacy for more information."
+          "label": "The Diary Of A CEO with Steven Bartlett"
         },
         "im:price": {
           "label": "Get",
@@ -1438,81 +1264,46 @@
             "currency": "GBP"
           }
         },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© Gyles Brandreth"
-        },
-        "title": {
-          "label": "Rosebud with Gyles Brandreth - Gyles Brandreth / Plain Jaine Media"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/gb/podcast/rosebud-with-gyles-brandreth/id1704806594?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/gb/podcast/rosebud-with-gyles-brandreth/id1704806594?uo=2",
-          "attributes": {
-            "im:id": "1704806594"
-          }
-        },
-        "im:artist": {
-          "label": "Gyles Brandreth / Plain Jaine Media"
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1324",
-            "term": "Society & Culture",
-            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-society-culture/id1324?uo=2",
-            "label": "Society & Culture"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-10-07T05:01:00-07:00",
-          "attributes": {
-            "label": "07 October 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "Stick to Football"
-        },
         "im:image": [
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/af/ad/8e/afad8eae-8ffc-d6cc-4c72-57d6f903e962/mza_2603006646942982791.jpeg/55x55bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/69/af/0d/69af0ddd-1e0f-7ae3-c84b-88f18e31ad0c/mza_14445920128472365296.png/55x55bb.png",
             "attributes": {
               "height": "55"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/af/ad/8e/afad8eae-8ffc-d6cc-4c72-57d6f903e962/mza_2603006646942982791.jpeg/60x60bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/69/af/0d/69af0ddd-1e0f-7ae3-c84b-88f18e31ad0c/mza_14445920128472365296.png/60x60bb.png",
             "attributes": {
               "height": "60"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/af/ad/8e/afad8eae-8ffc-d6cc-4c72-57d6f903e962/mza_2603006646942982791.jpeg/170x170bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/69/af/0d/69af0ddd-1e0f-7ae3-c84b-88f18e31ad0c/mza_14445920128472365296.png/170x170bb.png",
             "attributes": {
               "height": "170"
             }
           }
         ],
         "summary": {
-          "label": "An original series from The Overlap - with Gary Neville, Jamie Carragher, Jill Scott, Ian Wright and Roy Keane, featuring special guests discussing all things football. Hosted on Acast. See acast.com/privacy for more information."
+          "label": "Welcome to The Diary Of A CEO where you'll find raw, human conversations with the world’s most fascinating experts, storytellers, thinkers and business leaders.\n\nHosted by Steven Bartlett (entrepreneur, investor, author, and founder of Steven.com and Flight Fund) this channel was created with a simple mission: to share personal lessons that help both you live better, more fulfilling lives.\n\nWhat is DOAC? Beyond Diary Of A CEO, the acronym reflects our core ethos:\n\n- Dreamers — Dream boldly.\n- Open-minded — Think without limits.\n- Awareness — Expand your perspective.\n- Connection — Feel more connected.\n\nThis is your corner of the internet to dream boldly, think openly, expand your awareness, and feel more connected.\nThe Diary Of A CEO:\n◼ Join DOAC circle here - https://doaccircle.com/\n◼ Buy The Diary Of A CEO book here - https://link.thediaryofaceo.com/BWjLTZK\n◼ Shop The Diary Of A CEO collection: https://thediary.com/collections/shop\n◼ Get email updates - https://link.thediaryofaceo.com/5IB1H6E\n◼ Follow Steven - https://link.thediaryofaceo.com/AGU9QP4"
         },
-        "im:price": {
-          "label": "Get",
+        "im:artist": {
+          "label": "DOAC"
+        },
+        "title": {
+          "label": "The Diary Of A CEO with Steven Bartlett - DOAC"
+        },
+        "link": {
           "attributes": {
-            "amount": "0",
-            "currency": "GBP"
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/gb/podcast/the-diary-of-a-ceo-with-steven-bartlett/id1291423644?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/gb/podcast/the-diary-of-a-ceo-with-steven-bartlett/id1291423644?uo=2",
+          "attributes": {
+            "im:id": "1291423644"
           }
         },
         "im:contentType": {
@@ -1521,117 +1312,18 @@
             "label": "Podcast"
           }
         },
-        "rights": {
-          "label": "© The Overlap"
-        },
-        "title": {
-          "label": "Stick to Football - The Overlap"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/gb/podcast/stick-to-football/id1709142395?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/gb/podcast/stick-to-football/id1709142395?uo=2",
-          "attributes": {
-            "im:id": "1709142395"
-          }
-        },
-        "im:artist": {
-          "label": "The Overlap"
-        },
         "category": {
           "attributes": {
-            "im:id": "1546",
-            "term": "Soccer",
-            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-sport-football/id1546?uo=2",
-            "label": "Football"
+            "im:id": "1321",
+            "term": "Business",
+            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-business/id1321?uo=2",
+            "label": "Business"
           }
         },
         "im:releaseDate": {
-          "label": "2026-10-07T21:00:00-07:00",
+          "label": "2026-10-08T22:00:00-07:00",
           "attributes": {
-            "label": "07 October 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "London Revisited"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6d/3d/21/6d3d2183-645d-34fa-da61-b8587fa63b08/mza_13107596068373721475.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6d/3d/21/6d3d2183-645d-34fa-da61-b8587fa63b08/mza_13107596068373721475.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6d/3d/21/6d3d2183-645d-34fa-da61-b8587fa63b08/mza_13107596068373721475.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "From its beginnings as a backwater of the Roman Empire to its heyday at the heart of the British Empire and up to the eve of the Great War, Rosemary Hill charts London’s history through waves of expansion and contraction with the help of historians, antiquaries and archaeologists.\n\nLondon's past is everywhere beneath its streets, in the geology and archeology of its deep and ancient history, and in its mythic lives, in William Blake's Albion and Cobbett's 'Great Wen', the home of Dick Whittington and King Lud. This will be the London described by Tacitus, Shakespeare and Virginia Woolf, a city shaped by Boudicca, Christopher Wren and Joseph Bazalgette, and a story of countless disasters, recoveries and triumphs unfolding over more than 2,000 years.\n\nRosemary Hill is a writer, historian and contributor to the London Review of Books. Her books include ‘God's Architect', 'Stonehenge' and ‘Time’s Witness: History in the Age of Romanticism’. \n\nTo listen in full, and to all our other Close Readings series, sign up:\n\nApple Podcasts: https://lrb.me/applesignuplr\n\nOther podcast apps: https://lrb.me/scsignuplr\n\nGet in touch: podcasts@lrb.co.uk\n\nWhat is Close Readings? \n\nClose Readings is a multi-series podcast from the London Review of Books that covers different periods and themes of literature, history and philosophy. Each year there are several series running simultaneously, with a new episode appearing every week.\n\nSubscribe to Close Readings for access to all past and current series (see links above)."
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "GBP"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© LRB Ltd"
-        },
-        "title": {
-          "label": "London Revisited - London Review of Books"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/gb/podcast/london-revisited/id1882044043?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/gb/podcast/london-revisited/id1882044043?uo=2",
-          "attributes": {
-            "im:id": "1882044043"
-          }
-        },
-        "im:artist": {
-          "label": "London Review of Books"
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1487",
-            "term": "History",
-            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-history/id1487?uo=2",
-            "label": "History"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-10-07T22:00:00-07:00",
-          "attributes": {
-            "label": "07 October 2026"
+            "label": "08 October 2026"
           }
         }
       },
@@ -1709,9 +1401,243 @@
           }
         },
         "im:releaseDate": {
-          "label": "2026-10-09T00:31:00-07:00",
+          "label": "2026-10-10T09:05:00-07:00",
           "attributes": {
-            "label": "09 October 2026"
+            "label": "10 October 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "Wolf & Owl with Romesh Ranganathan and Tom Davis"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d6/61/05/d66105ec-27da-f023-684b-585c462bf938/mza_13555541829995193084.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d6/61/05/d66105ec-27da-f023-684b-585c462bf938/mza_13555541829995193084.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d6/61/05/d66105ec-27da-f023-684b-585c462bf938/mza_13555541829995193084.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "Comedians Tom Davis (The Wolf) and Romesh Ranganathan (The Owl) shoot the breeze for an hour a week because they couldn’t work out a format. They also take on listener problems if they remember to ask for them before they record. Not enough podcasts are just people talking with no real purpose. We’ve come to change all that. It’s a huge waste of time, but an entertaining one. Contains swearing because it’s really cool.\n\n\"As shooting the breeze goes, Tom and Romesh are as good as it gets\" - Evening Standard\n\nFor questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you.\n\nInstagram - @wolfowlpod\n\nTikTok - @wolfowlpodcast\n\nYouTube - www.youtube.com/WolfandOwlPodcast\n\nMerch & Mailing List - https://wolfandowlpod.com/\n\nA Ranga Bee Production in partnership with Platform Media"
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "GBP"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© Ranga Bee & Platform Media"
+        },
+        "title": {
+          "label": "Wolf & Owl with Romesh Ranganathan and Tom Davis - Ranga Bee & Platform Media"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/gb/podcast/wolf-owl-with-romesh-ranganathan-and-tom-davis/id1540826523?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/gb/podcast/wolf-owl-with-romesh-ranganathan-and-tom-davis/id1540826523?uo=2",
+          "attributes": {
+            "im:id": "1540826523"
+          }
+        },
+        "im:artist": {
+          "label": "Ranga Bee & Platform Media"
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1303",
+            "term": "Comedy",
+            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-comedy/id1303?uo=2",
+            "label": "Comedy"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-10-08T16:00:00-07:00",
+          "attributes": {
+            "label": "08 October 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "Sh**ged Married Annoyed"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/be/b7/5c/beb75c86-9128-5709-5541-80b6c3cc6ed9/mza_18366239786920109178.jpeg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/be/b7/5c/beb75c86-9128-5709-5541-80b6c3cc6ed9/mza_18366239786920109178.jpeg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/be/b7/5c/beb75c86-9128-5709-5541-80b6c3cc6ed9/mza_18366239786920109178.jpeg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "The only way Rosie and Chris Ramsey can have a conversation without being interrupted by a toddler or ending up staring at their phones is by doing a podcast. They’ll be chatting all about life, relationships, arguments, annoyances, parenting, growing up and everything in between. Each week they will answer questions from the public and a secret celebrity."
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "GBP"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© All rights reserved"
+        },
+        "title": {
+          "label": "Sh**ged Married Annoyed - Chris & Rosie Ramsey"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/gb/podcast/sh-ged-married-annoyed/id1451489585?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/gb/podcast/sh-ged-married-annoyed/id1451489585?uo=2",
+          "attributes": {
+            "im:id": "1451489585"
+          }
+        },
+        "im:artist": {
+          "label": "Chris & Rosie Ramsey"
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1303",
+            "term": "Comedy",
+            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-comedy/id1303?uo=2",
+            "label": "Comedy"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-10-08T20:40:00-07:00",
+          "attributes": {
+            "label": "08 October 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "Casefile True Crime"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/32/81/a3/3281a345-6fa5-1d0d-b0bc-f02b0850a0ae/mza_17562537467118278179.jpeg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/32/81/a3/3281a345-6fa5-1d0d-b0bc-f02b0850a0ae/mza_17562537467118278179.jpeg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/32/81/a3/3281a345-6fa5-1d0d-b0bc-f02b0850a0ae/mza_17562537467118278179.jpeg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "Fact is scarier than fiction. Subscribe to Casefile Premium to receive ad-free episodes released one week early, along with access to bonus Q&A’s, our exclusive show ‘Behind the Files’, and more. Hosted on Acast. See acast.com/privacy for more information."
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "GBP"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© Casefile True Crime"
+        },
+        "title": {
+          "label": "Casefile True Crime - Casefile Presents"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/gb/podcast/casefile-true-crime/id998568017?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/gb/podcast/casefile-true-crime/id998568017?uo=2",
+          "attributes": {
+            "im:id": "998568017"
+          }
+        },
+        "im:artist": {
+          "label": "Casefile Presents",
+          "attributes": {
+            "href": "https://podcasts.apple.com/gb/artist/casefile-presents/1533870296?uo=2"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1488",
+            "term": "True Crime",
+            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-true-crime/id1488?uo=2",
+            "label": "True Crime"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-10-10T00:56:00-07:00",
+          "attributes": {
+            "label": "10 October 2026"
           }
         }
       },
@@ -1794,6 +1720,80 @@
       },
       {
         "im:name": {
+          "label": "The Rest Is Classified"
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "GBP"
+          }
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f4/09/a7/f409a749-1c83-ddb6-26ca-3edb6deee0f9/mza_6566356699697291626.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f4/09/a7/f409a749-1c83-ddb6-26ca-3edb6deee0f9/mza_6566356699697291626.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f4/09/a7/f409a749-1c83-ddb6-26ca-3edb6deee0f9/mza_6566356699697291626.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "Enter the secretive world of spies, espionage, and covert operations. \nHosted by former CIA analyst turned spy novelist, David McCloskey, and veteran security correspondent, Gordon Corera, this podcast unravels real-life spy stories, intelligence secrets, and the hidden power struggles shaping global events. \nFrom Cold War espionage to modern-day intelligence agencies like the CIA, MI6, and Mossad, explore the world of double agents, classified missions, and the shadowy figures who operate in them. Whether you're a true crime addict, a thriller fan, or fascinated by spy stories, this is the show for you."
+        },
+        "im:artist": {
+          "label": "Goalhanger"
+        },
+        "title": {
+          "label": "The Rest Is Classified - Goalhanger"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/gb/podcast/the-rest-is-classified/id1780384916?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/gb/podcast/the-rest-is-classified/id1780384916?uo=2",
+          "attributes": {
+            "im:id": "1780384916"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1487",
+            "term": "History",
+            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-history/id1487?uo=2",
+            "label": "History"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-10-25T17:00:00-07:00",
+          "attributes": {
+            "label": "25 October 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
           "label": "RedHanded"
         },
         "im:price": {
@@ -1868,30 +1868,30 @@
       },
       {
         "im:name": {
-          "label": "Joe and James Fact Up"
+          "label": "Stick to Football"
         },
         "im:image": [
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5f/36/a9/5f36a9a7-2b07-d480-aa03-6e666e38e39d/mza_7102060423812740630.jpeg/55x55bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/af/ad/8e/afad8eae-8ffc-d6cc-4c72-57d6f903e962/mza_2603006646942982791.jpeg/55x55bb.png",
             "attributes": {
               "height": "55"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5f/36/a9/5f36a9a7-2b07-d480-aa03-6e666e38e39d/mza_7102060423812740630.jpeg/60x60bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/af/ad/8e/afad8eae-8ffc-d6cc-4c72-57d6f903e962/mza_2603006646942982791.jpeg/60x60bb.png",
             "attributes": {
               "height": "60"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5f/36/a9/5f36a9a7-2b07-d480-aa03-6e666e38e39d/mza_7102060423812740630.jpeg/170x170bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/af/ad/8e/afad8eae-8ffc-d6cc-4c72-57d6f903e962/mza_2603006646942982791.jpeg/170x170bb.png",
             "attributes": {
               "height": "170"
             }
           }
         ],
         "summary": {
-          "label": "Joe Thomas and James Buckley blur the lines between fun, facts and friendship! Join them, every Tuesday, as they rummage through the internet and their brains for interesting facts and discuss them in a way no podcast has ever done before! They’ll be the arbiters of the truth for the curiosities you want to believe plus they’ll share what’s going on in their lives and of course reminisce on their favourite moments from The Inbetweeners. Hosted on Acast. See acast.com/privacy for more information."
+          "label": "An original series from The Overlap - with Gary Neville, Jamie Carragher, Jill Scott, Ian Wright and Roy Keane, featuring special guests discussing all things football. Hosted on Acast. See acast.com/privacy for more information."
         },
         "im:price": {
           "label": "Get",
@@ -1907,45 +1907,45 @@
           }
         },
         "rights": {
-          "label": "© Audio Always Ltd"
+          "label": "© The Overlap"
         },
         "title": {
-          "label": "Joe and James Fact Up - Audio Always"
+          "label": "Stick to Football - The Overlap"
         },
         "link": {
           "attributes": {
             "rel": "alternate",
             "type": "text/html",
-            "href": "https://podcasts.apple.com/gb/podcast/joe-and-james-fact-up/id1838423659?uo=2"
+            "href": "https://podcasts.apple.com/gb/podcast/stick-to-football/id1709142395?uo=2"
           }
         },
         "id": {
-          "label": "https://podcasts.apple.com/gb/podcast/joe-and-james-fact-up/id1838423659?uo=2",
+          "label": "https://podcasts.apple.com/gb/podcast/stick-to-football/id1709142395?uo=2",
           "attributes": {
-            "im:id": "1838423659"
+            "im:id": "1709142395"
           }
         },
         "im:artist": {
-          "label": "Audio Always"
+          "label": "The Overlap"
         },
         "category": {
           "attributes": {
-            "im:id": "1303",
-            "term": "Comedy",
-            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-comedy/id1303?uo=2",
-            "label": "Comedy"
+            "im:id": "1546",
+            "term": "Soccer",
+            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-sport-football/id1546?uo=2",
+            "label": "Football"
           }
         },
         "im:releaseDate": {
-          "label": "2026-10-05T20:00:00-07:00",
+          "label": "2026-10-07T21:00:00-07:00",
           "attributes": {
-            "label": "05 October 2026"
+            "label": "07 October 2026"
           }
         }
       }
     ],
     "updated": {
-      "label": "2026-10-10T05:17:10-07:00"
+      "label": "2026-10-11T05:33:03-07:00"
     },
     "rights": {
       "label": "Copyright 2008 Apple Inc."
