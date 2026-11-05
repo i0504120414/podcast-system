@@ -11,160 +11,6 @@
     "entry": [
       {
         "im:name": {
-          "label": "The News Agents"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/15/c9/9a/15c99a23-093f-ec33-11c7-1d0868ba0d2f/mza_11260062413365049894.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/15/c9/9a/15c99a23-093f-ec33-11c7-1d0868ba0d2f/mza_11260062413365049894.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/15/c9/9a/15c99a23-093f-ec33-11c7-1d0868ba0d2f/mza_11260062413365049894.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "Emily Maitlis, Jon Sopel and Lewis Goodall – three of the UK’s top journalists – host an award-winning daily news podcast: The News Agents.  \n\nThey’re not just here to tell you what's happening, but why. Expect astute analysis and explanation of the day's news – and a healthy dose of scepticism and the ability to laugh at it all when needed.\n\nEpisodes are available every weekday afternoon. You can listen to The News Agents on Alexa, just say \"Alexa ask Global Player to play The News Agents\"\n\nThe News Agents is a Global Player Original podcast.\n\nFor advertising opportunities on this podcast, email: GlobalStudiosSales@global.com\n\nYou can visit our website here https://www.thenewsagents.co.uk/"
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "GBP"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© Global"
-        },
-        "title": {
-          "label": "The News Agents - Global"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/gb/podcast/the-news-agents/id1640878689?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/gb/podcast/the-news-agents/id1640878689?uo=2",
-          "attributes": {
-            "im:id": "1640878689"
-          }
-        },
-        "im:artist": {
-          "label": "Global"
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1526",
-            "term": "Daily News",
-            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-news-daily-news/id1526?uo=2",
-            "label": "Daily News"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-11-03T23:00:00-07:00",
-          "attributes": {
-            "label": "03 November 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "The Rest Is Politics: US"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4a/4b/36/4a4b3665-34d9-84b2-afe5-5580c41a0057/mza_15879398446250847728.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4a/4b/36/4a4b3665-34d9-84b2-afe5-5580c41a0057/mza_15879398446250847728.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4a/4b/36/4a4b3665-34d9-84b2-afe5-5580c41a0057/mza_15879398446250847728.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "TRIP US uncovers secrets from inside the White House inner circles as well as taking a wider look at the intricacies of United States society and how they shape the world's most important economy.\n\nThe podcast is hosted by Anthony Scaramucci (The Mooch), former White House Director of Communications and Wall Street financier, and Katty Kay, US special correspondent for BBC who has been covering US politics for almost 30 years. \n\nStay informed with in-depth discussions on key political events, policy changes, and the forces shaping America’s future on the global stage.\n\nNew episodes released every Friday, or join our club for bonus content. Just head to https://therestispoliticsus.com to sign up today.."
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "GBP"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© Goalhanger"
-        },
-        "title": {
-          "label": "The Rest Is Politics: US - Goalhanger"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/gb/podcast/the-rest-is-politics-us/id1743030473?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/gb/podcast/the-rest-is-politics-us/id1743030473?uo=2",
-          "attributes": {
-            "im:id": "1743030473"
-          }
-        },
-        "im:artist": {
-          "label": "Goalhanger"
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1527",
-            "term": "Politics",
-            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-news-politics/id1527?uo=2",
-            "label": "Politics"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-11-04T03:59:00-07:00",
-          "attributes": {
-            "label": "04 November 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
           "label": "The Rest Is Politics"
         },
         "im:image": [
@@ -242,30 +88,30 @@
       },
       {
         "im:name": {
-          "label": "The Rest Is Entertainment"
+          "label": "The News Agents"
         },
         "im:image": [
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bc/26/ff/bc26ff82-e67c-cb0a-203b-654a9c72d19d/mza_3952332343334175509.jpg/55x55bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/15/c9/9a/15c99a23-093f-ec33-11c7-1d0868ba0d2f/mza_11260062413365049894.jpg/55x55bb.png",
             "attributes": {
               "height": "55"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bc/26/ff/bc26ff82-e67c-cb0a-203b-654a9c72d19d/mza_3952332343334175509.jpg/60x60bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/15/c9/9a/15c99a23-093f-ec33-11c7-1d0868ba0d2f/mza_11260062413365049894.jpg/60x60bb.png",
             "attributes": {
               "height": "60"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bc/26/ff/bc26ff82-e67c-cb0a-203b-654a9c72d19d/mza_3952332343334175509.jpg/170x170bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/15/c9/9a/15c99a23-093f-ec33-11c7-1d0868ba0d2f/mza_11260062413365049894.jpg/170x170bb.png",
             "attributes": {
               "height": "170"
             }
           }
         ],
         "summary": {
-          "label": "Richard Osman & Marina Hyde share insider knowledge on TV, movies, and pop culture.\nStay up to date on what's hot and what's not in entertainment with behind-the-scenes insights from Richard and Marina. As two of the most connected voices in the business, they provide a unique perspective on the latest television series, film releases, and cultural trends. Their podcast explores everything from media gossip to industry secrets, giving listeners the inside track on the world of showbiz.\nWhether you're a fan of gritty dramas, blockbuster movies, or celebrity news, this podcast is your ultimate guide to entertainment. Richard and Marina offer fresh, expert analysis on the latest hits, star power, and cultural moments shaping the media landscape, making sure you’re always in the know about the entertainment world.\nThe Rest Is Entertainment Plus: Become a member for exclusive bonus content, early access to our Q&A episodes, ad-free listening, access to our exclusive newsletter archive, discount book prices on selected titles with our partners at Coles, early ticket access to future live events, and our members’ chatroom on Discord.\nJust head to therestisentertainment.com to sign up, or start a free trial today on Apple Podcasts: apple.co/therestisentertainment.\nFor more Goalhanger Podcasts, head to www.goalhanger.com."
+          "label": "Emily Maitlis, Jon Sopel and Lewis Goodall – three of the UK’s top journalists – host an award-winning daily news podcast: The News Agents.  \n\nThey’re not just here to tell you what's happening, but why. Expect astute analysis and explanation of the day's news – and a healthy dose of scepticism and the ability to laugh at it all when needed.\n\nEpisodes are available every weekday afternoon. You can listen to The News Agents on Alexa, just say \"Alexa ask Global Player to play The News Agents\"\n\nThe News Agents is a Global Player Original podcast.\n\nFor advertising opportunities on this podcast, email: GlobalStudiosSales@global.com\n\nYou can visit our website here https://www.thenewsagents.co.uk/"
         },
         "im:price": {
           "label": "Get",
@@ -281,22 +127,99 @@
           }
         },
         "rights": {
-          "label": "© 766979"
+          "label": "© Global"
         },
         "title": {
-          "label": "The Rest Is Entertainment - Goalhanger"
+          "label": "The News Agents - Global"
         },
         "link": {
           "attributes": {
             "rel": "alternate",
             "type": "text/html",
-            "href": "https://podcasts.apple.com/gb/podcast/the-rest-is-entertainment/id1718287198?uo=2"
+            "href": "https://podcasts.apple.com/gb/podcast/the-news-agents/id1640878689?uo=2"
           }
         },
         "id": {
-          "label": "https://podcasts.apple.com/gb/podcast/the-rest-is-entertainment/id1718287198?uo=2",
+          "label": "https://podcasts.apple.com/gb/podcast/the-news-agents/id1640878689?uo=2",
           "attributes": {
-            "im:id": "1718287198"
+            "im:id": "1640878689"
+          }
+        },
+        "im:artist": {
+          "label": "Global"
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1526",
+            "term": "Daily News",
+            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-news-daily-news/id1526?uo=2",
+            "label": "Daily News"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-11-04T10:10:00-07:00",
+          "attributes": {
+            "label": "04 November 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "The Rest Is Politics: US"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4a/4b/36/4a4b3665-34d9-84b2-afe5-5580c41a0057/mza_15879398446250847728.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4a/4b/36/4a4b3665-34d9-84b2-afe5-5580c41a0057/mza_15879398446250847728.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4a/4b/36/4a4b3665-34d9-84b2-afe5-5580c41a0057/mza_15879398446250847728.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "TRIP US uncovers secrets from inside the White House inner circles as well as taking a wider look at the intricacies of United States society and how they shape the world's most important economy.\n\nThe podcast is hosted by Anthony Scaramucci (The Mooch), former White House Director of Communications and Wall Street financier, and Katty Kay, US special correspondent for BBC who has been covering US politics for almost 30 years. \n\nStay informed with in-depth discussions on key political events, policy changes, and the forces shaping America’s future on the global stage.\n\nNew episodes released every Friday, or join our club for bonus content. Just head to https://therestispoliticsus.com to sign up today.."
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "GBP"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© Goalhanger"
+        },
+        "title": {
+          "label": "The Rest Is Politics: US - Goalhanger"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/gb/podcast/the-rest-is-politics-us/id1743030473?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/gb/podcast/the-rest-is-politics-us/id1743030473?uo=2",
+          "attributes": {
+            "im:id": "1743030473"
           }
         },
         "im:artist": {
@@ -304,14 +227,14 @@
         },
         "category": {
           "attributes": {
-            "im:id": "1309",
-            "term": "TV & Film",
-            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-tv-film/id1309?uo=2",
-            "label": "TV & Film"
+            "im:id": "1527",
+            "term": "Politics",
+            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-news-politics/id1527?uo=2",
+            "label": "Politics"
           }
         },
         "im:releaseDate": {
-          "label": "2026-11-04T17:00:00-07:00",
+          "label": "2026-11-04T04:11:00-07:00",
           "attributes": {
             "label": "04 November 2026"
           }
@@ -385,9 +308,9 @@
           }
         },
         "im:releaseDate": {
-          "label": "2026-10-28T17:00:00-07:00",
+          "label": "2026-11-01T16:00:00-07:00",
           "attributes": {
-            "label": "28 October 2026"
+            "label": "01 November 2026"
           }
         }
       },
@@ -465,7 +388,84 @@
           }
         },
         "im:releaseDate": {
-          "label": "2026-11-04T16:00:00-07:00",
+          "label": "2026-11-15T17:00:00-07:00",
+          "attributes": {
+            "label": "15 November 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "The Rest Is Entertainment"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bc/26/ff/bc26ff82-e67c-cb0a-203b-654a9c72d19d/mza_3952332343334175509.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bc/26/ff/bc26ff82-e67c-cb0a-203b-654a9c72d19d/mza_3952332343334175509.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bc/26/ff/bc26ff82-e67c-cb0a-203b-654a9c72d19d/mza_3952332343334175509.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "Richard Osman & Marina Hyde share insider knowledge on TV, movies, and pop culture.\nStay up to date on what's hot and what's not in entertainment with behind-the-scenes insights from Richard and Marina. As two of the most connected voices in the business, they provide a unique perspective on the latest television series, film releases, and cultural trends. Their podcast explores everything from media gossip to industry secrets, giving listeners the inside track on the world of showbiz.\nWhether you're a fan of gritty dramas, blockbuster movies, or celebrity news, this podcast is your ultimate guide to entertainment. Richard and Marina offer fresh, expert analysis on the latest hits, star power, and cultural moments shaping the media landscape, making sure you’re always in the know about the entertainment world.\nThe Rest Is Entertainment Plus: Become a member for exclusive bonus content, early access to our Q&A episodes, ad-free listening, access to our exclusive newsletter archive, discount book prices on selected titles with our partners at Coles, early ticket access to future live events, and our members’ chatroom on Discord.\nJust head to therestisentertainment.com to sign up, or start a free trial today on Apple Podcasts: apple.co/therestisentertainment.\nFor more Goalhanger Podcasts, head to www.goalhanger.com."
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "GBP"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© 766979"
+        },
+        "title": {
+          "label": "The Rest Is Entertainment - Goalhanger"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/gb/podcast/the-rest-is-entertainment/id1718287198?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/gb/podcast/the-rest-is-entertainment/id1718287198?uo=2",
+          "attributes": {
+            "im:id": "1718287198"
+          }
+        },
+        "im:artist": {
+          "label": "Goalhanger"
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1309",
+            "term": "TV & Film",
+            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-tv-film/id1309?uo=2",
+            "label": "TV & Film"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-11-04T16:05:00-07:00",
           "attributes": {
             "label": "04 November 2026"
           }
@@ -553,83 +553,6 @@
       },
       {
         "im:name": {
-          "label": "Parenting Hell with Rob Beckett and Josh Widdicombe"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/60/76/56/6076560a-85b4-b7bd-1f45-c5e90ef1a841/mza_12185581846085221031.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/60/76/56/6076560a-85b4-b7bd-1f45-c5e90ef1a841/mza_12185581846085221031.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/60/76/56/6076560a-85b4-b7bd-1f45-c5e90ef1a841/mza_12185581846085221031.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "Parenting... just not as you know it.\n\n\n\nJoin Rob & Josh as they share their tales of parenting woe and chat to celebrity parents about how they're coping, or not coping. \n\n\n\nParenting Hell is a Spotify Podcast, video episodes available on Tuesdays and Fridays every week. "
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "GBP"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© Copyright Keep It Light Media"
-        },
-        "title": {
-          "label": "Parenting Hell with Rob Beckett and Josh Widdicombe - Keep It Light Media / Spotify Studios"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/gb/podcast/parenting-hell-with-rob-beckett-and-josh-widdicombe/id1510251497?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/gb/podcast/parenting-hell-with-rob-beckett-and-josh-widdicombe/id1510251497?uo=2",
-          "attributes": {
-            "im:id": "1510251497"
-          }
-        },
-        "im:artist": {
-          "label": "Keep It Light Media / Spotify Studios"
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1303",
-            "term": "Comedy",
-            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-comedy/id1303?uo=2",
-            "label": "Comedy"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-11-01T17:00:00-07:00",
-          "attributes": {
-            "label": "01 November 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
           "label": "Americast"
         },
         "im:image": [
@@ -705,83 +628,6 @@
           "label": "2026-11-04T04:48:00-07:00",
           "attributes": {
             "label": "04 November 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "Wolf & Owl with Romesh Ranganathan and Tom Davis"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d6/61/05/d66105ec-27da-f023-684b-585c462bf938/mza_13555541829995193084.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d6/61/05/d66105ec-27da-f023-684b-585c462bf938/mza_13555541829995193084.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d6/61/05/d66105ec-27da-f023-684b-585c462bf938/mza_13555541829995193084.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "Tom Davis and Romesh Ranganathan host the comedy podcast with no format whatsoever.\n\nEvery Tuesday and Friday, Tom (The Wolf) and Romesh (The Owl) shoot the breeze about parenting, food and whatever is annoying them that week, then tackle your listener problems with advice that’s funny, occasionally useful and never qualified.\n\nContains swearing because it’s really cool.\n\n“As shooting the breeze goes, Tom and Romesh are as good as it gets” - Evening Standard\n\nFor questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you.\n\nInstagram - @wolfowlpod\n\nTikTok - @wolfowlpodcast\n\nYouTube - www.youtube.com/WolfandOwlPodcast\n\nMerch & Mailing List - https://wolfandowlpod.com/\n\nA Ranga Bee Production in partnership with Platform Media"
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "GBP"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© Ranga Bee & Platform Media"
-        },
-        "title": {
-          "label": "Wolf & Owl with Romesh Ranganathan and Tom Davis - Ranga Bee & Platform Media"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/gb/podcast/wolf-owl-with-romesh-ranganathan-and-tom-davis/id1540826523?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/gb/podcast/wolf-owl-with-romesh-ranganathan-and-tom-davis/id1540826523?uo=2",
-          "attributes": {
-            "im:id": "1540826523"
-          }
-        },
-        "im:artist": {
-          "label": "Ranga Bee & Platform Media"
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1303",
-            "term": "Comedy",
-            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-comedy/id1303?uo=2",
-            "label": "Comedy"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-11-02T16:00:00-07:00",
-          "attributes": {
-            "label": "02 November 2026"
           }
         }
       },
@@ -864,30 +710,30 @@
       },
       {
         "im:name": {
-          "label": "My Therapist Ghosted Me"
+          "label": "The News Agents - USA"
         },
         "im:image": [
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0a/1e/bf/0a1ebffd-4c87-09f6-0bf5-d76b0753348e/mza_16449583591087722250.jpg/55x55bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/12/95/ff/1295ff4e-53a0-cb0f-79f8-d893bbc6858c/mza_1265066929015263753.jpg/55x55bb.png",
             "attributes": {
               "height": "55"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0a/1e/bf/0a1ebffd-4c87-09f6-0bf5-d76b0753348e/mza_16449583591087722250.jpg/60x60bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/12/95/ff/1295ff4e-53a0-cb0f-79f8-d893bbc6858c/mza_1265066929015263753.jpg/60x60bb.png",
             "attributes": {
               "height": "60"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0a/1e/bf/0a1ebffd-4c87-09f6-0bf5-d76b0753348e/mza_16449583591087722250.jpg/170x170bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/12/95/ff/1295ff4e-53a0-cb0f-79f8-d893bbc6858c/mza_1265066929015263753.jpg/170x170bb.png",
             "attributes": {
               "height": "170"
             }
           }
         ],
         "summary": {
-          "label": "Join Vogue Williams & Joanne McNally for a weekly chat with 100% honesty guaranteed.\n\n\"My Therapist Ghosted Me\" is the result of Joanne's therapist doing just that! Ignoring her calls, refusing to answer the door at the clinic, or speak to her after she'd tracked him down at Enfield crematorium as he scattered his Aunt's ashes. Despite it all, it’s often said that friends give the best therapy so Vogue & Joanne have teamed up to do exactly that (alongside a generous helping of laughter as that too is said to be the best form of therapy). Together they will give 100% unqualified, unsubstantiated but up front and honest advice on the plethora of issues they and many others continue to grapple with.\n\nIf you'd like to get in touch, you can send an email to hello@MTGMpod.com\n\nFor live shows, merch and more, visit mytherapistghostedme.com\n\nPlease review Global's Privacy Policy: https://global.com/legal/privacy-policy/\n\nFor advertising opportunities on this podcast, email: GlobalStudiosSales@global.com"
+          "label": "Join Emily Maitlis and Jon Sopel in a weekly podcast that unpicks everything you need to know about the world of US politics - all of it delivered with Emily and Jon’s astute analysis, world-class insight and wry sense of humour.\n\nEpisodes are available every Tuesday/Wednesday.\n\nYou can visit our website here https://www.thenewsagents.co.uk/  \n\nThe News Agents USA is a Global Player Original podcast and production.\n\nFor advertising opportunities on this podcast, email: GlobalStudiosSales@global.com"
         },
         "im:price": {
           "label": "Get",
@@ -903,29 +749,103 @@
           }
         },
         "rights": {
-          "label": "© Global"
+          "label": "© Copyright 2026 Global"
         },
         "title": {
-          "label": "My Therapist Ghosted Me - Global"
+          "label": "The News Agents - USA - Global"
         },
         "link": {
           "attributes": {
             "rel": "alternate",
             "type": "text/html",
-            "href": "https://podcasts.apple.com/gb/podcast/my-therapist-ghosted-me/id1560176558?uo=2"
+            "href": "https://podcasts.apple.com/gb/podcast/the-news-agents-usa/id1692381473?uo=2"
           }
         },
         "id": {
-          "label": "https://podcasts.apple.com/gb/podcast/my-therapist-ghosted-me/id1560176558?uo=2",
+          "label": "https://podcasts.apple.com/gb/podcast/the-news-agents-usa/id1692381473?uo=2",
           "attributes": {
-            "im:id": "1560176558"
+            "im:id": "1692381473"
           }
         },
         "im:artist": {
-          "label": "Global",
+          "label": "Global"
+        },
+        "category": {
           "attributes": {
-            "href": "https://podcasts.apple.com/gb/artist/global-media-entertainment/1242379718?uo=2"
+            "im:id": "1527",
+            "term": "Politics",
+            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-news-politics/id1527?uo=2",
+            "label": "Politics"
           }
+        },
+        "im:releaseDate": {
+          "label": "2026-11-03T23:00:00-07:00",
+          "attributes": {
+            "label": "03 November 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "Parenting Hell with Rob Beckett and Josh Widdicombe"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/60/76/56/6076560a-85b4-b7bd-1f45-c5e90ef1a841/mza_12185581846085221031.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/60/76/56/6076560a-85b4-b7bd-1f45-c5e90ef1a841/mza_12185581846085221031.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/60/76/56/6076560a-85b4-b7bd-1f45-c5e90ef1a841/mza_12185581846085221031.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "Parenting... just not as you know it.\n\n\n\nJoin Rob & Josh as they share their tales of parenting woe and chat to celebrity parents about how they're coping, or not coping. \n\n\n\nParenting Hell is a Spotify Podcast, video episodes available on Tuesdays and Fridays every week. "
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "GBP"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© Copyright Keep It Light Media"
+        },
+        "title": {
+          "label": "Parenting Hell with Rob Beckett and Josh Widdicombe - Keep It Light Media / Spotify Studios"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/gb/podcast/parenting-hell-with-rob-beckett-and-josh-widdicombe/id1510251497?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/gb/podcast/parenting-hell-with-rob-beckett-and-josh-widdicombe/id1510251497?uo=2",
+          "attributes": {
+            "im:id": "1510251497"
+          }
+        },
+        "im:artist": {
+          "label": "Keep It Light Media / Spotify Studios"
         },
         "category": {
           "attributes": {
@@ -936,9 +856,9 @@
           }
         },
         "im:releaseDate": {
-          "label": "2026-10-30T02:30:00-07:00",
+          "label": "2026-11-01T17:00:00-07:00",
           "attributes": {
-            "label": "30 October 2026"
+            "label": "01 November 2026"
           }
         }
       },
@@ -1013,6 +933,83 @@
           "label": "2026-11-03T16:00:00-07:00",
           "attributes": {
             "label": "03 November 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "Wolf & Owl with Romesh Ranganathan and Tom Davis"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d6/61/05/d66105ec-27da-f023-684b-585c462bf938/mza_13555541829995193084.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d6/61/05/d66105ec-27da-f023-684b-585c462bf938/mza_13555541829995193084.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d6/61/05/d66105ec-27da-f023-684b-585c462bf938/mza_13555541829995193084.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "Tom Davis and Romesh Ranganathan host the comedy podcast with no format whatsoever.\n\nEvery Tuesday and Friday, Tom (The Wolf) and Romesh (The Owl) shoot the breeze about parenting, food and whatever is annoying them that week, then tackle your listener problems with advice that’s funny, occasionally useful and never qualified.\n\nContains swearing because it’s really cool.\n\n“As shooting the breeze goes, Tom and Romesh are as good as it gets” - Evening Standard\n\nFor questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you.\n\nInstagram - @wolfowlpod\n\nTikTok - @wolfowlpodcast\n\nYouTube - www.youtube.com/WolfandOwlPodcast\n\nMerch & Mailing List - https://wolfandowlpod.com/\n\nA Ranga Bee Production in partnership with Platform Media"
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "GBP"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© Ranga Bee & Platform Media"
+        },
+        "title": {
+          "label": "Wolf & Owl with Romesh Ranganathan and Tom Davis - Ranga Bee & Platform Media"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/gb/podcast/wolf-owl-with-romesh-ranganathan-and-tom-davis/id1540826523?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/gb/podcast/wolf-owl-with-romesh-ranganathan-and-tom-davis/id1540826523?uo=2",
+          "attributes": {
+            "im:id": "1540826523"
+          }
+        },
+        "im:artist": {
+          "label": "Ranga Bee & Platform Media"
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1303",
+            "term": "Comedy",
+            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-comedy/id1303?uo=2",
+            "label": "Comedy"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-11-02T16:00:00-07:00",
+          "attributes": {
+            "label": "02 November 2026"
           }
         }
       },
@@ -1098,30 +1095,30 @@
       },
       {
         "im:name": {
-          "label": "Alan Carr's 'Life's a Beach'"
+          "label": "My Therapist Ghosted Me"
         },
         "im:image": [
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/7e/b5/a4/7eb5a4d2-336c-403a-5736-bac637eeeb15/mza_1184779871646391187.jpg/55x55bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0a/1e/bf/0a1ebffd-4c87-09f6-0bf5-d76b0753348e/mza_16449583591087722250.jpg/55x55bb.png",
             "attributes": {
               "height": "55"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/7e/b5/a4/7eb5a4d2-336c-403a-5736-bac637eeeb15/mza_1184779871646391187.jpg/60x60bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0a/1e/bf/0a1ebffd-4c87-09f6-0bf5-d76b0753348e/mza_16449583591087722250.jpg/60x60bb.png",
             "attributes": {
               "height": "60"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/7e/b5/a4/7eb5a4d2-336c-403a-5736-bac637eeeb15/mza_1184779871646391187.jpg/170x170bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0a/1e/bf/0a1ebffd-4c87-09f6-0bf5-d76b0753348e/mza_16449583591087722250.jpg/170x170bb.png",
             "attributes": {
               "height": "170"
             }
           }
         ],
         "summary": {
-          "label": "Life’s A Beach sees Alan giving Judith Chalmers and Michael Palin a run for their money as he invites a famous guest each week to discuss their favourite places in the world. Bursting with anecdotes, laidback chat and laugh out loud travel tales - if this podcast was a suitcase you’d have to sit on it.\n\n“My Life’s A Beach podcast is the escapism we ALL need right now. I sat down and chatted with some of my famous friends about everything travel. From caravanning in Rhyl to private jetting to the Maldives, my guests spill the beans on their holiday horrors and dream destinations. Let’s face it: we might not have the sun on our faces, but after a listen to this you’ll definitely have a smile” – ALAN CARR"
+          "label": "Join Vogue Williams & Joanne McNally for a weekly chat with 100% honesty guaranteed.\n\n\"My Therapist Ghosted Me\" is the result of Joanne's therapist doing just that! Ignoring her calls, refusing to answer the door at the clinic, or speak to her after she'd tracked him down at Enfield crematorium as he scattered his Aunt's ashes. Despite it all, it’s often said that friends give the best therapy so Vogue & Joanne have teamed up to do exactly that (alongside a generous helping of laughter as that too is said to be the best form of therapy). Together they will give 100% unqualified, unsubstantiated but up front and honest advice on the plethora of issues they and many others continue to grapple with.\n\nIf you'd like to get in touch, you can send an email to hello@MTGMpod.com\n\nFor live shows, merch and more, visit mytherapistghostedme.com\n\nPlease review Global's Privacy Policy: https://global.com/legal/privacy-policy/\n\nFor advertising opportunities on this podcast, email: GlobalStudiosSales@global.com"
         },
         "im:price": {
           "label": "Get",
@@ -1137,39 +1134,42 @@
           }
         },
         "rights": {
-          "label": "© Copyright Keep It Light Media"
+          "label": "© Global"
         },
         "title": {
-          "label": "Alan Carr's 'Life's a Beach' - Keep It Light Media / Travesty Media"
+          "label": "My Therapist Ghosted Me - Global"
         },
         "link": {
           "attributes": {
             "rel": "alternate",
             "type": "text/html",
-            "href": "https://podcasts.apple.com/gb/podcast/alan-carrs-lifes-a-beach/id1550998864?uo=2"
+            "href": "https://podcasts.apple.com/gb/podcast/my-therapist-ghosted-me/id1560176558?uo=2"
           }
         },
         "id": {
-          "label": "https://podcasts.apple.com/gb/podcast/alan-carrs-lifes-a-beach/id1550998864?uo=2",
+          "label": "https://podcasts.apple.com/gb/podcast/my-therapist-ghosted-me/id1560176558?uo=2",
           "attributes": {
-            "im:id": "1550998864"
+            "im:id": "1560176558"
           }
         },
         "im:artist": {
-          "label": "Keep It Light Media / Travesty Media"
+          "label": "Global",
+          "attributes": {
+            "href": "https://podcasts.apple.com/gb/artist/global-media-entertainment/1242379718?uo=2"
+          }
         },
         "category": {
           "attributes": {
-            "im:id": "1496",
-            "term": "Comedy Interviews",
-            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-comedy-comedy-interviews/id1496?uo=2",
-            "label": "Comedy Interviews"
+            "im:id": "1303",
+            "term": "Comedy",
+            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-comedy/id1303?uo=2",
+            "label": "Comedy"
           }
         },
         "im:releaseDate": {
-          "label": "2026-11-01T17:00:00-07:00",
+          "label": "2026-10-30T02:30:00-07:00",
           "attributes": {
-            "label": "01 November 2026"
+            "label": "30 October 2026"
           }
         }
       },
@@ -1249,83 +1249,6 @@
       },
       {
         "im:name": {
-          "label": "The Trial of Russell Brand"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/fe/0a/f7/fe0af767-38f7-8461-29c8-993cc1e6a5db/mza_14300966085053284214.jpeg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/fe/0a/f7/fe0af767-38f7-8461-29c8-993cc1e6a5db/mza_14300966085053284214.jpeg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/fe/0a/f7/fe0af767-38f7-8461-29c8-993cc1e6a5db/mza_14300966085053284214.jpeg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "The Trial of Russell Brand is season 14 of Times Investigates, bringing you award-winning investigative and true crime podcasts from The Times & The Sunday Times. \nFrom war zones to suburban homes, pursuing brutal criminals and cult leaders, our podcasts go further than any other to uncover the truth.\nIn season one, war correspondent Anthony Loyd investigates the fate of his colleague John Cantlie, who was kidnapped in Syria by Islamic State.\nIn season two, crime correspondent John Simpson breaks down the wall of silence surrounding the killing of 14-year-old Corey Junior Davis\nIn season three Berlin correspondent Oliver Moody uncovers the story of Hans Globke, the Nazi bureaucrat who laid the legal basis for the Holocaust - and helped build the modern German state\nIn season four, columnist David Aaronovitch follows the trail of charm and deception left by businessman Lex Greensill through the corridors of power in Britain\nIn season five, special correspondent Emily Dugan asks whether the wrong man was sent to prison for a brutal attack on a mother of two\nIn season six, Middle East correspondent Louise Callaghan steps into the weird world of ‘kittens’, ‘lions’, and televangelism surrounding a cult leader\nIn season seven, journalists Brenna Daldorph and David Aaronovitch explore the dark past behind some of Britain’s wealthiest stately homes\nIn season eight, feature writer Andrew Billen exposes a very British scandal at the world-famous university college, Christ Church, Oxford\nIn season nine, David Aaranovitch steps into the online world of Patriotic Alternative, a far-right group using the Covid pandemic as a recruiting tool\nIn season ten, journalists Peter Gillman and Emanuele Midolo investigate the death of one of our own, David Holden, the reporter whose killing became a Cold War whodunnit\nIn season 11, social affairs editor James Beal follows a trail leading from a quiet British town to frozen Canada, where he discovers a man allegedly selling death online\nIn season 12, reporter Mario Ledwith returns to his hometown in Northern Ireland, seeking answers about the bloody 1987 Remembrance Sunday attack\nIn season 13, The Sunday Times’s Insight team investigates how Nigel Farage came to depend upon a crypto enthusiast, gambler and convicted fraudster\nIn season 14, journalists Rosamund Urwin and Charlotte Wace join Luke Jones to report daily from the trial of Russell Brand\n Hosted on Acast. See acast.com/privacy for more information."
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "GBP"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© The Times"
-        },
-        "title": {
-          "label": "The Trial of Russell Brand - The Times"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/gb/podcast/the-trial-of-russell-brand/id1630722986?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/gb/podcast/the-trial-of-russell-brand/id1630722986?uo=2",
-          "attributes": {
-            "im:id": "1630722986"
-          }
-        },
-        "im:artist": {
-          "label": "The Times"
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1489",
-            "term": "News",
-            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-news/id1489?uo=2",
-            "label": "News"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-11-03T13:00:00-07:00",
-          "attributes": {
-            "label": "03 November 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
           "label": "The Rest Is Science"
         },
         "im:image": [
@@ -1395,166 +1318,9 @@
           }
         },
         "im:releaseDate": {
-          "label": "2026-11-01T14:00:00-07:00",
+          "label": "2026-11-04T16:05:00-07:00",
           "attributes": {
-            "label": "01 November 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "The News Agents - USA"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/12/95/ff/1295ff4e-53a0-cb0f-79f8-d893bbc6858c/mza_1265066929015263753.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/12/95/ff/1295ff4e-53a0-cb0f-79f8-d893bbc6858c/mza_1265066929015263753.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/12/95/ff/1295ff4e-53a0-cb0f-79f8-d893bbc6858c/mza_1265066929015263753.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "Join Emily Maitlis and Jon Sopel in a weekly podcast that unpicks everything you need to know about the world of US politics - all of it delivered with Emily and Jon’s astute analysis, world-class insight and wry sense of humour.\n\nEpisodes are available every Tuesday/Wednesday.\n\nYou can visit our website here https://www.thenewsagents.co.uk/  \n\nThe News Agents USA is a Global Player Original podcast and production.\n\nFor advertising opportunities on this podcast, email: GlobalStudiosSales@global.com"
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "GBP"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© Copyright 2026 Global"
-        },
-        "title": {
-          "label": "The News Agents - USA - Global"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/gb/podcast/the-news-agents-usa/id1692381473?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/gb/podcast/the-news-agents-usa/id1692381473?uo=2",
-          "attributes": {
-            "im:id": "1692381473"
-          }
-        },
-        "im:artist": {
-          "label": "Global"
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1527",
-            "term": "Politics",
-            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-news-politics/id1527?uo=2",
-            "label": "Politics"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-11-03T23:00:00-07:00",
-          "attributes": {
-            "label": "03 November 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "No Such Thing As A Fish"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6f/9b/4c/6f9b4c39-3c1a-d7c7-9264-b0ed14579e08/mza_7947053701740283670.png/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6f/9b/4c/6f9b4c39-3c1a-d7c7-9264-b0ed14579e08/mza_7947053701740283670.png/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6f/9b/4c/6f9b4c39-3c1a-d7c7-9264-b0ed14579e08/mza_7947053701740283670.png/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "The official channel for the show about everything: four dorks discuss the most amazing facts they’ve learned over the last seven days.\n\n\nThe multi award-winning, globe-travelling, 600-million-download phenomenon. Hosted by Dan Schreiber, James Harkin, Andrew Hunter Murray and Anna Ptaszynski."
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "GBP"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© 2014 Quite Interesting Ltd"
-        },
-        "title": {
-          "label": "No Such Thing As A Fish - No Such Thing As A Fish"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/gb/podcast/no-such-thing-as-a-fish/id840986946?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/gb/podcast/no-such-thing-as-a-fish/id840986946?uo=2",
-          "attributes": {
-            "im:id": "840986946"
-          }
-        },
-        "im:artist": {
-          "label": "No Such Thing As A Fish",
-          "attributes": {
-            "href": "https://podcasts.apple.com/gb/artist/qi-elves/875258601?uo=2"
-          }
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1303",
-            "term": "Comedy",
-            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-comedy/id1303?uo=2",
-            "label": "Comedy"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-11-01T15:55:00-07:00",
-          "attributes": {
-            "label": "01 November 2026"
+            "label": "04 November 2026"
           }
         }
       },
@@ -1632,38 +1398,38 @@
           }
         },
         "im:releaseDate": {
-          "label": "2026-11-03T09:14:00-07:00",
+          "label": "2026-11-04T10:49:00-07:00",
           "attributes": {
-            "label": "03 November 2026"
+            "label": "04 November 2026"
           }
         }
       },
       {
         "im:name": {
-          "label": "Spiral | Tortoise Investigates"
+          "label": "Stick to Football"
         },
         "im:image": [
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e0/5d/b8/e05db8aa-918b-aa05-11fe-ea78e0840d94/mza_13896065593638469305.jpeg/55x55bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/af/ad/8e/afad8eae-8ffc-d6cc-4c72-57d6f903e962/mza_2603006646942982791.jpeg/55x55bb.png",
             "attributes": {
               "height": "55"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e0/5d/b8/e05db8aa-918b-aa05-11fe-ea78e0840d94/mza_13896065593638469305.jpeg/60x60bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/af/ad/8e/afad8eae-8ffc-d6cc-4c72-57d6f903e962/mza_2603006646942982791.jpeg/60x60bb.png",
             "attributes": {
               "height": "60"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e0/5d/b8/e05db8aa-918b-aa05-11fe-ea78e0840d94/mza_13896065593638469305.jpeg/170x170bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/af/ad/8e/afad8eae-8ffc-d6cc-4c72-57d6f903e962/mza_2603006646942982791.jpeg/170x170bb.png",
             "attributes": {
               "height": "170"
             }
           }
         ],
         "summary": {
-          "label": "When The Observer’s Technology Editor, Patricia Clarke began investigating a new phenomenon initially dubbed ‘AI psychosis’, she found lives upended by long, intimate conversations with chatbots. But as she followed the evidence from a psychiatric ward in Bristol to the safety teams in Silicon Valley, a far darker story emerged.\nGuided by AI industry whistleblowers, grieving families and hundreds of pages of chatbot transcripts, Spiral exposes how big tech is running an unprecedented experiment on the human mind.\nTo binge listen to all episodes today, ad-free, subscribe to The Observer and use the code AUDIO50 for 50% off an annual digital subscription.\nYou'll get access to:\n\nThis series and all our podcasts before anyone elseAd-free listeningA daily edition, curated by our editors 7 days a weekPuzzles from the inventors of the cryptic crosswordRecipes for every occasionFree tickets to join Observer events in our newsroom or online\nOr subscribe to Observer+ on Apple Podcasts and Spotify for access to this series and ad-free listening to Observer podcasts.\n Hosted on Acast. See acast.com/privacy for more information."
+          "label": "An original series from The Overlap - with Gary Neville, Jamie Carragher, Jill Scott, Ian Wright and Roy Keane, featuring special guests discussing all things football. Hosted on Acast. See acast.com/privacy for more information."
         },
         "im:price": {
           "label": "Get",
@@ -1679,39 +1445,273 @@
           }
         },
         "rights": {
-          "label": "© Tortoise Media"
+          "label": "© The Overlap"
         },
         "title": {
-          "label": "Spiral | Tortoise Investigates - The Observer"
+          "label": "Stick to Football - The Overlap"
         },
         "link": {
           "attributes": {
             "rel": "alternate",
             "type": "text/html",
-            "href": "https://podcasts.apple.com/gb/podcast/spiral-tortoise-investigates/id1590561275?uo=2"
+            "href": "https://podcasts.apple.com/gb/podcast/stick-to-football/id1709142395?uo=2"
           }
         },
         "id": {
-          "label": "https://podcasts.apple.com/gb/podcast/spiral-tortoise-investigates/id1590561275?uo=2",
+          "label": "https://podcasts.apple.com/gb/podcast/stick-to-football/id1709142395?uo=2",
           "attributes": {
-            "im:id": "1590561275"
+            "im:id": "1709142395"
           }
         },
         "im:artist": {
-          "label": "The Observer"
+          "label": "The Overlap"
         },
         "category": {
           "attributes": {
-            "im:id": "1543",
-            "term": "Documentary",
-            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-society-culture-documentary/id1543?uo=2",
-            "label": "Documentary"
+            "im:id": "1546",
+            "term": "Soccer",
+            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-sport-football/id1546?uo=2",
+            "label": "Football"
           }
         },
         "im:releaseDate": {
-          "label": "2026-11-02T22:00:00-07:00",
+          "label": "2026-10-28T22:00:00-07:00",
           "attributes": {
-            "label": "02 November 2026"
+            "label": "28 October 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "The Trial of Russell Brand"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/fe/0a/f7/fe0af767-38f7-8461-29c8-993cc1e6a5db/mza_14300966085053284214.jpeg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/fe/0a/f7/fe0af767-38f7-8461-29c8-993cc1e6a5db/mza_14300966085053284214.jpeg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/fe/0a/f7/fe0af767-38f7-8461-29c8-993cc1e6a5db/mza_14300966085053284214.jpeg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "The Trial of Russell Brand is season 14 of Times Investigates, bringing you award-winning investigative and true crime podcasts from The Times & The Sunday Times. \nFrom war zones to suburban homes, pursuing brutal criminals and cult leaders, our podcasts go further than any other to uncover the truth.\nIn season one, war correspondent Anthony Loyd investigates the fate of his colleague John Cantlie, who was kidnapped in Syria by Islamic State.\nIn season two, crime correspondent John Simpson breaks down the wall of silence surrounding the killing of 14-year-old Corey Junior Davis\nIn season three Berlin correspondent Oliver Moody uncovers the story of Hans Globke, the Nazi bureaucrat who laid the legal basis for the Holocaust - and helped build the modern German state\nIn season four, columnist David Aaronovitch follows the trail of charm and deception left by businessman Lex Greensill through the corridors of power in Britain\nIn season five, special correspondent Emily Dugan asks whether the wrong man was sent to prison for a brutal attack on a mother of two\nIn season six, Middle East correspondent Louise Callaghan steps into the weird world of ‘kittens’, ‘lions’, and televangelism surrounding a cult leader\nIn season seven, journalists Brenna Daldorph and David Aaronovitch explore the dark past behind some of Britain’s wealthiest stately homes\nIn season eight, feature writer Andrew Billen exposes a very British scandal at the world-famous university college, Christ Church, Oxford\nIn season nine, David Aaranovitch steps into the online world of Patriotic Alternative, a far-right group using the Covid pandemic as a recruiting tool\nIn season ten, journalists Peter Gillman and Emanuele Midolo investigate the death of one of our own, David Holden, the reporter whose killing became a Cold War whodunnit\nIn season 11, social affairs editor James Beal follows a trail leading from a quiet British town to frozen Canada, where he discovers a man allegedly selling death online\nIn season 12, reporter Mario Ledwith returns to his hometown in Northern Ireland, seeking answers about the bloody 1987 Remembrance Sunday attack\nIn season 13, The Sunday Times’s Insight team investigates how Nigel Farage came to depend upon a crypto enthusiast, gambler and convicted fraudster\nIn season 14, journalists Rosamund Urwin and Charlotte Wace join Luke Jones to report daily from the trial of Russell Brand\n Hosted on Acast. See acast.com/privacy for more information."
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "GBP"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© The Times"
+        },
+        "title": {
+          "label": "The Trial of Russell Brand - The Times"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/gb/podcast/the-trial-of-russell-brand/id1630722986?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/gb/podcast/the-trial-of-russell-brand/id1630722986?uo=2",
+          "attributes": {
+            "im:id": "1630722986"
+          }
+        },
+        "im:artist": {
+          "label": "The Times"
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1489",
+            "term": "News",
+            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-news/id1489?uo=2",
+            "label": "News"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-11-04T10:21:00-07:00",
+          "attributes": {
+            "label": "04 November 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "Today in Focus"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/f1/13/71/f113715f-56e4-f542-a08c-b5890c0841bc/mza_18228009703397905678.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/f1/13/71/f113715f-56e4-f542-a08c-b5890c0841bc/mza_18228009703397905678.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/f1/13/71/f113715f-56e4-f542-a08c-b5890c0841bc/mza_18228009703397905678.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "Today in Focus brings you closer to the Guardian's journalism. Our award-winning morning edition hosted by Nosheen Iqbal, Annie Kelly and Helen Pidd combines on-the-ground reporting, insightful analysis and personal testimony from the people at the heart of the stories that matter, to give you a deeper understanding of the world we live in. And to make sense of a rapidly-changing news cycle, our new evening edition 'The Latest' hosted by Lucy Hough, brings you up to speed on the big news story of the day in just 10 minutes. Available on YouTube and all podcast platforms."
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "GBP"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© 2026 Guardian News & Media Limited or its affiliated companies. All rights reserved."
+        },
+        "title": {
+          "label": "Today in Focus - The Guardian"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/gb/podcast/today-in-focus/id1440133626?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/gb/podcast/today-in-focus/id1440133626?uo=2",
+          "attributes": {
+            "im:id": "1440133626"
+          }
+        },
+        "im:artist": {
+          "label": "The Guardian",
+          "attributes": {
+            "href": "https://podcasts.apple.com/gb/artist/the-guardian/136731196?uo=2"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1526",
+            "term": "Daily News",
+            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-news-daily-news/id1526?uo=2",
+            "label": "Daily News"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-11-04T09:31:00-07:00",
+          "attributes": {
+            "label": "04 November 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "Alan Carr's 'Life's a Beach'"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/7e/b5/a4/7eb5a4d2-336c-403a-5736-bac637eeeb15/mza_1184779871646391187.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/7e/b5/a4/7eb5a4d2-336c-403a-5736-bac637eeeb15/mza_1184779871646391187.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/7e/b5/a4/7eb5a4d2-336c-403a-5736-bac637eeeb15/mza_1184779871646391187.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "Life’s A Beach sees Alan giving Judith Chalmers and Michael Palin a run for their money as he invites a famous guest each week to discuss their favourite places in the world. Bursting with anecdotes, laidback chat and laugh out loud travel tales - if this podcast was a suitcase you’d have to sit on it.\n\n“My Life’s A Beach podcast is the escapism we ALL need right now. I sat down and chatted with some of my famous friends about everything travel. From caravanning in Rhyl to private jetting to the Maldives, my guests spill the beans on their holiday horrors and dream destinations. Let’s face it: we might not have the sun on our faces, but after a listen to this you’ll definitely have a smile” – ALAN CARR"
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "GBP"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© Copyright Keep It Light Media"
+        },
+        "title": {
+          "label": "Alan Carr's 'Life's a Beach' - Keep It Light Media / Travesty Media"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/gb/podcast/alan-carrs-lifes-a-beach/id1550998864?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/gb/podcast/alan-carrs-lifes-a-beach/id1550998864?uo=2",
+          "attributes": {
+            "im:id": "1550998864"
+          }
+        },
+        "im:artist": {
+          "label": "Keep It Light Media / Travesty Media"
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1496",
+            "term": "Comedy Interviews",
+            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-comedy-comedy-interviews/id1496?uo=2",
+            "label": "Comedy Interviews"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-11-01T17:00:00-07:00",
+          "attributes": {
+            "label": "01 November 2026"
           }
         }
       },
@@ -1797,30 +1797,30 @@
       },
       {
         "im:name": {
-          "label": "The High Performance Podcast"
+          "label": "No Such Thing As A Fish"
         },
         "im:image": [
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/cf/1a/5a/cf1a5a8c-688e-690b-138d-04517a560b54/mza_11984786542722281203.jpeg/55x55bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6f/9b/4c/6f9b4c39-3c1a-d7c7-9264-b0ed14579e08/mza_7947053701740283670.png/55x55bb.png",
             "attributes": {
               "height": "55"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/cf/1a/5a/cf1a5a8c-688e-690b-138d-04517a560b54/mza_11984786542722281203.jpeg/60x60bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6f/9b/4c/6f9b4c39-3c1a-d7c7-9264-b0ed14579e08/mza_7947053701740283670.png/60x60bb.png",
             "attributes": {
               "height": "60"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/cf/1a/5a/cf1a5a8c-688e-690b-138d-04517a560b54/mza_11984786542722281203.jpeg/170x170bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6f/9b/4c/6f9b4c39-3c1a-d7c7-9264-b0ed14579e08/mza_7947053701740283670.png/170x170bb.png",
             "attributes": {
               "height": "170"
             }
           }
         ],
         "summary": {
-          "label": "Welcome to High Performance. Through fascinating conversations with remarkable guests, Jake Humphrey and Damian Hughes uncover the secrets behind High Performance and explore how we can all become the best version of ourselves.\nWe focus on uncovering the learnings from top performers in every field, from sport to entertainment, business, health and wellness.​ No matter where our guests have excelled, they all have first-hand experiences and lessons to share.\nOn High Performance we find out what non-negotiable behaviours they employed to get them to the top and keep them there.\n\n\n\n Hosted on Acast. See acast.com/privacy for more information."
+          "label": "The official channel for the show about everything: four dorks discuss the most amazing facts they’ve learned over the last seven days.\n\n\nThe multi award-winning, globe-travelling, 600-million-download phenomenon. Hosted by Dan Schreiber, James Harkin, Andrew Hunter Murray and Anna Ptaszynski."
         },
         "im:price": {
           "label": "Get",
@@ -1836,68 +1836,48 @@
           }
         },
         "rights": {
-          "label": "© High Performance"
+          "label": "© 2014 Quite Interesting Ltd"
         },
         "title": {
-          "label": "The High Performance Podcast - High Performance"
+          "label": "No Such Thing As A Fish - No Such Thing As A Fish"
         },
         "link": {
           "attributes": {
             "rel": "alternate",
             "type": "text/html",
-            "href": "https://podcasts.apple.com/gb/podcast/the-high-performance-podcast/id1500444735?uo=2"
+            "href": "https://podcasts.apple.com/gb/podcast/no-such-thing-as-a-fish/id840986946?uo=2"
           }
         },
         "id": {
-          "label": "https://podcasts.apple.com/gb/podcast/the-high-performance-podcast/id1500444735?uo=2",
+          "label": "https://podcasts.apple.com/gb/podcast/no-such-thing-as-a-fish/id840986946?uo=2",
           "attributes": {
-            "im:id": "1500444735"
+            "im:id": "840986946"
           }
         },
         "im:artist": {
-          "label": "High Performance"
+          "label": "No Such Thing As A Fish",
+          "attributes": {
+            "href": "https://podcasts.apple.com/gb/artist/qi-elves/875258601?uo=2"
+          }
         },
         "category": {
           "attributes": {
-            "im:id": "1545",
-            "term": "Sports",
-            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-sport/id1545?uo=2",
-            "label": "Sport"
+            "im:id": "1303",
+            "term": "Comedy",
+            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-comedy/id1303?uo=2",
+            "label": "Comedy"
           }
         },
         "im:releaseDate": {
-          "label": "2026-11-03T18:00:00-07:00",
+          "label": "2026-11-08T17:00:00-07:00",
           "attributes": {
-            "label": "03 November 2026"
+            "label": "08 November 2026"
           }
         }
       },
       {
         "im:name": {
-          "label": "Rosebud with Gyles Brandreth"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/ce/1d/c6/ce1dc6d1-1323-d07d-3a56-f1e6c259a845/mza_7854963181346373100.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/ce/1d/c6/ce1dc6d1-1323-d07d-3a56-f1e6c259a845/mza_7854963181346373100.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/ce/1d/c6/ce1dc6d1-1323-d07d-3a56-f1e6c259a845/mza_7854963181346373100.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "Legendary British writer, broadcaster, ex-MP and TV star Gyles Brandreth hosts “Rosebud”, in which he talks to famous and fascinating people about their first memories and first experiences. Expect laughter, nostalgia, memorable stories, revelations and, of course, the odd name-drop from Gyles.  We want to hear about your first memories - email us at hello@rosebudpodcast.com And you can follow us on Twitter and Instagram at @therosebudpod Artwork: Freya Betts. Music: Phil Lepherd. Producer: Harriet Jaine. Rosebud is a 'Plain Jaine Media' production. Creator: Gyles Brandreth/Plain Jaine Media Hosted on Acast. See acast.com/privacy for more information."
+          "label": "The Rest Is Classified"
         },
         "im:price": {
           "label": "Get",
@@ -1906,52 +1886,72 @@
             "currency": "GBP"
           }
         },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f4/09/a7/f409a749-1c83-ddb6-26ca-3edb6deee0f9/mza_6566356699697291626.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f4/09/a7/f409a749-1c83-ddb6-26ca-3edb6deee0f9/mza_6566356699697291626.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f4/09/a7/f409a749-1c83-ddb6-26ca-3edb6deee0f9/mza_6566356699697291626.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "Enter the secretive world of spies, espionage, and covert operations. \nHosted by former CIA analyst turned spy novelist, David McCloskey, and veteran security correspondent, Gordon Corera, this podcast unravels real-life spy stories, intelligence secrets, and the hidden power struggles shaping global events. \nFrom Cold War espionage to modern-day intelligence agencies like the CIA, MI6, and Mossad, explore the world of double agents, classified missions, and the shadowy figures who operate in them. Whether you're a true crime addict, a thriller fan, or fascinated by spy stories, this is the show for you."
+        },
+        "im:artist": {
+          "label": "Goalhanger"
+        },
+        "title": {
+          "label": "The Rest Is Classified - Goalhanger"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/gb/podcast/the-rest-is-classified/id1780384916?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/gb/podcast/the-rest-is-classified/id1780384916?uo=2",
+          "attributes": {
+            "im:id": "1780384916"
+          }
+        },
         "im:contentType": {
           "attributes": {
             "term": "Podcast",
             "label": "Podcast"
           }
         },
-        "rights": {
-          "label": "© Gyles Brandreth"
-        },
-        "title": {
-          "label": "Rosebud with Gyles Brandreth - Gyles Brandreth / Plain Jaine Media"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/gb/podcast/rosebud-with-gyles-brandreth/id1704806594?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/gb/podcast/rosebud-with-gyles-brandreth/id1704806594?uo=2",
-          "attributes": {
-            "im:id": "1704806594"
-          }
-        },
-        "im:artist": {
-          "label": "Gyles Brandreth / Plain Jaine Media"
-        },
         "category": {
           "attributes": {
-            "im:id": "1324",
-            "term": "Society & Culture",
-            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-society-culture/id1324?uo=2",
-            "label": "Society & Culture"
+            "im:id": "1487",
+            "term": "History",
+            "scheme": "https://podcasts.apple.com/gb/genre/podcasts-history/id1487?uo=2",
+            "label": "History"
           }
         },
         "im:releaseDate": {
-          "label": "2026-10-29T20:00:00-07:00",
+          "label": "2026-11-22T16:00:00-07:00",
           "attributes": {
-            "label": "29 October 2026"
+            "label": "22 November 2026"
           }
         }
       }
     ],
     "updated": {
-      "label": "2026-11-04T06:13:01-07:00"
+      "label": "2026-11-05T06:27:22-07:00"
     },
     "rights": {
       "label": "Copyright 2008 Apple Inc."
