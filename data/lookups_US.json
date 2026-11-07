@@ -3,6 +3,14 @@
   "country": "US",
   "count": 25,
   "lookups": {
+    "77001367": {
+      "itunesId": "77001367",
+      "title": "The Ramsey Show",
+      "author": "Ramsey Network",
+      "feedUrl": "https://feeds.megaphone.fm/RM4031649020",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/52/5a/58/525a5881-56d7-af3a-b134-5917b08d6d0f/mza_1355546972903263890.jpg/600x600bb.jpg",
+      "genre": "Investing"
+    },
     "121493675": {
       "itunesId": "121493675",
       "title": "NPR News Now",
@@ -10,14 +18,6 @@
       "feedUrl": "https://feeds.npr.org/500005/podcast.xml",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/27/a0/ab/27a0abb7-817f-d80c-4fed-6fd04d424333/mza_16804553558295235422.jpg/600x600bb.jpg",
       "genre": "Daily News"
-    },
-    "278981407": {
-      "itunesId": "278981407",
-      "title": "Stuff You Should Know",
-      "author": "iHeartPodcasts",
-      "feedUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/44710ecc-10bb-48d1-93c7-ae270180c33e/podcast.rss",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/aa/82/91/aa82912f-23ee-6f6a-583c-a4e993164d0e/mza_12111158076643383507.jpg/600x600bb.jpg",
-      "genre": "Society & Culture"
     },
     "360084272": {
       "itunesId": "360084272",
@@ -99,6 +99,14 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/8c/35/04/8c350430-2fbf-98d0-0a25-00b76550ffeb/mza_13445204151221888086.jpg/600x600bb.jpg",
       "genre": "True Crime"
     },
+    "1345682353": {
+      "itunesId": "1345682353",
+      "title": "Armchair Expert with Dax Shepard",
+      "author": "Armchair Umbrella",
+      "feedUrl": "https://rss.art19.com/armchair-expert",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f0/13/8f/f0138f4b-8bc3-0a64-2c11-ef566840f60f/mza_3062409012210474882.jpeg/600x600bb.jpg",
+      "genre": "Comedy"
+    },
     "1368081567": {
       "itunesId": "1368081567",
       "title": "The Toast",
@@ -131,22 +139,6 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/8c/00/7a/8c007a42-e550-0214-d4cb-b59cd7edf194/mza_5305664083935674472.jpeg/600x600bb.jpg",
       "genre": "True Crime"
     },
-    "1510240831": {
-      "itunesId": "1510240831",
-      "title": "The MeidasTouch Podcast",
-      "author": "MeidasTouch Network",
-      "feedUrl": "https://rss.amperwave.net/v2/feed/audacynetwork/16aa3c6bf526fae9db63070c73cad09f",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/73/32/80/733280d2-330a-2f24-c600-bc1088f9f899/mza_17833502176263457882.jpeg/600x600bb.jpg",
-      "genre": "News"
-    },
-    "1521578868": {
-      "itunesId": "1521578868",
-      "title": "SmartLess",
-      "author": "Jason Bateman, Sean Hayes, Will Arnett",
-      "feedUrl": "https://feeds.simplecast.com/hNaFxXpO",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b1/93/5f/b1935f9f-35be-9144-e813-626bd8dabfb4/mza_4132654708551836825.jpg/600x600bb.jpg",
-      "genre": "Comedy"
-    },
     "1532976305": {
       "itunesId": "1532976305",
       "title": "The Megyn Kelly Show",
@@ -171,6 +163,14 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f1/f3/f6/f1f3f6e9-71b2-2965-5b92-a294e04e9646/mza_12649236828332054745.jpg/600x600bb.jpg",
       "genre": "Comedy"
     },
+    "1608813794": {
+      "itunesId": "1608813794",
+      "title": "MrBallen Podcast: Strange, Dark & Mysterious Stories",
+      "author": "Ballen Studios",
+      "feedUrl": "https://feeds.simplecast.com/dloY8UYJ",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a5/9c/8a/a59c8a0a-0cb2-9862-e0d6-7b5ee4e9e157/mza_12554888833857337425.jpg/600x600bb.jpg",
+      "genre": "True Crime"
+    },
     "1615637724": {
       "itunesId": "1615637724",
       "title": "Betrayal Season 6",
@@ -192,7 +192,7 @@
       "title": "IHIP News",
       "author": "Jennifer Welch & Angie Sullivan",
       "feedUrl": "https://feeds.megaphone.fm/QCD4780700649",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/82/c4/db/82c4db43-0931-f605-ec53-518d44e015ea/mza_12211092097858487461.jpeg/600x600bb.jpg",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d2/03/97/d20397e5-d81c-5c77-af62-d28b4788d5d8/mza_17145417274727436068.jpeg/600x600bb.jpg",
       "genre": "News"
     },
     "1795483480": {
