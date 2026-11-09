@@ -19,6 +19,14 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e9/94/fe/e994fed6-50a1-6519-9b84-b0beaa205242/mza_2290751556169099993.jpg/600x600bb.jpg",
       "genre": "Comedy"
     },
+    "201671138": {
+      "itunesId": "201671138",
+      "title": "This American Life",
+      "author": "This American Life",
+      "feedUrl": "https://www.thisamericanlife.org/podcast/rss.xml",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fd/3c/12/fd3c1215-892b-1c4d-2ff5-cfb7998c3f7c/mza_10880637376617104220.png/600x600bb.jpg",
+      "genre": "Society & Culture"
+    },
     "278981407": {
       "itunesId": "278981407",
       "title": "Stuff You Should Know",
@@ -43,13 +51,13 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c8/4f/8f/c84f8fa2-074d-6023-7f31-9c781b80dedc/mza_7616553513239265555.jpeg/600x600bb.jpg",
       "genre": "True Crime"
     },
-    "1043699613": {
-      "itunesId": "1043699613",
-      "title": "The Bill Simmons Podcast",
-      "author": "The Ringer",
-      "feedUrl": "https://feeds.megaphone.fm/the-bill-simmons-podcast",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/cc/80/7a/cc807ada-eefc-d962-fb19-514a729249ce/mza_4622982796810028676.jpg/600x600bb.jpg",
-      "genre": "Sports"
+    "1073226719": {
+      "itunesId": "1073226719",
+      "title": "Pivot",
+      "author": "New York Magazine",
+      "feedUrl": "https://feeds.megaphone.fm/pivot",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/13/22/39/1322397a-976e-3c8f-7764-91cc38d0dd70/mza_12130189257448841692.jpeg/600x600bb.jpg",
+      "genre": "News Commentary"
     },
     "1074507850": {
       "itunesId": "1074507850",
@@ -66,6 +74,14 @@
       "feedUrl": "https://mcsorleys.barstoolsports.com/feed/pardon-my-take",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/35/74/6a/35746a0c-7687-7dde-ff04-338d93e78303/mza_10377078556009223546.jpg/600x600bb.jpg",
       "genre": "Football"
+    },
+    "1145089790": {
+      "itunesId": "1145089790",
+      "title": "Snapped: Women Who Murder",
+      "author": "Oxygen",
+      "feedUrl": "https://rss.art19.com/snapped-women-who-murder",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/d4/ef/ff/d4efff91-8a69-ba8a-b5a8-634c029af6ff/mza_14265882527940743554.jpeg/600x600bb.jpg",
+      "genre": "True Crime"
     },
     "1192761536": {
       "itunesId": "1192761536",
@@ -99,14 +115,6 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/8c/35/04/8c350430-2fbf-98d0-0a25-00b76550ffeb/mza_13445204151221888086.jpg/600x600bb.jpg",
       "genre": "True Crime"
     },
-    "1345682353": {
-      "itunesId": "1345682353",
-      "title": "Armchair Expert with Dax Shepard",
-      "author": "Armchair Umbrella",
-      "feedUrl": "https://rss.art19.com/armchair-expert",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f0/13/8f/f0138f4b-8bc3-0a64-2c11-ef566840f60f/mza_3062409012210474882.jpeg/600x600bb.jpg",
-      "genre": "Comedy"
-    },
     "1379959217": {
       "itunesId": "1379959217",
       "title": "Morbid",
@@ -114,14 +122,6 @@
       "feedUrl": "https://feeds.simplecast.com/ohmVlJZQ",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/78/e9/0e/78e90ee0-567d-1ad8-17a0-17d7c988c4bd/mza_8425901783365617933.jpg/600x600bb.jpg",
       "genre": "True Crime"
-    },
-    "1447684472": {
-      "itunesId": "1447684472",
-      "title": "The Bulwark Daily",
-      "author": "The Bulwark",
-      "feedUrl": "https://audioboom.com/channels/5114286.rss",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/93/4f/85/934f8542-7a14-cf77-7d0e-63604579de3c/mza_4576536635025194283.jpg/600x600bb.jpg",
-      "genre": "Politics"
     },
     "1464919521": {
       "itunesId": "1464919521",
@@ -147,20 +147,12 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/73/32/80/733280d2-330a-2f24-c600-bc1088f9f899/mza_17833502176263457882.jpeg/600x600bb.jpg",
       "genre": "News"
     },
-    "1532976305": {
-      "itunesId": "1532976305",
-      "title": "The Megyn Kelly Show",
-      "author": "SiriusXM",
-      "feedUrl": "https://feeds.simplecast.com/RV1USAfC",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3e/9f/c1/3e9fc13c-8030-b57e-f29e-0f14dc8db10d/mza_602213930944272333.jpg/600x600bb.jpg",
-      "genre": "News Commentary"
-    },
-    "1536352412": {
-      "itunesId": "1536352412",
-      "title": "Giggly Squad",
-      "author": "Hannah Berner & Paige DeSorbo",
-      "feedUrl": "https://feeds.simplecast.com/6J0Ivoq9",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e8/09/a6/e809a65d-03c3-82ce-383b-5586f49acc5b/mza_10887220202918113929.jpg/600x600bb.jpg",
+    "1521578868": {
+      "itunesId": "1521578868",
+      "title": "SmartLess",
+      "author": "Jason Bateman, Sean Hayes, Will Arnett",
+      "feedUrl": "https://feeds.simplecast.com/hNaFxXpO",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b1/93/5f/b1935f9f-35be-9144-e813-626bd8dabfb4/mza_4132654708551836825.jpg/600x600bb.jpg",
       "genre": "Comedy"
     },
     "1537788786": {
@@ -178,6 +170,14 @@
       "feedUrl": "https://feeds.simplecast.com/kEKXbjuJ",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9d/ca/35/9dca35d8-e7d2-7e4f-63b5-c2ff4973a3f5/mza_16891544429738729361.jpg/600x600bb.jpg",
       "genre": "Society & Culture"
+    },
+    "1608813794": {
+      "itunesId": "1608813794",
+      "title": "MrBallen Podcast: Strange, Dark & Mysterious Stories",
+      "author": "Ballen Studios",
+      "feedUrl": "https://feeds.simplecast.com/dloY8UYJ",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a5/9c/8a/a59c8a0a-0cb2-9862-e0d6-7b5ee4e9e157/mza_12554888833857337425.jpg/600x600bb.jpg",
+      "genre": "True Crime"
     },
     "1615637724": {
       "itunesId": "1615637724",
