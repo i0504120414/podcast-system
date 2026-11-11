@@ -83,9 +83,9 @@
           }
         },
         "im:releaseDate": {
-          "label": "2026-11-10T02:55:00-07:00",
+          "label": "2026-11-11T02:48:00-07:00",
           "attributes": {
-            "label": "November 10, 2026"
+            "label": "November 11, 2026"
           }
         }
       },
@@ -171,6 +171,86 @@
       },
       {
         "im:name": {
+          "label": "Dateline NBC"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/8c/00/7a/8c007a42-e550-0214-d4cb-b59cd7edf194/mza_5305664083935674472.jpeg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/8c/00/7a/8c007a42-e550-0214-d4cb-b59cd7edf194/mza_5305664083935674472.jpeg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/8c/00/7a/8c007a42-e550-0214-d4cb-b59cd7edf194/mza_5305664083935674472.jpeg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "Current and classic episodes, featuring compelling true-crime mysteries, powerful documentaries and in-depth investigations. \n  \nFollow now to get the latest episodes of Dateline NBC completely free, or subscribe to Dateline Premium for ad-free listening and exclusive bonus content: DatelinePremium.com"
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© 2019 NBC News"
+        },
+        "title": {
+          "label": "Dateline NBC - NBC News"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/us/podcast/dateline-nbc/id1464919521?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/us/podcast/dateline-nbc/id1464919521?uo=2",
+          "attributes": {
+            "im:id": "1464919521"
+          }
+        },
+        "im:artist": {
+          "label": "NBC News",
+          "attributes": {
+            "href": "https://podcasts.apple.com/us/artist/nbc-news/119945391?uo=2"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1488",
+            "term": "True Crime",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-true-crime/id1488?uo=2",
+            "label": "True Crime"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-11-11T02:00:00-07:00",
+          "attributes": {
+            "label": "November 11, 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
           "label": "The Joe Rogan Experience"
         },
         "im:image": [
@@ -243,89 +323,9 @@
           }
         },
         "im:releaseDate": {
-          "label": "2026-11-06T10:00:00-07:00",
+          "label": "2026-11-10T10:00:00-07:00",
           "attributes": {
-            "label": "November 6, 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "Pardon My Take"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/35/74/6a/35746a0c-7687-7dde-ff04-338d93e78303/mza_10377078556009223546.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/35/74/6a/35746a0c-7687-7dde-ff04-338d93e78303/mza_10377078556009223546.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/35/74/6a/35746a0c-7687-7dde-ff04-338d93e78303/mza_10377078556009223546.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "On \"Pardon My Take,\" Big Cat & PFT Commenter deliver the loudest and most correct sports takes in the history of the spoken word. Daily topics, guests, and an inability to tell what the hosts might be doing will make this your new favorite sports talk show. This is a podcast that will without a doubt change your life for the better- guaranteed, or your money back. *Pretend a reggaeton air horn is going off right now* PMT.\n\n\nYou can find every episode of this show on Apple Podcasts, Spotify or Netflix. Prime Members can listen ad-free on Amazon Music. For more, visit barstool.link/pardon-my-take"
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "USD"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© 2026 Barstool Sports, Inc."
-        },
-        "title": {
-          "label": "Pardon My Take - Barstool Sports"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/us/podcast/pardon-my-take/id1089022756?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/us/podcast/pardon-my-take/id1089022756?uo=2",
-          "attributes": {
-            "im:id": "1089022756"
-          }
-        },
-        "im:artist": {
-          "label": "Barstool Sports",
-          "attributes": {
-            "href": "https://podcasts.apple.com/us/artist/barstool-sports/1524874689?uo=2"
-          }
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1547",
-            "term": "Football",
-            "scheme": "https://podcasts.apple.com/us/genre/podcasts-sports-football/id1547?uo=2",
-            "label": "Football"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-11-09T01:00:00-07:00",
-          "attributes": {
-            "label": "November 9, 2026"
+            "label": "November 10, 2026"
           }
         }
       },
@@ -403,89 +403,9 @@
           }
         },
         "im:releaseDate": {
-          "label": "2026-11-10T02:55:00-07:00",
+          "label": "2026-11-11T02:55:00-07:00",
           "attributes": {
-            "label": "November 10, 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "Dateline NBC"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/8c/00/7a/8c007a42-e550-0214-d4cb-b59cd7edf194/mza_5305664083935674472.jpeg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/8c/00/7a/8c007a42-e550-0214-d4cb-b59cd7edf194/mza_5305664083935674472.jpeg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/8c/00/7a/8c007a42-e550-0214-d4cb-b59cd7edf194/mza_5305664083935674472.jpeg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "Current and classic episodes, featuring compelling true-crime mysteries, powerful documentaries and in-depth investigations. \n  \nFollow now to get the latest episodes of Dateline NBC completely free, or subscribe to Dateline Premium for ad-free listening and exclusive bonus content: DatelinePremium.com"
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "USD"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© 2019 NBC News"
-        },
-        "title": {
-          "label": "Dateline NBC - NBC News"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/us/podcast/dateline-nbc/id1464919521?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/us/podcast/dateline-nbc/id1464919521?uo=2",
-          "attributes": {
-            "im:id": "1464919521"
-          }
-        },
-        "im:artist": {
-          "label": "NBC News",
-          "attributes": {
-            "href": "https://podcasts.apple.com/us/artist/nbc-news/119945391?uo=2"
-          }
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1488",
-            "term": "True Crime",
-            "scheme": "https://podcasts.apple.com/us/genre/podcasts-true-crime/id1488?uo=2",
-            "label": "True Crime"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-11-10T02:00:00-07:00",
-          "attributes": {
-            "label": "November 10, 2026"
+            "label": "November 11, 2026"
           }
         }
       },
@@ -563,9 +483,9 @@
           }
         },
         "im:releaseDate": {
-          "label": "2026-11-09T02:42:00-07:00",
+          "label": "2026-11-10T02:47:00-07:00",
           "attributes": {
-            "label": "November 9, 2026"
+            "label": "November 10, 2026"
           }
         }
       },
@@ -643,560 +563,6 @@
           "label": "2026-11-09T00:00:00-07:00",
           "attributes": {
             "label": "November 9, 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "This American Life"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fd/3c/12/fd3c1215-892b-1c4d-2ff5-cfb7998c3f7c/mza_10880637376617104220.png/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fd/3c/12/fd3c1215-892b-1c4d-2ff5-cfb7998c3f7c/mza_10880637376617104220.png/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fd/3c/12/fd3c1215-892b-1c4d-2ff5-cfb7998c3f7c/mza_10880637376617104220.png/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "Each week we choose a theme. Then anything can happen. This American Life is true stories that unfold like little movies for radio. Personal stories with funny moments, big feelings, and surprising plot twists. Newsy stories that try to capture what it’s like to be alive right now. It’s the most popular weekly podcast in the world, and winner of the first ever Pulitzer Prize for a radio show or podcast. Hosted by Ira Glass and produced in collaboration with WBEZ Chicago."
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "USD"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© Copyright 1995-2026 This American Life"
-        },
-        "title": {
-          "label": "This American Life - This American Life"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/us/podcast/this-american-life/id201671138?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/us/podcast/this-american-life/id201671138?uo=2",
-          "attributes": {
-            "im:id": "201671138"
-          }
-        },
-        "im:artist": {
-          "label": "This American Life",
-          "attributes": {
-            "href": "https://podcasts.apple.com/us/artist/wbez/364380278?uo=2"
-          }
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1324",
-            "term": "Society & Culture",
-            "scheme": "https://podcasts.apple.com/us/genre/podcasts-society-culture/id1324?uo=2",
-            "label": "Society & Culture"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-11-07T22:00:00-07:00",
-          "attributes": {
-            "label": "November 7, 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "SmartLess"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b1/93/5f/b1935f9f-35be-9144-e813-626bd8dabfb4/mza_4132654708551836825.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b1/93/5f/b1935f9f-35be-9144-e813-626bd8dabfb4/mza_4132654708551836825.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b1/93/5f/b1935f9f-35be-9144-e813-626bd8dabfb4/mza_4132654708551836825.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "\"SmartLess\" with Jason Bateman, Sean Hayes, & Will Arnett is a podcast that connects and unites people from all walks of life to learn about shared experiences through thoughtful dialogue and organic hilarity. A nice surprise: in each episode of SmartLess, one of the hosts reveals his mystery guest to the other two. What ensues is a genuinely improvised and authentic conversation filled with laughter and newfound knowledge to feed the SmartLess mind.\n\nSubscribe to SiriusXM Podcasts+ to listen to new episodes of SmartLess ad-free and a whole week early. \nStart a free trial now on Apple Podcasts or by visiting siriusxm.com/podcastsplus."
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "USD"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© 2024 SmartLess LLC"
-        },
-        "title": {
-          "label": "SmartLess - Jason Bateman, Sean Hayes, Will Arnett"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/us/podcast/smartless/id1521578868?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/us/podcast/smartless/id1521578868?uo=2",
-          "attributes": {
-            "im:id": "1521578868"
-          }
-        },
-        "im:artist": {
-          "label": "Jason Bateman, Sean Hayes, Will Arnett"
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1303",
-            "term": "Comedy",
-            "scheme": "https://podcasts.apple.com/us/genre/podcasts-comedy/id1303?uo=2",
-            "label": "Comedy"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-11-16T00:01:00-07:00",
-          "attributes": {
-            "label": "November 16, 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "The Bill Simmons Podcast"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/cc/80/7a/cc807ada-eefc-d962-fb19-514a729249ce/mza_4622982796810028676.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/cc/80/7a/cc807ada-eefc-d962-fb19-514a729249ce/mza_4622982796810028676.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/cc/80/7a/cc807ada-eefc-d962-fb19-514a729249ce/mza_4622982796810028676.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "HBO and The Ringer's Bill Simmons hosts the most downloaded sports podcast of all time, with a rotating crew of celebrities, athletes, and media staples, as well as mainstays like Cousin Sal, Joe House, and a slew of other friends and family members who always happen to be suspiciously available."
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "USD"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© All rights reserved."
-        },
-        "title": {
-          "label": "The Bill Simmons Podcast - The Ringer"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/us/podcast/the-bill-simmons-podcast/id1043699613?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/us/podcast/the-bill-simmons-podcast/id1043699613?uo=2",
-          "attributes": {
-            "im:id": "1043699613"
-          }
-        },
-        "im:artist": {
-          "label": "The Ringer",
-          "attributes": {
-            "href": "https://podcasts.apple.com/us/artist/the-ringer/1043703531?uo=2"
-          }
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1545",
-            "term": "Sports",
-            "scheme": "https://podcasts.apple.com/us/genre/podcasts-sports/id1545?uo=2",
-            "label": "Sports"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-11-05T20:02:00-07:00",
-          "attributes": {
-            "label": "November 5, 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "48 Hours"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c8/4f/8f/c84f8fa2-074d-6023-7f31-9c781b80dedc/mza_7616553513239265555.jpeg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c8/4f/8f/c84f8fa2-074d-6023-7f31-9c781b80dedc/mza_7616553513239265555.jpeg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c8/4f/8f/c84f8fa2-074d-6023-7f31-9c781b80dedc/mza_7616553513239265555.jpeg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "“48 Hours” uncovers the narrative behind crime and justice cases that have left a lasting mark on society. Award-winning CBS News correspondents thoughtfully examine the complexities of each crime by transporting you to the heart of the investigation through key evidence and gripping interviews with critical figures from the case. The unmatched reporting has made a tangible difference in countless lives, leading to the exoneration of wrongly convicted individuals and the reopening — and resolution — of previously closed cold cases.Listen to a new “48 Hours” episode every Monday and then go deeper into the case on Tuesdays with the immersive “Post Mortem” series — producers and correspondents join host Anne-Marie Green to discuss key evidence, dead ends, mishaps, and stranger-than-fiction twists they faced in the field. Also available on the 48 Hours YouTube channel. Plus, every Wednesday and Thursday, we’ll revisit a classic “48 Hours” episode. Get ad-free access to 48 Hours podcasts by subscribing to 48 Hours+. Subscribe at 48HoursPodcasts.com, then listen in Apple Podcasts, Spotify, or use your private link in your favorite podcast app."
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "USD"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© 2026 CBS Broadcasting Inc. All Rights Reserved."
-        },
-        "title": {
-          "label": "48 Hours - 48 Hours"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/us/podcast/48-hours/id965818306?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/us/podcast/48-hours/id965818306?uo=2",
-          "attributes": {
-            "im:id": "965818306"
-          }
-        },
-        "im:artist": {
-          "label": "48 Hours",
-          "attributes": {
-            "href": "https://podcasts.apple.com/us/artist/cbs-news/121020699?uo=2"
-          }
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1488",
-            "term": "True Crime",
-            "scheme": "https://podcasts.apple.com/us/genre/podcasts-true-crime/id1488?uo=2",
-            "label": "True Crime"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-11-10T00:00:00-07:00",
-          "attributes": {
-            "label": "November 10, 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "The Megyn Kelly Show"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3e/9f/c1/3e9fc13c-8030-b57e-f29e-0f14dc8db10d/mza_602213930944272333.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3e/9f/c1/3e9fc13c-8030-b57e-f29e-0f14dc8db10d/mza_602213930944272333.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3e/9f/c1/3e9fc13c-8030-b57e-f29e-0f14dc8db10d/mza_602213930944272333.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "The Megyn Kelly Show is your home for open, honest and provocative conversations with the most interesting and important political, legal and cultural figures today. No BS. No agenda. And no fear."
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "USD"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© Copyright 2021 SiriusXM"
-        },
-        "title": {
-          "label": "The Megyn Kelly Show - SiriusXM"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/us/podcast/the-megyn-kelly-show/id1532976305?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/us/podcast/the-megyn-kelly-show/id1532976305?uo=2",
-          "attributes": {
-            "im:id": "1532976305"
-          }
-        },
-        "im:artist": {
-          "label": "SiriusXM"
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1530",
-            "term": "News Commentary",
-            "scheme": "https://podcasts.apple.com/us/genre/podcasts-news-news-commentary/id1530?uo=2",
-            "label": "News Commentary"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-11-10T02:30:00-07:00",
-          "attributes": {
-            "label": "November 10, 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "The Rest Is History"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/12/e4/4e/12e44e6e-f250-0621-75c4-668fda6c48a3/mza_9347628783012573828.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/12/e4/4e/12e44e6e-f250-0621-75c4-668fda6c48a3/mza_9347628783012573828.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/12/e4/4e/12e44e6e-f250-0621-75c4-668fda6c48a3/mza_9347628783012573828.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "Take a deep dive into History’s biggest moments with Tom Holland & Dominic Sandbrook.\n\n\n\nExplore the stories of History’s most brutal rulers, deadly battles, and world-changing events. From the rise and fall of the Roman Empire, the Nazi conquest of Europe, and Hitler’s evil master plan for world domination, to the French Revolution, the sinking of the Titanic, or the Norman Conquest of England in 1066, Tom and Dominic bring the past to life with gripping storytelling and expert analysis, as they unpack the high-drama moments that shaped our world.\n\n\n\nJoin The Rest Is History Club: Unlock the full experience of the show – with exclusive bonus episodes, ad-free listening, early access to every series and live show tickets, a members-only newsletter, discounted books from the show, and access to our private Discord chatroom. Sign up directly at therestishistory.com. \n\n\n\nFor more Goalhanger Podcasts, head to www.goalhanger.com."
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "USD"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© Goalhanger"
-        },
-        "title": {
-          "label": "The Rest Is History - Goalhanger"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/us/podcast/the-rest-is-history/id1537788786?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/us/podcast/the-rest-is-history/id1537788786?uo=2",
-          "attributes": {
-            "im:id": "1537788786"
-          }
-        },
-        "im:artist": {
-          "label": "Goalhanger",
-          "attributes": {
-            "href": "https://podcasts.apple.com/us/artist/goalhanger-films/1561421475?uo=2"
-          }
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1487",
-            "term": "History",
-            "scheme": "https://podcasts.apple.com/us/genre/podcasts-history/id1487?uo=2",
-            "label": "History"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-11-18T16:00:00-07:00",
-          "attributes": {
-            "label": "November 18, 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "The Bulwark Daily"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/93/4f/85/934f8542-7a14-cf77-7d0e-63604579de3c/mza_4576536635025194283.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/93/4f/85/934f8542-7a14-cf77-7d0e-63604579de3c/mza_4576536635025194283.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/93/4f/85/934f8542-7a14-cf77-7d0e-63604579de3c/mza_4576536635025194283.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "Tim Miller and guests discuss the latest political news for the flagship podcast of the Never Trump movement and the reality-based community. Every weekday we provide insightful analysis, political hot-takes, an unabashed defense of liberal democracy and long-form interviews that cut through the \"both-sides\" BS. Plus a few laughs to help you wash down the crazy.\n\nBulwark+ members can get a totally ad-free version of the show delivered right to their favorite podcast player."
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "USD"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© Bulwark Media"
-        },
-        "title": {
-          "label": "The Bulwark Daily - The Bulwark"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/us/podcast/the-bulwark-daily/id1447684472?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/us/podcast/the-bulwark-daily/id1447684472?uo=2",
-          "attributes": {
-            "im:id": "1447684472"
-          }
-        },
-        "im:artist": {
-          "label": "The Bulwark",
-          "attributes": {
-            "href": "https://podcasts.apple.com/us/artist/the-bulwark/1538033175?uo=2"
-          }
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1527",
-            "term": "Politics",
-            "scheme": "https://podcasts.apple.com/us/genre/podcasts-news-politics/id1527?uo=2",
-            "label": "Politics"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-11-06T12:32:00-07:00",
-          "attributes": {
-            "label": "November 6, 2026"
           }
         }
       },
@@ -1282,30 +648,30 @@
       },
       {
         "im:name": {
-          "label": "My Favorite Murder with Karen Kilgariff and Georgia Hardstark"
+          "label": "Good Hang with Amy Poehler"
         },
         "im:image": [
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/1b/80/b1/1b80b146-8608-f76f-97e7-7a2317549c35/mza_14115126871478479568.jpg/55x55bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/2b/94/bb/2b94bb6e-44f1-9d57-7748-b7456072806d/mza_1064202164981856225.jpg/55x55bb.png",
             "attributes": {
               "height": "55"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/1b/80/b1/1b80b146-8608-f76f-97e7-7a2317549c35/mza_14115126871478479568.jpg/60x60bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/2b/94/bb/2b94bb6e-44f1-9d57-7748-b7456072806d/mza_1064202164981856225.jpg/60x60bb.png",
             "attributes": {
               "height": "60"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/1b/80/b1/1b80b146-8608-f76f-97e7-7a2317549c35/mza_14115126871478479568.jpg/170x170bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/2b/94/bb/2b94bb6e-44f1-9d57-7748-b7456072806d/mza_1064202164981856225.jpg/170x170bb.png",
             "attributes": {
               "height": "170"
             }
           }
         ],
         "summary": {
-          "label": "My Favorite Murder is a true crime comedy podcast hosted by Karen Kilgariff and Georgia Hardstark. Each week, Karen and Georgia share compelling true crimes and hometown stories from friends and listeners. \n\nSince MFM launched in January of 2016, Karen and Georgia have shared their lifelong interest in true crime and have covered stories of infamous serial killers like the Night Stalker, mysterious cold cases, captivating cults, incredible survivor stories and important events from history like the Tulsa race massacre of 1921.  \n\nMy Favorite Murder is part of the Exactly Right podcast network that provides a platform for bold, creative voices to bring to life provocative, entertaining and relatable stories for audiences everywhere. The Exactly Right roster of podcasts covers a variety of topics including historic true crime, comedic interviews and news, science, pop culture and more. Podcasts on the network include Buried Bones with Kate Winkler Dawson and Paul Holes, That's Messed Up: An SVU Podcast, This Podcast Will Kill You, Bananas and more."
+          "label": "Come hang with Amy Poehler. Each week on her podcast, she'll welcome celebrities and fun people to her studio. They'll share stories about their careers, mutual friends, shared enthusiasms, and most importantly, what's been making them laugh. This podcast is not about trying to make you better or giving advice. Amy just wants to have a good time."
         },
         "im:price": {
           "label": "Get",
@@ -1321,42 +687,356 @@
           }
         },
         "rights": {
-          "label": "2026 HeartMedia, Inc. © Any use of this intellectual property for text and data mining or computational analysis including as training material for artificial intelligence systems is strictly prohibited without express written consent from iHeartMedia"
+          "label": "© All rights reserved."
         },
         "title": {
-          "label": "My Favorite Murder with Karen Kilgariff and Georgia Hardstark - Exactly Right and iHeartPodcasts"
+          "label": "Good Hang with Amy Poehler - The Ringer"
         },
         "link": {
           "attributes": {
             "rel": "alternate",
             "type": "text/html",
-            "href": "https://podcasts.apple.com/us/podcast/my-favorite-murder-with-karen-kilgariff-and/id1074507850?uo=2"
+            "href": "https://podcasts.apple.com/us/podcast/good-hang-with-amy-poehler/id1795483480?uo=2"
           }
         },
         "id": {
-          "label": "https://podcasts.apple.com/us/podcast/my-favorite-murder-with-karen-kilgariff-and/id1074507850?uo=2",
+          "label": "https://podcasts.apple.com/us/podcast/good-hang-with-amy-poehler/id1795483480?uo=2",
           "attributes": {
-            "im:id": "1074507850"
+            "im:id": "1795483480"
           }
         },
         "im:artist": {
-          "label": "Exactly Right and iHeartPodcasts",
+          "label": "The Ringer"
+        },
+        "category": {
           "attributes": {
-            "href": "https://podcasts.apple.com/us/artist/exactly-right/1445321651?uo=2"
+            "im:id": "1303",
+            "term": "Comedy",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-comedy/id1303?uo=2",
+            "label": "Comedy"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-11-03T03:00:00-07:00",
+          "attributes": {
+            "label": "November 3, 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "The Megyn Kelly Show"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3e/9f/c1/3e9fc13c-8030-b57e-f29e-0f14dc8db10d/mza_602213930944272333.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3e/9f/c1/3e9fc13c-8030-b57e-f29e-0f14dc8db10d/mza_602213930944272333.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3e/9f/c1/3e9fc13c-8030-b57e-f29e-0f14dc8db10d/mza_602213930944272333.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "The Megyn Kelly Show is your home for open, honest and provocative conversations with the most interesting and important political, legal and cultural figures today. No BS. No agenda. And no fear."
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© Copyright 2021 SiriusXM"
+        },
+        "title": {
+          "label": "The Megyn Kelly Show - SiriusXM"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/us/podcast/the-megyn-kelly-show/id1532976305?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/us/podcast/the-megyn-kelly-show/id1532976305?uo=2",
+          "attributes": {
+            "im:id": "1532976305"
+          }
+        },
+        "im:artist": {
+          "label": "SiriusXM"
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1530",
+            "term": "News Commentary",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-news-news-commentary/id1530?uo=2",
+            "label": "News Commentary"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-11-10T11:52:00-07:00",
+          "attributes": {
+            "label": "November 10, 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "Pardon My Take"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/35/74/6a/35746a0c-7687-7dde-ff04-338d93e78303/mza_10377078556009223546.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/35/74/6a/35746a0c-7687-7dde-ff04-338d93e78303/mza_10377078556009223546.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/35/74/6a/35746a0c-7687-7dde-ff04-338d93e78303/mza_10377078556009223546.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "On \"Pardon My Take,\" Big Cat & PFT Commenter deliver the loudest and most correct sports takes in the history of the spoken word. Daily topics, guests, and an inability to tell what the hosts might be doing will make this your new favorite sports talk show. This is a podcast that will without a doubt change your life for the better- guaranteed, or your money back. *Pretend a reggaeton air horn is going off right now* PMT.\n\n\nYou can find every episode of this show on Apple Podcasts, Spotify or Netflix. Prime Members can listen ad-free on Amazon Music. For more, visit barstool.link/pardon-my-take"
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© 2026 Barstool Sports, Inc."
+        },
+        "title": {
+          "label": "Pardon My Take - Barstool Sports"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/us/podcast/pardon-my-take/id1089022756?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/us/podcast/pardon-my-take/id1089022756?uo=2",
+          "attributes": {
+            "im:id": "1089022756"
+          }
+        },
+        "im:artist": {
+          "label": "Barstool Sports",
+          "attributes": {
+            "href": "https://podcasts.apple.com/us/artist/barstool-sports/1524874689?uo=2"
           }
         },
         "category": {
           "attributes": {
-            "im:id": "1488",
-            "term": "True Crime",
-            "scheme": "https://podcasts.apple.com/us/genre/podcasts-true-crime/id1488?uo=2",
-            "label": "True Crime"
+            "im:id": "1547",
+            "term": "Football",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-sports-football/id1547?uo=2",
+            "label": "Football"
           }
         },
         "im:releaseDate": {
-          "label": "2026-11-05T00:01:00-07:00",
+          "label": "2026-11-09T01:00:00-07:00",
           "attributes": {
-            "label": "November 5, 2026"
+            "label": "November 9, 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "The Bill Simmons Podcast"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/cc/80/7a/cc807ada-eefc-d962-fb19-514a729249ce/mza_4622982796810028676.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/cc/80/7a/cc807ada-eefc-d962-fb19-514a729249ce/mza_4622982796810028676.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/cc/80/7a/cc807ada-eefc-d962-fb19-514a729249ce/mza_4622982796810028676.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "HBO and The Ringer's Bill Simmons hosts the most downloaded sports podcast of all time, with a rotating crew of celebrities, athletes, and media staples, as well as mainstays like Cousin Sal, Joe House, and a slew of other friends and family members who always happen to be suspiciously available."
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© All rights reserved."
+        },
+        "title": {
+          "label": "The Bill Simmons Podcast - The Ringer"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/us/podcast/the-bill-simmons-podcast/id1043699613?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/us/podcast/the-bill-simmons-podcast/id1043699613?uo=2",
+          "attributes": {
+            "im:id": "1043699613"
+          }
+        },
+        "im:artist": {
+          "label": "The Ringer",
+          "attributes": {
+            "href": "https://podcasts.apple.com/us/artist/the-ringer/1043703531?uo=2"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1545",
+            "term": "Sports",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-sports/id1545?uo=2",
+            "label": "Sports"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-11-09T00:52:00-07:00",
+          "attributes": {
+            "label": "November 9, 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "The Bulwark Daily"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/93/4f/85/934f8542-7a14-cf77-7d0e-63604579de3c/mza_4576536635025194283.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/93/4f/85/934f8542-7a14-cf77-7d0e-63604579de3c/mza_4576536635025194283.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/93/4f/85/934f8542-7a14-cf77-7d0e-63604579de3c/mza_4576536635025194283.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "Tim Miller and guests discuss the latest political news for the flagship podcast of the Never Trump movement and the reality-based community. Every weekday we provide insightful analysis, political hot-takes, an unabashed defense of liberal democracy and long-form interviews that cut through the \"both-sides\" BS. Plus a few laughs to help you wash down the crazy.\n\nBulwark+ members can get a totally ad-free version of the show delivered right to their favorite podcast player."
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© Bulwark Media"
+        },
+        "title": {
+          "label": "The Bulwark Daily - The Bulwark"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/us/podcast/the-bulwark-daily/id1447684472?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/us/podcast/the-bulwark-daily/id1447684472?uo=2",
+          "attributes": {
+            "im:id": "1447684472"
+          }
+        },
+        "im:artist": {
+          "label": "The Bulwark",
+          "attributes": {
+            "href": "https://podcasts.apple.com/us/artist/the-bulwark/1538033175?uo=2"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1527",
+            "term": "Politics",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-news-politics/id1527?uo=2",
+            "label": "Politics"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-11-10T12:00:00-07:00",
+          "attributes": {
+            "label": "November 10, 2026"
           }
         }
       },
@@ -1431,38 +1111,38 @@
           }
         },
         "im:releaseDate": {
-          "label": "2026-11-06T08:33:00-07:00",
+          "label": "2026-11-10T10:22:00-07:00",
           "attributes": {
-            "label": "November 6, 2026"
+            "label": "November 10, 2026"
           }
         }
       },
       {
         "im:name": {
-          "label": "The MeidasTouch Podcast"
+          "label": "SmartLess"
         },
         "im:image": [
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/73/32/80/733280d2-330a-2f24-c600-bc1088f9f899/mza_17833502176263457882.jpeg/55x55bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b1/93/5f/b1935f9f-35be-9144-e813-626bd8dabfb4/mza_4132654708551836825.jpg/55x55bb.png",
             "attributes": {
               "height": "55"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/73/32/80/733280d2-330a-2f24-c600-bc1088f9f899/mza_17833502176263457882.jpeg/60x60bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b1/93/5f/b1935f9f-35be-9144-e813-626bd8dabfb4/mza_4132654708551836825.jpg/60x60bb.png",
             "attributes": {
               "height": "60"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/73/32/80/733280d2-330a-2f24-c600-bc1088f9f899/mza_17833502176263457882.jpeg/170x170bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b1/93/5f/b1935f9f-35be-9144-e813-626bd8dabfb4/mza_4132654708551836825.jpg/170x170bb.png",
             "attributes": {
               "height": "170"
             }
           }
         ],
         "summary": {
-          "label": "Ben, Brett and Jordy Meiselas are three brothers with very unique backgrounds! Ben is a top lawyer and Colin Kaepernick’s business partner. Brett is a two-time Emmy award winning video editor from the world of film and television. Jordy, the fan favorite, was an award-winning advertising executive in New York. The brothers' unique approach at covering news by combining hilarious brother banter with an unapologetic support of democracy has earned them millions of supporters in America and across the globe and made them social media icons. The MeidasTouch Podcast combines brotherly love, comedy, news coverage, and deep discussions about supporting our democracy and is the go-to destination for top political leaders who view the podcast as a pivotal stop for their interviews. Join the Meiselas brothers and their loyal following — the self-described MeidasMighty — with new episodes featuring all three brothers released every Tuesday and Friday morning, and breaking news updates every single day! Catch the MeidasTouch Podcast with the brothers LIVE on video every Monday and Thursday night at 8p ET/5p PT on the MeidasTouch YouTube channel!"
+          "label": "\"SmartLess\" with Jason Bateman, Sean Hayes, & Will Arnett is a podcast that connects and unites people from all walks of life to learn about shared experiences through thoughtful dialogue and organic hilarity. A nice surprise: in each episode of SmartLess, one of the hosts reveals his mystery guest to the other two. What ensues is a genuinely improvised and authentic conversation filled with laughter and newfound knowledge to feed the SmartLess mind.\n\nSubscribe to SiriusXM Podcasts+ to listen to new episodes of SmartLess ad-free and a whole week early. \nStart a free trial now on Apple Podcasts or by visiting siriusxm.com/podcastsplus."
         },
         "im:price": {
           "label": "Get",
@@ -1478,37 +1158,671 @@
           }
         },
         "rights": {
-          "label": "© 2026 Meidas Media Network LLC"
+          "label": "© 2024 SmartLess LLC"
         },
         "title": {
-          "label": "The MeidasTouch Podcast - MeidasTouch Network"
+          "label": "SmartLess - Jason Bateman, Sean Hayes, Will Arnett"
         },
         "link": {
           "attributes": {
             "rel": "alternate",
             "type": "text/html",
-            "href": "https://podcasts.apple.com/us/podcast/the-meidastouch-podcast/id1510240831?uo=2"
+            "href": "https://podcasts.apple.com/us/podcast/smartless/id1521578868?uo=2"
           }
         },
         "id": {
-          "label": "https://podcasts.apple.com/us/podcast/the-meidastouch-podcast/id1510240831?uo=2",
+          "label": "https://podcasts.apple.com/us/podcast/smartless/id1521578868?uo=2",
           "attributes": {
-            "im:id": "1510240831"
+            "im:id": "1521578868"
           }
         },
         "im:artist": {
-          "label": "MeidasTouch Network"
+          "label": "Jason Bateman, Sean Hayes, Will Arnett"
         },
         "category": {
           "attributes": {
-            "im:id": "1489",
-            "term": "News",
-            "scheme": "https://podcasts.apple.com/us/genre/podcasts-news/id1489?uo=2",
-            "label": "News"
+            "im:id": "1303",
+            "term": "Comedy",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-comedy/id1303?uo=2",
+            "label": "Comedy"
           }
         },
         "im:releaseDate": {
-          "label": "2026-11-10T01:49:00-07:00",
+          "label": "2026-11-16T00:01:00-07:00",
+          "attributes": {
+            "label": "November 16, 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "48 Hours"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c8/4f/8f/c84f8fa2-074d-6023-7f31-9c781b80dedc/mza_7616553513239265555.jpeg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c8/4f/8f/c84f8fa2-074d-6023-7f31-9c781b80dedc/mza_7616553513239265555.jpeg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c8/4f/8f/c84f8fa2-074d-6023-7f31-9c781b80dedc/mza_7616553513239265555.jpeg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "“48 Hours” uncovers the narrative behind crime and justice cases that have left a lasting mark on society. Award-winning CBS News correspondents thoughtfully examine the complexities of each crime by transporting you to the heart of the investigation through key evidence and gripping interviews with critical figures from the case. The unmatched reporting has made a tangible difference in countless lives, leading to the exoneration of wrongly convicted individuals and the reopening — and resolution — of previously closed cold cases.Listen to a new “48 Hours” episode every Monday and then go deeper into the case on Tuesdays with the immersive “Post Mortem” series — producers and correspondents join host Anne-Marie Green to discuss key evidence, dead ends, mishaps, and stranger-than-fiction twists they faced in the field. Also available on the 48 Hours YouTube channel. Plus, every Wednesday and Thursday, we’ll revisit a classic “48 Hours” episode. Get ad-free access to 48 Hours podcasts by subscribing to 48 Hours+. Subscribe at 48HoursPodcasts.com, then listen in Apple Podcasts, Spotify, or use your private link in your favorite podcast app."
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© 2026 CBS Broadcasting Inc. All Rights Reserved."
+        },
+        "title": {
+          "label": "48 Hours - 48 Hours"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/us/podcast/48-hours/id965818306?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/us/podcast/48-hours/id965818306?uo=2",
+          "attributes": {
+            "im:id": "965818306"
+          }
+        },
+        "im:artist": {
+          "label": "48 Hours",
+          "attributes": {
+            "href": "https://podcasts.apple.com/us/artist/cbs-news/121020699?uo=2"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1488",
+            "term": "True Crime",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-true-crime/id1488?uo=2",
+            "label": "True Crime"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-11-11T00:01:00-07:00",
+          "attributes": {
+            "label": "November 11, 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "Pivot"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/13/22/39/1322397a-976e-3c8f-7764-91cc38d0dd70/mza_12130189257448841692.jpeg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/13/22/39/1322397a-976e-3c8f-7764-91cc38d0dd70/mza_12130189257448841692.jpeg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/13/22/39/1322397a-976e-3c8f-7764-91cc38d0dd70/mza_12130189257448841692.jpeg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "With great power, comes great scrutiny. Every Tuesday and Friday, journalist Kara Swisher and NYU Professor Scott Galloway offer sharp, unfiltered insights into the biggest stories in tech, business, and politics. They make bold predictions, pick winners and losers, and bicker and banter like no one else. From New York Magazine and the Vox Media Podcast Network."
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© 2023 Vox Media, Inc. All Rights Reserved"
+        },
+        "title": {
+          "label": "Pivot - New York Magazine"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/us/podcast/pivot/id1073226719?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/us/podcast/pivot/id1073226719?uo=2",
+          "attributes": {
+            "im:id": "1073226719"
+          }
+        },
+        "im:artist": {
+          "label": "New York Magazine",
+          "attributes": {
+            "href": "https://podcasts.apple.com/us/artist/recode/1439216407?uo=2"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1530",
+            "term": "News Commentary",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-news-news-commentary/id1530?uo=2",
+            "label": "News Commentary"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-11-10T03:00:00-07:00",
+          "attributes": {
+            "label": "November 10, 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "This American Life"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5b/e4/1d/5be41d7a-62dd-cf5d-e0f2-34c922cf1192/mza_11063793377242625796.png/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5b/e4/1d/5be41d7a-62dd-cf5d-e0f2-34c922cf1192/mza_11063793377242625796.png/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5b/e4/1d/5be41d7a-62dd-cf5d-e0f2-34c922cf1192/mza_11063793377242625796.png/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "Each week we choose a theme. Then anything can happen. This American Life is true stories that unfold like little movies for radio. Personal stories with funny moments, big feelings, and surprising plot twists. Newsy stories that try to capture what it’s like to be alive right now. It’s the most popular weekly podcast in the world, and winner of the first ever Pulitzer Prize for a radio show or podcast. Hosted by Ira Glass and produced in collaboration with WBEZ Chicago."
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© Copyright 1995-2026 This American Life"
+        },
+        "title": {
+          "label": "This American Life - This American Life"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/us/podcast/this-american-life/id201671138?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/us/podcast/this-american-life/id201671138?uo=2",
+          "attributes": {
+            "im:id": "201671138"
+          }
+        },
+        "im:artist": {
+          "label": "This American Life",
+          "attributes": {
+            "href": "https://podcasts.apple.com/us/artist/wbez/364380278?uo=2"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1324",
+            "term": "Society & Culture",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-society-culture/id1324?uo=2",
+            "label": "Society & Culture"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-11-08T17:00:00-07:00",
+          "attributes": {
+            "label": "November 8, 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "The Rest Is History"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/12/e4/4e/12e44e6e-f250-0621-75c4-668fda6c48a3/mza_9347628783012573828.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/12/e4/4e/12e44e6e-f250-0621-75c4-668fda6c48a3/mza_9347628783012573828.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/12/e4/4e/12e44e6e-f250-0621-75c4-668fda6c48a3/mza_9347628783012573828.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "Take a deep dive into History’s biggest moments with Tom Holland & Dominic Sandbrook.\n\n\n\nExplore the stories of History’s most brutal rulers, deadly battles, and world-changing events. From the rise and fall of the Roman Empire, the Nazi conquest of Europe, and Hitler’s evil master plan for world domination, to the French Revolution, the sinking of the Titanic, or the Norman Conquest of England in 1066, Tom and Dominic bring the past to life with gripping storytelling and expert analysis, as they unpack the high-drama moments that shaped our world.\n\n\n\nJoin The Rest Is History Club: Unlock the full experience of the show – with exclusive bonus episodes, ad-free listening, early access to every series and live show tickets, a members-only newsletter, discounted books from the show, and access to our private Discord chatroom. Sign up directly at therestishistory.com. \n\n\n\nFor more Goalhanger Podcasts, head to www.goalhanger.com."
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© Goalhanger"
+        },
+        "title": {
+          "label": "The Rest Is History - Goalhanger"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/us/podcast/the-rest-is-history/id1537788786?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/us/podcast/the-rest-is-history/id1537788786?uo=2",
+          "attributes": {
+            "im:id": "1537788786"
+          }
+        },
+        "im:artist": {
+          "label": "Goalhanger",
+          "attributes": {
+            "href": "https://podcasts.apple.com/us/artist/goalhanger-films/1561421475?uo=2"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1487",
+            "term": "History",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-history/id1487?uo=2",
+            "label": "History"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-11-18T16:00:00-07:00",
+          "attributes": {
+            "label": "November 18, 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "Giggly Squad"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e8/09/a6/e809a65d-03c3-82ce-383b-5586f49acc5b/mza_10887220202918113929.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e8/09/a6/e809a65d-03c3-82ce-383b-5586f49acc5b/mza_10887220202918113929.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e8/09/a6/e809a65d-03c3-82ce-383b-5586f49acc5b/mza_10887220202918113929.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "Welcome to Giggly Squad. Each week, Hannah Berner and Paige DeSorbo make fun of everything, but most importantly themselves. They discuss pop culture, fashion trends, television, horoscopes, mental health, dating, and expose their personal lives. Also, they can't be managed.\n\nSubscribe to SiriusXM Podcasts+ to listen to new episodes of Giggly Squad ad-free. Start a free trial now on Apple Podcasts or by visiting siriusxm.com/podcastsplus."
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© SiriusXM"
+        },
+        "title": {
+          "label": "Giggly Squad - Hannah Berner & Paige DeSorbo"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/us/podcast/giggly-squad/id1536352412?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/us/podcast/giggly-squad/id1536352412?uo=2",
+          "attributes": {
+            "im:id": "1536352412"
+          }
+        },
+        "im:artist": {
+          "label": "Hannah Berner & Paige DeSorbo"
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1303",
+            "term": "Comedy",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-comedy/id1303?uo=2",
+            "label": "Comedy"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-11-06T11:26:00-07:00",
+          "attributes": {
+            "label": "November 6, 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "The Dan Le Batard Show"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/57/d7/d9/57d7d9e0-cf27-7928-0650-578623e80c29/mza_14930160221470262963.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/57/d7/d9/57d7d9e0-cf27-7928-0650-578623e80c29/mza_14930160221470262963.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/57/d7/d9/57d7d9e0-cf27-7928-0650-578623e80c29/mza_14930160221470262963.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "Live from the Elser Hotel in Downtown Miami, Dan Le Batard and company share their unique perspectives on all things sports, pop culture, and more. This is the place for original content from Le Batard's daily 3-hour live show, including the daily “Local Hour,” generally focusing on the South Florida scene and a few more surprises along the way."
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© 2024"
+        },
+        "title": {
+          "label": "The Dan Le Batard Show - Dan Le Batard"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/us/podcast/the-dan-le-batard-show/id934820588?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/us/podcast/the-dan-le-batard-show/id934820588?uo=2",
+          "attributes": {
+            "im:id": "934820588"
+          }
+        },
+        "im:artist": {
+          "label": "Dan Le Batard"
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1545",
+            "term": "Sports",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-sports/id1545?uo=2",
+            "label": "Sports"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-11-10T09:40:00-07:00",
+          "attributes": {
+            "label": "November 10, 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "Stuff You Should Know"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/aa/82/91/aa82912f-23ee-6f6a-583c-a4e993164d0e/mza_12111158076643383507.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/aa/82/91/aa82912f-23ee-6f6a-583c-a4e993164d0e/mza_12111158076643383507.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/aa/82/91/aa82912f-23ee-6f6a-583c-a4e993164d0e/mza_12111158076643383507.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "If you've ever wanted to know about champagne, satanism, the Stonewall Uprising, chaos theory, LSD, El Nino, true crime and Rosa Parks, then look no further. Josh and Chuck have you covered."
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "2026 iHeartMedia, Inc. © Any use of this intellectual property for text and data mining or computational analysis including as training material for artificial intelligence systems is strictly prohibited without express written consent from iHeartMedia"
+        },
+        "title": {
+          "label": "Stuff You Should Know - iHeartPodcasts"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/us/podcast/stuff-you-should-know/id278981407?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/us/podcast/stuff-you-should-know/id278981407?uo=2",
+          "attributes": {
+            "im:id": "278981407"
+          }
+        },
+        "im:artist": {
+          "label": "iHeartPodcasts",
+          "attributes": {
+            "href": "https://podcasts.apple.com/us/artist/iheartradio/284341002?uo=2"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1324",
+            "term": "Society & Culture",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-society-culture/id1324?uo=2",
+            "label": "Society & Culture"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-11-10T02:00:00-07:00",
+          "attributes": {
+            "label": "November 10, 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "Fantasy Footballers - Fantasy Football Podcast"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e0/f6/ed/e0f6edb8-b352-1dd1-1836-c77fdf5c6f17/mza_1578365354745278550.jpeg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e0/f6/ed/e0f6edb8-b352-1dd1-1836-c77fdf5c6f17/mza_1578365354745278550.jpeg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e0/f6/ed/e0f6edb8-b352-1dd1-1836-c77fdf5c6f17/mza_1578365354745278550.jpeg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "Fantasy Football at its very best. Say goodbye to the talking heads of the Fantasy Football world and hello to The Fantasy Footballers. The expert trio of Andy Holloway, Jason Moore, and Mike \"The Fantasy Hitman\" Wright break down the world of Fantasy Football with astute analysis, strong opinions, and matchup-winning advice you can't get anywhere else. A high-quality and entertaining show that will win you your league -- in style. The ONE Fantasy Football Podcast you can't leave off your roster."
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© 2014-2025 Engaging Media LLC, The Fantasy Footballers"
+        },
+        "title": {
+          "label": "Fantasy Footballers - Fantasy Football Podcast - Fantasy Football"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/us/podcast/fantasy-footballers-fantasy-football-podcast/id917453719?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/us/podcast/fantasy-footballers-fantasy-football-podcast/id917453719?uo=2",
+          "attributes": {
+            "im:id": "917453719"
+          }
+        },
+        "im:artist": {
+          "label": "Fantasy Football",
+          "attributes": {
+            "href": "https://podcasts.apple.com/us/artist/fantasy-football/1543815842?uo=2"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1560",
+            "term": "Fantasy Sports",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-sports-fantasy-sports/id1560?uo=2",
+            "label": "Fantasy Sports"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-11-10T09:43:00-07:00",
           "attributes": {
             "label": "November 10, 2026"
           }
@@ -1593,243 +1907,6 @@
       },
       {
         "im:name": {
-          "label": "Armchair Expert with Dax Shepard"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f0/13/8f/f0138f4b-8bc3-0a64-2c11-ef566840f60f/mza_3062409012210474882.jpeg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f0/13/8f/f0138f4b-8bc3-0a64-2c11-ef566840f60f/mza_3062409012210474882.jpeg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f0/13/8f/f0138f4b-8bc3-0a64-2c11-ef566840f60f/mza_3062409012210474882.jpeg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "Hi, I’m Dax Shepard, and I love talking to people. I am endlessly fascinated by the messiness of being human, and I find people who are vulnerable and honest about their struggles and shortcomings to be incredibly sexy. I invite you to join me as I explore other people’s stories. We will celebrate, above all, the challenges and setbacks that ultimately lead to growth and betterment. What qualifies me for such an endeavor? More than a decade of sobriety, a degree in Anthropology and four years of improv training. I will attempt to discover human “truths” without any laboratory work, clinical trials or data collection. I will be, in the great tradition of 16th-century scientists, an Armchair Expert."
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "USD"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© © 2020 Armchair Expert Podcast"
-        },
-        "title": {
-          "label": "Armchair Expert with Dax Shepard - Armchair Umbrella"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/us/podcast/armchair-expert-with-dax-shepard/id1345682353?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/us/podcast/armchair-expert-with-dax-shepard/id1345682353?uo=2",
-          "attributes": {
-            "im:id": "1345682353"
-          }
-        },
-        "im:artist": {
-          "label": "Armchair Umbrella",
-          "attributes": {
-            "href": "https://podcasts.apple.com/us/artist/armchair-umbrella/1440160896?uo=2"
-          }
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1303",
-            "term": "Comedy",
-            "scheme": "https://podcasts.apple.com/us/genre/podcasts-comedy/id1303?uo=2",
-            "label": "Comedy"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-11-09T00:30:00-07:00",
-          "attributes": {
-            "label": "November 9, 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "MrBallen Podcast: Strange, Dark & Mysterious Stories"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a5/9c/8a/a59c8a0a-0cb2-9862-e0d6-7b5ee4e9e157/mza_12554888833857337425.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a5/9c/8a/a59c8a0a-0cb2-9862-e0d6-7b5ee4e9e157/mza_12554888833857337425.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a5/9c/8a/a59c8a0a-0cb2-9862-e0d6-7b5ee4e9e157/mza_12554888833857337425.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "MrBallen Podcast: Strange, Dark and Mysterious Stories is a true crime and mystery podcast that presents strange, dark and mysterious content delivered in story format. The program is hosted by John Allen a.k.a. MrBallen.\n\nSubscribe to SiriusXM Podcasts+ to listen to new episodes 7-days early and ad-free. Start a free trial now on Apple Podcasts or by visiting siriusxm.com/podcastsplus."
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "USD"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© Ballen Studios"
-        },
-        "title": {
-          "label": "MrBallen Podcast: Strange, Dark & Mysterious Stories - Ballen Studios"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/us/podcast/mrballen-podcast-strange-dark-mysterious-stories/id1608813794?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/us/podcast/mrballen-podcast-strange-dark-mysterious-stories/id1608813794?uo=2",
-          "attributes": {
-            "im:id": "1608813794"
-          }
-        },
-        "im:artist": {
-          "label": "Ballen Studios"
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1488",
-            "term": "True Crime",
-            "scheme": "https://podcasts.apple.com/us/genre/podcasts-true-crime/id1488?uo=2",
-            "label": "True Crime"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-11-16T00:00:00-07:00",
-          "attributes": {
-            "label": "November 16, 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "NPR News Now"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/27/a0/ab/27a0abb7-817f-d80c-4fed-6fd04d424333/mza_16804553558295235422.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/27/a0/ab/27a0abb7-817f-d80c-4fed-6fd04d424333/mza_16804553558295235422.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/27/a0/ab/27a0abb7-817f-d80c-4fed-6fd04d424333/mza_16804553558295235422.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "The latest news in five minutes. Updated hourly. Support public media by joining NPR+ at plus.npr.org. You’ll get perks for over 25 NPR podcasts, including sponsor-free listening for NPR News Now, UP First, and more."
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "USD"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© Copyright 2007-2026 NPR - For Personal Use Only"
-        },
-        "title": {
-          "label": "NPR News Now - NPR"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/us/podcast/npr-news-now/id121493675?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/us/podcast/npr-news-now/id121493675?uo=2",
-          "attributes": {
-            "im:id": "121493675"
-          }
-        },
-        "im:artist": {
-          "label": "NPR",
-          "attributes": {
-            "href": "https://podcasts.apple.com/us/artist/npr/125443881?uo=2"
-          }
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1526",
-            "term": "Daily News",
-            "scheme": "https://podcasts.apple.com/us/genre/podcasts-news-daily-news/id1526?uo=2",
-            "label": "Daily News"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-11-10T06:09:00-07:00",
-          "attributes": {
-            "label": "November 10, 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
           "label": "The Bible in a Year (with Fr. Mike Schmitz)"
         },
         "im:image": [
@@ -1902,95 +1979,15 @@
           }
         },
         "im:releaseDate": {
-          "label": "2026-11-09T00:15:00-07:00",
+          "label": "2026-11-11T00:15:00-07:00",
           "attributes": {
-            "label": "November 9, 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "Stuff You Should Know"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/aa/82/91/aa82912f-23ee-6f6a-583c-a4e993164d0e/mza_12111158076643383507.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/aa/82/91/aa82912f-23ee-6f6a-583c-a4e993164d0e/mza_12111158076643383507.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/aa/82/91/aa82912f-23ee-6f6a-583c-a4e993164d0e/mza_12111158076643383507.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "If you've ever wanted to know about champagne, satanism, the Stonewall Uprising, chaos theory, LSD, El Nino, true crime and Rosa Parks, then look no further. Josh and Chuck have you covered."
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "USD"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "2026 iHeartMedia, Inc. © Any use of this intellectual property for text and data mining or computational analysis including as training material for artificial intelligence systems is strictly prohibited without express written consent from iHeartMedia"
-        },
-        "title": {
-          "label": "Stuff You Should Know - iHeartPodcasts"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/us/podcast/stuff-you-should-know/id278981407?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/us/podcast/stuff-you-should-know/id278981407?uo=2",
-          "attributes": {
-            "im:id": "278981407"
-          }
-        },
-        "im:artist": {
-          "label": "iHeartPodcasts",
-          "attributes": {
-            "href": "https://podcasts.apple.com/us/artist/iheartradio/284341002?uo=2"
-          }
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1324",
-            "term": "Society & Culture",
-            "scheme": "https://podcasts.apple.com/us/genre/podcasts-society-culture/id1324?uo=2",
-            "label": "Society & Culture"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-11-10T02:00:00-07:00",
-          "attributes": {
-            "label": "November 10, 2026"
+            "label": "November 11, 2026"
           }
         }
       }
     ],
     "updated": {
-      "label": "2026-11-10T06:41:59-07:00"
+      "label": "2026-11-11T05:57:09-07:00"
     },
     "rights": {
       "label": "Copyright 2008 Apple Inc."
