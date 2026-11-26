@@ -3,6 +3,14 @@
   "country": "GB",
   "count": 25,
   "lookups": {
+    "188674007": {
+      "itunesId": "188674007",
+      "title": "Football Weekly",
+      "author": "The Guardian",
+      "feedUrl": "https://www.theguardian.com/football/series/footballweekly/podcast.xml",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/13/3b/31/133b319e-f63e-e834-14c0-365b5b5b164f/mza_1139718417983416843.jpg/600x600bb.jpg",
+      "genre": "Soccer"
+    },
     "360084272": {
       "itunesId": "360084272",
       "title": "The Joe Rogan Experience",
@@ -18,14 +26,6 @@
       "feedUrl": "https://audioboom.com/channels/2399216.rss",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6f/9b/4c/6f9b4c39-3c1a-d7c7-9264-b0ed14579e08/mza_7947053701740283670.png/600x600bb.jpg",
       "genre": "Comedy"
-    },
-    "973958702": {
-      "itunesId": "973958702",
-      "title": "Page 94: The Private Eye Podcast",
-      "author": "Page 94: The Private Eye Podcast",
-      "feedUrl": "https://audioboom.com/channels/5112392.rss",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/0d/00/af/0d00afce-b6ea-e572-a7bf-8ffee0d5facd/mza_2409410119917680445.png/600x600bb.jpg",
-      "genre": "News"
     },
     "1197440162": {
       "itunesId": "1197440162",
@@ -83,12 +83,12 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/be/b7/5c/beb75c86-9128-5709-5541-80b6c3cc6ed9/mza_18366239786920109178.jpeg/600x600bb.jpg",
       "genre": "Comedy"
     },
-    "1465290044": {
-      "itunesId": "1465290044",
-      "title": "Elis James and John Robins",
-      "author": "Significant Productions",
-      "feedUrl": "https://feeds.acast.com/public/shows/698b89c05e0cb52f15bcde20",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9e/74/87/9e748733-bf14-47ef-9000-aa64fa709a3e/mza_9331812427600364864.jpeg/600x600bb.jpg",
+    "1496019465": {
+      "itunesId": "1496019465",
+      "title": "LuAnna: The Podcast",
+      "author": "Global",
+      "feedUrl": "https://feeds.captivate.fm/luanna-the-podcast/",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6b/5e/d4/6b5ed42e-333d-3631-aae7-2df9d71669b6/mza_12211986478951138816.jpg/600x600bb.jpg",
       "genre": "Comedy"
     },
     "1510251497": {
@@ -107,14 +107,6 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/12/e4/4e/12e44e6e-f250-0621-75c4-668fda6c48a3/mza_9347628783012573828.jpg/600x600bb.jpg",
       "genre": "History"
     },
-    "1540826523": {
-      "itunesId": "1540826523",
-      "title": "Wolf & Owl with Romesh Ranganathan and Tom Davis",
-      "author": "Ranga Bee & Platform Media",
-      "feedUrl": "https://feeds.megaphone.fm/GLT9487939818",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d6/61/05/d66105ec-27da-f023-684b-585c462bf938/mza_13555541829995193084.jpg/600x600bb.jpg",
-      "genre": "Comedy"
-    },
     "1560176558": {
       "itunesId": "1560176558",
       "title": "My Therapist Ghosted Me",
@@ -122,14 +114,6 @@
       "feedUrl": "https://feeds.captivate.fm/my-therapist-ghosted-me/",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0a/1e/bf/0a1ebffd-4c87-09f6-0bf5-d76b0753348e/mza_16449583591087722250.jpg/600x600bb.jpg",
       "genre": "Comedy"
-    },
-    "1589938734": {
-      "itunesId": "1589938734",
-      "title": "Uncanny",
-      "author": "BBC Radio 4",
-      "feedUrl": "https://podcasts.files.bbci.co.uk/m0010x7c.rss",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/48/7e/55/487e5514-62fe-1d3b-3d7a-ad918834ce20/mza_6983228680141619279.jpg/600x600bb.jpg",
-      "genre": "Documentary"
     },
     "1611374685": {
       "itunesId": "1611374685",
@@ -163,12 +147,20 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/8b/46/c5/8b46c572-7ac6-5765-a68d-44f527db2294/mza_5546825376674359615.jpeg/600x600bb.jpg",
       "genre": "Entertainment News"
     },
-    "1701022490": {
-      "itunesId": "1701022490",
-      "title": "The Rest Is Football",
-      "author": "Goalhanger",
-      "feedUrl": "https://feeds.megaphone.fm/GLT8847082992",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a6/35/aa/a635aa3c-4660-a910-81e5-48e07145cf76/mza_5775495299079354227.jpg/600x600bb.jpg",
+    "1692381473": {
+      "itunesId": "1692381473",
+      "title": "The News Agents - USA",
+      "author": "Global",
+      "feedUrl": "https://feeds.captivate.fm/the-news-agents-usa-podcast/",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/12/95/ff/1295ff4e-53a0-cb0f-79f8-d893bbc6858c/mza_1265066929015263753.jpg/600x600bb.jpg",
+      "genre": "Politics"
+    },
+    "1709142395": {
+      "itunesId": "1709142395",
+      "title": "Stick to Football",
+      "author": "The Overlap",
+      "feedUrl": "https://feeds.acast.com/public/shows/65118b05e7b19e00113ac2c0",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/af/ad/8e/afad8eae-8ffc-d6cc-4c72-57d6f903e962/mza_2603006646942982791.jpeg/600x600bb.jpg",
       "genre": "Soccer"
     },
     "1718287198": {
@@ -194,6 +186,14 @@
       "feedUrl": "https://feeds.megaphone.fm/GLT5336643697",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9d/85/db/9d85db44-9306-6f5b-38b1-04a0c58a1b6c/mza_7487309417513137934.jpg/600x600bb.jpg",
       "genre": "Politics"
+    },
+    "1790458615": {
+      "itunesId": "1790458615",
+      "title": "Fin vs History",
+      "author": "Fin Taylor & Horatio Gould",
+      "feedUrl": "https://feeds.megaphone.fm/finvshistory",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/40/f8/0c/40f80c7c-1f0a-f19f-8540-55ec044fcda4/mza_1056870818338259022.jpeg/600x600bb.jpg",
+      "genre": "Comedy"
     },
     "1838594107": {
       "itunesId": "1838594107",
